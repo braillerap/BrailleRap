@@ -1,5 +1,5 @@
 Bienvenue sur la documentation BrailleRAP 
-============================================
+=========================================
 
 .. image :: ./IMG/brailleRAP_couv.jpg 
   :width: 400px
