@@ -7,4 +7,8 @@ est que la modif des po suffit ?
 
 
 
-/// for test
+for test only in the original .po
+
+blob
+====
+

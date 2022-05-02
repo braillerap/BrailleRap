@@ -24,7 +24,7 @@ Contenu:
    firstembossingpage
    
 
-.. index:: history, licence, bom, marlin, assemblage, testtrad, firstembossingpage
+.. index:: history, testtrad, licence, bom, marlin, assemblage, firstembossingpage
 
 
 

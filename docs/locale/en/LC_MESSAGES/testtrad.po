@@ -30,3 +30,5 @@ msgstr "is 'RTFD' handling .po files ?"
 #: ../../source/testtrad.rst:6
 msgid "est que la modif des po suffit ?"
 msgid "Yeah it work"
+
+
