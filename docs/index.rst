@@ -1,9 +1,9 @@
-.. BrailleRap-SP documentation master file, created by
+.. BrailleRap documentation master file, created by
    sphinx-quickstart on Mon Mar  5 11:31:40 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bienvenue sur la documentation BrailleRAP-SP
+Bienvenue sur la documentation BrailleRAP
 ============================================
 
 .. image :: ./IMG/brailleRAP_couv.jpg 
