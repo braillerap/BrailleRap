@@ -210,7 +210,7 @@ Matériel :
   * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
   * 1 vis sans tête M3-8
   * 1 écrou M3
-  * 2 vis M2.5-14 **Michel, on t'a mis des M2.5-14 ;)**
+  * 2 vis M2.5-14 
   * 2 écrous M2.5
 
 .. Note:: Changer l'image avec support interrupteur (nouveau modèle).
@@ -222,7 +222,7 @@ Matériel :
 
 * Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5.
 
-.. Note:: L'interrupteur fin de course est représenté non câblé mais il devra être câblé avant le montage.
+.. Note:: L'interrupteur fin de course devra être câblé avant le montage.
 
 .. image :: ./IMG/BrailleRAP-V5.58.jpg
        :align: center
