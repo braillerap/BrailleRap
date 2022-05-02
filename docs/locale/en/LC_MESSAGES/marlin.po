@@ -69,9 +69,9 @@ msgstr ""
 
 #: ../../source/marlin.rst:65
 msgid ""
-"Dans la version présente sur le github du projet BrailleRap-SP, d'autres "
+"Dans la version présente sur le github du projet BrailleRap, d'autres "
 "fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin"
 " de course de l'axe Y."
 msgstr ""
-"In the current release on BrailleRap-SP github, other files have been "
+"In the current release on BrailleRap github, other files have been "
 "modified to handle the paper sheet position with the Y end-stop."

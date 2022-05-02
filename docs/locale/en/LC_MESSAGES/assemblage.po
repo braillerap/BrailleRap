@@ -5,9 +5,9 @@ msgstr ""
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-12-28 10:31+0100\n"
 "PO-Revision-Date: 2018-12-28 12:02+0200\n"
-"Last-Translator: Stephane <braillerapsp@gmail.com>\n"
+"Last-Translator: Stephane <sgn.braillerap@gmail.com>\n"
 "Language: en\n"
-"Language-Team: braillerapsp\n"
+"Language-Team: braillerap\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -15,8 +15,8 @@ msgstr ""
 "Generated-By: Babel 2.6.0\n"
 
 #: ../../assemblage.rst:2
-msgid "Manuel de montage BrailleRAP-SP"
-msgstr "Building manual BrailleRAP-SP"
+msgid "Manuel de montage BrailleRAP"
+msgstr "Building manual BrailleRAP"
 
 #: ../../assemblage.rst:6
 msgid "Collage de la caisse en bois"
@@ -396,7 +396,7 @@ msgstr "1 M3 nuts"
 
 #: ../../assemblage.rst:213
 #, fuzzy
-msgid "2 vis M2.5-14 **Michel, on t'a mis des M2.5-14 ;)**"
+msgid "2 vis M2.5-14"
 msgstr "2  M2.5-14 screw"
 
 #: ../../assemblage.rst:214

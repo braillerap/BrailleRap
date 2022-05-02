@@ -35,10 +35,10 @@ msgstr "2 600mm x 400mm 5m plywood sheets"
 #: ../../bom.rst:8
 msgid ""
 "Les fichiers au format dxf sont disponibles ici : "
-"https://github.com/BrailleRapSP/BrailleRapSP/tree/master/lasercut"
+"https://github.com/BrailleRapSP/BrailleRap/tree/master/lasercut"
 msgstr ""
 "The dxf files are availables here : "
-"https://github.com/BrailleRapSP/BrailleRapSP/tree/master/lasercut"
+"https://github.com/BrailleRapSP/BrailleRap/tree/master/lasercut"
 
 #: ../../bom.rst:12
 msgid "Pièces imprimées"
