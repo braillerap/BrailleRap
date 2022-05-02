@@ -58,7 +58,7 @@ exclude_patterns = [
     # 'api' # needed for ``make gettext`` to not die.
 ]
 
-language = 'fr'
+language = 'fr' 
 
 locale_dirs = [
     'locale/',
