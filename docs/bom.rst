@@ -5,7 +5,7 @@ Découpe laser
 -------------
 2 planches de contreplaqué 5mm en 600mm x 400mm.
 
-Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/BrailleRapSP/tree/master/lasercut
+Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/BrailleRap/tree/master/lasercut
 
 
 Pièces imprimées
