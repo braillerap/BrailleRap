@@ -14,7 +14,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-#: ../../assemblage.rst:2
+#: ../../assemblage.rst:1
 msgid "Manuel de montage BrailleRAP"
 msgstr "Building manual BrailleRAP"
 
