@@ -19,8 +19,8 @@ msgstr ""
 "Language: en\n"
 "X-Generator: Poedit 1.8.11\n"
 
-#: ../../source/index.rst:7
-msgid "Bienvenue sur la documentation BrailleRAP"
+#: ../../source/index.rst:6
+msgid "Bienvenue sur la documentation BrailleRAP "
 msgstr "Welcome to BrailleRAP documentation"
 
 #: ../../source/index.rst:13
