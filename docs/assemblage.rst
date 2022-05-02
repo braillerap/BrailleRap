@@ -10,7 +10,7 @@ Matériel:
     * FACE (contre-plaqué de 5mm découpé au laser).
     * BACK (contre-plaqué de 5mm découpé au laser).
     * BOTTOM (contre-plaqué de 5mm découpé au laser).
-    * LEFT_SIDE (contre-plaqué de 5mm découpé au laser).
+    * LEFT_SIDE (contre-plaqué de 5mm découpé au laser). 
     * RIGHT_SIDE (contre-plaqué de 5mm découpé au laser).
     * Colle à bois.
     * Scotch de peintre.

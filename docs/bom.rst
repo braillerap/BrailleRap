@@ -13,7 +13,7 @@ Pièces imprimées
 Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres extérieurs. Nous utilisons le filament eSun ABS Natural.
 
 Ajouter le lien pour le téléchargement de STL
-
+ 
 
 Pièces mécaniques
 ----------------

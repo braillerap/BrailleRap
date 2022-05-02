@@ -17,7 +17,7 @@ Contenu:
    assemblage
    marlin
    firstembossingpage
-   
+    
 
 .. index:: history, testtrad, licence, bom, marlin, assemblage, firstembossingpage
 

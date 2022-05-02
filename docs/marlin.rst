@@ -7,7 +7,7 @@ Marlin Firmware pour cartes Ramps ou compatibles
 
 
 Configuration Marlin
--------------------
+--------------------
 
 in configuration.h 
 

@@ -13,7 +13,7 @@ Le projet s'appelait `BrailleRap <https://github.com/arthursw/BrailleRap/blob/ma
 Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une démonstration de faisabilité, 
 mais qu'il fallait mettre au point une machine spécialisée facile à reproduire.
 
-
+ 
 OpenBraille
 -----------
 En 2017 Carlos Campos démarre le projet OpenBraille et construit une embosseuse braille à partir de pièces d'imprimante recyclées. 

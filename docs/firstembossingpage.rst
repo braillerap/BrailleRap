@@ -14,7 +14,7 @@ Utilisation de l'application BrailleRap
 
 Aller sur la page https://crocsg.github.io/BrailleRap/
 
-.. image :: ./IMG/braillerapapp.png
+.. image :: ./IMG/braillerapapp.png 
        :align: center
 Entrer votre texte à l'endroit indiqué, et télécharger ensuite le fichier GCODE contenant les instructions pour l'embosseuse
 

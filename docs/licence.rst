@@ -9,3 +9,4 @@ Nous utilisons plusieurs projets open source, qui ont leur propre licence :
    #. Le projet "Marlin firmware"  pour le firmware de la carte: https://github.com/MarlinFirmware/Marlin 
    #. BrailleRap le premier generateur de  gcode pour imprimante 3D https://github.com/arthursw/BrailleRap
    
+ 
