@@ -102,10 +102,8 @@ msgstr ""
 "BrailleRAP-SP project was born."
 
 #: ../../history.rst:37
-msgid ""
-"En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, nous reprenons le projet pour proposer des améliorations."
-msgstr ""
-"In 2022, to improve the project with some enthousists, we create BrailleRap project"
+msgid "En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, nous reprenons le projet pour proposer des améliorations."
+msgstr "In 2022, to improve the project with some enthousists, we create BrailleRap project"
 
 #~ msgid ""
 #~ "En 2016 l'association \\*MyHumanKit\\* "
