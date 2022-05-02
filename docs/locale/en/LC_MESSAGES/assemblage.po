@@ -1439,44 +1439,44 @@ msgstr "Push the drivers into their slots. ** ADD PICTURE **"
 msgid "Raccordement des moteurs à la carte"
 msgstr "Connecting the motors to the board"
 
-#: ../../assemblage.rst:917 ../../assemblage.rst:922 ../../assemblage.rst:927
-#: ../../assemblage.rst:933
+#: ../../assemblage.rst:921 ../../assemblage.rst:926 ../../assemblage.rst:931
+#: ../../assemblage.rst:937
 msgid "à faire"
 msgstr "to do"
 
-#: ../../assemblage.rst:920
+#: ../../assemblage.rst:929
 msgid "Câblage de l’électro-aimant"
 msgstr "Wiring of the electromagnet"
 
-#: ../../assemblage.rst:925
+#: ../../assemblage.rst:928
 msgid "Câblage des interrupteurs fin de course"
 msgstr "Wiring of limit switches"
 
-#: ../../assemblage.rst:931
+#: ../../assemblage.rst:934
 msgid "Alignement vertical des deux chariots"
 msgstr "Vertical alignment of the two carriages"
 
-#: ../../assemblage.rst:936
+#: ../../assemblage.rst:940
 msgid "Serrer les poulies sur l’axe vertical. **AJOUTER IMAGE**"
 msgstr "Tighten the pulleys on the vertical axis. ** ADD PICTURE **"
 
-#: ../../assemblage.rst:939
+#: ../../assemblage.rst:942
 msgid "Alignement horizontal de l'emprunte du chariot haut"
 msgstr "Horizontal alignment of the trolley"
 
-#: ../../assemblage.rst:942
+#: ../../assemblage.rst:946
 msgid "A ne pas oublier"
 msgstr "To not forget"
 
-#: ../../assemblage.rst:944
+#: ../../assemblage.rst:948
 msgid "Serrer la vis du endstop X"
 msgstr "Tighten the endstop X screw"
 
-#: ../../assemblage.rst:948
+#: ../../assemblage.rst:951
 msgid "Réglage de la profondeur du point"
 msgstr "Adjusting the depth of the point"
 
-#: ../../assemblage.rst:950
+#: ../../assemblage.rst:954
 msgid ""
 "Selon le matériau que vous utiliserez (papier, plastique, aluminium de "
 "canette), vous devrez régler la hauteur de l'emprunte du chariot haut à "

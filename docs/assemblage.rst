@@ -890,7 +890,7 @@ Montage de la carte électronique sur la caisse
 Matériel :
 
   * Carte MKS GEN 1.4
-  * 4 entretoises M3-10 **Michel, nous allons te les envoyer dès qu'on les reçoit**
+  * 4 entretoises M3-10 
   * 4 rondelles M3 moyennes
   * 8 vis M3-10
 
@@ -912,6 +912,8 @@ Matériel :
 * Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y. **AJOUTER IMAGE**
 * Enfoncer les drivers dans leurs emplacements.  **AJOUTER IMAGE**
 
+.. image :: ./IMG/braillerap_cablage.png
+       :align: center
 
 Raccordement des moteurs à la carte
 ------------------------------------
