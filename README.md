@@ -1,4 +1,4 @@
-# BrailleRapSP
+# BrailleRap
 
 Embosseuse Braille Open Source
 
