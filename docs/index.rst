@@ -8,7 +8,7 @@ Bienvenue sur la documentation BrailleRAP
 Contenu:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    history
    testtrad
