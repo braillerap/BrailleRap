@@ -1,4 +1,4 @@
-Manuel de montage BrailleRAP-SP
+Manuel de montage BrailleRAP
 ===============================
 
 
