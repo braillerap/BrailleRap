@@ -2,8 +2,7 @@ Embosser votre première page de Braille
 =======================================
 
 
-
-BrailleRap est est machine qui se pilote en G-CODE, pour embosser du braille il faut tout d'abord traduire le texte en Braille.
+BrailleRap est une machine qui se pilote en G-CODE, pour embosser du braille il faut tout d'abord traduire le texte en Braille.
 Il existe 2 solutions pour traduire le Braille :
 L'application BrailleRap en ligne https://crocsg.github.io/BrailleRap/
 L'application NatBraille http://natbraille.free.fr 
