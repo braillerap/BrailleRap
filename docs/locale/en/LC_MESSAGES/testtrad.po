@@ -27,7 +27,7 @@ msgstr "Translation test with sphinx tools"
 msgid "est ce que 'RTFD'genere correctement les fichiers .po ?"
 msgstr "is 'RTFD' handling .po files ?"
 
-#: ../../source/testtrad.rst:6
+#: ../../source/testtrad.rst:7
 msgid "est que la modif des po suffit ?"
 msgid "Yeah it work"
 
