@@ -1,8 +1,3 @@
-.. BrailleRap documentation master file, created by
-   sphinx-quickstart on Mon Mar  5 11:31:40 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Bienvenue sur la documentation BrailleRAP 
 ============================================
 
@@ -16,11 +11,11 @@ Contenu:
    :maxdepth: 3
 
    history
+   testtrad
    licence
    bom
    assemblage
    marlin
-   testtrad
    firstembossingpage
    
 
