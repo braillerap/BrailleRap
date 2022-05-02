@@ -11,7 +11,6 @@ Contenu:
    :maxdepth: 1
 
    history
-   testtrad
    licence
    bom
    assemblage
@@ -19,7 +18,7 @@ Contenu:
    firstembossingpage
     
 
-.. index:: history, testtrad, licence, bom, marlin, assemblage, firstembossingpage
+.. index:: history, licence, bom, marlin, assemblage, firstembossingpage
 
 
 

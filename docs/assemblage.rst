@@ -915,6 +915,9 @@ Matériel :
 .. image :: ./IMG/braillerap_cablage.png
        :align: center
 
+.. image :: ./IMG/braillerap_carte.jpg
+       :align: center
+
 Raccordement des moteurs à la carte
 ------------------------------------
 
