@@ -56,8 +56,8 @@ msgid "Scotch de peintre."
 msgstr "Scotch Blue tape"
 
 #: ../../assemblage.rst:18
-msgid "Préparer les 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
-msgstr "Get the 5 elements : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
+msgid "Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
+msgstr ""
 
 #: ../../assemblage.rst:23
 msgid ""
@@ -256,8 +256,7 @@ msgstr "The end of the screw must not protrude in the passage of Ø 8mm bars."
 
 #: ../../assemblage.rst:122
 msgid "Fixation des supports GAUCHES des axes"
-msgstr ""
-"Assembling LEFT shafts supports"
+msgstr "Assembling LEFT shafts supports"
 
 #: ../../assemblage.rst:126
 msgid ""
@@ -322,9 +321,10 @@ msgid ""
 "jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront "
 "serrées quand l'ensemble sera en place."
 msgstr ""
-"Fix rod supports on the box with BOTTOM_AXIS_right and "
-"TOP_AXIS_right on the right with leaving some mechanical clearance  (screw + washer outside "
-"and nut inside). The screws will be tight when all parts will be in place."
+"Fix rod supports on the box with BOTTOM_AXIS_right and TOP_AXIS_right on "
+"the right with leaving some mechanical clearance  (screw + washer outside"
+" and nut inside). The screws will be tight when all parts will be in "
+"place."
 
 #: ../../assemblage.rst:163
 msgid "Fixation des tendeurs de courroie"
@@ -1503,3 +1503,7 @@ msgstr ""
 #~ "4 spacers M3-10 ** Michel, we will"
 #~ " send them to you as soon as"
 #~ " we receive them **"
+
+#~ msgid "Préparer les 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
+#~ msgstr "Get the 5 elements : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
+

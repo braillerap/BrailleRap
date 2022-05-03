@@ -903,14 +903,7 @@ Matériel :
 Pose des drivers sur la carte électronique
 -------------------------------------------
 
-Matériel :
-
-  * Carte MKS GEN 1.4
-  * 2 Drivers DRV8825
-  * 6 cavaliers
-
-* Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y. **AJOUTER IMAGE**
-* Enfoncer les drivers dans leurs emplacements.  **AJOUTER IMAGE**
+Schéma général :
 
 .. image :: ./IMG/braillerap_cablage.png
        :align: center
@@ -918,6 +911,20 @@ Matériel :
 .. image :: ./IMG/braillerap_carte.jpg
        :align: center
 
+Matériel :
+
+  * Carte MKS GEN 1.4
+  * 2 Drivers DRV8825
+  * 6 cavaliers
+
+* Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y.
+.. image :: ./IMG/brap_cavalier.jpg
+       :align: center
+
+* Enfoncer les drivers dans les emplacements X et Y.
+.. image :: ./IMG/brap_drivers.jpg
+              :align: center
+              
 Raccordement des moteurs à la carte
 ------------------------------------
 
