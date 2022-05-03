@@ -28,11 +28,12 @@ msgid ""
 "Le firmware Marlin est utilisé pour contrôler l'embosseuse Braille. Nous "
 "utilisons la configuration CNC pour contrôler l'électro-aimant avec les "
 "commandes associées au moteur de CNC / stylo / laser (GCODE M3 et M4)"
-msgstr ""
+msgstr "Marlin firmware is used for braille embosser control"
+"We use the CNC configuration to control the elctromagnet with M3 and M4 GCODE commands"
 
 #: ../../marlin.rst:10
 msgid "Configuration Marlin"
-msgstr ""
+msgstr "Marlin configuration"
 
 #: ../../marlin.rst:12
 msgid "in configuration.h"
@@ -67,7 +68,6 @@ msgid "Jerk ::"
 msgstr ""
 
 #: ../../marlin.rst:65
-#, fuzzy
 msgid ""
 "Dans la version présente sur le github du projet BrailleRap-SP, d'autres "
 "fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin"
@@ -75,4 +75,3 @@ msgid ""
 msgstr ""
 "In the current release on BrailleRap github, other files have been "
 "modified to handle the paper sheet position with the Y end-stop."
-
