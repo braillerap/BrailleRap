@@ -1,19 +1,36 @@
+# Translations template for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-05-03 19:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2018, braillerapsp@gmail.com
 # This file is distributed under the same license as the BraillerRapSP
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
-
-
-#: ../../source/index.rst:2
-msgid "Bienvenue sur la documentation BrailleRAP "
+#: ../../index.rst:2
+#, fuzzy
+msgid "Bienvenue sur la documentation BrailleRAP"
 msgstr "Welcome to BrailleRAP documentation"
 
-#: ../../source/index.rst:8
+#: ../../index.rst:8
 msgid "Contenu:"
 msgstr "Contents:"
 
-#: ../../source/index.rst:22
-msgid "/////test"
-msgstr ""
+#~ msgid "/////test"
+#~ msgstr ""
+

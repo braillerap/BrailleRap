@@ -6,19 +6,18 @@
 # Stephane <braillerapsp@gmail.com>, 2018.
 msgid ""
 msgstr ""
-"Project-Id-Version: BraillerRapSP\n"
+"Project-Id-Version:  BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-28 10:31+0100\n"
+"POT-Creation-Date: 2022-05-03 19:08+0000\n"
 "PO-Revision-Date: 2018-12-28 11:31+0200\n"
 "Last-Translator: Stephane <braillerapsp@gmail.com>\n"
-"Language-Team: braillerapsp\n"
 "Language: en\n"
+"Language-Team: braillerapsp\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.10.1\n"
 
 #: ../../bom.rst:2
 msgid "Liste du matériel"
@@ -33,9 +32,10 @@ msgid "2 planches de contreplaqué 5mm en 600mm x 400mm."
 msgstr "2 600mm x 400mm 5m plywood sheets"
 
 #: ../../bom.rst:8
+#, fuzzy
 msgid ""
 "Les fichiers au format dxf sont disponibles ici : "
-"https://github.com/BrailleRapSP/BrailleRap/tree/master/lasercut"
+"https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 msgstr ""
 "The dxf files are availables here : "
 "https://github.com/BrailleRapSP/BrailleRap/tree/master/lasercut"
@@ -145,7 +145,8 @@ msgid ""
 "Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur "
 "(15.1 x 20.5 x 2.7)"
 msgstr ""
-"O-ring 15.1 mm inside diameter 20.5 mm outside diameter (15.1 x 20.5 x 2.7)"
+"O-ring 15.1 mm inside diameter 20.5 mm outside diameter (15.1 x 20.5 x "
+"2.7)"
 
 #: ../../bom.rst:46
 msgid "..."
@@ -223,3 +224,4 @@ msgstr "12V 6A Alimentation"
 
 #~ msgid "12v power supply 6A"
 #~ msgstr "12v power supply 6A"
+

@@ -6,43 +6,42 @@
 # Stephane <braillerapsp@gmail.com>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: BraillerRapSP\n"
+"Project-Id-Version:  BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-16 12:57+0200\n"
+"POT-Creation-Date: 2022-05-03 19:08+0000\n"
 "PO-Revision-Date: 2019-01-16 23:06+0200\n"
 "Last-Translator: Stephane <braillerapsp@gmail.com>\n"
-"Language-Team: braillerapsp\n"
 "Language: en\n"
+"Language-Team: braillerapsp\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.10.1\n"
 
-#: ../../source/licence.rst:2
+#: ../../licence.rst:2
 msgid "Licence"
 msgstr "License"
 
-#: ../../source/licence.rst:4
+#: ../../licence.rst:4
 msgid ""
-"Tous les travaux originaux de BrailleRap sont sous la license CERN Open"
-" Hardware Licence v1.2 (https://www.ohwr.org/projects/cernohl/wiki), "
+"Tous les travaux originaux de BrailleRap sont sous la license CERN Open "
+"Hardware Licence v1.2 (https://www.ohwr.org/projects/cernohl/wiki), "
 "traduite en français sur cette page: http://fr-voosilla.ouvaton.org/CERN-"
 "OHL-%5Bfr%5D-Traduction-Fran%C3%A7aise.html"
 msgstr ""
 "All original BrailleRap works are licensed under the CERN Open Hardware "
 "License v1.2 license (https://www.ohwr.org/projects/cernohl/wiki), "
-"translated into French on this page: http: // fr-voosilla. ouvaton.org/CERN-"
-"OHL-%5Bfr%5D-Traduction-Fran%C3%A7aise.html"
+"translated into French on this page: http: // fr-voosilla. ouvaton.org"
+"/CERN-OHL-%5Bfr%5D-Traduction-Fran%C3%A7aise.html"
 
-#: ../../source/licence.rst:7
+#: ../../licence.rst:7
 msgid ""
 "Nous utilisons plusieurs projets open source, qui ont leur propre licence"
 " :"
 msgstr "We use several open source projects, which have their own license:"
 
-#: ../../source/licence.rst:9
+#: ../../licence.rst:9
 msgid ""
 "Le projet \"Marlin firmware\"  pour le firmware de la carte: "
 "https://github.com/MarlinFirmware/Marlin"
@@ -50,9 +49,12 @@ msgstr ""
 "The \"Marlin firmware\" project as the firmware for the control board: "
 "https://github.com/MarlinFirmware/Marlin"
 
-#: ../../source/licence.rst:10
+#: ../../licence.rst:10
+#, fuzzy
 msgid ""
-"BrailleRap qui a un générateur de gcode  "
+"BrailleRap le premier generateur de  gcode pour imprimante 3D "
 "https://github.com/arthursw/BrailleRap"
 msgstr ""
-"BrailleRap that has a gcode generator https://github.com/arthursw/BrailleRap"
+"BrailleRap that has a gcode generator "
+"https://github.com/arthursw/BrailleRap"
+
