@@ -15,9 +15,9 @@ msgstr ""
 "Generated-By: Babel 2.10.1\n"
 
 #: ../../assemblage.rst:2
-#, fuzzy
+#
 msgid "Manuel de montage BrailleRAP"
-msgstr "Building manual BrailleRAP "
+msgstr "BrailleRAP building manual  "
 
 #: ../../assemblage.rst:6
 msgid "Collage de la caisse en bois"

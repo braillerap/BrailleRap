@@ -23,7 +23,6 @@ msgstr ""
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 #: ../../index.rst:2
-#, fuzzy
 msgid "Bienvenue sur la documentation BrailleRAP"
 msgstr "Welcome to BrailleRAP documentation"
 
@@ -33,4 +32,3 @@ msgstr "Contents:"
 
 #~ msgid "/////test"
 #~ msgstr ""
-
