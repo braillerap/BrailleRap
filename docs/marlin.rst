@@ -62,4 +62,5 @@ Jerk ::
    #define DEFAULT_ZJERK                 0.3
    #define DEFAULT_EJERK                 5.0
 
+
 Dans la version présente sur le github du projet BrailleRap, d'autres fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin de course de l'axe Y.

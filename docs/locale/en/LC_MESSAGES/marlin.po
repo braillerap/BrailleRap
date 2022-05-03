@@ -69,7 +69,6 @@ msgid "Jerk ::"
 msgstr ""
 
 #: ../../marlin.rst:65
-#, fuzzy
 msgid ""
 "Dans la version présente sur le github du projet BrailleRap, d'autres "
 "fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin"
@@ -77,4 +76,3 @@ msgid ""
 msgstr ""
 "In the current release on BrailleRap github, other files have been "
 "modified to handle the paper sheet position with the Y end-stop."
-
