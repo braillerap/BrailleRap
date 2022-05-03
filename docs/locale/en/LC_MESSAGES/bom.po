@@ -29,7 +29,7 @@ msgstr "Laser cutting"
 
 #: ../../bom.rst:6
 msgid "2 planches de contreplaqué 5mm en 600mm x 400mm."
-msgstr "2 600mm x 400mm 5m plywood sheets"
+msgstr "2 600mm x 400mm 5mm plywood sheets"
 
 #: ../../bom.rst:8
 #, fuzzy
@@ -75,7 +75,7 @@ msgstr "4"
 
 #: ../../bom.rst:25
 msgid "Rail de guidage linéaire ( diamètre 8mm ) 330 mm length"
-msgstr "Linear Rail 8mm diameter 330 mmlength"
+msgstr "Linear rod 8mm diameter 330 mmlength"
 
 #: ../../bom.rst:26 ../../bom.rst:27 ../../bom.rst:38 ../../bom.rst:42
 #: ../../bom.rst:56 ../../bom.rst:58 ../../bom.rst:59 ../../bom.rst:60
@@ -85,11 +85,11 @@ msgstr "1"
 
 #: ../../bom.rst:26
 msgid "Rail de guidage linéaire ( diamètre 8mm ) 365 mm length"
-msgstr "Linear rail 8mm diameter 365 mm length"
+msgstr "Linear rod 8mm diameter 365 mm length"
 
 #: ../../bom.rst:27
 msgid "Rail de guidage linéaire ( diamètre 8mm ) *100 mm* length"
-msgstr "Linear rail 8mm diameter 100mm length"
+msgstr "Linear rod 8mm diameter 100mm length"
 
 #: ../../bom.rst:29
 msgid "6"
@@ -126,7 +126,7 @@ msgstr "KFL08 vertical bearing for 8mm linear shaft"
 
 #: ../../bom.rst:38
 msgid "Accouplement d'axe 5mm/8mm"
-msgstr "5mm/8mm coupling"
+msgstr "5mm/8mm flexible motor coupling"
 
 #: ../../bom.rst:40
 msgid "Nema 17 40 N/cm avec câble"
@@ -174,7 +174,7 @@ msgstr "1N4004  flyback diode  (12V 2A)"
 
 #: ../../bom.rst:60
 msgid "Embase Alimentation jack 2.5"
-msgstr "jack 2.5mm embase"
+msgstr "jack 2.5mm connector"
 
 #: ../../bom.rst:61
 msgid "Alimentation 12v 6A"
@@ -224,4 +224,3 @@ msgstr "12V 6A Alimentation"
 
 #~ msgid "12v power supply 6A"
 #~ msgstr "12v power supply 6A"
-

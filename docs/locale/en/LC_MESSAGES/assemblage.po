@@ -69,7 +69,7 @@ msgstr ""
 
 #: ../../assemblage.rst:29
 msgid "Collage des bloqueurs de trappe"
-msgstr "Collage of trap blockers"
+msgstr "Door blockers gluing"
 
 #: ../../assemblage.rst:33
 msgid "Caisse bois assemblée."
@@ -257,8 +257,7 @@ msgstr "The end of the screw must not protrude in the passage of Ø 8mm bars."
 #: ../../assemblage.rst:122
 msgid "Fixation des supports GAUCHES des axes"
 msgstr ""
-"38/5000\n"
-"Fixing the LEFT supports of the axes"
+"Assembling LEFT shafts supports"
 
 #: ../../assemblage.rst:126
 msgid ""
@@ -301,12 +300,11 @@ msgstr ""
 
 #: ../../assemblage.rst:142
 msgid "Fixation des supports DROITS des axes"
-msgstr "Fixing the RIGHT supports of the axes"
+msgstr "Assembling RIGHT rod supports"
 
 #: ../../assemblage.rst:148
-#, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right"
-msgstr "**3D printed parts** : TOP_AXIS_right"
+msgstr "**3D printed parts** : BOTTOM_AXIS_right"
 
 #: ../../assemblage.rst:149
 msgid ""
@@ -324,9 +322,9 @@ msgid ""
 "jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront "
 "serrées quand l'ensemble sera en place."
 msgstr ""
-"Fix the supports of axis on the box the BOTTOM_AXIS_right and "
-"TOP_AXIS_right on the right by leaving some game (screw + washer outside "
-"and nut inside). The screws will be tight when the assembly is in place."
+"Fix rod supports on the box with BOTTOM_AXIS_right and "
+"TOP_AXIS_right on the right with leaving some mechanical clearance  (screw + washer outside "
+"and nut inside). The screws will be tight when all parts will be in place."
 
 #: ../../assemblage.rst:163
 msgid "Fixation des tendeurs de courroie"
@@ -334,7 +332,7 @@ msgstr "Fastening the belt tensioners"
 
 #: ../../assemblage.rst:167
 msgid "**Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing"
-msgstr "** 3D printed parts ** :  2 x DRIVEN_PULLEY_housing"
+msgstr "**3D printed parts** :  2 x DRIVEN_PULLEY_housing"
 
 #: ../../assemblage.rst:168
 msgid "2 vis BTR M3-20"

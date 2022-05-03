@@ -1,4 +1,4 @@
-Manuel de montage BrailleRAP 
+Manuel de montage BrailleRAP
 ===============================
 
 
@@ -10,12 +10,12 @@ Matériel:
     * FACE (contre-plaqué de 5mm découpé au laser).
     * BACK (contre-plaqué de 5mm découpé au laser).
     * BOTTOM (contre-plaqué de 5mm découpé au laser).
-    * LEFT_SIDE (contre-plaqué de 5mm découpé au laser). 
+    * LEFT_SIDE (contre-plaqué de 5mm découpé au laser).
     * RIGHT_SIDE (contre-plaqué de 5mm découpé au laser).
     * Colle à bois.
     * Scotch de peintre.
 
-* Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM.
+* Préparer les 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM.
 
 .. image :: ./IMG/BrailleRAP-V5.02.1.jpg
        :align: center
@@ -210,7 +210,7 @@ Matériel :
   * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
   * 1 vis sans tête M3-8
   * 1 écrou M3
-  * 2 vis M2.5-14 
+  * 2 vis M2.5-14
   * 2 écrous M2.5
 
 .. Note:: Changer l'image avec support interrupteur (nouveau modèle).
@@ -890,7 +890,7 @@ Montage de la carte électronique sur la caisse
 Matériel :
 
   * Carte MKS GEN 1.4
-  * 4 entretoises M3-10 
+  * 4 entretoises M3-10
   * 4 rondelles M3 moyennes
   * 8 vis M3-10
 
