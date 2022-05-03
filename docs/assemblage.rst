@@ -918,11 +918,11 @@ Matériel :
   * 6 cavaliers
 
 * Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y.
-.. image :: ./IMG/brap_cavalier.jpg
+.. image :: ./IMG/brap_cavalier.png
        :align: center
 
 * Enfoncer les drivers dans les emplacements X et Y.
-.. image :: ./IMG/brap_drivers.jpg
+.. image :: ./IMG/brap_drivers.png
               :align: center
 
 Raccordement des moteurs à la carte
