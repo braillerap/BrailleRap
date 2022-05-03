@@ -698,7 +698,7 @@ Matériel :
 
   * PAPER_support (contre-plaqué de 5mm découpé au laser).
   * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
-  * 4 vis à bois 3-10 tête fraisée **Michel, on n'en avait plus ;(E**
+  * 4 vis à bois 3-10 tête fraisée
 
 * Visser les 2 PAPER_raiser sur la plaque par en dessous avec les vis à bois.
 
@@ -924,7 +924,7 @@ Matériel :
 * Enfoncer les drivers dans les emplacements X et Y.
 .. image :: ./IMG/brap_drivers.jpg
               :align: center
-              
+
 Raccordement des moteurs à la carte
 ------------------------------------
 

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  test\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-05-03 19:08+0000\n"
+"POT-Creation-Date: 2022-05-03 19:56+0000\n"
 "PO-Revision-Date: 2018-12-28 12:02+0200\n"
 "Last-Translator: Stephane <sgn.braillerap@gmail.com>\n"
 "Language: en\n"
@@ -56,8 +56,8 @@ msgid "Scotch de peintre."
 msgstr "Scotch Blue tape"
 
 #: ../../assemblage.rst:18
-msgid "Préparer le 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
-msgstr ""
+msgid "Préparer les 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
+msgstr "Get the 5 elements : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
 
 #: ../../assemblage.rst:23
 msgid ""
@@ -101,7 +101,7 @@ msgstr "Preparation of the male needle"
 #: ../../assemblage.rst:659 ../../assemblage.rst:697 ../../assemblage.rst:712
 #: ../../assemblage.rst:731 ../../assemblage.rst:771 ../../assemblage.rst:792
 #: ../../assemblage.rst:815 ../../assemblage.rst:856 ../../assemblage.rst:878
-#: ../../assemblage.rst:890 ../../assemblage.rst:906
+#: ../../assemblage.rst:890 ../../assemblage.rst:914
 msgid "Matériel :"
 msgstr "equipment:"
 
@@ -1065,11 +1065,11 @@ msgstr "Mounting the top cart (step 1)"
 
 #: ../../assemblage.rst:597
 msgid "**Pièce(s) imprimée(s) en 3D** : TOP_trolley"
-msgstr "** Piece (s) printed in 3D **: TOP_trolley"
+msgstr "**3D printed parts**: TOP_trolley"
 
 #: ../../assemblage.rst:598
 msgid "**Pièce(s) imprimée(s) en 3D** : FEMALE_shape"
-msgstr "** Piece (s) printed in 3D **: FEMALE_shape"
+msgstr "**3D printed parts**: FEMALE_shape"
 
 #: ../../assemblage.rst:599
 msgid "Taraud M3"
@@ -1176,13 +1176,11 @@ msgstr "PAPER_support (laser cut 5mm plywood)."
 
 #: ../../assemblage.rst:700 ../../assemblage.rst:715
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser"
-msgstr "** Piece (s) printed in 3D **: 2 PAPER_raiser"
+msgstr "**3D printed parts**: 2 PAPER_raiser"
 
 #: ../../assemblage.rst:701
-msgid "4 vis à bois 3-10 tête fraisée **Michel, on n'en avait plus ;(E**"
-msgstr ""
-"4 wood screws 3-10 countersunk head ** Michel, we did not have any "
-"anymore; (E **"
+msgid "4 vis à bois 3-10 tête fraisée"
+msgstr "4 wood screws 3-10 countersunk head"
 
 #: ../../assemblage.rst:703
 msgid ""
@@ -1323,8 +1321,8 @@ msgid ""
 "L'interrupteur fin de course à lamelle devra être câblé avant d'être "
 "monté sur son support (non représenté)."
 msgstr ""
-"The slat limit switch must be wired before being mounted on its support "
-"(not shown)."
+"The limit switch must be wired before being mounted on its support (not "
+"shown)."
 
 #: ../../assemblage.rst:828
 msgid ""
@@ -1383,7 +1381,7 @@ msgstr "** ADD PICTURE **"
 msgid "Montage de la carte électronique sur la caisse"
 msgstr "Mounting the electronic card on the cash register"
 
-#: ../../assemblage.rst:892 ../../assemblage.rst:908
+#: ../../assemblage.rst:892 ../../assemblage.rst:916
 msgid "Carte MKS GEN 1.4"
 msgstr "MKS GEN 1.4 card"
 
@@ -1408,68 +1406,74 @@ msgstr "Assemble the card on the crate. ** ADD PICTURE **"
 msgid "Pose des drivers sur la carte électronique"
 msgstr "Laying the drivers on the electronic board"
 
-#: ../../assemblage.rst:909
+#: ../../assemblage.rst:906
+msgid "Schéma général :"
+msgstr ""
+
+#: ../../assemblage.rst:917
 msgid "2 Drivers DRV8825"
 msgstr "2 DRV8825 drivers"
 
-#: ../../assemblage.rst:910
+#: ../../assemblage.rst:918
 msgid "6 cavaliers"
 msgstr "6 riders"
 
-#: ../../assemblage.rst:912
+#: ../../assemblage.rst:920
+#, fuzzy
 msgid ""
 "Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre "
-"aux emplacements des drivers des moteurs X et Y. **AJOUTER IMAGE**"
+"aux emplacements des drivers des moteurs X et Y."
 msgstr ""
 "If the card is not supplied already equipped with jumpers, put in the "
-"places of the drivers of engines X and Y. ** ADD PICTURE **"
+"places of the drivers of engines X and Y."
 
-#: ../../assemblage.rst:913
-msgid "Enfoncer les drivers dans leurs emplacements.  **AJOUTER IMAGE**"
-msgstr "Push the drivers into their slots. ** ADD PICTURE **"
+#: ../../assemblage.rst:924
+#, fuzzy
+msgid "Enfoncer les drivers dans les emplacements X et Y."
+msgstr "Push the drivers into their slots."
 
-#: ../../assemblage.rst:922
+#: ../../assemblage.rst:929
 msgid "Raccordement des moteurs à la carte"
 msgstr "Connecting the motors to the board"
 
-#: ../../assemblage.rst:924 ../../assemblage.rst:929 ../../assemblage.rst:934
-#: ../../assemblage.rst:940
+#: ../../assemblage.rst:931 ../../assemblage.rst:936 ../../assemblage.rst:941
+#: ../../assemblage.rst:947
 msgid "à faire"
 msgstr "to do"
 
-#: ../../assemblage.rst:927
+#: ../../assemblage.rst:934
 msgid "Câblage de l’électro-aimant"
 msgstr "Wiring of the electromagnet"
 
-#: ../../assemblage.rst:932
+#: ../../assemblage.rst:939
 msgid "Câblage des interrupteurs fin de course"
 msgstr "Wiring of limit switches"
 
-#: ../../assemblage.rst:938
+#: ../../assemblage.rst:945
 msgid "Alignement vertical des deux chariots"
 msgstr "Vertical alignment of the two carriages"
 
-#: ../../assemblage.rst:943
+#: ../../assemblage.rst:950
 msgid "Serrer les poulies sur l’axe vertical. **AJOUTER IMAGE**"
 msgstr "Tighten the pulleys on the vertical axis. ** ADD PICTURE **"
 
-#: ../../assemblage.rst:946
+#: ../../assemblage.rst:953
 msgid "Alignement horizontal de l'emprunte du chariot haut"
 msgstr "Horizontal alignment of the trolley"
 
-#: ../../assemblage.rst:949
+#: ../../assemblage.rst:956
 msgid "A ne pas oublier"
 msgstr "To not forget"
 
-#: ../../assemblage.rst:951
+#: ../../assemblage.rst:958
 msgid "Serrer la vis du endstop X"
 msgstr "Tighten the endstop X screw"
 
-#: ../../assemblage.rst:955
+#: ../../assemblage.rst:962
 msgid "Réglage de la profondeur du point"
 msgstr "Adjusting the depth of the point"
 
-#: ../../assemblage.rst:957
+#: ../../assemblage.rst:964
 msgid ""
 "Selon le matériau que vous utiliserez (papier, plastique, aluminium de "
 "canette), vous devrez régler la hauteur de l'emprunte du chariot haut à "
@@ -1503,7 +1507,3 @@ msgstr ""
 #~ "4 spacers M3-10 ** Michel, we will"
 #~ " send them to you as soon as"
 #~ " we receive them **"
-
-#~ msgid "Préparer les 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
-#~ msgstr "Get the 5 elements : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
-
