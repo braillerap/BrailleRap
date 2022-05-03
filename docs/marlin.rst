@@ -9,7 +9,7 @@ Marlin Firmware pour cartes Ramps ou compatibles
 Configuration Marlin
 --------------------
 
-in configuration.h 
+in configuration.h
 
 Motherboard configuration ::
 
@@ -23,7 +23,7 @@ Spindle / laser / pen configuration ::
    // BRAILLE RAP CONFIG
    #define SPINDLE_LASER_ENABLE
    #define SPINDLE_LASER_ENABLE_PIN  RAMPS_D8_PIN      // !!! for BED MOSFET
-   #define SPINDLE_LASER_PWM_PIN     RAMPS_D10_PIN     // !!! for E0 MOSFET 
+   #define SPINDLE_LASER_PWM_PIN     RAMPS_D10_PIN     // !!! for E0 MOSFET
    #define SPINDLE_DIR_PIN           5                 // pin servo
 
 
@@ -62,10 +62,4 @@ Jerk ::
    #define DEFAULT_ZJERK                 0.3
    #define DEFAULT_EJERK                 5.0
 
-Dans la version présente sur le github du projet BrailleRap-SP, d'autres fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin de course de l'axe Y.
- 
- 
-
-
-
-
+Dans la version présente sur le github du projet BrailleRap, d'autres fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin de course de l'axe Y.
