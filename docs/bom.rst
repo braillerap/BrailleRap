@@ -43,6 +43,8 @@ Qty Type
 2   630 mm de courroie GT2
 
 2   Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur (15.1 x 20.5 x 2.7)
+
+6	Colliers de serrage 2.5 x 160 mm
 ...
 === =========================================
 
