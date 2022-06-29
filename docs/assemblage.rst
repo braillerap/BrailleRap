@@ -17,8 +17,11 @@ Matériel:
 
 * Préparer les 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM.
 
+.. ATTENTION:: bien repérer la position des cotés (droit et gauche) et le fond. Utiliser les percages pour orienter les pièces comme sur la figure
+
 .. image :: ./IMG/BrailleRAP-V5.02.1.jpg
        :align: center
+
 
 * Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage préconisé par le fabricant.
 
@@ -31,14 +34,32 @@ Collage des bloqueurs de trappe
 Matériel:
 
     * Caisse bois assemblée.
-    * 3 disques en bois récupérés de la découpe laser du couvercle.
+    * 4 disques en bois récupérés de la découpe laser du couvercle.
     * Colle à bois.
 
-* Coller les 3 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine.
+* Coller les 4 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine.
 
 .. image :: ./IMG/BrailleRAP-V5.01.2.jpg
        :align: center
 
+Collage du plateau papier
+-------------------------------
+
+Matériel:
+	* Support papier supérieur
+	* Support papier inférieur
+	* Colle à bois.
+	* Pinces de serrage
+	
+.. image :: ./IMG/paper_support_parts.jpg
+       :align: center
+	
+* Coller le support inférieur sous le support supérieur. 
+
+.. image :: ./IMG/paper_support_v8.png
+       :align: center
+
+.. ATTENTION:: les 2 pièces doivent êtrent parfaitement alignées. Placer des vis dans les percages pour bien alignés les pièces. Il ne doit pas y avoir d'espace entre les deux pièces (ou la feuille de papier pourrait venir se coincer)
 
 Préparation du pointeau mâle
 -----------------------------
@@ -62,24 +83,24 @@ Matériel :
     * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur de la courroie fermée GT2)
     * 1 moteur Nema 17
     * 1 poulie GT2 20 dents bore 5mm
-    * 4 vis M3-8
+    * 4 vis M3-8 
     * 2 écrous NYL M3
     * 2 vis M3-12
     * 2 rondelles M3 larges
 
-* Visser la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat de l’axe du moteur et que les dents de la poulie soient orientées vers le moteur.
+* Serrer la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat de l’axe du moteur et que les dents de la poulie soient orientées vers le moteur.
 
 .. image :: ./IMG/BrailleRAP-V5.03.jpg
        :align: center
 
-* Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur soit dans la position correspondante à l'illustration.
+* Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur du moteur soit dans la position correspondante à l'illustration.
 
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
 
 .. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
-* Introduire les écrous NYL M3 dans le support moteur.
+* Introduire les écrous NYL M3 dans le support moteur. Eventuellement les maintenir avec un petit bout de scotch de peintre.
 
 .. image :: ./IMG/BrailleRAP-V5.05.jpg
        :align: center
@@ -101,7 +122,7 @@ Préparation de supports d’axes
   * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right
   * 1 foret de 8mm
   * 8 écrous M3
-  * 8 vis M3-12
+  * 8 vis M3-12 sans tête
 
 .. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
 
@@ -118,7 +139,7 @@ Préparation de supports d’axes
 .. image :: ./IMG/BrailleRAP-V5.11.jpg
        :align: center
 
-Fixation des supports GAUCHES des axes
+Fixation des supports GAUCHES des axes 
 ----------------------------------------------
 
 Matériel :
