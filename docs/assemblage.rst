@@ -17,28 +17,28 @@ M3 et M5 correspondent au diamètre en mm de la partie taraudée des vis
 Le deuxieme nombre correspond à la longueur de la vis
 Par exemple M3-12 designe une vis de 3mm de diamètre et de 12mm de longueur
 
-** M5-18 ** correspond à une vis avec une tête hexagonale (5mm de diamètre 18mm de longueur)
+**M5-18** correspond à une vis avec une tête hexagonale (5mm de diamètre 18mm de longueur)
 	
 	.. image :: ./IMG/vis6pans.jpg
-       :align: center
+		:align: center
 	   
-** M3-12 sans tête ** correspond a une vis sans tête (3mm de diamètre - 12 mm de longueur)
+**M3-12 sans tête** correspond a une vis sans tête (3mm de diamètre - 12 mm de longueur)
 
 	.. image :: ./IMG/vissantete.jpg
-       :align: center
+		:align: center
 	   
 Remarque sur les écrous
 -----------------------
 
-** Ecrou M3 ou ecrou M5 ** désignent des ecrous standards de diamêtre 3mm ou 5mm
+**Ecrou M3 ou ecrou M5** désignent des ecrous standards de diamêtre 3mm ou 5mm
 
 	.. image :: ./IMG/ecrou.jpg
-       :align: center
+		:align: center
 
-** Ecrou M3 NYL ou ecrou M5 NYL ** désignent des ecrous ** frein ** de diamêtre 3mm ou 5mm
+**Ecrou M3 NYL ou ecrou M5 NYL** désignent des ecrous ** frein ** de diamêtre 3mm ou 5mm
 	
 	.. image :: ./IMG/ecrounyl.jpg
-       :align: center
+		:align: center
 
 
 
