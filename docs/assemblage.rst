@@ -8,7 +8,7 @@ Outillages necessaires
 	* Petite pince coupante
 	* Clés à tube 5.5 et 8
 	* Colle à bois
-	
+	* Scotch de peintre
 
 Remarques sur les vis
 --------------------
@@ -343,10 +343,10 @@ Matériel :
 
 .. ATTENTION:: Bloquer les IGUS dans le rainurage. Ne pas serrer les colliers trop fort, ils seront ajustés quand le chariot sera en place sur les rails linéaires
 
-.. image :: ./IMG/bottom_trolley_ok v9.png
+.. image :: ./IMG/bottom_trolley_ok_v9.png
        :align: center
 
-.. image :: ./IMG/bottom_trolley_assembly v1-1.png
+.. image :: ./IMG/bottom_trolley_assembly_v1-1.png
        :align: center
 	   
 .. ATTENTION:: Respecter la position du collier. Le verrouillage du collier doit être du coté de l'IGUS et vers la paroi de la machine.
@@ -677,7 +677,7 @@ Matériel :
   * 6 vis M3-12
   * 6 écrous M3 NYL
 
-* Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** emprunte allen.
+* Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** empreinte allen.
 
 .. image :: ./IMG/BrailleRAP-V5.79.jpg
        :align: center
@@ -945,10 +945,11 @@ Fixation de la plaque pour l'embase de l'alimentation
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : POWER_plate
-  * 4 vis M3-14
-  * 4 écrous M3 NYL
+  * 2 vis M3-14
+  * 2 écrous M3 NYL
 
-*  **AJOUTER IMAGE**
+.. image :: ./IMG/alim.jpg
+       :align: center
 
 
 Montage de la carte électronique sur la caisse
@@ -961,8 +962,8 @@ Matériel :
   * 4 rondelles M3 moyennes
   * 8 vis M3-10
 
-* Assembler les 4 entretoises sur la carte.  **AJOUTER IMAGE**
-* Assembler la carte sur la caisse.  **AJOUTER IMAGE**
+* Assembler les 4 entretoises sur la carte. 
+* Assembler la carte sur la caisse.  
 
 
 
@@ -1015,9 +1016,9 @@ Alignement vertical des deux chariots
 * à faire
 
 
-* Serrer les poulies sur l’axe vertical. **AJOUTER IMAGE**
+* Serrer les poulies sur l’axe vertical. 
 
-Alignement horizontal de l'emprunte du chariot haut
+Alignement horizontal de l'empreinte du chariot haut
 ----------------------------------------------------
 
 
@@ -1029,7 +1030,7 @@ A ne pas oublier
 Réglage de la profondeur du point
 ----------------------------------------------------
 
-* Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette), vous devrez régler la hauteur de l'emprunte du chariot haut à l'aide de l'écrou borgne **à développer avec des exemples**
+* Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette), vous devrez régler la hauteur de l'empreinte du chariot haut à l'aide de l'écrou borgne. *
 
 
 
