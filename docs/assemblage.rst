@@ -1,7 +1,7 @@
 Manuel de montage BrailleRAP
 ===============================
 
-Outillage necessaires
+Outillages necessaires
 ---------------------
 	* Cles 6 pans 1.5,2,2.5 et 4
 	* Petite pinces
@@ -10,7 +10,7 @@ Outillage necessaires
 	* Colle à bois
 	
 
-Remarque sur les vis
+Remarques sur les vis
 --------------------
 
 M3 et M5 correspondent au diamètre en mm de la partie taraudée des vis
@@ -27,7 +27,7 @@ Par exemple M3-12 designe une vis de 3mm de diamètre et de 12mm de longueur
 	.. image :: ./IMG/vissantete.jpg
 		:align: center
 	   
-Remarque sur les écrous
+Remarques sur les écrous
 -----------------------
 
 **Ecrou M3 ou ecrou M5** désignent des ecrous standards de diamêtre 3mm ou 5mm
@@ -35,7 +35,7 @@ Remarque sur les écrous
 	.. image :: ./IMG/ecrou.jpg
 		:align: center
 
-**Ecrou M3 NYL ou ecrou M5 NYL** désignent des ecrous ** frein ** de diamêtre 3mm ou 5mm
+**Ecrou M3 NYL** ou **ecrou M5 NYL** désignent des ecrous **frein** de diamêtre 3mm ou 5mm
 	
 	.. image :: ./IMG/ecrounyl.jpg
 		:align: center
@@ -99,15 +99,15 @@ Matériel:
 .. image :: ./IMG/paper_support_v8.png
        :align: center
 
-.. ATTENTION:: les 2 pièces doivent êtrent parfaitement alignées. Placer des vis dans les percages pour bien alignés les pièces. Il ne doit pas y avoir d'espace entre les deux pièces (ou la feuille de papier pourrait venir se coincer)
+.. ATTENTION:: les 2 pièces doivent êtrent parfaitement alignées. Placer des vis dans les percages pour bien aligner les pièces. Il ne doit pas y avoir d'espace entre les deux pièces (ou la feuille de papier pourrait venir se coincer). Bien serrer les pièces l'une contre l'autre avec des pinces de serrages 
 
 Préparation du pointeau mâle
 -----------------------------
 
 Matériel :
 
-    * 1 lime pour métaux ou de la toile émeri ou une Dremel
-    * 1 vis sans tête M3-16 bout téton
+    * 1 Pierre à aiguisé
+    * 1 vis sans tête M3-12 bout téton
 
 * Limer l'arête du téton afin d’obtenir un profil approchant celui illustré.
 
@@ -343,14 +343,15 @@ Matériel :
 
 .. ATTENTION:: Bloquer les IGUS dans le rainurage. Ne pas serrer les colliers trop fort, ils seront ajustés quand le chariot sera en place sur les rails linéaires
 
-.. image :: ./IMG/BrailleRAP-V5.14.1.jpg
+.. image :: ./IMG/bottom_trolley_ok v9.png
        :align: center
 
-* Assembler les 3 logements + IGUS + BOTTOM_trolley avec les 6 vis M3-12 et les 6 écrous M3 NYL.
+.. image :: ./IMG/bottom_trolley_assembly v1-1.png
+       :align: center
+	   
+.. ATTENTION:: Respecter la position du collier. Le verrouillage du collier doit être du coté de l'IGUS et vers la paroi de la machine.
 
-.. ATTENTION:: Ne pas serrer les vis à fond. Elles seront serrées quand le chariot sera en place sur ses rails de guidage.
-
-.. image :: ./IMG/BrailleRAP-V5.14.2.jpg
+.. image :: ./IMG/bottom_trolley_assembly-v4.png
        :align: center
 
 * Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL.
