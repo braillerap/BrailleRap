@@ -1,6 +1,33 @@
 Manuel de montage BrailleRAP
 ===============================
 
+Outillage necessaires
+---------------------
+	* Cles 6 pans 1.5,2,2.5 et 4
+	* Petite pinces
+	* Petite pince coupante
+	* Clés à tube 5.5 et 8
+	* Colle à bois
+	
+
+Remarque sur les vis
+--------------------
+
+M3 et M5 correspondent au diamètre en mm de la partie taraudée des vis
+Le deuxieme nombre correspond à la longueur de la vis
+Par exemple M3-12 designe une vis de 3mm de diamètre et de 12mm de longueur
+
+** M5-18 ** correspond à une vis avec une tête hexagonale (5mm de diamètre 18mm de longueur)
+
+** M3-12 sans tête ** correspond a une vis sans tête (3mm de diamètre - 12 mm de longueur)
+
+Remarque sur les écrous
+-----------------------
+
+** Ecrou M3 ou ecrou M5 ** désignent des ecrous standards de diamêtre 3mm ou 5mm
+** Ecrou M3 NYL ou ecrou M5 NYL ** désignent des ecrous ** frein ** de diamêtre 3mm ou 5mm
+
+
 
 Collage de la caisse en bois
 -----------------------------
@@ -269,34 +296,39 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.17.jpg
        :align: center
 
+Montage de l'electro-aimant sur son support
+-------------------------------------------
+	* Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
+	* **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing
+	* 2 vis M3-8
+
+* Fixer l’électro-aimant sur son support avec les 2 vis M3-8.
+
+.. ATTENTION:: Respecter le côté de sortie des fils c'est important.
+
+.. image :: ./IMG/BrailleRAP-V5.19.jpg
+       :align: center
+
+
 Montage du chariot bas (étape 1)
 ---------------------------------
 
 Matériel :
 
-  * Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
+  * Electro-aimant assemblé dans son support
   * **Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley
-  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing
   * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide
-  * **Pièce(s) imprimée(s) en 3D** : 3 X IGUS_housing
-  * 2 vis M3-8
-  * 3 IGUS
-  * 6 vis M3-12
-  * 10 écrous M3 NYL
+  * 3 paliers lineaires IGUS
+  * 6 colliers de serrage 2.5 x 160
+  * 8 écrous M3 NYL
   * 2 vis M3-18
   * 2 vis M3-20
 
 
-* Fixer l’électro-aimant sur son support avec les 2 vis M3-8.
 
-.. ATTENTION:: Respecter le côté de sortie des fils.
+* Introduire les 3 IGUS sur le support BOTTOM_trolley. Les fixer avec des colliers de serrage
 
-.. image :: ./IMG/BrailleRAP-V5.19.jpg
-       :align: center
-
-* Introduire les 3 IGUS dans leur logement (IGUS_housing).
-
-.. ATTENTION:: Respecter le côté du rainurage.
+.. ATTENTION:: Bloquer les IGUS dans le rainurage. Ne pas serrer les colliers trop fort, ils seront ajustés quand le chariot sera en place sur les rails linéaires
 
 .. image :: ./IMG/BrailleRAP-V5.14.1.jpg
        :align: center
