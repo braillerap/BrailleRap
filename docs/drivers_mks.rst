@@ -13,7 +13,7 @@ Installer le driver
 Pour MakerBase MKS GEN L 2.1
 ----------------------------
 
-Télécharger le drive CH340 (CH341SER.EXE) ici : https://www.wch.cn/download/CH341SER_ZIP.html
+Télécharger le driver CH340 (CH341SER.EXE) ici : https://www.wch.cn/download/CH341SER_ZIP.html
 
 Installer le driver
 
