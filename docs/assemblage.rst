@@ -758,18 +758,37 @@ Matériel :
 Pose de la courroie du chariot haut
 --------------------------------------
 
-Montage des lève-papiers sur la plaque
+Montage des guide-papiers sur la plaque
 ----------------------------------------
 
 Matériel :
 
-  * PAPER_support (contre-plaqué de 5mm découpé au laser).
-  * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
-  * 4 vis à bois 3-10 tête fraisée
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right
+  
+  * 4 vis M3-16
+  * 4 vis M3-12
+  * 8 rondelles M3 Larges
+  * 8 écrous M3 NYL
 
-* Visser les 2 PAPER_raiser sur la plaque par en dessous avec les vis à bois.
+.. NOTE:: Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois.
 
-.. image :: ./IMG/BrailleRAP-V5.95.jpg
+* Partie gauche
+* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL.
+
+.. image :: ./IMG/paper_support_assembly_v1.png
+       :align: center
+
+* Répéter l'opération pour la partie droite
+
+.. image :: ./IMG/paper_support_assembly_right_v1.png
+       :align: center
+
+		
+* Vous devez obtenir une vue du dessus comme celle ci :
+
+
+.. image :: ./IMG/BrailleRAP-V5.100.jpg
        :align: center
 
 
@@ -792,37 +811,6 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.98.jpg
        :align: center
 
-Montage des guide-papiers sur la plaque
-----------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_1
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left_2
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_1
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right_2
-  * 4 vis M3-16
-  * 4 écrous M3 NYL
-
-.. NOTE:: Pour plus de clarté, nous avons isolé la partie concernée.
-
-.. image :: ./IMG/BrailleRAP-V5.102.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.101.jpg
-       :align: center
-
-* Assembler les guide-papiers sur la plaque avec les vis M3-16 et les écrous M3 NYL.
-
-
-.. image :: ./IMG/BrailleRAP-V5.99.jpg
-       :align: center
-
-* Vous devez obtenir une vue du dessus comme celle ci :
-
-
-.. image :: ./IMG/BrailleRAP-V5.100.jpg
-       :align: center
 
 
 * Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe.
