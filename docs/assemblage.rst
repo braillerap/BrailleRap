@@ -774,7 +774,7 @@ Matériel :
 .. NOTE:: Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois.
 
 
-	* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL.
+* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL.
 
 .. image :: ./IMG/paper_support_assembly_screw_v2.png
        :align: center
