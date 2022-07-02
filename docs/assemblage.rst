@@ -803,7 +803,9 @@ Collage de la plaque repose papier
 Matériel :
 
   * PAPER_support (contre-plaqué de 5mm découpé au laser).
-  * **Pièce(s) imprimée(s) en 3D** : 2 PAPER_raiser
+  * 3 Rouleaux papier préparés (avec joint et vis)
+  
+.. NOTE:: Coller la plaque uniquement si vous êtes sur du montage qui est en dessous. Si vous n'êtes pas sur, vous pouvez vous contenter de positionner la plaque support, vous la collerez à la fin quand l'embosseuse marchera.
 
 * Encoller les encoches qui vont être en contact. Introduire la plaque par l'avant et la maintenir fermement avec du ruban adhésif pendant le temps de séchage.
 
@@ -817,8 +819,7 @@ Matériel :
        :align: center
 
 
-
-* Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe.
+* Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe. Attention, sur ce schema il n'y a que deux rouleaux (image d'une ancienne version, mais c'est le meme principe)
 
 
 .. image :: ./IMG/BrailleRAP-V5.103.jpg
