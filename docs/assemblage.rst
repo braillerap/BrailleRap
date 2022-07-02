@@ -779,19 +779,18 @@ Matériel :
 .. image :: ./IMG/paper_support_assembly_screw_v2.png
        :align: center
 
-* Partie gauche
+* Partie gauche.
 
 .. image :: ./IMG/paper_support_assembly_v1.png
        :align: center
 
-* Répéter l'opération pour la partie droite
+* Répéter l'opération pour la partie droite.
 
 .. image :: ./IMG/paper_support_assembly_right_v1.png
        :align: center
 
 
-		
-* Vérifier que vous pouvez poser une feuille de papier sur le plateau sans que la feuille gondole. Si la feuille gondole, essayez d'écarter les guides papier avant le serrage :
+* Vérifier que vous pouvez poser une feuille de papier sur le plateau sans que la feuille gondole. Si la feuille gondole, essayez d'écarter les guides papier avant le serrage.
 
 .. image :: ./IMG/paper_support_assembly_papertest_v2.png
        :align: center
