@@ -371,7 +371,29 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.14.5.jpg
        :align: center
 
+Préparation des rouleaux papier
+------------------------------
+  * **Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint
+  * 1 taraud M3
+  * 3 joints toriques
+  * 6 vis M3-6 sans tête 
+  
+  * Tarauder les 3 ROLL_joint.
 
+.. image :: ./IMG/BrailleRAP-V5.41.jpg
+       :align: center
+
+* Mettre les joints toriques dans la gorge des 2 ROLL_joint.
+
+.. image :: ./IMG/BrailleRAP-V5.42.jpg
+       :align: center
+
+* Visser les vis M3-6 sans tête en s'assurant qu'elles ne dépassent pas à l'intérieur du trou. Vous devez pouvoir faire coulisser le rouleau sur un axe de 8 mm.
+
+.. image :: ./IMG/BrailleRAP-V5.43.jpg
+       :align: center
+
+  
 Montage du chariot bas (étape 2)
 ---------------------------------
 
@@ -409,7 +431,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.51.6.jpg
        :align: center
 
-Montage de l’axe vertical (étape 1)
+Préparation de l’axe vertical (étape 1)
 ------------------------------------
 
 Matériel :
@@ -427,6 +449,9 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.31.jpg
        :align: center
+
+Montage de l’axe vertical (étape 1)
+------------------------------------
 
 * Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16 en laissant du jeu.
 
@@ -547,15 +572,12 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.66.jpg
        :align: center
 
+
+  
 Montage de l’axe Y (étape 1)
 -----------------------------
 
 Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : 2 x ROLL_joint
-  * 1 taraud M3
-  * 2 joints toriques
-  * 2 vis M3-6 sans tête bout pointeau
   * 2 KFL8
   * 4 vis M5-18
   * 4 écrous M5 NYL
@@ -580,20 +602,6 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.70.jpg
        :align: center
 
-* Tarauder les 2 ROLL_joint.
-
-.. image :: ./IMG/BrailleRAP-V5.41.jpg
-       :align: center
-
-* Mettre les joints toriques dans la gorge des 2 ROLL_joint.
-
-.. image :: ./IMG/BrailleRAP-V5.42.jpg
-       :align: center
-
-* Visser les vis M3-5 sans tête en s'assurant qu'elles ne dépassent pas à l'intérieur du trou.
-
-.. image :: ./IMG/BrailleRAP-V5.43.jpg
-       :align: center
 
 * Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8.
 * Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 2 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
@@ -629,6 +637,27 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.72.jpg
        :align: center
+
+Montage des presse-papiers (étape 1) :
+----------------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : 3 CLIPBOARD
+  * **Pièce(s) imprimée(s) en 3D** : 3 CLIPBOARD_wheel
+  * 3 vis M3-20
+  * 3 écrous M3 NYL
+
+
+* Assembler les CLIPBOARD avec CLIPBOARD_wheel à l'aide des vis M3-20 et des écrous M3 NYL. Serrer doucement la vis en laissant la possibilité à la roue de tourner.
+
+.. image :: ./IMG/BrailleRAP-V5.113.jpg
+       :align: center
+
+
+.. image :: ./IMG/BrailleRAP-V5.114.jpg
+       :align: center
+
 
 Montage de l’axe Y (étape 2)
 -----------------------------
@@ -826,25 +855,7 @@ Matériel :
        :align: center
 
 
-Montage des presse-papiers (étape 1) :
-----------------------------------------
 
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD
-  * **Pièce(s) imprimée(s) en 3D** : 2 CLIPBOARD_wheel
-  * 2 vis M3-20
-  * 4 écrous M3 NYL
-
-
-* Assembler les CLIPBOARD avec CLIPBOARD_wheel à l'aide des vis M3-20 et des écrous M3 NYL. Serrer la vis en laissant la possibilité à la roue de tourner.
-
-.. image :: ./IMG/BrailleRAP-V5.113.jpg
-       :align: center
-
-
-.. image :: ./IMG/BrailleRAP-V5.114.jpg
-       :align: center
 
 
 Montage des presse-papiers (étape 2) :
@@ -852,14 +863,15 @@ Montage des presse-papiers (étape 2) :
 
 Matériel :
 
-  * 2 CLIPBOARD montés à l'étape 1
-  * 4 vis M3-14
-  * 4 rondelles M3 moyennes
-  * 4 écrous M3 NYL
+  * 3 CLIPBOARD montés à l'étape 1
+  * 6 vis M3-14
+  * 6 rondelles M3 moyennes
+  * 6 écrous M3 NYL
 
 
 .. NOTE:: Les trous oblongs dans les pièces imprimées permettent de régler la pression des CLIPBOARD sur le papier.
 
+.. NOTE:: Il est tres difficile, voire impossible d'avoir une pression correcte sur les 3 rouleaux. Le rouleaux du milieu sert uniquement si vous voules embosser de matérieux plus étroi qu'une feuille de papier A4 (par exemple un morceau de canette).
 
 .. image :: ./IMG/BrailleRAP-V5.104.jpg
        :align: center
