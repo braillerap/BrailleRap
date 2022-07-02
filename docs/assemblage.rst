@@ -7,9 +7,11 @@ Outillages necessaires
 	* Petite pinces
 	* Petite pince coupante
 	* Clés à tube 5.5 et 8
+	* Un taraud M3
 	* Colle à bois
 	* Scotch de peintre
-
+	
+	
 Remarques sur les vis
 --------------------
 
