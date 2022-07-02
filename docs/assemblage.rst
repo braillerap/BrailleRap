@@ -179,46 +179,26 @@ Préparation de supports d’axes
 .. image :: ./IMG/BrailleRAP-V5.11.jpg
        :align: center
 
-Fixation des supports GAUCHES des axes 
-----------------------------------------------
+Préparation de l’axe vertical (étape 1)
+------------------------------------
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * **Pièce(s) imprimée(s) en 3D** : XMOTOR_support
+  * 1 moteur NEMA 17
+  * 4 vis M3-8
+  * 2 vis M3-16
+  * 2 écrous M3 NYL
+  * 4 rondelles M3 grandes
 
-  * 4 vis BTR M3-14
-  * 4 rondelles M3 larges
-  * 4 écrous NYL M3
+* Visser le moteur sur son support en laissant un peu de jeu et en respectant la position du connecteur.
 
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
+.. Note:: Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
 
-.. image :: ./IMG/BrailleRAP-V5.12.1.jpg
+.. image :: ./IMG/BrailleRAP-V5.31.jpg
        :align: center
+	   
 
-.. image :: ./IMG/BrailleRAP-V5.12.2.jpg
-       :align: center
-
-Fixation des supports DROITS des axes
--------------------------------------
-
-Matériel :
-
-
-
-  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right
-  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-  * 4 vis BTR M3-14
-  * 4 rondelles M3 larges
-  * 4 écrous NYL M3
-
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right (attention à la position du repère) et TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
-
-.. image :: ./IMG/BrailleRAP-V5.12.3.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.12.4.jpg
-       :align: center
 
 Fixation des tendeurs de courroie
 ----------------------------------------------
@@ -269,7 +249,7 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : SWITCH_X_support
   * 1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)
-  * 1 vis sans tête M3-8
+  * 1 vis sans tête M3-12
   * 1 écrou M3
   * 2 vis M2.5-14
   * 2 écrous M2.5
@@ -278,7 +258,7 @@ Matériel :
 
 * Introduire un écrou M3 et visser une vis sans tête M3-8.
 
-.. image :: ./IMG/BrailleRAP-V5.57.jpg
+.. image :: ./IMG/BrailleRAP-V5.45.jpg
        :align: center
 
 * Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5.
@@ -321,6 +301,7 @@ Montage de l'electro-aimant sur son support
 
 .. image :: ./IMG/BrailleRAP-V5.19.jpg
        :align: center
+
 
 
 Montage du chariot bas (étape 1)
@@ -393,7 +374,47 @@ Préparation des rouleaux papier
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
        :align: center
 
-  
+Fixation des supports GAUCHES des axes 
+----------------------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+
+  * 4 vis BTR M3-14
+  * 4 rondelles M3 larges
+  * 4 écrous NYL M3
+
+* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
+
+.. image :: ./IMG/BrailleRAP-V5.12.1.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.12.2.jpg
+       :align: center
+
+Fixation des supports DROITS des axes
+-------------------------------------
+
+Matériel :
+
+
+
+  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right
+  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * 4 vis BTR M3-14
+  * 4 rondelles M3 larges
+  * 4 écrous NYL M3
+
+* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right (attention à la position du repère) et TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
+
+.. image :: ./IMG/BrailleRAP-V5.12.3.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.12.4.jpg
+       :align: center
+	   
 Montage du chariot bas (étape 2)
 ---------------------------------
 
@@ -431,24 +452,6 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.51.6.jpg
        :align: center
 
-Préparation de l’axe vertical (étape 1)
-------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : XMOTOR_support
-  * 1 moteur NEMA 17
-  * 4 vis M3-8
-  * 2 vis M3-16
-  * 2 écrous M3 NYL
-  * 4 rondelles M3 grandes
-
-* Visser le moteur sur son support en laissant un peu de jeu et en respectant la position du connecteur.
-
-.. Note:: Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
-
-.. image :: ./IMG/BrailleRAP-V5.31.jpg
-       :align: center
 
 Montage de l’axe vertical (étape 1)
 ------------------------------------
