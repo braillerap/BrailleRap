@@ -314,7 +314,7 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide
   * 3 paliers lineaires IGUS
   * 6 colliers de serrage 2.5 x 160
-  * 8 écrous M3 NYL
+  * 4 écrous M3 NYL
   * 2 vis M3-18
   * 2 vis M3-20
 
@@ -352,6 +352,11 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.14.5.jpg
        :align: center
 
+
+.. NOTE:: L'axe de l'electroaimant doit pouvoir monter et descendre librement sans effort.
+
+
+
 Préparation des rouleaux papier
 ------------------------------
   * **Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint
@@ -373,6 +378,7 @@ Préparation des rouleaux papier
 
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
        :align: center
+
 
 Fixation des supports GAUCHES des axes 
 ----------------------------------------------
@@ -622,44 +628,6 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.75.jpg
        :align: center
 
-Montage des molettes
------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : 2 x SCROLL_wheel
-  * 2 vis M3-8 sans tête **Michel, on t'a mis des M3-12 sans tête ;)**
-  * 2 écrous M3
-
-* Introduire les écrous M3 dans leur logement et y visser les vis M3-8 sans tête.
-
-.. image :: ./IMG/BrailleRAP-V5.71.jpg
-       :align: center
-
-* Fixer les molettes sur l'axe en vissant les vis M3-8 sans tête.
-
-.. image :: ./IMG/BrailleRAP-V5.72.jpg
-       :align: center
-
-Montage des presse-papiers (étape 1) :
-----------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : 3 CLIPBOARD
-  * **Pièce(s) imprimée(s) en 3D** : 3 CLIPBOARD_wheel
-  * 3 vis M3-20
-  * 3 écrous M3 NYL
-
-
-* Assembler les CLIPBOARD avec CLIPBOARD_wheel à l'aide des vis M3-20 et des écrous M3 NYL. Serrer doucement la vis en laissant la possibilité à la roue de tourner.
-
-.. image :: ./IMG/BrailleRAP-V5.113.jpg
-       :align: center
-
-
-.. image :: ./IMG/BrailleRAP-V5.114.jpg
-       :align: center
 
 
 Montage de l’axe Y (étape 2)
