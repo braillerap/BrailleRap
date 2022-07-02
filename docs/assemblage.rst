@@ -119,7 +119,7 @@ Matériel :
        :align: center
 
 
-Moteur Y
+Préparation Moteur Y
 ---------
 
 Matériel :
@@ -149,13 +149,6 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.05.jpg
        :align: center
 
-* Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
-
-.. image :: ./IMG/BrailleRAP-V5.06.1.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.07.1.jpg
-       :align: center
 
 Préparation des supports d’axes
 --------------------------------
@@ -312,7 +305,7 @@ Montage de l'electro-aimant sur son support
 
 
 
-Montage du chariot bas (étape 1)
+Préparation du chariot bas (étape 1)
 ---------------------------------
 
 Matériel :
@@ -385,6 +378,25 @@ Préparation des rouleaux papier
 * Visser les vis M3-6 sans tête en s'assurant qu'elles ne dépassent pas à l'intérieur du trou. Vous devez pouvoir faire coulisser le rouleau sur un axe de 8 mm.
 
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
+       :align: center
+
+Fixation Moteur Y
+--------------------
+
+Matériel :
+
+    
+    * le moteur Nema 17 monté sur la pièce YMOTOR_support    
+    * 2 vis M3-12
+    * 2 rondelles M3 larges
+
+
+* Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
+
+.. image :: ./IMG/BrailleRAP-V5.06.1.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.07.1.jpg
        :align: center
 
 
