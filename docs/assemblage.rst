@@ -8,6 +8,8 @@ Outillages necessaires
 	* Petite pince coupante
 	* Clés à tube 5.5 et 8
 	* Un taraud M3
+	* 1 foret de 8mm
+	* 1 foret de 3mm
 	* Colle à bois
 	* Scotch de peintre
 	
@@ -140,7 +142,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.04.jpg
        :align: center
 
-.. ATTENTION:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
+.. NOTE:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
 * Introduire les écrous NYL M3 dans le support moteur. Eventuellement les maintenir avec un petit bout de scotch de peintre.
 
@@ -155,11 +157,10 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.07.1.jpg
        :align: center
 
-Préparation de supports d’axes
+Préparation des supports d’axes
 --------------------------------
 
   * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left
-  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_right
   * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left
   * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right
   * 1 foret de 8mm
@@ -167,8 +168,13 @@ Préparation de supports d’axes
   * 8 vis M3-12 sans tête
 
 .. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
+* Les 3 pièces à assembler sont les suivantes 
 
-* Pour chacune des 4 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis M3-12.
+.. image :: ./IMG/Axis_assembly_v1.png
+       :align: center
+
+
+* Pour chacune des 3 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis M3-12.
 
 .. image :: ./IMG/BrailleRAP-V5.09.1.jpg
        :align: center
