@@ -765,7 +765,7 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left
   * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right
-  
+  * **PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)
   * 4 vis M3-16
   * 4 vis M3-12
   * 8 rondelles M3 Larges
@@ -791,11 +791,11 @@ Matériel :
 
 
 		
-* Vous devez obtenir une vue du dessus comme celle ci :
+* Vérifier que vous pouvez poser une feuille de papier sur le plateau sans que la feuille gondole. Si la feuille gondole, essayez d'écarter les guides papier avant le serrage :
 
-
-.. image :: ./IMG/BrailleRAP-V5.100.jpg
+.. image :: ./IMG/paper_support_assembly_papertest_v2.png
        :align: center
+
 
 
 Collage de la plaque repose papier
