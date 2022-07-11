@@ -6616,6 +6616,16 @@ inline void gcode_G92() {
           WRITE(SPINDLE_LASER_ENABLE_PIN, SPINDLE_LASER_ENABLE_INVERT);                                     // turn spindle on (active low)
           analogWrite(SPINDLE_LASER_PWM_PIN, ocr_val & 0xFF);                                               // only write low byte
           delay_for_power_up();
+		  #if BRAILLERAP_AUTODISABL_MAGNET
+		  // BRAILLERAP SGN disable electro magnet to avoid overheating
+		  if (spindle_laser_power < 2)
+		  {
+			WRITE(SPINDLE_LASER_ENABLE_PIN, !SPINDLE_LASER_ENABLE_INVERT);                                    // turn spindle off (active low)
+			analogWrite(SPINDLE_LASER_PWM_PIN, SPINDLE_LASER_PWM_INVERT ? 255 : 0);                           // only write low byte
+			delay_for_power_down();
+		  }
+		  //spindle_laser_power = 0;
+		  #endif
         }
       }
     #else

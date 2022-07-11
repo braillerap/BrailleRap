@@ -131,12 +131,13 @@
 // You can use an online service to generate a random UUID. (eg http://www.uuidgenerator.net/version4)
 //#define MACHINE_UUID "00000000-0000-0000-0000-000000000000"
 
-// BRAILLE RAP CONFIG
+// BRAILLE RAP CONFIG SGN
 #define SPINDLE_LASER_ENABLE
 #define SPINDLE_LASER_ENABLE_PIN  RAMPS_D8_PIN      // !!! sortie BED MOSFET
 #define SPINDLE_LASER_PWM_PIN     RAMPS_D10_PIN     // !!! sortie E0 MOSFET 
 #define SPINDLE_DIR_PIN           5                 // pin servo
-
+#define BRAILLERAP_ELECTROMAGNET_DELAY	50
+#define BRAILLERAP_AUTODISABL_MAGNET	1
     
 /*
 #if ENABLED(SPINDLE_LASER_ENABLE) && !PIN_EXISTS(SPINDLE_LASER_ENABLE)
