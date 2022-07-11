@@ -144,7 +144,7 @@ Matériel :
 
 .. NOTE:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
 
-* Introduire les écrous NYL M3 dans le support moteur. Eventuellement les maintenir avec un petit bout de scotch de peintre.
+* Introduire les écrous NYL M3 dans le support moteur. Les maintenir en place avec un petit bout de scotch de peintre.
 
 .. image :: ./IMG/BrailleRAP-V5.05.jpg
        :align: center
