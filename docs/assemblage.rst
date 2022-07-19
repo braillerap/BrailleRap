@@ -358,6 +358,76 @@ Matériel :
 .. NOTE:: L'axe de l'electroaimant doit pouvoir monter et descendre librement sans effort.
 
 
+Preparation du chariot haut (étape 1)
+----------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : TOP_trolley
+  * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape
+  * Taraud M3
+
+  * 1 vis sans tête M3-30
+  * 1 écrou borgne M3
+
+  * 2 vis M3-12
+  * 2 rondelles M3 moyennes
+  * 2 vis M3-20
+  * 4 écrous M3 NYL
+
+  * 3 IGUS_housing
+  * 6 vis M3-12
+  * 6 écrous M3 NYL
+
+* Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** empreinte allen.
+
+.. image :: ./IMG/BrailleRAP-V5.79.jpg
+       :align: center
+
+* Tarauder la FEMALE_shape au 2/3 en partant du haut.
+
+.. image :: ./IMG/BrailleRAP-V5.80.jpg
+       :align: center
+
+* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm.
+
+.. image :: ./IMG/BrailleRAP-V5.81.jpg
+       :align: center
+
+* Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu.
+
+.. image :: ./IMG/BrailleRAP-V5.82.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.83.jpg
+       :align: center
+
+* Positionner les paliers IGUS sur la piece TOP_trolley.
+
+.. image :: ./IMG/toptroley_assembly_empty_v3.png
+       :align: center
+
+.. image :: ./IMG/toptroley_assembly_norizlan_v3.png
+       :align: center
+
+* attacher les palliers IGUS avec des colliers de Fixation
+
+
+.. NOTE:: Attention au sens des colliers. La fixation du collier doit être vers les parois de la machine.
+
+
+.. image :: ./IMG/toptroley_assembly_v3.png
+       :align: center
+
+
+* Monter les vis M3-20 et les écrous M3.
+
+.. image :: ./IMG/BrailleRAP-V5.87.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.86.jpg
+       :align: center
+
 
 Préparation des rouleaux papier
 ------------------------------
@@ -677,68 +747,6 @@ Montage de l’axe Y (étape 2)
 * Retirer la plaque de contre plaqué.
 
 
-Montage du chariot haut (étape 1)
-----------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : TOP_trolley
-  * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape
-  * Taraud M3
-
-  * 1 vis sans tête M3-30
-  * 1 écrou borgne M3
-
-  * 2 vis M3-12
-  * 2 rondelles M3 moyennes
-  * 2 vis M3-20
-  * 4 écrous M3 NYL
-
-  * 3 IGUS_housing
-  * 6 vis M3-12
-  * 6 écrous M3 NYL
-
-* Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** empreinte allen.
-
-.. image :: ./IMG/BrailleRAP-V5.79.jpg
-       :align: center
-
-* Tarauder la FEMALE_shape au 2/3 en partant du haut.
-
-.. image :: ./IMG/BrailleRAP-V5.80.jpg
-       :align: center
-
-* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm.
-
-.. image :: ./IMG/BrailleRAP-V5.81.jpg
-       :align: center
-
-* Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu.
-
-.. image :: ./IMG/BrailleRAP-V5.82.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.83.jpg
-       :align: center
-
-* Positionner les IGUS dans les IGUS_housing en respectant le côté du blocage puis visser sur le chariot avec le M3-12 et les écrous M3 NYL.
-
-.. image :: ./IMG/BrailleRAP-V5.88.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.84.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.85.jpg
-       :align: center
-
-* Monter les vis M3-20 et les écrous M3.
-
-.. image :: ./IMG/BrailleRAP-V5.87.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.86.jpg
-       :align: center
 
 
 Montage du chariot haut (étape 2)
