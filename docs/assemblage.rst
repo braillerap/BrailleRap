@@ -982,6 +982,8 @@ Schéma général :
 .. image :: ./IMG/braillerap_cablage.png
        :align: center
 
+Photo de la carte assemblée
+
 .. image :: ./IMG/braillerap_carte.jpg
        :align: center
 
@@ -1003,17 +1005,22 @@ Matériel :
 Raccordement des moteurs à la carte
 ------------------------------------
 
-* à faire
+.. image :: ./IMG/brap_drivers.png
+              :align: center
+
 
 Câblage de l’électro-aimant
 ----------------------------
 
-* à faire
+.. image :: ./IMG/board_magnet.png
+              :align: center
+
 
 Câblage des interrupteurs fin de course
 ----------------------------------------
 
-* à faire
+.. image :: ./IMG/board_endstop.png
+              :align: center
 
 
 Alignement vertical des deux chariots
