@@ -414,7 +414,7 @@ Matériel :
 
 
 .. NOTE:: Attention au sens des colliers. La fixation du collier doit être vers les parois de la machine.
-
+.. NOTE:: Bloquer les IGUS dans le rainurage. Ne pas serrer les colliers trop fort, ils seront ajustés quand le chariot sera en place sur les rails linéaires
 
 .. image :: ./IMG/toptroley_assembly_v3.png
        :align: center
