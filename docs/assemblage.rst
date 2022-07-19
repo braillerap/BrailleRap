@@ -59,7 +59,7 @@ Matériel:
     * Colle à bois.
     * Scotch de peintre.
 
-* Préparer les 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM.
+* Préparer les 5 éléments: FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM.
 
 .. ATTENTION:: bien repérer la position des cotés (droit et gauche) et le fond. Utiliser les percages pour orienter les pièces comme sur la figure
 
@@ -243,6 +243,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.13.6.jpg
        :align: center
 
+
 Montage de l'interrupteur de fin de course X
 ---------------------------------------------
 
@@ -257,7 +258,7 @@ Matériel :
 
 .. Note:: Changer l'image avec support interrupteur (nouveau modèle).
 
-* Introduire un écrou M3 et visser une vis sans tête M3-8.
+* Introduire un écrou M3 et visser une vis sans tête M3-12.
 
 .. image :: ./IMG/BrailleRAP-V5.45.jpg
        :align: center
@@ -266,7 +267,7 @@ Matériel :
 
 .. Note:: L'interrupteur fin de course devra être câblé avant le montage.
 
-.. image :: ./IMG/BrailleRAP-V5.58.jpg
+.. image :: ./IMG/endtsopx_assembly_v1.png
        :align: center
 
 Préparation de l’électro-aimant
