@@ -299,8 +299,9 @@ Matériel :
 
 * Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL.
 
-.. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
-.. ATTENTION:: Notez que les fils de l'electro-aimant doivent sortir du coté ou il y a un seul pallier IGUS
+.. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise. Notez également que le corps de l'electro-aimant doit être le plus perpendiculaire possible à la plaque support (l'axe doit être au milieu du percage qui permet son pasage). 
+
+.. ATTENTION:: Notez que les fils de l'electro-aimant doivent sortir du coté ou il y a un seul pallier IGUS.
 
 .. image :: ./IMG/BrailleRAP-V5.14.3.jpg
        :align: center
