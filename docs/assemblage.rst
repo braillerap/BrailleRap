@@ -201,47 +201,7 @@ Matériel :
 	   
 
 
-Fixation des tendeurs de courroie
-----------------------------------------------
 
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing
-  * 2 vis BTR M3-20
-  * 2 rondelles M3 larges
-  * 2 écrous NYL M3
-
-
-* Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle.
-
-.. image :: ./IMG/BrailleRAP-V5.44.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.13.3.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.13.5.jpg
-       :align: center
-
-* Laisser un jeu de ±5mm.
-
-.. image :: ./IMG/BrailleRAP-V5.13.4.jpg
-       :align: center
-
-Pose des poulies libres de renvoi
-----------------------------------------------
-
-Matériel :
-
-  * 2 poulies libres 20 dents bore 3mm
-  * 2 vis BTR M3-25
-  * 2 écrous NYL M3
-
-
-* Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer.
-
-.. image :: ./IMG/BrailleRAP-V5.13.6.jpg
-       :align: center
 
 
 Montage de l'interrupteur de fin de course X
@@ -263,7 +223,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.45.jpg
        :align: center
 
-* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5.
+* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-14 et des écrous M2.5.
 
 .. Note:: L'interrupteur fin de course devra être câblé avant le montage.
 
@@ -451,6 +411,7 @@ Préparation des rouleaux papier
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
        :align: center
 
+
 Fixation Moteur Y
 --------------------
 
@@ -469,6 +430,7 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.07.1.jpg
        :align: center
+
 
 
 Fixation des supports GAUCHES des axes 
@@ -491,6 +453,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.12.2.jpg
        :align: center
 
+
 Fixation des supports DROITS des axes
 -------------------------------------
 
@@ -511,6 +474,51 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.12.4.jpg
        :align: center
+
+Fixation des tendeurs de courroie
+----------------------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing
+  * 2 vis BTR M3-20
+  * 2 rondelles M3 larges
+  * 2 écrous NYL M3
+
+
+* Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle.
+
+.. image :: ./IMG/BrailleRAP-V5.44.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.13.3.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.13.5.jpg
+       :align: center
+
+* Laisser un jeu de ±5mm.
+
+.. image :: ./IMG/BrailleRAP-V5.13.4.jpg
+       :align: center
+
+
+Assemblage des poulies libres de renvoi
+----------------------------------------------
+
+Matériel :
+
+  * 2 poulies libres 20 dents bore 3mm
+  * 2 vis BTR M3-25
+  * 2 écrous NYL M3
+
+
+* Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer.
+
+.. image :: ./IMG/BrailleRAP-V5.13.6.jpg
+       :align: center
+
+
 	   
 Montage du chariot bas (étape 2)
 ---------------------------------
@@ -653,6 +661,7 @@ Matériel :
        :align: center
 
 * S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support sur la caisse pour leur donner du jeu et refaire l’alignement.
+
 
 Montage de la courroie du chariot bas
 --------------------------------------
