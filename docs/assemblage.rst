@@ -59,7 +59,7 @@ Matériel:
     * Colle à bois.
     * Scotch de peintre.
 
-* Préparer les 5 éléments : FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM.
+* Préparer les 5 éléments: FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM.
 
 .. ATTENTION:: bien repérer la position des cotés (droit et gauche) et le fond. Utiliser les percages pour orienter les pièces comme sur la figure
 
@@ -201,47 +201,8 @@ Matériel :
 	   
 
 
-Fixation des tendeurs de courroie
-----------------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing
-  * 2 vis BTR M3-20
-  * 2 rondelles M3 larges
-  * 2 écrous NYL M3
 
 
-* Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle.
-
-.. image :: ./IMG/BrailleRAP-V5.44.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.13.3.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.13.5.jpg
-       :align: center
-
-* Laisser un jeu de ±5mm.
-
-.. image :: ./IMG/BrailleRAP-V5.13.4.jpg
-       :align: center
-
-Pose des poulies libres de renvoi
-----------------------------------------------
-
-Matériel :
-
-  * 2 poulies libres 20 dents bore 3mm
-  * 2 vis BTR M3-25
-  * 2 écrous NYL M3
-
-
-* Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer.
-
-.. image :: ./IMG/BrailleRAP-V5.13.6.jpg
-       :align: center
 
 Montage de l'interrupteur de fin de course X
 ---------------------------------------------
@@ -257,16 +218,16 @@ Matériel :
 
 .. Note:: Changer l'image avec support interrupteur (nouveau modèle).
 
-* Introduire un écrou M3 et visser une vis sans tête M3-8.
+* Introduire un écrou M3 et visser une vis sans tête M3-12.
 
 .. image :: ./IMG/BrailleRAP-V5.45.jpg
        :align: center
 
-* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-12 et des écrous M2.5.
+* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-14 et des écrous M2.5.
 
 .. Note:: L'interrupteur fin de course devra être câblé avant le montage.
 
-.. image :: ./IMG/BrailleRAP-V5.58.jpg
+.. image :: ./IMG/endtsopx_assembly_v1.png
        :align: center
 
 Préparation de l’électro-aimant
@@ -338,7 +299,9 @@ Matériel :
 
 * Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL.
 
-.. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise.
+.. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise. Notez également que le corps de l'electro-aimant doit être le plus perpendiculaire possible à la plaque support (l'axe doit être au milieu du percage qui permet son pasage). 
+
+.. ATTENTION:: Notez que les fils de l'electro-aimant doivent sortir du coté ou il y a un seul pallier IGUS.
 
 .. image :: ./IMG/BrailleRAP-V5.14.3.jpg
        :align: center
@@ -356,6 +319,76 @@ Matériel :
 
 .. NOTE:: L'axe de l'electroaimant doit pouvoir monter et descendre librement sans effort.
 
+
+Preparation du chariot haut (étape 1)
+----------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : TOP_trolley
+  * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape
+  * Taraud M3
+
+  * 1 vis sans tête M3-30
+  * 1 écrou borgne M3
+
+  * 2 vis M3-12
+  * 2 rondelles M3 moyennes
+  * 2 vis M3-20
+  * 4 écrous M3 NYL
+
+  * 3 IGUS_housing
+  * 6 vis M3-12
+  * 6 écrous M3 NYL
+
+* Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** empreinte allen.
+
+.. image :: ./IMG/BrailleRAP-V5.79.jpg
+       :align: center
+
+* Tarauder la FEMALE_shape au 2/3 en partant du haut.
+
+.. image :: ./IMG/BrailleRAP-V5.80.jpg
+       :align: center
+
+* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm.
+
+.. image :: ./IMG/BrailleRAP-V5.81.jpg
+       :align: center
+
+* Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu.
+
+.. image :: ./IMG/BrailleRAP-V5.82.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.83.jpg
+       :align: center
+
+* Positionner les paliers IGUS sur la piece TOP_trolley.
+
+.. image :: ./IMG/toptroley_assembly_empty_v3.png
+       :align: center
+
+.. image :: ./IMG/toptroley_assembly_norizlan_v3.png
+       :align: center
+
+* attacher les palliers IGUS avec des colliers de Fixation
+
+
+.. NOTE:: Attention au sens des colliers. La fixation du collier doit être vers les parois de la machine.
+.. NOTE:: Bloquer les IGUS dans le rainurage. Ne pas serrer les colliers trop fort, ils seront ajustés quand le chariot sera en place sur les rails linéaires
+
+.. image :: ./IMG/toptroley_assembly_v3.png
+       :align: center
+
+
+* Monter les vis M3-20 et les écrous M3.
+
+.. image :: ./IMG/BrailleRAP-V5.87.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.86.jpg
+       :align: center
 
 
 Préparation des rouleaux papier
@@ -380,6 +413,7 @@ Préparation des rouleaux papier
 .. image :: ./IMG/BrailleRAP-V5.43.jpg
        :align: center
 
+
 Fixation Moteur Y
 --------------------
 
@@ -398,6 +432,7 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.07.1.jpg
        :align: center
+
 
 
 Fixation des supports GAUCHES des axes 
@@ -420,6 +455,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.12.2.jpg
        :align: center
 
+
 Fixation des supports DROITS des axes
 -------------------------------------
 
@@ -440,6 +476,51 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.12.4.jpg
        :align: center
+
+Fixation des tendeurs de courroie
+----------------------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing
+  * 2 vis BTR M3-20
+  * 2 rondelles M3 larges
+  * 2 écrous NYL M3
+
+
+* Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle.
+
+.. image :: ./IMG/BrailleRAP-V5.44.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.13.3.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.13.5.jpg
+       :align: center
+
+* Laisser un jeu de ±5mm.
+
+.. image :: ./IMG/BrailleRAP-V5.13.4.jpg
+       :align: center
+
+
+Assemblage des poulies libres de renvoi
+----------------------------------------------
+
+Matériel :
+
+  * 2 poulies libres 20 dents bore 3mm
+  * 2 vis BTR M3-25
+  * 2 écrous NYL M3
+
+
+* Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer.
+
+.. image :: ./IMG/BrailleRAP-V5.13.6.jpg
+       :align: center
+
+
 	   
 Montage du chariot bas (étape 2)
 ---------------------------------
@@ -583,6 +664,7 @@ Matériel :
 
 * S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support sur la caisse pour leur donner du jeu et refaire l’alignement.
 
+
 Montage de la courroie du chariot bas
 --------------------------------------
 
@@ -676,68 +758,6 @@ Montage de l’axe Y (étape 2)
 * Retirer la plaque de contre plaqué.
 
 
-Montage du chariot haut (étape 1)
-----------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : TOP_trolley
-  * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape
-  * Taraud M3
-
-  * 1 vis sans tête M3-30
-  * 1 écrou borgne M3
-
-  * 2 vis M3-12
-  * 2 rondelles M3 moyennes
-  * 2 vis M3-20
-  * 4 écrous M3 NYL
-
-  * 3 IGUS_housing
-  * 6 vis M3-12
-  * 6 écrous M3 NYL
-
-* Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** empreinte allen.
-
-.. image :: ./IMG/BrailleRAP-V5.79.jpg
-       :align: center
-
-* Tarauder la FEMALE_shape au 2/3 en partant du haut.
-
-.. image :: ./IMG/BrailleRAP-V5.80.jpg
-       :align: center
-
-* Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm.
-
-.. image :: ./IMG/BrailleRAP-V5.81.jpg
-       :align: center
-
-* Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu.
-
-.. image :: ./IMG/BrailleRAP-V5.82.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.83.jpg
-       :align: center
-
-* Positionner les IGUS dans les IGUS_housing en respectant le côté du blocage puis visser sur le chariot avec le M3-12 et les écrous M3 NYL.
-
-.. image :: ./IMG/BrailleRAP-V5.88.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.84.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.85.jpg
-       :align: center
-
-* Monter les vis M3-20 et les écrous M3.
-
-.. image :: ./IMG/BrailleRAP-V5.87.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.86.jpg
-       :align: center
 
 
 Montage du chariot haut (étape 2)
@@ -752,7 +772,7 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.89.jpg
        :align: center
 
-* Enfiler le chariot bas sur les barres lisses.
+* Enfiler le chariot haut sur les barres lisses.
 
 .. image :: ./IMG/BrailleRAP-V5.90.jpg
        :align: center
@@ -973,6 +993,8 @@ Schéma général :
 .. image :: ./IMG/braillerap_cablage.png
        :align: center
 
+Photo de la carte assemblée
+
 .. image :: ./IMG/braillerap_carte.jpg
        :align: center
 
@@ -994,17 +1016,22 @@ Matériel :
 Raccordement des moteurs à la carte
 ------------------------------------
 
-* à faire
+.. image :: ./IMG/brap_drivers.png
+              :align: center
+
 
 Câblage de l’électro-aimant
 ----------------------------
 
-* à faire
+.. image :: ./IMG/board_magnet.png
+              :align: center
+
 
 Câblage des interrupteurs fin de course
 ----------------------------------------
 
-* à faire
+.. image :: ./IMG/board_endstop.png
+              :align: center
 
 
 Alignement vertical des deux chariots
