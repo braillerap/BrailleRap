@@ -1,6 +1,6 @@
 
 <figure>
-<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/brailleRAP_couv.jpg" alt="BrailleRAP image" style="width:60% align:center">
+<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo.png" alt="BrailleRAP image" style="width:50% align:center">
 </figure>
 
 # BrailleRap
