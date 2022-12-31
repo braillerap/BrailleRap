@@ -220,7 +220,9 @@ Matériel :
 
 * Introduire un écrou M3 et visser une vis sans tête M3-12.
 
-.. image :: ./IMG/BrailleRAP-V5.45.jpg
+.. image :: ./IMG/BrailleRAP-V5.45.png
+       :align: center
+.. image :: ./IMG/BrailleRAP-V5.45-1.png
        :align: center
 
 * Visser l'interrupteur fin de course sur son support (ENDSTOP_X_support) à l'aide des vis M2.5-14 et des écrous M2.5.
