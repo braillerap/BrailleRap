@@ -944,10 +944,11 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.104.jpg
        :align: center
 
-
+ 
 .. image :: ./IMG/BrailleRAP-V5.105.jpg
        :align: center
 
+ 
 
 
 Montage du fin de course Y 
