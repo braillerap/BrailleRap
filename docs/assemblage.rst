@@ -367,10 +367,10 @@ Matériel :
 
 * Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu.
 
-.. image :: ./IMG/BrailleRAP-V5.82.jpg
+.. image :: ./IMG/BrailleRAP-V5-82.png
        :align: center
 
-.. image :: ./IMG/BrailleRAP-V5.83.jpg
+.. image :: ./IMG/BrailleRAP-V5-83.png
        :align: center
 
 * Positionner les paliers IGUS sur la piece TOP_trolley.
@@ -393,10 +393,10 @@ Matériel :
 
 * Monter les vis M3-20 et les écrous M3.
 
-.. image :: ./IMG/BrailleRAP-V5.87.jpg
+.. image :: ./IMG/BrailleRAP-V5-86.png
        :align: center
 
-.. image :: ./IMG/BrailleRAP-V5.86.jpg
+.. image :: ./IMG/BrailleRAP-V5-87.png
        :align: center
 
 
