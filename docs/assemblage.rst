@@ -799,9 +799,76 @@ Montage de l’axe Y (étape 2)
 .. image :: ./IMG/BrailleRAP-V5.78.jpg
        :align: center
 
-* Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque. **AJOUTER IMAGE**
-* Quand les ROLL_joint sont bien en place, serrer les vis sans tête. **AJOUTER IMAGE**
+* Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque.
+* Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe. Attention, sur ce schema il n'y a que deux rouleaux (image d'une ancienne version, mais c'est le meme principe)
+
+.. image :: ./IMG/BrailleRAP-V5.103.jpg
+       :align: center
+
 * Retirer la plaque de contre plaqué.
+
+
+Montage des guide-papiers sur la plaque support
+-----------------------------------------------
+
+Matériel :
+
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right
+  * **PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)
+  * 4 vis M3-16
+  * 4 vis M3-12
+  * 8 rondelles M3 Larges
+  * 8 écrous M3 NYL
+
+.. NOTE:: Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois.
+
+
+* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL.
+
+.. image :: ./IMG/paper_support_assembly_screw_v2.png
+       :align: center
+
+* Partie gauche.
+
+.. image :: ./IMG/paper_support_assembly_v1.png
+       :align: center
+
+* Répéter l'opération pour la partie droite.
+
+.. image :: ./IMG/paper_support_assembly_right_v1.png
+       :align: center
+
+
+* Vérifier que vous pouvez poser une feuille de papier sur le plateau sans que la feuille gondole. Si la feuille gondole, essayez d'écarter les guides papier avant le serrage.
+
+.. image :: ./IMG/paper_support_assembly_papertest_v2.png
+       :align: center
+
+
+
+Collage de la plaque repose papier
+-------------------------------------
+
+Matériel :
+
+  * PAPER_support (contre-plaqué de 5mm découpé au laser).
+  * 3 Rouleaux papier préparés (avec joint et vis)
+  
+.. NOTE:: Coller la plaque uniquement si vous êtes sure du montage qui est en dessous. Si vous n'êtes pas sure, vous pouvez vous contenter de positionner la plaque support, vous la collerez à la fin quand l'embosseuse marchera.
+
+* Encoller les encoches qui vont être en contact. Introduire la plaque par l'arrière et la maintenir fermement avec du ruban adhésif pendant le temps de séchage.
+
+.. image :: ./IMG/BrailleRAP-V6.96.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.97.jpg
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.98.jpg
+       :align: center
+
+
 
 
 
@@ -862,78 +929,6 @@ Matériel :
 
 
 
-
-Montage des guide-papiers sur la plaque
-----------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right
-  * **PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)
-  * 4 vis M3-16
-  * 4 vis M3-12
-  * 8 rondelles M3 Larges
-  * 8 écrous M3 NYL
-
-.. NOTE:: Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois.
-
-
-* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL.
-
-.. image :: ./IMG/paper_support_assembly_screw_v2.png
-       :align: center
-
-* Partie gauche.
-
-.. image :: ./IMG/paper_support_assembly_v1.png
-       :align: center
-
-* Répéter l'opération pour la partie droite.
-
-.. image :: ./IMG/paper_support_assembly_right_v1.png
-       :align: center
-
-
-* Vérifier que vous pouvez poser une feuille de papier sur le plateau sans que la feuille gondole. Si la feuille gondole, essayez d'écarter les guides papier avant le serrage.
-
-.. image :: ./IMG/paper_support_assembly_papertest_v2.png
-       :align: center
-
-
-
-Collage de la plaque repose papier
--------------------------------------
-
-Matériel :
-
-  * PAPER_support (contre-plaqué de 5mm découpé au laser).
-  * 3 Rouleaux papier préparés (avec joint et vis)
-  
-.. NOTE:: Coller la plaque uniquement si vous êtes sur du montage qui est en dessous. Si vous n'êtes pas sur, vous pouvez vous contenter de positionner la plaque support, vous la collerez à la fin quand l'embosseuse marchera.
-
-* Encoller les encoches qui vont être en contact. Introduire la plaque par l'avant et la maintenir fermement avec du ruban adhésif pendant le temps de séchage.
-
-.. image :: ./IMG/BrailleRAP-V5.96.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.97.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.98.jpg
-       :align: center
-
-
-* Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe. Attention, sur ce schema il n'y a que deux rouleaux (image d'une ancienne version, mais c'est le meme principe)
-
-
-.. image :: ./IMG/BrailleRAP-V5.103.jpg
-       :align: center
-
-
-
-
-
 Montage des presse-papiers (étape 2) :
 ----------------------------------------
 
@@ -947,13 +942,13 @@ Matériel :
 
 .. NOTE:: Les trous oblongs dans les pièces imprimées permettent de régler la pression des CLIPBOARD sur le papier.
 
-.. NOTE:: Il est tres difficile, voire impossible d'avoir une pression correcte sur les 3 rouleaux. Le rouleaux du milieu sert uniquement si vous voules embosser de matérieux plus étroi qu'une feuille de papier A4 (par exemple un morceau de canette).
 
-.. image :: ./IMG/BrailleRAP-V5.104.jpg
+
+.. image :: ./IMG/BrailleRAP-V6.104.jpg
        :align: center
 
  
-.. image :: ./IMG/BrailleRAP-V5.105.jpg
+.. image :: ./IMG/BrailleRAP-V6.105.jpg
        :align: center
 
  
