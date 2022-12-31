@@ -223,11 +223,12 @@ Matériel :
 .. image :: ./IMG/BrailleRAP-V5.45.jpg
        :align: center
 
-* Visser l'interrupteur fin de course sur son support (SWITCH_X_support) à l'aide des vis M2.5-14 et des écrous M2.5.
+* Visser l'interrupteur fin de course sur son support (ENDSTOP_X_support) à l'aide des vis M2.5-14 et des écrous M2.5.
 
 .. Note:: L'interrupteur fin de course devra être câblé avant le montage.
+.. Note:: Attention au sens des vis 2.5. La tête de la vis doit être sous le microswitch pour permettre le passage de l'axe linéaire.
 
-.. image :: ./IMG/endtsopx_assembly_v1.png
+.. image :: ./IMG/endtsopx_assembly.png
        :align: center
 
 Préparation de l’électro-aimant
@@ -243,13 +244,14 @@ Matériel :
 
 * Visser l’entretoise à fond sur l’électro-aimant.
 
-.. image :: ./IMG/BrailleRAP-V5.16.jpg
+.. image :: ./IMG/BrailleRAP-V5.16.png
        :align: center
 
 * Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise.
 
-.. image :: ./IMG/BrailleRAP-V5.17.jpg
+.. image :: ./IMG/BrailleRAP-V5.17.png
        :align: center
+
 
 Montage de l'electro-aimant sur son support
 -------------------------------------------
@@ -261,10 +263,14 @@ Montage de l'electro-aimant sur son support
 
 .. ATTENTION:: Respecter le côté de sortie des fils c'est important.
 
-.. image :: ./IMG/BrailleRAP-V5.19.jpg
+
+.. image :: ./IMG/BrailleRAP-V5.19.png
        :align: center
 
+.. NOTE:: Veuiller à aligner soigneusement le bord du support et le bord de l'electro-aimant
 
+.. image :: ./IMG/BrailleRAP-V5.19-1.png
+       :align: center
 
 Préparation du chariot bas (étape 1)
 ---------------------------------
@@ -303,17 +309,20 @@ Matériel :
 
 .. ATTENTION:: Notez que les fils de l'electro-aimant doivent sortir du coté ou il y a un seul pallier IGUS.
 
-.. image :: ./IMG/BrailleRAP-V5.14.3.jpg
+.. image :: ./IMG/BrailleRAP-V5.14-3.png
        :align: center
 
 * Visser les deux vis M3-20 (qui retiendront la courroie) et 2 écrous M3 NYL avec la tête de vis en dessous.
 
-.. image :: ./IMG/BrailleRAP-V5.14.4.jpg
+.. image :: ./IMG/BrailleRAP-V5.14-4.png
        :align: center
 
 * Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise.
 
-.. image :: ./IMG/BrailleRAP-V5.14.5.jpg
+.. image :: ./IMG/BrailleRAP-V5.14-5.png
+       :align: center
+
+.. image :: ./IMG/BrailleRAP-V5.18.png
        :align: center
 
 
