@@ -909,7 +909,7 @@ Montage du fin de course Y 
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : SWITCH_Y_support
+  * **Pièce(s) imprimée(s) en 3D** : ENDSTOP_Y_support, ENDSTOP_Y_lever
   * 2 vis M3-14
   * 2 rondelles M3 moyennes
   * 2 écrous M3 NYL
@@ -919,29 +919,47 @@ Matériel :
 
 .. NOTE:: L'interrupteur fin de course à lamelle devra être câblé avant d'être monté sur son support (non représenté).
 
+* Tarauder le support de la vis de reglage avec un taraud M3
 
-* Assembler l'interrupteur fin de course et le SWITCH_Y_support à l'aide des vis M2.5-14 et des écrous M2.5 NYL.
+.. image :: ./IMG/BrailleRAP-V6.106.png
+       :align: center
 
+* Positionner le levier **ENDSTOP_Y_LEVER** dans le support **ENDSTOP_Y_support**.
 
-.. image :: ./IMG/BrailleRAP-V5.106.jpg
+.. image :: ./IMG/BrailleRAP-V6.106.1.png
+       :align: center
+
+* Fixer le levier **ENDSTOP_Y_LEVER** au support **ENDSTOP_Y_support** avec une vis M3-20 et un écrou M3-NYL
+
+.. NOTE:: Ne pas serrer l'ecrou M3, le levier doit pouvoir tourner librement dans son support.
+
+.. image :: ./IMG/BrailleRAP-V6.106.2.png
+       :align: center
+.. image :: ./IMG/BrailleRAP-V6.106.3.png
        :align: center
 
 
-.. image :: ./IMG/BrailleRAP-V5.107.jpg
+* Assembler l'interrupteur fin de course et le **ENDSTOP_Y_support** à l'aide des vis M2.5-14 et des écrous M2.5 NYL.
+
+.. image :: ./IMG/BrailleRAP-V6.106.4.png
+       :align: center
+.. image :: ./IMG/BrailleRAP-V6.106.5.png
        :align: center
 
 
-.. NOTE:: La position de l'interrupteur dans les trous oblongs sera réglée à la fin de l'assemblage et les vis serrées.
+* Positionner la vis de reglage M3-12 sur le levier **ENDSTOP_Y_LEVER**
 
-
-* Assembler l'ensemble interrupteur fin de course et le SWITCH_Y_support sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL.
-
-
-.. image :: ./IMG/BrailleRAP-V5.108.jpg
+.. image :: ./IMG/BrailleRAP-V6.106.6.png
        :align: center
 
 
-.. image :: ./IMG/BrailleRAP-V5.109.jpg
+* Assembler l'ensemble interrupteur fin de course et le **ENDSTOP_Y_support** sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL.
+
+.. image :: ./IMG/BrailleRAP-V6.107.jpg
+       :align: center
+
+
+.. image :: ./IMG/BrailleRAP-V6.108.jpg
        :align: center
 
 
