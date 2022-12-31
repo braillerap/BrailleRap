@@ -441,9 +441,17 @@ Préparation des presse-papiers (étape 1) :
   .. image :: ./IMG/BrailleRAP-V6.113.1.png
        :align: center
   
+
   * Assembler le ressort avec **clipboard2** et **clipboard2_support** avec une vis M3-25 et un écrou M3-NYL.       
+  .. NOTE:: Ne pas serrer l'écrou M3-NYL **clipboard2** et **clipboard2_support** doivent pouvoir bouger librement.
   .. image :: ./IMG/BrailleRAP-V6.113.2.png
        :align: center
+  
+  * Assembler le rouleau avec **CLIPBOARD2_WHEEL** avec **clipboard2** à l'aide une vis M3-20 et d'un écrou M3-NYL. 
+  .. NOTE:: Ne pas serrer l'écrou M3-NYL **CLIPBOARD2_WHEEL** doit pouvoir tourner librement.      
+  .. image :: ./IMG/BrailleRAP-V6.113.3.png
+       :align: center
+
 
 Fixation Moteur Y :
 -------------------
