@@ -425,8 +425,28 @@ Préparation des rouleaux papier
        :align: center
 
 
-Fixation Moteur Y
---------------------
+Préparation des presse-papiers (étape 1) :
+------------------------------------------
+  * **Pièce(s) imprimée(s) en 3D** : 3 x **clipboard2_support**  3 x **clipboard2** 3 x **CLIPBOARD2_WHEEL**
+  * 3 vis M3-25
+  * 3 vis M3-20
+  * 3 ressorts tendeurs de courroie GT2
+  * 6 ecrous M3-NYL
+
+  * Positionner le presse papier **clipboard2** par rapport au support **clipboard2_support**.
+  .. image :: ./IMG/BrailleRAP-V6.113.png
+       :align: center
+
+  * Positionner le ressort entre **clipboard2** et **clipboard2_support**.       
+  .. image :: ./IMG/BrailleRAP-V6.113.1.png
+       :align: center
+  
+  * Assembler le ressort avec **clipboard2** et **clipboard2_support** avec une vis M3-25 et un écrou M3-NYL.       
+  .. image :: ./IMG/BrailleRAP-V6.113.2.png
+       :align: center
+
+Fixation Moteur Y :
+-------------------
 
 Matériel :
 
@@ -684,10 +704,17 @@ Matériel :
   * 1 courroie GT2 longueur ± 620mm
   * 2 colliers
 
-* A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur. **AJOUTER IMAGE**
+* A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur.
+.. image :: ./IMG/BrailleRAP-V6.66.1.jpg
+       :align: center
+
 * Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
-* Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier. **AJOUTER IMAGE**
-* Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. **AJOUTER IMAGE**
+.. image :: ./IMG/BrailleRAP-V6.66.2.jpg
+       :align: center
+
+* Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier. 
+
+* Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. 
 
 .. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.
 
@@ -808,6 +835,25 @@ Matériel :
 
 Pose de la courroie du chariot haut
 --------------------------------------
+Matériel :
+
+  * 1 courroie GT2 longueur ± 620mm
+  * 2 colliers
+
+* A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur.
+.. image :: ./IMG/BrailleRAP-V6.66.1.jpg
+       :align: center
+
+* Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
+.. image :: ./IMG/BrailleRAP-V6.66.2.jpg
+       :align: center
+
+* Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier. 
+
+* Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. 
+
+
+
 
 Montage des guide-papiers sur la plaque
 ----------------------------------------
@@ -911,8 +957,10 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : ENDSTOP_Y_support, ENDSTOP_Y_lever
   * 2 vis M3-14
+  * 1 vis M3-12
+  * 1 vis M3-20
   * 2 rondelles M3 moyennes
-  * 2 écrous M3 NYL
+  * 3 écrous M3 NYL
   * 1 interrupteur fin de course à lamelle
   * 2 vis M2.5-14
   * 2 écrous M2.5 NYL
