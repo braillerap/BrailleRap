@@ -1106,8 +1106,8 @@ Réglage des drivers moteur
 --------------------------
 .. NOTE:: Cette étape doit **IMPERATIVEMENT** être réaliser **avant** le cablage des moteurs.
 
-* Controler que vous pouvez brancher l'alimentation 12V sur la carte.
-* Brancher l'alimentation 12 V sur la carte
+* Controler que vous pouvez brancher l'alimentation 12V sur la carte (un dernier controle pour eviter des etincelles c'est mieux :-) )
+* Brancher l'alimentation 12 V sur la carte.
 * pour chaque driver, mesurer, avec un multimètre, la tension entre le potentiomètre de réglage et la masse de la connexion USB.
 .. image :: ./IMG/mks_driver_voltage.jpg
               :align: center
@@ -1129,7 +1129,6 @@ Câblage des interrupteurs fin de course
               :align: center
 
 
-
 Raccordement des moteurs à la carte
 ------------------------------------
 * Relier les moteurs à la carte de contrôle avec les cables.
@@ -1143,8 +1142,6 @@ Raccordement des moteurs à la carte
 
 Câblage de l’électro-aimant
 ----------------------------
-
-
 * placer les 2 fils de l'electroaimant et la diode de roue libre. Attention au sens de la diode (trait blanc).
 .. image :: ./IMG/board_magnet.jpg
        :align: center
@@ -1181,15 +1178,17 @@ Alignement vertical des deux chariots
 Ajustement des capteurs de fin de course chariot et papier (X et Y)
 -------------------------------------------------------------------
 
-* Serrer la vis du endstop X
+* Ajuster la position du capteur fin de course X. Le capteur doit s'activer avant que la fixation de la courroie du chariot bas rencontre la poulie inférieure de l'axe verticale.
+
+* Avec une feuille de papier, ajuster le fin de course Y pour que le capteur s'active quand une feuille est présente sous le levier du capteur. Et se désactive sila feuille de papier n'a pas encore déplacée le levier.
+.. image :: ./IMG/endstopy_adjust.jpg
+       :align: center
 
 
 Réglage de la profondeur du point
 ----------------------------------------------------
 
 * Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette), vous devrez régler la hauteur de l'empreinte du chariot haut à l'aide de l'écrou borgne. *
-
-
 
 .. image :: ./IMG/BrailleRAP-V5.112.jpg
        :align: center
