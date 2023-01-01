@@ -1095,6 +1095,12 @@ Matériel :
 .. image :: ./IMG/brap_drivers.png
               :align: center
 
+Câblage de l'alimentation 12V
+----------------------------
+* placer les 2 fils de provenant de la prise **POWER_plate** dans le bornier de la carte MKS
+.. image :: ./IMG/board_12V.jpg
+              :align: center
+
 
 Réglage des drivers moteur
 --------------------------
@@ -1119,7 +1125,7 @@ Câblage des interrupteurs fin de course
 * Cabler les fins de courses sur la carte.
 * Le fin de course X (chariot) doit être branché sur le connecteur de gauche (rouge)
 * Le fin de course Y (détection papier) doit être branché sur le connecteur de gauche (bleu)
-.. image :: ./IMG/board_endstop.png
+.. image :: ./IMG/board_endstop.jpg
               :align: center
 
 
@@ -1134,27 +1140,46 @@ Raccordement des moteurs à la carte
               :align: center
 
 
+
 Câblage de l’électro-aimant
 ----------------------------
 
-.. image :: ./IMG/board_magnet.png
-              :align: center
 
+* placer les 2 fils de l'electroaimant et la diode de roue libre. Attention au sens de la diode (trait blanc).
+.. image :: ./IMG/board_magnet.jpg
+       :align: center
 
+Alignement horizontal de l'empreinte du chariot haut
+----------------------------------------------------
+* Dé serrer la poulie sur l’axe vertical pour libérer le chariot supérieur.
+.. image :: ./IMG/toppulley_fix.jpg
+       :align: center
+* Aligner les 2 chariots
+* Déplacer le chariot supérieur pour aligner l'empreinte (**FEMALE_shape**) avec le sommet du pointeau.
+* Utiliser les vis de fixation de la **FEMALE_shape** pour aligner l'empreinte avec le sommet du pointeau.
+* Quand l'alignement est satisfaisant, serrer les vis de fixations de la **FEMALE_shape**.
+.. image :: ./IMG/female_fix1.jpg
+       :align: center
+.. image :: ./IMG/female_fix2.jpg
+       :align: center
 
 Alignement vertical des deux chariots
 --------------------------------------
 
-* à faire
+* Dé serrer la poulie du chariot supérieur sur l’axe vertical pour libérer le chariot supérieur.
+.. image :: ./IMG/toppulley_fix.jpg
+       :align: center
+* En observant par l'arriere de la machine, monter le pointeau en appuyant avec le doigt sous l'electro-aimant.
+* Déplacer le chariot supérieur pour aligner l'empreinte (**FEMALE_shape**) avec le sommet du pointeau.
+* Logiquement le pointeau doit entrer légérement dans la vis sans tête de la **FEMALE_shape**.
+.. image :: ./IMG/magnet_align.jpg
+       :align: center
+* Quand l'alignement est satifaisant, verouiller la poulie supérieure sur l'axe vertical.
+.. image :: ./IMG/toppulley_fix.jpg
+       :align: center
 
-
-* Serrer les poulies sur l’axe vertical. 
-
-Alignement horizontal de l'empreinte du chariot haut
-----------------------------------------------------
-
-
-A ne pas oublier
+Ajustement des capteurs de fin de course chariot et papier (X et Y)
+-------------------------------------------------------------------
 
 * Serrer la vis du endstop X
 
