@@ -715,13 +715,13 @@ Matériel :
 * A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur.
 .. image :: ./IMG/BrailleRAP-V6.66.1.jpg
        :align: center
-
+|
 
 
 * Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
 .. image :: ./IMG/BrailleRAP-V6.66.2.jpg
        :align: center
- 
+| 
 
 
 * Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier. 
@@ -729,14 +729,14 @@ Matériel :
 * Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. 
 .. image :: ./IMG/pulley_tensioner_down.jpg
        :align: center
-
+|
  
 
 .. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.
 
 .. image :: ./IMG/BrailleRAP-V5.66.jpg
        :align: center
-
+|
 
   
 Montage de l’axe Y (étape 1)
