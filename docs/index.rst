@@ -21,6 +21,7 @@ Contenu:
 
 .. index:: history, licence, bom, marlin, assemblage, firstembossingpage
 
+Last change: |today|
 
 
 
