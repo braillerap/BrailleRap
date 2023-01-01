@@ -1115,6 +1115,8 @@ Réglage des drivers moteur
               :align: center
 .. image :: ./IMG/mks_driver_voltage2.jpg
               :align: center
+.. image :: ./IMG/mks_driver_voltage3.jpg
+              :align: center
 
 * La tension mesurée doit être proche de 0,6 V pour des drivers DRV8825, si ce n'est pas le cas, utiliser un tournevis pour tourner le potentiomêtre de réglage et refaite la mesure.
 * Une fois que la tension mesurée sur chaque driver est correcte, vous pouvez passer à la suite
@@ -1133,12 +1135,11 @@ Raccordement des moteurs à la carte
 ------------------------------------
 * Relier les moteurs à la carte de contrôle avec les cables.
 * Le moteur X (chariot) doit être branché dans le connecteur de gauche (rouge)
-* Le moteur Y (papier) doit être branché dans le connecteur de droite (bleu)
-
-.. image :: ./IMG/brap_drivers.png
+.. image :: ./IMG/brap_motorx.jpg
               :align: center
-
-
+* Le moteur Y (papier) doit être branché dans le connecteur de droite (bleu)
+.. image :: ./IMG/brap_motory.jpg
+              :align: center
 
 Câblage de l’électro-aimant
 ----------------------------
