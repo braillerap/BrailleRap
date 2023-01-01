@@ -1016,7 +1016,7 @@ Matériel :
 
 
 Fixation des clips sur le couvercle
---------------------------------------
+-----------------------------------
 
 Matériel :
 
@@ -1050,8 +1050,8 @@ Matériel :
        :align: center
 
 
-Montage de la carte électronique sur la caisse
------------------------------------------------
+Montage de la carte électronique
+--------------------------------
 
 Matériel :
 
@@ -1061,14 +1061,12 @@ Matériel :
   * 8 vis M3-10
 
 * Assembler les 4 entretoises sur la carte. 
-* Assembler la carte sur la caisse.  
+
+.. NOTE:: Pour pouvoir réaliser les derniers réglages facilement, nous vous conseillons de cabler la carte en dehors du chassis. Une fois l'embosseuse fonctionelle, vous pourrez fixer la carte dans le chassis.
 
 
-
-
-Pose des drivers sur la carte électronique
--------------------------------------------
-
+Cablage de la carte électronique
+--------------------------------
 Schéma général :
 
 .. image :: ./IMG/braillerap_cablage.png
@@ -1078,6 +1076,10 @@ Photo de la carte assemblée
 
 .. image :: ./IMG/braillerap_carte.jpg
        :align: center
+
+
+Pose des drivers sur la carte électronique
+-------------------------------------------
 
 Matériel :
 
@@ -1094,8 +1096,39 @@ Matériel :
               :align: center
 
 
+Réglage des drivers moteur
+--------------------------
+.. NOTE:: Cette étape doit **IMPERATIVEMENT** être réaliser **avant** le cablage des moteurs.
+
+* Controler que vous pouvez brancher l'alimentation 12V sur la carte.
+* Brancher l'alimentation 12 V sur la carte
+* pour chaque driver, mesurer, avec un multimètre, la tension entre le potentiomètre de réglage et la masse de la connexion USB.
+.. image :: ./IMG/mks_driver_voltage.jpg
+              :align: center
+.. image :: ./IMG/mks_driver_voltage1.jpg
+              :align: center
+.. image :: ./IMG/mks_driver_voltage2.jpg
+              :align: center
+
+* La tension mesurée doit être proche de 0,6 V pour des drivers DRV8825, si ce n'est pas le cas, utiliser un tournevis pour tourner le potentiomêtre de réglage et refaite la mesure.
+* Une fois que la tension mesurée sur chaque driver est correcte, vous pouvez passer à la suite
+
+
+Câblage des interrupteurs fin de course
+----------------------------------------
+* Cabler les fins de courses sur la carte.
+* Le fin de course X (chariot) doit être branché sur le connecteur de gauche (rouge)
+* Le fin de course Y (détection papier) doit être branché sur le connecteur de gauche (bleu)
+.. image :: ./IMG/board_endstop.png
+              :align: center
+
+
+
 Raccordement des moteurs à la carte
 ------------------------------------
+* Relier les moteurs à la carte de contrôle avec les cables.
+* Le moteur X (chariot) doit être branché dans le connecteur de gauche (rouge)
+* Le moteur Y (papier) doit être branché dans le connecteur de droite (bleu)
 
 .. image :: ./IMG/brap_drivers.png
               :align: center
@@ -1107,12 +1140,6 @@ Câblage de l’électro-aimant
 .. image :: ./IMG/board_magnet.png
               :align: center
 
-
-Câblage des interrupteurs fin de course
-----------------------------------------
-
-.. image :: ./IMG/board_endstop.png
-              :align: center
 
 
 Alignement vertical des deux chariots
