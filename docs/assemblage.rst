@@ -1107,7 +1107,7 @@ Matériel :
 Câblage de l'alimentation 12V
 ----------------------------
 * placer les 2 fils de provenant de la prise **POWER_plate** dans le bornier de la carte MKS
-.. image :: ./IMG/board_12V.jpg
+.. image :: ./IMG/board_12v.jpg
               :align: center
 
 
