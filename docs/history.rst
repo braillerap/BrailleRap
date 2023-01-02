@@ -4,9 +4,9 @@ Historique du projet
 Le commencement
 ---------------
 
-En 2016 l'association \*MyHumanKit\* organise en collaboration avec \*Airbus Industries\* un hackaton appelé Fabrikarium. 
+En 2016 l'association **MyHumanKit** organise en collaboration avec **Airbus Industries** un hackaton appelé Fabrikarium. 
 
-Pendant le Fabrikarium plusieurs travaux ont été réalisés pour modifier des imprimantes 3D afin d'embosser du \**Braille\** sur du papier 160g, 
+Pendant le Fabrikarium plusieurs travaux ont été réalisés pour modifier des imprimantes 3D afin d'embosser du **Braille** sur du papier 160g, 
 
 Le projet s'appelait `BrailleRap <https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-en.md>`_.
 
