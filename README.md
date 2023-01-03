@@ -3,7 +3,7 @@
 <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo.png" alt="BrailleRAP image" style="width:50% align:center">
 </figure>
 
-# BrailleRap
+# BrailleRap 6.3
 
 Embosseuse Braille Open Source DIY
 
