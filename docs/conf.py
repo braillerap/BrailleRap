@@ -32,8 +32,8 @@ master_doc = 'index'
 project = u'BrailleRap'
 copyright = '2018-{}, BrailleRap'
 
-version = '1.0'
-release = '1.0'
+version = '6.3.0'
+release = '6.3.0'
 exclude_patterns = ['_build']
 default_role = 'obj'
 pygments_style = 'sphinx'
