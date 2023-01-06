@@ -51,7 +51,7 @@ L'opération BrailleRAP Cameroun à donné lieu à la réalisation de 2 fiches d
 
 Ainsi qu'a des fiches qui décrivent les experimentations menées en marge des ateliers.
 
-- Atelier non voyants : `représentation mentale de machine de fabrication numérique <https://forgecc.org/?RepresentationMentaleDUneImprimanteBraille2>`_
+- Atelier non voyants  `représentation mentale <https://forgecc.org/?RepresentationMentaleDUneImprimanteBraille2>`_
 
 Plus de détails sur l'opération `ici <https://forgecc.org/?BraillerapCameroun>`_
 
