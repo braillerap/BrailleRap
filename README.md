@@ -6,6 +6,7 @@
 # BrailleRap 6.3
 
 Embosseuse Braille Open Source DIY
+[![Documentation Status](https://readthedocs.org/projects/braillerap/badge/?version=latest)](https://braillerap.readthedocs.io/fr/latest/?badge=latest)
 
 La documentation complete est disponible ici http://braillerap.readthedocs.io/fr/latest/index.html
 
