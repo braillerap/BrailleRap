@@ -39,15 +39,17 @@ En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, nous repr
 
 BrailleRap Cameroun
 -------------------
-Toujours en 2022, le 'CCLab<https://forgecc.org>' nous confie la préparation et la réalisation de 4 ateliers grand public au Cameroun. C'est l'opération BrailleRAP Cameroun'. 
+Toujours en 2022, le `CCLab <https://forgecc.org>`_ nous confie la préparation et la réalisation de 4 ateliers grand public au Cameroun. C'est l'opération BrailleRAP Cameroun'. 
 2 ateliers grand public, 2 master class dans 4 villes du Cameroun en collaboration avec le CCLab et les partenaires Camerounais.
 C'est l'occasion pendant 3 semaines, de confronter une nouvelle fois le projet au grand public: non voyants, makers, associations, établissements d'enseignements. Tout cela dans un contexte international très différent de nos activités habituelles.
 Une experience riche en rencontres exceptionelles, en anecdotes, en expérimentations et en nouvelles idées d'évolutions et d'améliorations.
 L'opération BrailleRAP Cameroun à donné lieu à la réalisation de 2 fiches de conduite d'atelier :
-- Fiche de conduite 'atelier grand public <https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>'
-- Fiche de conduite 'master class <https://forgecc.org/?MasterClassBraillerapCameroun2>'
+- Fiche de conduite `atelier grand public <https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_
+- Fiche de conduite `master class <https://forgecc.org/?MasterClassBraillerapCameroun2>`_
+Ainsi qu'a des fiches qui décrivent les experimentations menées en marge des ateliers.
+- Atelier non voyants : `représentation mentale de machine de fabrication numérique https://forgecc.org/?RepresentationMentaleDUneImprimanteBraille2`_
 
-Plus de détails sur l'opération 'ici <https://forgecc.org/?BraillerapCameroun>'
+Plus de détails sur l'opération `ici <https://forgecc.org/?BraillerapCameroun>`_
 .. image :: ./IMG/yaounde.jpg
        :align: center
 
