@@ -1197,7 +1197,7 @@ Ajustement des capteurs de fin de course chariot et papier (X et Y)
 
 * Ajuster la position du capteur fin de course X. Le capteur doit s'activer avant que la fixation de la courroie du chariot bas rencontre la poulie inférieure de l'axe verticale.
 
-* Avec une feuille de papier, ajuster le fin de course Y pour que le capteur s'active quand une feuille est présente sous le levier du capteur. Et se désactive sila feuille de papier n'a pas encore déplacée le levier.
+* Avec une feuille de papier, ajuster le fin de course Y pour que le capteur s'active quand une feuille est présente sous le levier du capteur. Et se désactive si la feuille de papier n'a pas encore déplacée le levier.
 .. image :: ./IMG/endstopy_adjust.jpg
        :align: center
 |
