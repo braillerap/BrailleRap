@@ -39,7 +39,7 @@ msgid "Clés à tube 5.5 et 8"
 msgstr "Tube wrenches 5.5 and 8"
 
 #: ../../assemblage.rst:10 8a03992e2255455585d4998ebf216830
-#, fuzzy
+#
 msgid "Un taraud M3"
 msgstr "One M3 tap"
 
