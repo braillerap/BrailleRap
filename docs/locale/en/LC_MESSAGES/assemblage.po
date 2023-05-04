@@ -23,7 +23,6 @@ msgid "Outillages necessaires"
 msgstr "Necessary tools"
 
 #: ../../assemblage.rst:7
-#, fuzzy
 msgid "Petites pinces."
 msgstr "Small pliers."
 
@@ -167,7 +166,6 @@ msgid "4 disques en bois récupérés de la découpe laser du couvercle."
 msgstr "4 wooden discs recovered from the laser cutting of the lid."
 
 #: ../../assemblage.rst:92
-#, fuzzy
 msgid ""
 "Coller les 4 disques de bois sur la façade arrière à l'intérieur de la "
 "caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la "
@@ -177,22 +175,19 @@ msgstr ""
 "will hold the access hatch inside the machine."
 
 #: ../../assemblage.rst:100
-#, fuzzy
 msgid "Collage du plateau papier"
 msgstr "Bonding of the paper plate"
 
 #: ../../assemblage.rst:102
-#, fuzzy
 msgid "Support papier supérieur."
 msgstr "Upper paper support"
 
 #: ../../assemblage.rst:103
-#, fuzzy
+
 msgid "Support papier inférieur."
 msgstr "Lower paper support"
 
 #: ../../assemblage.rst:105
-#, fuzzy
 msgid "Pinces de serrage."
 msgstr "Collets"
 
