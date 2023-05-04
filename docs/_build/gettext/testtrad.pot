@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-{}, BrailleRap
+# This file is distributed under the same license as the BrailleRap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BrailleRap 6.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-04 09:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../testtrad.rst:2
+#: c36d5df1c52f4d189fc7bd9d4ef0f45a
+msgid "Test de traduction avec outils sphinx"
+msgstr ""
+
+#: ../../testtrad.rst:4
+#: a416f7990a654f6fb1f59f37e86321fd
+msgid "est ce que 'RTFD'genere correctement les fichiers .po ?"
+msgstr ""
+
+#: ../../testtrad.rst:6
+#: a9121a7707744a40b12d3373a3858899
+msgid "est que la modif des po suffit ?"
+msgstr ""
+
+#: ../../testtrad.rst:10
+#: 8a432e3504d149fc8be8dde7116a8a6c
+msgid "for test only in the original .po"
+msgstr ""
+
+#: ../../testtrad.rst:13
+#: 98ba1a4233b6451c8c5389d495480eb6
+msgid "blob"
+msgstr ""
+
+#: ../../testtrad.rst:16
+#: d5fca4f6068c48fd9c4c32e0a501434e
+msgid "ksldjl klsjdlqsk jlkq jdlqsjd qlljsdljqs ljdqlsjdqsldjql"
+msgstr ""
+
+#: ../../testtrad.rst:19
+#: a6cf659f16b1483bae79965d16ccba9a
+msgid "essai"
+msgstr ""
+
+#: ../../testtrad.rst:20
+#: bf124fa711bb4c84b8550ab545a662a2
+msgid "qdqdlqjl jlkqdjqljdqs  slj qlsjqsl  slqdj dqlsjd  qs jqljdqsl   qsqjqljqjdqls"
+msgstr ""
+
+#: ../../testtrad.rst:23
+#: be4c5af146c2407ab8c16db33ebce137
+msgid "."
+msgstr ""

@@ -32,8 +32,8 @@ master_doc = 'index'
 project = u'BrailleRap'
 copyright = '2018-{}, BrailleRap'
 
-version = '6.3.0'
-release = '6.3.0'
+version = '6.5.0'
+release = '6.5.0'
 exclude_patterns = ['_build']
 default_role = 'obj'
 pygments_style = 'sphinx'
@@ -64,7 +64,7 @@ locale_dirs = [
     'locale/',
 ]
 gettext_compact = False
-
+gettext_uuid = True
 
 #html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']

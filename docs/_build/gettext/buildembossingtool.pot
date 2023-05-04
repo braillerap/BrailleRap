@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-{}, BrailleRap
+# This file is distributed under the same license as the BrailleRap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BrailleRap 6.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-04 09:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../buildembossingtool.rst:2
+#: 3f54bebf93524649a0a2dee3d08387a7
+msgid "Building the embossing tool"
+msgstr ""
+
+#: ../../buildembossingtool.rst:5
+#: 652d0e3da23442b2ad90809694ef26af
+msgid "Material"
+msgstr ""
+
+#: ../../buildembossingtool.rst:7
+#: 8564997039d9480490f46d0ee2376931
+msgid "The embossing tool is made of an M3 screw, machined with a dremel like tool."
+msgstr ""

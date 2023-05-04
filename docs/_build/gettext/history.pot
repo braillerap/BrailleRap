@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-{}, BrailleRap
+# This file is distributed under the same license as the BrailleRap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BrailleRap 6.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-04 09:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../history.rst:2
+#: 7034705a381043548efd6404f7357f81
+msgid "Historique du projet"
+msgstr ""
+
+#: ../../history.rst:5
+#: a5e7c0f29e684d08a670da5c822f9a9d
+msgid "Le commencement"
+msgstr ""
+
+#: ../../history.rst:7
+#: 9bcb49adc30848f3a4e2b80ad965a3b6
+msgid "En 2016 l'association **MyHumanKit** organise en collaboration avec **Airbus Industries** un hackaton appelé Fabrikarium."
+msgstr ""
+
+#: ../../history.rst:9
+#: 93d4f2a392814a0a807f6673ac22d0ce
+msgid "Pendant le Fabrikarium plusieurs travaux ont été réalisés pour modifier des imprimantes 3D afin d'embosser du **Braille** sur du papier 160g,"
+msgstr ""
+
+#: ../../history.rst:11
+#: ebfc9e2c800949c0b12a8f8a4e80c58b
+msgid "Le projet s'appelait `BrailleRap <https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-en.md>`_."
+msgstr ""
+
+#: ../../history.rst:13
+#: 1c5ad7688d7a427da7ef721f97df6ec8
+msgid "Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une démonstration de faisabilité, mais qu'il fallait mettre au point une machine spécialisée facile à reproduire."
+msgstr ""
+
+#: ../../history.rst:18
+#: bf6012f953a54e47a20a8e813072018a
+msgid "OpenBraille"
+msgstr ""
+
+#: ../../history.rst:19
+#: 46f61307a954419ea0d874410def775a
+msgid "En 2017 Carlos Campos démarre le projet OpenBraille et construit une embosseuse braille à partir de pièces d'imprimante recyclées."
+msgstr ""
+
+#: ../../history.rst:21
+#: d591db4038064838b9bd0b8184579fe3
+msgid "Le projet démontre qu'il est possible de déplacer une feuille de papier avec suffisamment de précision dans une embosseuse braille."
+msgstr ""
+
+#: ../../history.rst:24
+#: c8a3cd944863471d91ce82cf3b529ac7
+msgid "BrailleRap-SP"
+msgstr ""
+
+#: ../../history.rst:25
+#: d3d0c6d4644e4641a89ae86ea469c36c
+msgid "En Janvier 2018, nous avons commencé avec quelques rails linéaires, des moteurs Nema et des pièces imprimées pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard, nous avons commencé à montrer des exemples de textes embossés en Braille, et tout le monde était très enthousiastes. Le projet BrailleRAP-SP était né."
+msgstr ""
+
+#: ../../history.rst:37
+#: f022123b17f842dbb12395df88362596
+msgid "BrailleRap"
+msgstr ""
+
+#: ../../history.rst:38
+#: d761f9e0233b4fe3a9035c0c8f926094
+msgid "En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, nous reprenons le projet pour proposer des améliorations."
+msgstr ""
+
+#: ../../history.rst:41
+#: da48be5f4a054a219e7000a08be6b45a
+msgid "BrailleRap Cameroun"
+msgstr ""
+
+#: ../../history.rst:42
+#: 64d1d5b60fa24a28bae279c7ba84b612
+msgid "Toujours en 2022, le `CCLab <https://forgecc.org>`_ nous confie la préparation et la réalisation de 4 ateliers grand public au Cameroun. C'est l'opération BrailleRAP Cameroun."
+msgstr ""
+
+#: ../../history.rst:44
+#: 7ca098b3143041929c4add2798a7d12d
+msgid "2 ateliers grand public, 2 master class dans 4 villes du Cameroun en collaboration avec le CCLab et les partenaires Camerounais. C'est l'occasion pendant 3 semaines, de confronter une nouvelle fois le projet au grand public: non voyants, makers, associations, établissements d'enseignements. Tout cela dans un contexte international très différent de nos activités habituelles."
+msgstr ""
+
+#: ../../history.rst:47
+#: bd4904c08a1d418e8925b66cac3da9be
+msgid "Une experience riche en rencontres exceptionelles, en anecdotes, en expérimentations et en nouvelles idées d'évolutions et d'améliorations."
+msgstr ""
+
+#: ../../history.rst:49
+#: d61117fb206c4fd79b1539179e806f5d
+msgid "L'opération BrailleRAP Cameroun à donné lieu à la réalisation de 2 fiches de conduite d'atelier :"
+msgstr ""
+
+#: ../../history.rst:51
+#: d1558cd4b5264767af1828cfb0b4724b
+msgid "Fiche de conduite `atelier grand public <https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
+msgstr ""
+
+#: ../../history.rst:53
+#: f38712893cc64e27a30b53be51005d81
+msgid "Fiche de conduite `master class <https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
+msgstr ""
+
+#: ../../history.rst:55
+#: 291142ced06a4cbb9a2d41f9c00e1700
+msgid "Ainsi qu'a des fiches qui décrivent les experimentations menées en marge des ateliers."
+msgstr ""
+
+#: ../../history.rst:57
+#: c3c7ace0722c463d99818e275ee5b6da
+msgid "Atelier non voyants  `représentation mentale <https://forgecc.org/?RepresentationMentaleDUneImprimanteBraille2>`_"
+msgstr ""
+
+#: ../../history.rst:59
+#: 13f1b99f30a64119ae5205d1964bcfb7
+msgid "Plus de détails sur l'opération `ici <https://forgecc.org/?BraillerapCameroun>`_"
+msgstr ""
