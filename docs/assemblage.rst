@@ -803,31 +803,34 @@ Matériel :
   * 2 colliers
 
 * A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur.
+
 .. image :: ./IMG/BrailleRAP-V6.66.1.jpg
        :align: center
+
 |
 
-
 * Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
+
 .. image :: ./IMG/BrailleRAP-V6.66.2.jpg
        :align: center
-| 
 
+| 
 
 * Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier. 
 
 * Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. 
+
 .. image :: ./IMG/pulley_tensioner_down.jpg
        :align: center
+
 |
- 
 
 .. Note:: Pour l'instant, ne pas serrer les vis de la poulie sur l'axe.
 
 .. image :: ./IMG/BrailleRAP-V5.66.jpg
        :align: center
-|
 
+|
   
 Montage de l’axe Y (étape 1)
 -----------------------------
@@ -848,7 +851,9 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.68.jpg
        :align: center
+
 |
+
 * Fixer les KFL8 à droite sur la caisse avec les KFL8_support, 2 vis M5-18, 2 rondelles M5 et les 2 écrous M5 NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.69.jpg
@@ -856,6 +861,7 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.70.jpg
        :align: center
+
 |
 
 * Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8.
@@ -863,21 +869,25 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.73.jpg
        :align: center
+
 |
+
 * Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm de la caisse.
 
 .. image :: ./IMG/BrailleRAP-V5.74.jpg
        :align: center
+
 |
+
 * Serrer les vis des bagues des KFL8.
 
 .. image :: ./IMG/BrailleRAP-V5.75.jpg
        :align: center
+
 |
 
-
 Montage de l’axe Y (étape 2)
------------------------------
+----------------------------
 
 * Faire tourner à la main la poulie du moteur afin que la poulie de l’axe s’aligne verticalement avec la poulie du moteur.
 
@@ -886,16 +896,21 @@ Montage de l’axe Y (étape 2)
 
 .. image :: ./IMG/BrailleRAP-V5.76.1.jpg
        :align: center
+
 |
+
 * Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée puis serrer les 2 vis.
 
 .. image :: ./IMG/BrailleRAP-V5.77.jpg
        :align: center
+
 |
+
 * Serrer les 2 vis de la poulie de l'axe.
 
 .. image :: ./IMG/BrailleRAP-V5.78.jpg
        :align: center
+
 |
 
 * Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque.
@@ -903,6 +918,7 @@ Montage de l’axe Y (étape 2)
 
 .. image :: ./IMG/BrailleRAP-V5.103.jpg
        :align: center
+
 |
 
 * Retirer la plaque de contre plaqué.
@@ -910,7 +926,6 @@ Montage de l’axe Y (étape 2)
 
 Montage des guide-papiers sur la plaque support
 -----------------------------------------------
-
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left
@@ -928,28 +943,32 @@ Matériel :
 
 .. image :: ./IMG/paper_support_assembly_screw_v2.png
        :align: center
+
 |
+
 * Partie gauche.
 
 .. image :: ./IMG/paper_support_assembly_v1.png
        :align: center
+
 |
+
 * Répéter l'opération pour la partie droite.
 
 .. image :: ./IMG/paper_support_assembly_right_v1.png
        :align: center
 
 |
+
 * Vérifier que vous pouvez poser une feuille de papier sur le plateau sans que la feuille gondole. Si la feuille gondole, essayez d'écarter les guides papier avant le serrage.
 
 .. image :: ./IMG/paper_support_assembly_papertest_v2.png
        :align: center
-|
 
+|
 
 Collage de la plaque repose papier
 -------------------------------------
-
 Matériel :
 
   * PAPER_support (contre-plaqué de 5mm découpé au laser).
@@ -967,15 +986,11 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.98.jpg
        :align: center
+
 |
 
-
-
-
-
 Montage du chariot haut (étape 2)
-----------------------------------
-
+---------------------------------
 Matériel :
 
   * 2 barres lisses Ø 8mm, longueur : 330mm
@@ -984,30 +999,39 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.89.jpg
        :align: center
+
 |
+
 * Enfiler le chariot haut sur les barres lisses.
 
 .. image :: ./IMG/BrailleRAP-V5.90.jpg
        :align: center
+
 |
+
 * Terminer d’enfiler les barres.
 
 .. Note:: La tranche du bois doit rester apparente.
 
 .. image :: ./IMG/BrailleRAP-V5.91.jpg
        :align: center
+
 |
+
 * Serrer les vis des supports d’axes sur la caisse à gauche et à droite.
 
 .. image :: ./IMG/BrailleRAP-V5.92.jpg
        :align: center
+
 |
+
 * Visser les vis sans tête des supports des axes à gauche et à droite.
 
 .. image :: ./IMG/BrailleRAP-V5.93.jpg
        :align: center
 
 |
+
 Pose de la courroie du chariot haut
 --------------------------------------
 Matériel :
@@ -1016,23 +1040,30 @@ Matériel :
   * 2 colliers
 
 * A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur.
+
 .. image :: ./IMG/BrailleRAP-V6.66.1.jpg
        :align: center
+
 |
+
 * Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical.
+
 .. image :: ./IMG/BrailleRAP-V6.66.2.jpg
        :align: center
+
 |
+
 * Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier. 
 
 * Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse. 
+
 .. image :: ./IMG/pulley_tensioner_up.jpg
        :align: center
+
 |
 
 Montage des presse-papiers (étape 2) :
 ----------------------------------------
-
 Matériel :
 
   * 3 CLIPBOARD montés à l'étape 1
@@ -1051,8 +1082,9 @@ Matériel :
  
 .. image :: ./IMG/BrailleRAP-V6.105.jpg
        :align: center
+
 |
- 
+
 
 
 Montage du fin de course Y 
@@ -1076,11 +1108,14 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V6.106.png
        :align: center
+
 |
+
 * Positionner le levier **ENDSTOP_Y_LEVER** dans le support **ENDSTOP_Y_support**.
 
 .. image :: ./IMG/BrailleRAP-V6.106.1.png
        :align: center
+
 |
 
 * Fixer le levier **ENDSTOP_Y_LEVER** au support **ENDSTOP_Y_support** avec une vis M3-20 et un écrou M3-NYL
@@ -1091,6 +1126,7 @@ Matériel :
        :align: center
 .. image :: ./IMG/BrailleRAP-V6.106.3.png
        :align: center
+
 |
 
 * Assembler l'interrupteur fin de course et le **ENDSTOP_Y_support** à l'aide des vis M2.5-14 et des écrous M2.5 NYL.
@@ -1099,12 +1135,14 @@ Matériel :
        :align: center
 .. image :: ./IMG/BrailleRAP-V6.106.5.png
        :align: center
+
 |
 
 * Positionner la vis de reglage M3-12 sur le levier **ENDSTOP_Y_LEVER**
 
 .. image :: ./IMG/BrailleRAP-V6.106.6.png
        :align: center
+
 |
 
 * Assembler l'ensemble interrupteur fin de course et le **ENDSTOP_Y_support** sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL.
@@ -1115,11 +1153,11 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V6.108.jpg
        :align: center
+
 |
 
 Fixation des clips sur le couvercle
 -----------------------------------
-
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK
@@ -1136,12 +1174,12 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V5.111.jpg
        :align: center
+
 |
 
 
 Fixation de la plaque pour l'embase de l'alimentation
 -------------------------------------------------------
-
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : POWER_plate
@@ -1150,11 +1188,11 @@ Matériel :
 
 .. image :: ./IMG/alim.jpg
        :align: center
+
 |
 
 Montage de la carte électronique
 --------------------------------
-
 Matériel :
 
   * Carte MKS GEN 1.4
@@ -1166,6 +1204,7 @@ Matériel :
 
 .. NOTE:: Pour pouvoir réaliser les derniers réglages facilement, nous vous conseillons de cabler la carte en dehors du chassis. Une fois l'embosseuse fonctionelle, vous pourrez fixer la carte dans le chassis.
 
+|
 
 Cablage de la carte électronique
 --------------------------------
@@ -1173,16 +1212,18 @@ Schéma général :
 
 .. image :: ./IMG/braillerap_cablage.png
        :align: center
+
 |
+
 Photo de la carte assemblée
 
 .. image :: ./IMG/braillerap_carte.jpg
        :align: center
+
 |
 
 Pose des drivers sur la carte électronique
--------------------------------------------
-
+------------------------------------------
 Matériel :
 
   * Carte MKS GEN 1.4
@@ -1190,12 +1231,14 @@ Matériel :
   * 6 cavaliers
 
 * Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y.
+
 .. image :: ./IMG/brap_cavalier.png
        :align: center
 
 |
 
 * Enfoncer les drivers dans les emplacements X et Y.
+
 .. image :: ./IMG/brap_drivers.png
               :align: center
 
@@ -1204,6 +1247,7 @@ Matériel :
 Câblage de l'alimentation 12V
 -----------------------------
 * placer les 2 fils de provenant de la prise **POWER_plate** dans le bornier de la carte MKS
+
 .. image :: ./IMG/board_12v.jpg
               :align: center
 
@@ -1216,6 +1260,7 @@ Réglage des drivers moteur
 * Controler que vous pouvez brancher l'alimentation 12V sur la carte (un dernier controle pour eviter des etincelles c'est mieux :-) )
 * Brancher l'alimentation 12 V sur la carte.
 * pour chaque driver, mesurer, avec un multimètre, la tension entre le potentiomètre de réglage et la masse de la connexion USB.
+
 .. image :: ./IMG/mks_driver_voltage.jpg
               :align: center
 .. image :: ./IMG/mks_driver_voltage1.jpg
@@ -1236,6 +1281,7 @@ Câblage des interrupteurs fin de course
 * Cabler les fins de courses sur la carte.
 * Le fin de course X (chariot) doit être branché sur le connecteur de gauche (rouge)
 * Le fin de course Y (détection papier) doit être branché sur le connecteur de gauche (bleu)
+
 .. image :: ./IMG/board_endstop.jpg
               :align: center
 
@@ -1245,19 +1291,23 @@ Raccordement des moteurs à la carte
 ------------------------------------
 * Relier les moteurs à la carte de contrôle avec les cables.
 * Le moteur X (chariot) doit être branché dans le connecteur de gauche (rouge)
+
 .. image :: ./IMG/brap_motorx.jpg
               :align: center
+
 |
 
 * Le moteur Y (papier) doit être branché dans le connecteur de droite (bleu)
+
 .. image :: ./IMG/brap_motory.jpg
               :align: center
 
 |
 
 Câblage de l’électro-aimant
-----------------------------
+---------------------------
 * placer les 2 fils de l'electroaimant et la diode de roue libre. Attention au sens de la diode (trait blanc).
+
 .. image :: ./IMG/board_magnet.jpg
        :align: center
 
@@ -1266,6 +1316,7 @@ Câblage de l’électro-aimant
 Alignement horizontal de l'empreinte du chariot haut
 ----------------------------------------------------
 * Dé serrer la poulie sur l’axe vertical pour libérer le chariot supérieur.
+
 .. image :: ./IMG/toppulley_fix.jpg
        :align: center
 
@@ -1275,6 +1326,7 @@ Alignement horizontal de l'empreinte du chariot haut
 * Déplacer le chariot supérieur pour aligner l'empreinte (**FEMALE_shape**) avec le sommet du pointeau.
 * Utiliser les vis de fixation de la **FEMALE_shape** pour aligner l'empreinte avec le sommet du pointeau.
 * Quand l'alignement est satisfaisant, serrer les vis de fixations de la **FEMALE_shape**.
+
 .. image :: ./IMG/female_fix1.jpg
        :align: center
 .. image :: ./IMG/female_fix2.jpg
@@ -1286,6 +1338,7 @@ Alignement vertical des deux chariots
 --------------------------------------
 
 * Dé serrer la poulie du chariot supérieur sur l’axe vertical pour libérer le chariot supérieur.
+
 .. image :: ./IMG/toppulley_fix.jpg
        :align: center
 
@@ -1294,12 +1347,14 @@ Alignement vertical des deux chariots
 * En observant par l'arriere de la machine, monter le pointeau en appuyant avec le doigt sous l'electro-aimant.
 * Déplacer le chariot supérieur pour aligner l'empreinte (**FEMALE_shape**) avec le sommet du pointeau.
 * Logiquement le pointeau doit entrer légérement dans la vis sans tête de la **FEMALE_shape**.
+
 .. image :: ./IMG/magnet_align.jpg
        :align: center
 
 |
 
 * Quand l'alignement est satifaisant, verouiller la poulie supérieure sur l'axe vertical.
+
 .. image :: ./IMG/toppulley_fix.jpg
        :align: center
 
@@ -1311,6 +1366,7 @@ Ajustement des capteurs de fin de course chariot et papier (X et Y)
 * Ajuster la position du capteur fin de course X. Le capteur doit s'activer avant que la fixation de la courroie du chariot bas rencontre la poulie inférieure de l'axe verticale.
 
 * Avec une feuille de papier, ajuster le fin de course Y pour que le capteur s'active quand une feuille est présente sous le levier du capteur. Et se désactive si la feuille de papier n'a pas encore déplacée le levier.
+
 .. image :: ./IMG/endstopy_adjust.jpg
        :align: center
 

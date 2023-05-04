@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  BraillerRapSP\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-03 19:08+0000\n"
+"POT-Creation-Date: 2023-05-04 09:05+0000\n"
 "PO-Revision-Date: 2018-12-28 11:31+0200\n"
 "Last-Translator: Stephane <braillerapsp@gmail.com>\n"
 "Language: en\n"
@@ -19,19 +19,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.1\n"
 
-#: ../../bom.rst:2
+#: ../../bom.rst:2 7b4c5550b9224436b6bfa73ed9c57d4f
 msgid "Liste du matériel"
 msgstr "Bill Off Material"
 
-#: ../../bom.rst:5
+#: ../../bom.rst:5 99f40104d03e45828358743ee14f996c
 msgid "Découpe laser"
 msgstr "Laser cutting"
 
-#: ../../bom.rst:6
+#: ../../bom.rst:6 32490ec00e61404fb03ce0b956b6413f
 msgid "2 planches de contreplaqué 5mm en 600mm x 400mm."
 msgstr "2 600mm x 400mm 5mm plywood sheets"
 
-#: ../../bom.rst:8
+#: ../../bom.rst:8 070a7d00497a46d48bb6a8d402746fb1
 #, fuzzy
 msgid ""
 "Les fichiers au format dxf sont disponibles ici : "
@@ -40,11 +40,11 @@ msgstr ""
 "The dxf files are availables here : "
 "https://github.com/BrailleRapSP/BrailleRap/tree/master/lasercut"
 
-#: ../../bom.rst:12
+#: ../../bom.rst:12 d2813d1b20b44208a0ab6a2fe796cd4c
 msgid "Pièces imprimées"
 msgstr "Printed parts"
 
-#: ../../bom.rst:13
+#: ../../bom.rst:13 c9d1aebbd2a9496aa17435872ec84fc0
 #, python-format
 msgid ""
 "Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres"
@@ -53,94 +53,111 @@ msgstr ""
 "All printed parts are printed in ABS, 50% infill, 3 outside perimeters. "
 "We use eSun ABS Natural filament"
 
-#: ../../bom.rst:15
-msgid "Ajouter le lien pour le téléchargement de STL"
-msgstr "Add link for stl download"
+#: ../../bom.rst:15 27592e9f4f494d2991863538ea897c25
+#, fuzzy
+msgid ""
+"Les fichiers au format stl sont ici : "
+"https://github.com/braillerap/BrailleRap/tree/master/printed_parts"
+msgstr ""
+"The dxf files are availables here : "
+"https://github.com/BrailleRapSP/BrailleRap/tree/master/lasercut"
 
-#: ../../bom.rst:19
+#: ../../bom.rst:19 c5a769e0bc8c4d98bc2e78ce648f0fda
 msgid "Pièces mécaniques"
 msgstr "Mechanical parts"
 
-#: ../../bom.rst:23 ../../bom.rst:54
+#: ../../bom.rst:23 ../../bom.rst:58 45bcff7521a14bb0bb457ad9ce2b6fe0
+#: d001c305219846f9ad9ebedff6f6f587
 msgid "Qty"
 msgstr "Qty"
 
-#: ../../bom.rst:23 ../../bom.rst:54
+#: ../../bom.rst:23 ../../bom.rst:58 0ab2678024ff42a2be41acac382d1532
+#: b17db03eae7a426fa722596607d51f0f
 msgid "Type"
 msgstr "Type"
 
-#: ../../bom.rst:25
+#: ../../bom.rst:25 a4aec07262364e5ba48c78ebca302d5c
 msgid "4"
 msgstr "4"
 
-#: ../../bom.rst:25
+#: ../../bom.rst:25 f22733c4aee04fc9bdefe6eb9d48e478
 msgid "Rail de guidage linéaire ( diamètre 8mm ) 330 mm length"
 msgstr "Linear rod 8mm diameter 330 mmlength"
 
 #: ../../bom.rst:26 ../../bom.rst:27 ../../bom.rst:38 ../../bom.rst:42
-#: ../../bom.rst:56 ../../bom.rst:58 ../../bom.rst:59 ../../bom.rst:60
-#: ../../bom.rst:61
+#: ../../bom.rst:60 ../../bom.rst:62 ../../bom.rst:63 ../../bom.rst:64
+#: ../../bom.rst:65 033b409d334f437ca870075d4dad2824
+#: 0fcc6ca8961f45daa007ea233d272c67 26d8c3a6a2db4748923d342e2491c78b
+#: 7603632f022f4916a61f917f91cd3f58 843b2ff5c4da40e3b936e893b486f90d
+#: 869ee82d0a714d6d84c733f557ed4f7d b79d6b440be94705aad0f5b416fd659d
+#: e4062018b9a64c0b8d5878f02d4c3615
 msgid "1"
 msgstr "1"
 
-#: ../../bom.rst:26
+#: ../../bom.rst:26 a6ca89c9d190494c8964ee529ee36074
 msgid "Rail de guidage linéaire ( diamètre 8mm ) 365 mm length"
 msgstr "Linear rod 8mm diameter 365 mm length"
 
-#: ../../bom.rst:27
+#: ../../bom.rst:27 02c7140c1173451c84923c6892fb094c
 msgid "Rail de guidage linéaire ( diamètre 8mm ) *100 mm* length"
 msgstr "Linear rod 8mm diameter 100mm length"
 
-#: ../../bom.rst:29
+#: ../../bom.rst:29 ../../bom.rst:47 145fc1e1346b46fcb25e6e14efa9f1d2
+#: 33f7eceaef87465c9d205d3fcdf826bf
 msgid "6"
 msgstr "6"
 
-#: ../../bom.rst:29
+#: ../../bom.rst:29 7e0f49b838514c1c9561c4d611268990
 msgid "RJ4JP-01-08 palier linéaire Polymer"
 msgstr "RJ4JP-01-08 polymer linear bushing"
 
-#: ../../bom.rst:32
+#: ../../bom.rst:32 ../../bom.rst:49 65d05998578749e191f1690075c2f264
+#: af64bef1dfc14cd5981e8b4720857c85
 msgid "3"
 msgstr "3"
 
-#: ../../bom.rst:32
+#: ../../bom.rst:32 a4d89db468504b9b87dbe11d76ce021c
 msgid "GT2 poulie 20 dents pour axe 8mm"
 msgstr "GT2 pulley 20 teeth 8mm bore"
 
 #: ../../bom.rst:33 ../../bom.rst:35 ../../bom.rst:36 ../../bom.rst:40
-#: ../../bom.rst:43 ../../bom.rst:45 ../../bom.rst:57
+#: ../../bom.rst:43 ../../bom.rst:45 ../../bom.rst:61
+#: 688d6c132a9644f29ab1109e264629d2 9f590cdf357147778b88b46b53782eab
+#: a6321ea70099459ca75bc94f27585ec0 b6284e8b60984dc397c040120797d239
+#: c7a2542f471046f0b980192e8cf69329 d6a0bcfc27e94986aedfae821ba3c409
+#: e29d47d7239742d8825ebcdab6d5d39f
 msgid "2"
 msgstr "2"
 
-#: ../../bom.rst:33
+#: ../../bom.rst:33 e5dc50ccc21a42d1abfa61491ef92950
 msgid "GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)"
 msgstr "GT2 free pulley 20 teeth bore 3mm (with bearing)"
 
-#: ../../bom.rst:35
+#: ../../bom.rst:35 c5574b894cb24e4ca41e3ea22c4fa7f3
 msgid "KP08  pallier horizontal pour rail linéaire 8mm"
 msgstr "KP08 linear bearing for 8mm linear shaft"
 
-#: ../../bom.rst:36
+#: ../../bom.rst:36 7ee56ceb8b164173919d702e52b2f3be
 msgid "KFL08 pallier vertical pour rail linéaire 8mm"
 msgstr "KFL08 vertical bearing for 8mm linear shaft"
 
-#: ../../bom.rst:38
+#: ../../bom.rst:38 48907ef3398448edb5cf9aa16312ea65
 msgid "Accouplement d'axe 5mm/8mm"
 msgstr "5mm/8mm flexible motor coupling"
 
-#: ../../bom.rst:40
+#: ../../bom.rst:40 42f168e930ff49c1a677333f97f658eb
 msgid "Nema 17 40 N/cm avec câble"
 msgstr "Nema 17 40 N/cm with wire"
 
-#: ../../bom.rst:42
+#: ../../bom.rst:42 213a2f76130844e4b7a79922f434815f
 msgid "Courroie GT2 fermée 200 mm"
 msgstr "Closed GT2 belt 200 mm"
 
-#: ../../bom.rst:43
+#: ../../bom.rst:43 d821dc675e5e4158b80561f88ce3c0d1
 msgid "630 mm de courroie GT2"
 msgstr "GT2 belt 630 mm"
 
-#: ../../bom.rst:45
+#: ../../bom.rst:45 f83fe35697d84a15a673b40d75b698a5
 msgid ""
 "Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur "
 "(15.1 x 20.5 x 2.7)"
@@ -148,35 +165,45 @@ msgstr ""
 "O-ring 15.1 mm inside diameter 20.5 mm outside diameter (15.1 x 20.5 x "
 "2.7)"
 
-#: ../../bom.rst:46
+#: ../../bom.rst:47 ff772e65d8e94228aaf160132e38367b
+msgid "Colliers de serrage 2.5 x 160 mm"
+msgstr ""
+
+#: ../../bom.rst:49 091b337fb9d84cf6bd2314626686d101
+msgid "Ressorts tendeurs de courroie GT2"
+msgstr ""
+
+#: ../../bom.rst:50 402b801807554060bba8f9dc722a494d
 msgid "..."
 msgstr "..."
 
-#: ../../bom.rst:51
+#: ../../bom.rst:55 7166850dafa9443eb9ccd08f9b54e623
 msgid "Electronique"
 msgstr "Electronics"
 
-#: ../../bom.rst:56
-msgid "MKS GEN 1.4 ou carte compatible Ramps 1.4"
-msgstr "MKS GEN 1.4 or Ramps 1.4 compatible board"
+#: ../../bom.rst:60 8947dc7ed1be4288b5ca2f8becd21c1c
+msgid ""
+"MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 "
+"https://github.com/makerbase-mks"
+msgstr ""
 
-#: ../../bom.rst:57
+#: ../../bom.rst:61 e4b740560673491284af0973922c9019
 msgid "drivers DRV8825 avec radiateur"
 msgstr "DRV8825 drivers with cooling radiator"
 
-#: ../../bom.rst:58
+#: ../../bom.rst:62 45f8e862c50b447ab14dfbb8aff3144e
 msgid "Electro-aimant *tau-826* 12V 2A"
 msgstr "Electro-magnet *tau-826* 12V 2A"
 
-#: ../../bom.rst:59
+#: ../../bom.rst:63 5c9bd64397974d7280f77b548e798493
 msgid "1N4004  diode de roue libre ou equivalent (12V 2A)"
 msgstr "1N4004  flyback diode  (12V 2A)"
 
-#: ../../bom.rst:60
+#: ../../bom.rst:64 26fe0aa81d7042578e67c05fb69593f9
 msgid "Embase Alimentation jack 2.5"
 msgstr "jack 2.5mm connector"
 
-#: ../../bom.rst:61
+#: ../../bom.rst:65 8e9bd65635a148cca8f71850d78c8224
 msgid "Alimentation 12v 6A"
 msgstr "12V 6A Alimentation"
 
@@ -224,3 +251,10 @@ msgstr "12V 6A Alimentation"
 
 #~ msgid "12v power supply 6A"
 #~ msgstr "12v power supply 6A"
+
+#~ msgid "Ajouter le lien pour le téléchargement de STL"
+#~ msgstr "Add link for stl download"
+
+#~ msgid "MKS GEN 1.4 ou carte compatible Ramps 1.4"
+#~ msgstr "MKS GEN 1.4 or Ramps 1.4 compatible board"
+
