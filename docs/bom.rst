@@ -1,5 +1,5 @@
 Liste du matériel
-================
+=================
 
 Découpe laser
 -------------
@@ -9,14 +9,14 @@ Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/
 
 
 Pièces imprimées
--------------
+----------------
 Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres extérieurs. Nous utilisons le filament eSun ABS Natural.
 
 Les fichiers au format stl sont ici : https://github.com/braillerap/BrailleRap/tree/master/printed_parts
  
 
 Pièces mécaniques
-----------------
+-----------------
 
 
 === =========================================
@@ -52,7 +52,7 @@ Qty Type
 
 
 Electronique
-------------------
+------------
 
 === ===========================================================================================
 Qty Type

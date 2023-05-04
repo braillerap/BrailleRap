@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 09:05+0000\n"
+"POT-Creation-Date: 2023-05-04 16:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,62 +71,62 @@ msgstr ""
 msgid "En Janvier 2018, nous avons commencé avec quelques rails linéaires, des moteurs Nema et des pièces imprimées pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard, nous avons commencé à montrer des exemples de textes embossés en Braille, et tout le monde était très enthousiastes. Le projet BrailleRAP-SP était né."
 msgstr ""
 
-#: ../../history.rst:37
+#: ../../history.rst:38
 #: f022123b17f842dbb12395df88362596
 msgid "BrailleRap"
 msgstr ""
 
-#: ../../history.rst:38
+#: ../../history.rst:39
 #: d761f9e0233b4fe3a9035c0c8f926094
 msgid "En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, nous reprenons le projet pour proposer des améliorations."
 msgstr ""
 
-#: ../../history.rst:41
+#: ../../history.rst:42
 #: da48be5f4a054a219e7000a08be6b45a
 msgid "BrailleRap Cameroun"
 msgstr ""
 
-#: ../../history.rst:42
+#: ../../history.rst:43
 #: 64d1d5b60fa24a28bae279c7ba84b612
 msgid "Toujours en 2022, le `CCLab <https://forgecc.org>`_ nous confie la préparation et la réalisation de 4 ateliers grand public au Cameroun. C'est l'opération BrailleRAP Cameroun."
 msgstr ""
 
-#: ../../history.rst:44
+#: ../../history.rst:45
 #: 7ca098b3143041929c4add2798a7d12d
 msgid "2 ateliers grand public, 2 master class dans 4 villes du Cameroun en collaboration avec le CCLab et les partenaires Camerounais. C'est l'occasion pendant 3 semaines, de confronter une nouvelle fois le projet au grand public: non voyants, makers, associations, établissements d'enseignements. Tout cela dans un contexte international très différent de nos activités habituelles."
 msgstr ""
 
-#: ../../history.rst:47
+#: ../../history.rst:48
 #: bd4904c08a1d418e8925b66cac3da9be
 msgid "Une experience riche en rencontres exceptionelles, en anecdotes, en expérimentations et en nouvelles idées d'évolutions et d'améliorations."
 msgstr ""
 
-#: ../../history.rst:49
+#: ../../history.rst:50
 #: d61117fb206c4fd79b1539179e806f5d
 msgid "L'opération BrailleRAP Cameroun à donné lieu à la réalisation de 2 fiches de conduite d'atelier :"
 msgstr ""
 
-#: ../../history.rst:51
+#: ../../history.rst:52
 #: d1558cd4b5264767af1828cfb0b4724b
 msgid "Fiche de conduite `atelier grand public <https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
 msgstr ""
 
-#: ../../history.rst:53
+#: ../../history.rst:54
 #: f38712893cc64e27a30b53be51005d81
 msgid "Fiche de conduite `master class <https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
 msgstr ""
 
-#: ../../history.rst:55
+#: ../../history.rst:56
 #: 291142ced06a4cbb9a2d41f9c00e1700
 msgid "Ainsi qu'a des fiches qui décrivent les experimentations menées en marge des ateliers."
 msgstr ""
 
-#: ../../history.rst:57
+#: ../../history.rst:58
 #: c3c7ace0722c463d99818e275ee5b6da
 msgid "Atelier non voyants  `représentation mentale <https://forgecc.org/?RepresentationMentaleDUneImprimanteBraille2>`_"
 msgstr ""
 
-#: ../../history.rst:59
+#: ../../history.rst:60
 #: 13f1b99f30a64119ae5205d1964bcfb7
 msgid "Plus de détails sur l'opération `ici <https://forgecc.org/?BraillerapCameroun>`_"
 msgstr ""
