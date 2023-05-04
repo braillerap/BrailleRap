@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 21:46+0000\n"
+"POT-Creation-Date: 2023-05-04 21:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1270,7 +1270,7 @@ msgid "Carte MKS GEN 1.4"
 msgstr ""
 
 #: ../../assemblage.rst:1196
-msgid "4 entretoises M3-10"
+msgid "4 entretoises M3-12"
 msgstr ""
 
 #: ../../assemblage.rst:1197
@@ -1278,7 +1278,7 @@ msgid "4 rondelles M3 moyennes"
 msgstr ""
 
 #: ../../assemblage.rst:1198
-msgid "8 vis M3-10"
+msgid "8 vis M3-8"
 msgstr ""
 
 #: ../../assemblage.rst:1200

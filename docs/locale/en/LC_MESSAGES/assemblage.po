@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  test\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-04 21:46+0000\n"
+"POT-Creation-Date: 2023-05-04 21:52+0000\n"
 "PO-Revision-Date: 2018-12-28 12:02+0200\n"
 "Last-Translator: Stephane <sgn.braillerap@gmail.com>\n"
 "Language: en\n"
@@ -940,18 +940,16 @@ msgid "Laisser un jeu de ±5mm."
 msgstr "Leave a gap of ± 5mm."
 
 #: ../../assemblage.rst:612
-#, fuzzy
 msgid "Assemblage des poulies libres de renvoi"
-msgstr "Laying free return pulleys"
+msgstr "Free pulleys assembly "
 
 #: ../../assemblage.rst:616
 msgid "2 poulies libres 20 dents bore 3mm"
 msgstr "2 free pulleys 20  teeth 3mm bore"
 
 #: ../../assemblage.rst:617
-#, fuzzy
 msgid "2 vis M3-25"
-msgstr "3 M3-25 screw"
+msgstr "2 M3-25 screw"
 
 #: ../../assemblage.rst:621
 msgid ""
@@ -1014,7 +1012,6 @@ msgid "Montage de l’axe vertical (étape 1)"
 msgstr "Mounting the vertical axis (step 1)"
 
 #: ../../assemblage.rst:668
-#, fuzzy
 msgid ""
 "Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16 en "
 "laissant du jeu."
@@ -1596,7 +1593,6 @@ msgstr ""
 " support."
 
 #: ../../assemblage.rst:1129
-#, fuzzy
 msgid ""
 "Assembler l'interrupteur fin de course et le **ENDSTOP_Y_support** à "
 "l'aide des vis M2.5-14 et des écrous M2.5 NYL."
@@ -1609,7 +1605,6 @@ msgid "Positionner la vis de reglage M3-12 sur le levier **ENDSTOP_Y_LEVER**"
 msgstr "Position the M3-12 adjustment screw on the lever **ENDSTOP_Y_LEVER**"
 
 #: ../../assemblage.rst:1145
-#, fuzzy
 msgid ""
 "Assembler l'ensemble interrupteur fin de course et le "
 "**ENDSTOP_Y_support** sur la caisse à l'aide des vis M3-14, des rondelles"
@@ -1624,7 +1619,7 @@ msgstr "Fixing the clips on the lid"
 
 #: ../../assemblage.rst:1160
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK"
-msgstr "** Piece (s) printed in 3D **: 2 LID_LOCK"
+msgstr "**3D printed parts**: 2 LID_LOCK"
 
 #: ../../assemblage.rst:1164
 msgid ""
@@ -1640,34 +1635,31 @@ msgstr "Fixing the plate for the power supply base"
 
 #: ../../assemblage.rst:1182
 msgid "**Pièce(s) imprimée(s) en 3D** : POWER_plate"
-msgstr "** Piece (s) printed in 3D **: POWER_plate"
+msgstr "**3D printed part**: POWER_plate"
 
 #: ../../assemblage.rst:1192
-#, fuzzy
 msgid "Montage de la carte électronique"
-msgstr "Mounting the electronic card on the cash register"
+msgstr "Electronic board controller mount"
 
 #: ../../assemblage.rst:1195 ../../assemblage.rst:1226
 msgid "Carte MKS GEN 1.4"
 msgstr "MKS GEN 1.4 card"
 
 #: ../../assemblage.rst:1196
-#, fuzzy
-msgid "4 entretoises M3-10"
-msgstr "4 spacer M3-10"
+msgid "4 entretoises M3-12"
+msgstr "4 spacer M3-12"
 
 #: ../../assemblage.rst:1197
 msgid "4 rondelles M3 moyennes"
 msgstr "4 medium M3 washers"
 
 #: ../../assemblage.rst:1198
-msgid "8 vis M3-10"
-msgstr "8 screws M3-10"
+msgid "8 vis M3-8"
+msgstr "8 screw M3-8"
 
 #: ../../assemblage.rst:1200
-#, fuzzy
 msgid "Assembler les 4 entretoises sur la carte."
-msgstr "Assemble the 4 spacers on the card. ** ADD PICTURE **"
+msgstr "Assemble the 4 spacers on the card."
 
 #: ../../assemblage.rst:1202
 msgid ""
@@ -1680,9 +1672,8 @@ msgstr ""
 "embosser, you can fix the card in the chassis."
 
 #: ../../assemblage.rst:1207
-#, fuzzy
 msgid "Cablage de la carte électronique"
-msgstr "Mounting the electronic card on the cash register"
+msgstr "Electronic board wiring "
 
 #: ../../assemblage.rst:1208
 msgid "Schéma général :"
@@ -1705,7 +1696,6 @@ msgid "6 cavaliers"
 msgstr "6 riders"
 
 #: ../../assemblage.rst:1230
-#, fuzzy
 msgid ""
 "Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre "
 "aux emplacements des drivers des moteurs X et Y."
@@ -1714,9 +1704,8 @@ msgstr ""
 "places of the drivers of engines X and Y."
 
 #: ../../assemblage.rst:1237
-#, fuzzy
 msgid "Enfoncer les drivers dans les emplacements X et Y."
-msgstr "Push the drivers into their slots."
+msgstr "Push the drivers into X and Y slots."
 
 #: ../../assemblage.rst:1245
 msgid "Câblage de l'alimentation 12V"
@@ -1831,18 +1820,16 @@ msgstr ""
 "in the sense of the diode (white line)."
 
 #: ../../assemblage.rst:1314
-#, fuzzy
 msgid "Alignement horizontal de l'empreinte du chariot haut"
-msgstr "Horizontal alignment of the trolley"
+msgstr "Horizontal alignment of the top trolley"
 
 #: ../../assemblage.rst:1315
 msgid "Dé serrer la poulie sur l’axe vertical pour libérer le chariot supérieur."
 msgstr "Loosen the pulley on the vertical axis to release the upper carriage."
 
 #: ../../assemblage.rst:1322
-#, fuzzy
 msgid "Aligner les 2 chariots"
-msgstr "Vertical alignment of the two carriages"
+msgstr "Vertical alignment of the two trolley"
 
 #: ../../assemblage.rst:1323 ../../assemblage.rst:1345
 msgid ""
@@ -1943,5 +1930,6 @@ msgstr ""
 " you will need to adjust the height of the borrows of the high carriage "
 "using the blind nut"
 
-
+#~ msgid "8 vis M3-10"
+#~ msgstr "8 screws M3-10"
 

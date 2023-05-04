@@ -1193,9 +1193,9 @@ Montage de la carte électronique
 Matériel :
 
   * Carte MKS GEN 1.4
-  * 4 entretoises M3-10
+  * 4 entretoises M3-12
   * 4 rondelles M3 moyennes
-  * 8 vis M3-10
+  * 8 vis M3-8
 
 * Assembler les 4 entretoises sur la carte. 
 
