@@ -23,14 +23,14 @@ msgid "Outillages necessaires"
 msgstr "Necessary tools"
 
 #: ../../assemblage.rst:6 
-#, fuzzy
-msgid "Cles 6 pans 1.5,2,2.5 et 4."
-msgstr "Hex keys 1.5,2,2.5 and 4"
+#
+msgid "* Cles 6 pans 1.5,2,2.5 et 4."
+msgstr "* Hex keys 1.5,2,2.5 and 4"
 
 #: ../../assemblage.rst:7 
-#, fuzzy
-msgid "Petites pinces."
-msgstr "Small pliers."
+#
+msgid "* Petites pinces."
+msgstr "* Small pliers."
 
 #: ../../assemblage.rst:8 
 #, fuzzy
