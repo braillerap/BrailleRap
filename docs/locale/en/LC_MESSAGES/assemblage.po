@@ -387,7 +387,7 @@ msgstr "Mounting the vertical axis (step 1)"
 
 #: ../../assemblage.rst:218
 msgid "**Pièce(s) imprimée(s) en 3D** : XMOTOR_support"
-msgstr "** 3D printed parts ** :   XMOTOR_support"
+msgstr "**3D printed parts** :   XMOTOR_support"
 
 #: ../../assemblage.rst:219
 msgid "1 moteur NEMA 17"
@@ -423,7 +423,7 @@ msgstr "Mounting the limit switch X"
 
 #: ../../assemblage.rst:239
 msgid "**Pièce(s) imprimée(s) en 3D** : SWITCH_X_support"
-msgstr "** 3D printed parts ** : SWITCH_X_support"
+msgstr "**3D printed parts** : SWITCH_X_support"
 
 #: ../../assemblage.rst:240
 msgid ""
@@ -523,7 +523,7 @@ msgstr "Pre-assembled electromagnet assembly (see Preparing the electromagnet)"
 
 #: ../../assemblage.rst:295
 msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing"
-msgstr "** 3D printed parts ** :  ELECTRO_MAGNET_housing"
+msgstr "**3D printed parts** :  ELECTRO_MAGNET_housing"
 
 #: ../../assemblage.rst:296
 msgid "2 vis M3-8"
@@ -561,7 +561,7 @@ msgstr "**3D printed part** : BOTTOM_trolley"
 
 #: ../../assemblage.rst:322
 msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide"
-msgstr "** 3D printed parts ** :  ELECTRO_MAGNET_guide"
+msgstr "**3D printed parts** :  ELECTRO_MAGNET_guide"
 
 #: ../../assemblage.rst:323
 msgid "3 paliers lineaires IGUS"
@@ -879,7 +879,7 @@ msgid ""
 "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et "
 "vis sans tête (cf Préparation de supports d’axes)"
 msgstr ""
-"** 3D printed parts **: BOTTOM_AXIS_left prepared with nut and grub screw"
+"**3D printed parts**: BOTTOM_AXIS_left prepared with nut and grub screw"
 " (cf Preparation of axis supports)"
 
 #: ../../assemblage.rst:551
@@ -887,7 +887,7 @@ msgid ""
 "**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis"
 " sans tête (cf Préparation de supports d’axes)"
 msgstr ""
-"** 3D printed parts **: TOP_AXIS_left prepared with nut and grub screw "
+"**3D printed parts**: TOP_AXIS_left prepared with nut and grub screw "
 "(see Preparation of axle supports)"
 
 #: ../../assemblage.rst:553 ../../assemblage.rst:575
@@ -926,7 +926,7 @@ msgid ""
 "**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et "
 "vis sans tête (cf Préparation de supports d’axes)"
 msgstr ""
-"** 3D printed parts **: TOP_AXIS_right prepared with nut and grub screws "
+"**3D printed parts**: TOP_AXIS_right prepared with nut and grub screws "
 "(see Preparation of axle supports)"
 
 #: ../../assemblage.rst:579
@@ -1054,7 +1054,7 @@ msgstr "Mounting the vertical axis (step 2)"
 
 #: ../../assemblage.rst:687
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 X KP08_support"
-msgstr "** 3D printed parts ** :  2 X KP08_support"
+msgstr "**3D printed parts** :  2 X KP08_support"
 
 #: ../../assemblage.rst:688
 msgid "2 KP08"
@@ -1556,7 +1556,7 @@ msgstr "Assembly of the Y limit switch"
 #: ../../assemblage.rst:1096
 #, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D** : ENDSTOP_Y_support, ENDSTOP_Y_lever"
-msgstr "** Piece (s) printed in 3D **: SWITCH_Y_support"
+msgstr "**3D printed part(s)**: SWITCH_Y_support"
 
 #: ../../assemblage.rst:1097 ../../assemblage.rst:1187
 msgid "2 vis M3-14"
