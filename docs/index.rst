@@ -8,6 +8,7 @@ Bienvenue sur la documentation BrailleRAP
 |
 
 Contenu:
+
 .. toctree::
    :maxdepth: 1
 
