@@ -468,7 +468,7 @@ Préparation des rouleaux papier
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
        :align: center
 
-* Mettre les joints toriques dans la gorge des 2 ROLL_joint.
+* Mettre les joints toriques dans la gorge des 3 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.42.jpg
        :align: center
@@ -546,7 +546,7 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
 
-  * 4 vis BTR M3-14
+  * 4 vis M3-14
   * 4 rondelles M3 larges
   * 4 écrous NYL M3
 
@@ -568,7 +568,7 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-  * 4 vis BTR M3-14
+  * 4 vis M3-14
   * 4 rondelles M3 larges
   * 4 écrous NYL M3
 
@@ -586,7 +586,7 @@ Fixation des tendeurs de courroie
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing
-  * 2 vis BTR M3-20
+  * 2 vis M3-20
   * 2 rondelles M3 larges
   * 2 écrous NYL M3
 
@@ -614,7 +614,7 @@ Assemblage des poulies libres de renvoi
 Matériel :
 
   * 2 poulies libres 20 dents bore 3mm
-  * 2 vis BTR M3-25
+  * 2 vis M3-25
   * 2 écrous NYL M3
 
 
@@ -862,7 +862,7 @@ Matériel :
 |
 
 * Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8.
-* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 2 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
+* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 3 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
 
 .. image :: ./IMG/BrailleRAP-V5.73.jpg
        :align: center

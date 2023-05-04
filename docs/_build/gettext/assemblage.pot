@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 21:24+0000\n"
+"POT-Creation-Date: 2023-05-04 21:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -491,6 +491,7 @@ msgstr ""
 
 #: ../../assemblage.rst:323
 #: ../../assemblage.rst:392
+#: ../../assemblage.rst:589
 msgid "2 vis M3-20"
 msgstr ""
 
@@ -630,7 +631,7 @@ msgid "Tarauder les 3 ROLL_joint."
 msgstr ""
 
 #: ../../assemblage.rst:471
-msgid "Mettre les joints toriques dans la gorge des 2 ROLL_joint."
+msgid "Mettre les joints toriques dans la gorge des 3 ROLL_joint."
 msgstr ""
 
 #: ../../assemblage.rst:476
@@ -711,7 +712,8 @@ msgstr ""
 
 #: ../../assemblage.rst:549
 #: ../../assemblage.rst:571
-msgid "4 vis BTR M3-14"
+#: ../../assemblage.rst:1161
+msgid "4 vis M3-14"
 msgstr ""
 
 #: ../../assemblage.rst:550
@@ -752,10 +754,6 @@ msgstr ""
 msgid "**Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing"
 msgstr ""
 
-#: ../../assemblage.rst:589
-msgid "2 vis BTR M3-20"
-msgstr ""
-
 #: ../../assemblage.rst:594
 msgid "Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle."
 msgstr ""
@@ -773,7 +771,7 @@ msgid "2 poulies libres 20 dents bore 3mm"
 msgstr ""
 
 #: ../../assemblage.rst:617
-msgid "2 vis BTR M3-25"
+msgid "2 vis M3-25"
 msgstr ""
 
 #: ../../assemblage.rst:621
@@ -1014,7 +1012,7 @@ msgid "Enfiler la barre lisse à mi course par le côté gauche à travers la ca
 msgstr ""
 
 #: ../../assemblage.rst:865
-msgid "Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 2 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe."
+msgid "Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 3 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe."
 msgstr ""
 
 #: ../../assemblage.rst:872
@@ -1248,10 +1246,6 @@ msgstr ""
 
 #: ../../assemblage.rst:1160
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK"
-msgstr ""
-
-#: ../../assemblage.rst:1161
-msgid "4 vis M3-14"
 msgstr ""
 
 #: ../../assemblage.rst:1164
