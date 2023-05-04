@@ -179,7 +179,6 @@ msgid "Caisse bois assemblée."
 msgstr "Assembled wood box."
 
 #: ../../assemblage.rst:90 fe7e3f3e058f499b948f9e0d0607d2c4
-#, fuzzy
 msgid "4 disques en bois récupérés de la découpe laser du couvercle."
 msgstr "4 wooden discs recovered from the laser cutting of the lid."
 
