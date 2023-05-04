@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  test\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-04 10:44+0000\n"
+"POT-Creation-Date: 2023-05-04 14:56+0000\n"
 "PO-Revision-Date: 2018-12-28 12:02+0200\n"
 "Last-Translator: Stephane <sgn.braillerap@gmail.com>\n"
 "Language: en\n"
@@ -23,45 +23,49 @@ msgid "Outillages necessaires"
 msgstr "Necessary tools"
 
 #: ../../assemblage.rst:6 c663a67948dd49bab620223f8156ca94
-msgid "Cles 6 pans 1.5,2,2.5 et 4"
+#, fuzzy
+msgid "Cles 6 pans 1.5,2,2.5 et 4."
 msgstr "Hex keys 1.5,2,2.5 and 4"
 
 #: ../../assemblage.rst:7 76ffffc6a7564c34a47a2c9323fd8686
-msgid "Petite pinces"
-msgstr "Small pliers"
+#, fuzzy
+msgid "Petites pinces."
+msgstr "Small pliers."
 
 #: ../../assemblage.rst:8 f9110deeea1f457197c875ee51a4b5b2
-msgid "Petite pince coupante"
-msgstr "Small cutting pliers"
+#, fuzzy
+msgid "Petite pince coupante."
+msgstr "Small cutting pliers."
 
 #: ../../assemblage.rst:9 0f8071d2aeb641888c45b5b2778c4a00
-msgid "Clés à tube 5.5 et 8"
-msgstr "Tube wrenches 5.5 and 8"
+#, fuzzy
+msgid "Clés à tube 5.5 et 8."
+msgstr "Tube wrenches 5.5 and 8."
 
 #: ../../assemblage.rst:10 8a03992e2255455585d4998ebf216830
-#
-msgid "Un taraud M3"
-msgstr "One M3 tap"
+#, fuzzy
+msgid "Un taraud M3."
+msgstr "1 M3 tap."
 
-#: ../../assemblage.rst:11 ../../assemblage.rst:180
-#: af9cb18ec240442b8a5190ee41fb383c
-msgid "1 foret de 8mm"
-msgstr "1 8mm drill"
+#: ../../assemblage.rst:11 af9cb18ec240442b8a5190ee41fb383c
+#, fuzzy
+msgid "1 foret de 8mm."
+msgstr "1 8mm drill."
 
 #: ../../assemblage.rst:12 af9cb18ec240442b8a5190ee41fb383c
 #, fuzzy
-msgid "1 foret de 3mm"
-msgstr "1 3mm drill"
+msgid "1 foret de 3mm."
+msgstr "1 3mm drill."
 
-#: ../../assemblage.rst:13 58d8942f51a647d8b866c217d02a5ffe
-#, fuzzy
-msgid "Colle à bois"
+#: ../../assemblage.rst:13 ../../assemblage.rst:65 ../../assemblage.rst:91
+#: ../../assemblage.rst:106 58d8942f51a647d8b866c217d02a5ffe
+msgid "Colle à bois."
 msgstr "wood glue"
 
-#: ../../assemblage.rst:14 76ffffc6a7564c34a47a2c9323fd8686
-#, fuzzy
-msgid "Scotch de peintre"
-msgstr "Blue tape adhesive tape"
+#: ../../assemblage.rst:14 ../../assemblage.rst:66
+#: 76ffffc6a7564c34a47a2c9323fd8686
+msgid "Scotch de peintre."
+msgstr "Adhesive Blue tape"
 
 #: ../../assemblage.rst:18 a9772685835b4e4291160c801a950360
 msgid "Remarques sur les vis"
@@ -73,9 +77,9 @@ msgid ""
 " deuxieme nombre correspond à la longueur de la vis Par exemple M3-12 "
 "designe une vis de 3mm de diamètre et de 12mm de longueur"
 msgstr ""
-"M3 and M5 correspond to the diameter in mm of the threaded part of the screws "
-"second number corresponds to the length of the screw For example M3-12 "
-"means a screw 3mm in diameter and 12mm in length"
+"M3 and M5 correspond to the diameter in mm of the threaded part of the "
+"screws second number corresponds to the length of the screw For example "
+"M3-12 means a screw 3mm in diameter and 12mm in length"
 
 #: ../../assemblage.rst:24 4517e54470594de08d46ca5da0776e16
 msgid ""
@@ -89,9 +93,7 @@ msgstr ""
 msgid ""
 "**M3-12 sans tête** correspond a une vis sans tête (3mm de diamètre - 12 "
 "mm de longueur)"
-msgstr ""
-"**M3-12 grub** corresponds to a grub screw (3mm diameter - 12 "
-"mm length)"
+msgstr "**M3-12 grub** corresponds to a grub screw (3mm diameter - 12 mm length)"
 
 #: ../../assemblage.rst:39 5395aa5200aa4c3591b45e614fd24d90
 msgid "Remarques sur les écrous"
@@ -101,17 +103,15 @@ msgstr "Notes on nuts"
 msgid ""
 "**Ecrou M3 ou ecrou M5** désignent des ecrous standards de diamêtre 3mm "
 "ou 5mm"
-msgstr ""
-"**M3 nut or M5 nut** refer to standard nuts with a diameter of 3mm "
-"or 5mm"
+msgstr "**M3 nut or M5 nut** refer to standard nuts with a diameter of 3mm or 5mm"
 
 #: ../../assemblage.rst:48 8b71518ad5b44d82923812300ea5a379
 msgid ""
 "**Ecrou M3 NYL** ou **ecrou M5 NYL** désignent des ecrous **frein** de "
 "diamêtre 3mm ou 5mm"
 msgstr ""
-"**M3 NYL nut** or **M5 NYL nut** refer to **locking** nuts of "
-"diameter 3mm or 5mm "
+"**M3 NYL nut** or **M5 NYL nut** refer to **locking** nuts of diameter "
+"3mm or 5mm "
 
 #: ../../assemblage.rst:56 c2e243f6ff0b49c7bfa3c831cb2b4106
 msgid "Collage de la caisse en bois"
@@ -142,15 +142,6 @@ msgstr "LEFT_SIDE (5mm laser cut plywood)."
 msgid "RIGHT_SIDE (contre-plaqué de 5mm découpé au laser)."
 msgstr "RIGHT_SIDE  (5mm laser cut plywood)."
 
-#: ../../assemblage.rst:65 ../../assemblage.rst:91 ../../assemblage.rst:106
-#: 58d8942f51a647d8b866c217d02a5ffe
-msgid "Colle à bois."
-msgstr "wood glue"
-
-#: ../../assemblage.rst:66 76ffffc6a7564c34a47a2c9323fd8686
-msgid "Scotch de peintre."
-msgstr "Adhesive Blue tape"
-
 #: ../../assemblage.rst:68 82ed7f2a5c1b4a78bcf8fba7514d2108
 msgid "Préparer les 5 éléments: FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
 msgstr "Prepare the 5 elements: FACE, BACK, LEFT_SIDE, RIGHT_SIDE and BOTTOM."
@@ -159,8 +150,9 @@ msgstr "Prepare the 5 elements: FACE, BACK, LEFT_SIDE, RIGHT_SIDE and BOTTOM."
 msgid ""
 "bien repérer la position des cotés (droit et gauche) et le fond. Utiliser"
 " les percages pour orienter les pièces comme sur la figure"
-msgstr "identify the position of the sides (right and left) and the bottom. Use"
-" the holes to orient the parts as shown in the figure"
+msgstr ""
+"identify the position of the sides (right and left) and the bottom. Use "
+"the holes to orient the parts as shown in the figure"
 
 #: ../../assemblage.rst:77 591e591a6a514bd1aa0d5977b04af48f
 msgid ""
@@ -221,11 +213,10 @@ msgid ""
 " coincer). Bien serrer les pièces l'une contre l'autre avec des pinces de"
 " serrages"
 msgstr ""
-"the 2 pieces must be perfectly aligned. Place screws in "
-"drillings to properly align the parts. There must not be any "
-"of space between the two pieces (where the sheet of paper could come"
-" jam). Tighten the parts well against each other with clamps "
-
+"the 2 pieces must be perfectly aligned. Place screws in drillings to "
+"properly align the parts. There must not be any of space between the two "
+"pieces (where the sheet of paper could come jam). Tighten the parts well "
+"against each other with clamps "
 
 #: ../../assemblage.rst:124 9187b83adf8e4470b50c46800f13dfbd
 msgid "Préparation du pointeau mâle"
@@ -338,8 +329,8 @@ msgid ""
 "Introduire les écrous NYL M3 dans le support moteur. Les maintenir en "
 "place avec un petit bout de scotch de peintre."
 msgstr ""
-"Insert the NYL M3 nuts into the engine mount. Hold them in "
-"place with a small piece of painter's tape."
+"Insert the NYL M3 nuts into the engine mount. Hold them in place with a "
+"small piece of painter's tape."
 
 #: ../../assemblage.rst:175 6bf45ba17de44473a0b4e34f6ba8f538
 #, fuzzy
@@ -357,6 +348,10 @@ msgstr "**3D printed parts** : TOP_AXIS_left"
 #: ../../assemblage.rst:179 d718d7d339fa4cd58457d6b261efb028
 msgid "**Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right"
 msgstr "**3D printed parts** : TOP_AXIS_right"
+
+#: ../../assemblage.rst:180 af9cb18ec240442b8a5190ee41fb383c
+msgid "1 foret de 8mm"
+msgstr "1 8mm drill"
 
 #: ../../assemblage.rst:181 05f19b8418534e5baa42f33d618f9a26
 msgid "8 écrous M3"
@@ -496,8 +491,8 @@ msgid ""
 "Attention au sens des vis 2.5. La tête de la vis doit être sous le "
 "microswitch pour permettre le passage de l'axe linéaire."
 msgstr ""
-"Pay attention to the direction of the 2.5 screws. The head of the screw must be under the "
-"microswitch to allow passage of the linear axis."
+"Pay attention to the direction of the 2.5 screws. The head of the screw "
+"must be under the microswitch to allow passage of the linear axis."
 
 #: ../../assemblage.rst:267 ab3f45e59e024968b58dfd4efd21a2d4
 msgid "Préparation de l’électro-aimant"
@@ -562,8 +557,8 @@ msgid ""
 "Veuiller à aligner soigneusement le bord du support et le bord de l"
 "'electro-aimant"
 msgstr ""
-"Be sure to carefully align the edge of the plastic part and the edge of the"
-" electro magnet"
+"Be sure to carefully align the edge of the plastic part and the edge of "
+"the electro magnet"
 
 #: ../../assemblage.rst:315 f3ad5b4b1fb24f0ca060db4a28463e70
 #, fuzzy
@@ -608,9 +603,7 @@ msgstr "2 M3-20 screw"
 msgid ""
 "Introduire les 3 IGUS sur le support BOTTOM_trolley. Les fixer avec des "
 "colliers de serrage"
-msgstr ""
-"Introduce the 3 IGUS on the BOTTOM_trolley support. Fix them with "
-"clamps"
+msgstr "Introduce the 3 IGUS on the BOTTOM_trolley support. Fix them with clamps"
 
 #: ../../assemblage.rst:332 ../../assemblage.rst:447
 #: d5054fe539b04408aad1f7c9b18daf5e
@@ -620,17 +613,16 @@ msgid ""
 " ils seront ajustés quand le chariot sera en place sur les rails "
 "linéaires"
 msgstr ""
-"Lock the IGUS in the groove. Do not overtighten the clamps,"
-"they will be adjusted when the carriage is in place on the rails"
-"linear"
+"Lock the IGUS in the groove. Do not overtighten the clamps,they will be "
+"adjusted when the carriage is in place on the railslinear"
 
 #: ../../assemblage.rst:342 aa0e49da0d134436981e5cf221e38730
 msgid ""
 "Respecter la position du collier. Le verrouillage du collier doit être du"
 " coté de l'IGUS et vers la paroi de la machine."
 msgstr ""
-"Respect the position of the clamps. The locking of the clamps must be"
-" on the IGUS side and towards the front of the machine."
+"Respect the position of the clamps. The locking of the clamps must be on "
+"the IGUS side and towards the front of the machine."
 
 #: ../../assemblage.rst:349 e6bca2c0a97740b993cb820a699056ff
 msgid ""
@@ -649,18 +641,18 @@ msgid ""
 "aimant doit être le plus perpendiculaire possible à la plaque support "
 "(l'axe doit être au milieu du percage qui permet son pasage)."
 msgstr ""
-"Depending on the quality of the print, it may be necessary to file"
-"the spacer housing. Also note that the body of the electro-"
-"magnet must be as perpendicular as possible to the support plate"
-"(the axis must be in the middle of the drilling which allows its passage)."
+"Depending on the quality of the print, it may be necessary to filethe "
+"spacer housing. Also note that the body of the electro-magnet must be as "
+"perpendicular as possible to the support plate(the axis must be in the "
+"middle of the drilling which allows its passage)."
 
 #: ../../assemblage.rst:353 8697ecca104d4fd286d755d59276d4a9
 msgid ""
 "Notez que les fils de l'electro-aimant doivent sortir du coté ou il y a "
 "un seul pallier IGUS."
 msgstr ""
-"Note that the wires of the electromagnet must come out of the side where there is "
-"a single IGUS bearing."
+"Note that the wires of the electromagnet must come out of the side where "
+"there is a single IGUS bearing."
 
 #: ../../assemblage.rst:360 05abb924aab949c18f56a68e22e0874f
 msgid ""
@@ -2177,4 +2169,10 @@ msgstr ""
 
 #~ msgid "Serrer la vis du endstop X"
 #~ msgstr "Tighten the endstop X screw"
+
+#~ msgid "Colle à bois"
+#~ msgstr "wood glue"
+
+#~ msgid "Scotch de peintre"
+#~ msgstr "Blue tape adhesive tape"
 

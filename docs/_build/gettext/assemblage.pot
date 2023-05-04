@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 10:44+0000\n"
+"POT-Creation-Date: 2023-05-04 14:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,49 +28,55 @@ msgstr ""
 
 #: ../../assemblage.rst:6
 #: c663a67948dd49bab620223f8156ca94
-msgid "Cles 6 pans 1.5,2,2.5 et 4"
+msgid "Cles 6 pans 1.5,2,2.5 et 4."
 msgstr ""
 
 #: ../../assemblage.rst:7
 #: 76ffffc6a7564c34a47a2c9323fd8686
-msgid "Petite pinces"
+msgid "Petites pinces."
 msgstr ""
 
 #: ../../assemblage.rst:8
 #: f9110deeea1f457197c875ee51a4b5b2
-msgid "Petite pince coupante"
+msgid "Petite pince coupante."
 msgstr ""
 
 #: ../../assemblage.rst:9
 #: 0f8071d2aeb641888c45b5b2778c4a00
-msgid "Clés à tube 5.5 et 8"
+msgid "Clés à tube 5.5 et 8."
 msgstr ""
 
 #: ../../assemblage.rst:10
 #: 8a03992e2255455585d4998ebf216830
-msgid "Un taraud M3"
+msgid "Un taraud M3."
 msgstr ""
 
 #: ../../assemblage.rst:11
-#: ../../assemblage.rst:180
 #: af9cb18ec240442b8a5190ee41fb383c
-#: af9cb18ec240442b8a5190ee41fb383c
-msgid "1 foret de 8mm"
+msgid "1 foret de 8mm."
 msgstr ""
 
 #: ../../assemblage.rst:12
 #: af9cb18ec240442b8a5190ee41fb383c
-msgid "1 foret de 3mm"
+msgid "1 foret de 3mm."
 msgstr ""
 
 #: ../../assemblage.rst:13
+#: ../../assemblage.rst:65
+#: ../../assemblage.rst:91
+#: ../../assemblage.rst:106
 #: 58d8942f51a647d8b866c217d02a5ffe
-msgid "Colle à bois"
+#: 58d8942f51a647d8b866c217d02a5ffe
+#: 58d8942f51a647d8b866c217d02a5ffe
+#: 58d8942f51a647d8b866c217d02a5ffe
+msgid "Colle à bois."
 msgstr ""
 
 #: ../../assemblage.rst:14
+#: ../../assemblage.rst:66
 #: 76ffffc6a7564c34a47a2c9323fd8686
-msgid "Scotch de peintre"
+#: 76ffffc6a7564c34a47a2c9323fd8686
+msgid "Scotch de peintre."
 msgstr ""
 
 #: ../../assemblage.rst:18
@@ -145,20 +151,6 @@ msgstr ""
 #: ../../assemblage.rst:64
 #: 1a69ec81110843ffb1c741dc6dffee79
 msgid "RIGHT_SIDE (contre-plaqué de 5mm découpé au laser)."
-msgstr ""
-
-#: ../../assemblage.rst:65
-#: ../../assemblage.rst:91
-#: ../../assemblage.rst:106
-#: 58d8942f51a647d8b866c217d02a5ffe
-#: 58d8942f51a647d8b866c217d02a5ffe
-#: 58d8942f51a647d8b866c217d02a5ffe
-msgid "Colle à bois."
-msgstr ""
-
-#: ../../assemblage.rst:66
-#: 76ffffc6a7564c34a47a2c9323fd8686
-msgid "Scotch de peintre."
 msgstr ""
 
 #: ../../assemblage.rst:68
@@ -397,6 +389,11 @@ msgstr ""
 #: ../../assemblage.rst:179
 #: d718d7d339fa4cd58457d6b261efb028
 msgid "**Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right"
+msgstr ""
+
+#: ../../assemblage.rst:180
+#: af9cb18ec240442b8a5190ee41fb383c
+msgid "1 foret de 8mm"
 msgstr ""
 
 #: ../../assemblage.rst:181

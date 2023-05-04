@@ -3,15 +3,15 @@ Manuel de montage BrailleRAP
 
 Outillages necessaires
 ----------------------
-	* Cles 6 pans 1.5,2,2.5 et 4
-	* Petite pinces
-	* Petite pince coupante
-	* Clés à tube 5.5 et 8
-	* Un taraud M3
-	* 1 foret de 8mm
-	* 1 foret de 3mm
-	* Colle à bois
-	* Scotch de peintre
+	* Cles 6 pans 1.5,2,2.5 et 4.
+	* Petites pinces.
+	* Petite pince coupante.
+	* Clés à tube 5.5 et 8.
+	* Un taraud M3.
+	* 1 foret de 8mm.
+	* 1 foret de 3mm.
+	* Colle à bois.
+	* Scotch de peintre.
 	
 	
 Remarques sur les vis
