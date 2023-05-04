@@ -240,7 +240,6 @@ Matériel :
   * 2 vis M2.5-14
   * 2 écrous M2.5
 
-.. Note:: Changer l'image avec support interrupteur (nouveau modèle).
 
 * Introduire un écrou M3 et visser une vis sans tête M3-12.
 
