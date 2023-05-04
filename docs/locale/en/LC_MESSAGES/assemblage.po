@@ -231,7 +231,6 @@ msgid "1 Pierre à aiguisé"
 msgstr "1 Whetstone"
 
 #: ../../assemblage.rst:127
-#, fuzzy
 msgid "1 vis sans tête M3-12 bout téton"
 msgstr "1 grub screw M3-16 butt end"
 
@@ -242,7 +241,6 @@ msgstr ""
 "illustrated."
 
 #: ../../assemblage.rst:137
-#, fuzzy
 msgid "Préparation Moteur Y"
 msgstr "Y Motor preparation "
 
@@ -279,7 +277,6 @@ msgid "2 rondelles M3 larges"
 msgstr "2 wide M3 washers"
 
 #: ../../assemblage.rst:149
-#, fuzzy
 msgid ""
 "Serrer la poulie sur l’arbre du moteur en s’assurant qu’au moins une des "
 "deux vis soit en face du méplat de l’axe du moteur et que les dents de la"
@@ -290,7 +287,6 @@ msgstr ""
 "the teeth of the pulley are facing towards the motor."
 
 #: ../../assemblage.rst:156
-#, fuzzy
 msgid ""
 "Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le"
 " connecteur du moteur soit dans la position correspondante à "
@@ -318,9 +314,8 @@ msgstr ""
 "small piece of painter's tape."
 
 #: ../../assemblage.rst:173
-#, fuzzy
 msgid "Préparation des supports d’axes"
-msgstr "Preparation of axis supports"
+msgstr "Axis supports Preparation"
 
 #: ../../assemblage.rst:175
 msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left"
@@ -343,9 +338,8 @@ msgid "8 écrous M3"
 msgstr "8 M3 nuts"
 
 #: ../../assemblage.rst:180
-#, fuzzy
 msgid "8 vis M3-12 sans tête"
-msgstr "1 grub screw M3-30"
+msgstr "8 M3-12 grub screw"
 
 #: ../../assemblage.rst:182
 msgid ""
@@ -362,7 +356,6 @@ msgid "Les 3 pièces à assembler sont les suivantes"
 msgstr "The 3 parts to be assembled are as follows"
 
 #: ../../assemblage.rst:191
-#, fuzzy
 msgid ""
 "Pour chacune des 3 pièces, introduire un écrou M3 dans les trous "
 "rectangulaires. Visser les vis M3-12."
@@ -377,7 +370,6 @@ msgid ""
 msgstr "The end of the screw must not protrude in the passage of Ø 8mm bars."
 
 #: ../../assemblage.rst:211
-#, fuzzy
 msgid "Préparation de l’axe vertical (étape 1)"
 msgstr "Mounting the vertical axis (step 1)"
 
@@ -428,7 +420,6 @@ msgid ""
 msgstr "1 wired limit switch (see wiring of the limit switches)"
 
 #: ../../assemblage.rst:238
-#, fuzzy
 msgid "1 vis sans tête M3-12"
 msgstr "1 grub screw M3-12"
 
@@ -437,7 +428,6 @@ msgid "1 écrou M3"
 msgstr "1 M3 nuts"
 
 #: ../../assemblage.rst:240 ../../assemblage.rst:1100
-#, fuzzy
 msgid "2 vis M2.5-14"
 msgstr "2  M2.5-14 screw"
 
@@ -450,12 +440,10 @@ msgid "Changer l'image avec support interrupteur (nouveau modèle)."
 msgstr ""
 
 #: ../../assemblage.rst:245
-#, fuzzy
 msgid "Introduire un écrou M3 et visser une vis sans tête M3-12."
-msgstr "Insert an M3 nut and screw in a M3-8 grub screw."
+msgstr "Insert an M3 nut and screw in a M3-12 grub screw."
 
 #: ../../assemblage.rst:254
-#, fuzzy
 msgid ""
 "Visser l'interrupteur fin de course sur son support (ENDSTOP_X_support) à"
 " l'aide des vis M2.5-14 et des écrous M2.5."
@@ -464,7 +452,6 @@ msgstr ""
 "screws and M2.5 nuts."
 
 #: ../../assemblage.rst:256
-#, fuzzy
 msgid "L'interrupteur fin de course devra être câblé avant le montage."
 msgstr "The limit switch is shown not wired but must be wired before installation."
 
@@ -509,9 +496,8 @@ msgstr ""
 "extend ± 6mm beyond the spacer."
 
 #: ../../assemblage.rst:290
-#, fuzzy
 msgid "Montage de l'electro-aimant sur son support"
-msgstr "Fix the electromagnet on its support with the 2 screws M3-8."
+msgstr "Electro magnet assembly."
 
 #: ../../assemblage.rst:291
 msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)"
@@ -530,7 +516,6 @@ msgid "Fixer l’électro-aimant sur son support avec les 2 vis M3-8."
 msgstr "Fix the electromagnet on its support with the 2 screws M3-8."
 
 #: ../../assemblage.rst:297
-#, fuzzy
 msgid "Respecter le côté de sortie des fils c'est important."
 msgstr "Observe the exit side of the wires."
 
