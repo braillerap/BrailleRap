@@ -1642,9 +1642,9 @@ msgid ""
 "conseillons de cabler la carte en dehors du chassis. Une fois "
 "l'embosseuse fonctionelle, vous pourrez fixer la carte dans le chassis."
 msgstr ""
-"To be able to carry out the final adjustments easily, we ask you "
-"recommend wiring the card outside the chassis. Oncethe functional "
-"embosser, you can fix the card in the chassis."
+"To be able to carry out the final adjustments easily, we "
+"recommend wiring the card outside the chassis. Once the embosser "
+"is functional, you can mount the board in the embosser."
 
 #: ../../assemblage.rst:1207
 msgid "Cablage de la carte électronique"
@@ -1668,7 +1668,7 @@ msgstr "2 DRV8825 drivers"
 
 #: ../../assemblage.rst:1228
 msgid "6 cavaliers"
-msgstr "6 riders"
+msgstr "6 jumpers"
 
 #: ../../assemblage.rst:1230
 msgid ""
