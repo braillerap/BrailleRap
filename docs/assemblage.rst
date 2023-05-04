@@ -4,17 +4,17 @@ Manuel de montage BrailleRAP
 Outillages necessaires
 ----------------------
 
-	* Cles 6 pans 1.5,2,2.5 et 4.
-	* Petites pinces.
-	* Petite pince coupante.
-	* Clés à tube 5.5 et 8.
-	* Un taraud M3.
-	* 1 foret de 8mm.
-	* 1 foret de 3mm.
-	* Colle à bois.
-	* Scotch de peintre.
-	
-	
+       - Petites pinces.
+       - Petite pince coupante.
+       - Un taraud M3.
+       - 1 foret de 8mm.
+       - 1 foret de 3mm.
+       - Clés 6 pans 1.5, 2, 2.5 et 4. 
+       - Clés à tube 5.5 et 8.
+       - Colle à bois. 
+       - Scotch de peintre.
+
+
 Remarques sur les vis
 ---------------------
 
@@ -55,7 +55,6 @@ Remarques sur les écrous
 
 Collage de la caisse en bois
 ----------------------------
-
 Matériel:
 
     * FACE (contre-plaqué de 5mm découpé au laser).
@@ -84,14 +83,13 @@ Matériel:
 
 Collage des bloqueurs de trappe
 -------------------------------
-
 Matériel:
 
     * Caisse bois assemblée.
     * 4 disques en bois récupérés de la découpe laser du couvercle.
     * Colle à bois.
 
-* Coller les 4 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine.
+Coller les 4 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine.
 
 .. image :: ./IMG/BrailleRAP-V5.01.2.jpg
        :align: center
@@ -100,12 +98,11 @@ Matériel:
 
 Collage du plateau papier
 -------------------------------
-
 Matériel:
-	* Support papier supérieur
-	* Support papier inférieur
+	* Support papier supérieur.
+	* Support papier inférieur.
 	* Colle à bois.
-	* Pinces de serrage
+	* Pinces de serrage.
 	
 .. image :: ./IMG/paper_support_parts.jpg
        :align: center
