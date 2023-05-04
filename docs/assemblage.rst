@@ -1,8 +1,9 @@
 Manuel de montage BrailleRAP
-===============================
+============================
 
 Outillages necessaires
 ----------------------
+
 	* Cles 6 pans 1.5,2,2.5 et 4.
 	* Petites pinces.
 	* Petite pince coupante.

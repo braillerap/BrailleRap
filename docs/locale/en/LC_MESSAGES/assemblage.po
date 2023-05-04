@@ -38,22 +38,18 @@ msgid "Petite pince coupante."
 msgstr "Small cutting pliers."
 
 #: ../../assemblage.rst:9 
-#, fuzzy
 msgid "Clés à tube 5.5 et 8."
 msgstr "Tube wrenches 5.5 and 8."
 
 #: ../../assemblage.rst:10 
-#, fuzzy
 msgid "Un taraud M3."
 msgstr "1 M3 tap."
 
 #: ../../assemblage.rst:11 
-#, fuzzy
 msgid "1 foret de 8mm."
 msgstr "1 8mm drill."
 
 #: ../../assemblage.rst:12 
-#, fuzzy
 msgid "1 foret de 3mm."
 msgstr "1 3mm drill."
 
