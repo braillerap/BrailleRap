@@ -79,7 +79,8 @@ html_theme_options = {
 
 
 def setup(app):
-    app.add_stylesheet('css/custom.css')
+    #app.add_stylesheet('css/custom.css')
+    pass
 
 
 
