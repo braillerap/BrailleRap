@@ -19,6 +19,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
 	'sphinx.ext.autosectionlabel',
+    'sphinx_rtd_theme',
     
 ]
 templates_path = ['_templates']
@@ -66,10 +67,10 @@ locale_dirs = [
 gettext_compact = False
 gettext_uuid = True
 
-#html_theme = 'sphinx_rtd_theme'
-html_static_path = ['_static']
+html_theme = 'sphinx_rtd_theme'
+#html_static_path = ['_static']
 #html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-html_theme_path = ["_themes"]
+#html_theme_path = ["_themes"]
 #html_logo = 'img/logo.svg'
 
 html_theme_options = {
