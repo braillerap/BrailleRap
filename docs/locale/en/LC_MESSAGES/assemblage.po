@@ -528,9 +528,8 @@ msgstr ""
 "the electro magnet"
 
 #: ../../assemblage.rst:313
-#, fuzzy
 msgid "Préparation du chariot bas (étape 1)"
-msgstr "Mounting the low truck (step 1)"
+msgstr "Bottom truck prepare (step 1)"
 
 #: ../../assemblage.rst:317
 msgid "Electro-aimant assemblé dans son support"
@@ -571,7 +570,6 @@ msgid ""
 msgstr "Introduce the 3 IGUS on the BOTTOM_trolley support. Fix them with clamps"
 
 #: ../../assemblage.rst:330 ../../assemblage.rst:445
-#, fuzzy
 msgid ""
 "Bloquer les IGUS dans le rainurage. Ne pas serrer les colliers trop fort,"
 " ils seront ajustés quand le chariot sera en place sur les rails "
@@ -642,7 +640,6 @@ msgid ""
 msgstr ""
 
 #: ../../assemblage.rst:380
-#, fuzzy
 msgid "Preparation du chariot haut (étape 1)"
 msgstr "Mounting the top cart (step 1)"
 
