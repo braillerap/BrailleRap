@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-04 09:05+0000\n"
+"POT-Creation-Date: 2023-05-04 16:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,18 +22,21 @@ msgstr ""
 # This file is distributed under the same license as the BraillerRapSP
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#: ../../index.rst:2 55f1814236294ce5bd44dd673f266996
+#: ../../index.rst:2
 msgid "Bienvenue sur la documentation BrailleRAP"
 msgstr "Welcome to BrailleRAP documentation"
 
-#: ../../index.rst:8 9da28a775f8f4e94b9149275939ab028
-msgid "Contenu:"
-msgstr "Contents:"
+#: ../../index.rst:10
+msgid "Contenu: .. toctree::"
+msgstr ""
 
-#: ../../index.rst:24 e44931106ced498bb358d40748c8a271
+#: ../../index.rst:25
 msgid "Mise à jour: |today|"
 msgstr ""
 
 #~ msgid "/////test"
 #~ msgstr ""
+
+#~ msgid "Contenu:"
+#~ msgstr "Contents:"
 

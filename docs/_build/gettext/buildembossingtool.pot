@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 09:05+0000\n"
+"POT-Creation-Date: 2023-05-04 16:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,16 +17,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../buildembossingtool.rst:2
-#: 3f54bebf93524649a0a2dee3d08387a7
 msgid "Building the embossing tool"
 msgstr ""
 
 #: ../../buildembossingtool.rst:5
-#: 652d0e3da23442b2ad90809694ef26af
 msgid "Material"
 msgstr ""
 
 #: ../../buildembossingtool.rst:7
-#: 8564997039d9480490f46d0ee2376931
 msgid "The embossing tool is made of an M3 screw, machined with a dremel like tool."
 msgstr ""

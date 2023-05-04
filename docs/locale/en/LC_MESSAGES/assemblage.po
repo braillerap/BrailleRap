@@ -14,51 +14,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.1\n"
 
-#: ../../assemblage.rst:2 aed83887aaef48c6b93fd1675f9dc212
+#: ../../assemblage.rst:2 
 msgid "Manuel de montage BrailleRAP"
 msgstr "BrailleRAP building manual  "
 
-#: ../../assemblage.rst:5 6cf18d0bd7844e12967993f75ab4c56a
+#: ../../assemblage.rst:5 
 msgid "Outillages necessaires"
 msgstr "Necessary tools"
 
-#: ../../assemblage.rst:6 c663a67948dd49bab620223f8156ca94
+#: ../../assemblage.rst:6 
 #, fuzzy
 msgid "Cles 6 pans 1.5,2,2.5 et 4."
 msgstr "Hex keys 1.5,2,2.5 and 4"
 
-#: ../../assemblage.rst:7 76ffffc6a7564c34a47a2c9323fd8686
+#: ../../assemblage.rst:7 
 #, fuzzy
 msgid "Petites pinces."
 msgstr "Small pliers."
 
-#: ../../assemblage.rst:8 f9110deeea1f457197c875ee51a4b5b2
+#: ../../assemblage.rst:8 
 #, fuzzy
 msgid "Petite pince coupante."
 msgstr "Small cutting pliers."
 
-#: ../../assemblage.rst:9 0f8071d2aeb641888c45b5b2778c4a00
+#: ../../assemblage.rst:9 
 #, fuzzy
 msgid "Clés à tube 5.5 et 8."
 msgstr "Tube wrenches 5.5 and 8."
 
-#: ../../assemblage.rst:10 8a03992e2255455585d4998ebf216830
+#: ../../assemblage.rst:10 
 #, fuzzy
 msgid "Un taraud M3."
 msgstr "1 M3 tap."
 
-#: ../../assemblage.rst:11 af9cb18ec240442b8a5190ee41fb383c
+#: ../../assemblage.rst:11 
 #, fuzzy
 msgid "1 foret de 8mm."
 msgstr "1 8mm drill."
 
-#: ../../assemblage.rst:12 af9cb18ec240442b8a5190ee41fb383c
+#: ../../assemblage.rst:12 
 #, fuzzy
 msgid "1 foret de 3mm."
 msgstr "1 3mm drill."
 
 #: ../../assemblage.rst:13 ../../assemblage.rst:65 ../../assemblage.rst:91
-#: ../../assemblage.rst:106 58d8942f51a647d8b866c217d02a5ffe
+#: ../../assemblage.rst:106 
 msgid "Colle à bois."
 msgstr "wood glue"
 

@@ -65,7 +65,7 @@ locale_dirs = [
     'locale/',
 ]
 gettext_compact = False
-gettext_uuid = True
+gettext_uuid = False
 
 html_theme = 'sphinx_rtd_theme'
 #html_static_path = ['_static']
