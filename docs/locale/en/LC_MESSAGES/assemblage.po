@@ -634,8 +634,8 @@ msgid ""
 "L'axe de l'electroaimant doit pouvoir monter et descendre librement sans "
 "effort."
 msgstr ""
-"\"The axis of the electromagnet must be able to move up and down freely "
-"without resistance.\""
+"The axis of the electromagnet must be able to move up and down freely "
+"without resistance."
 
 #: ../../assemblage.rst:379
 msgid "Preparation du chariot haut (étape 1)"
@@ -1032,9 +1032,8 @@ msgid "2 KP08"
 msgstr "2 KP08"
 
 #: ../../assemblage.rst:685
-#, fuzzy
 msgid "4 vis M5-25"
-msgstr "4 M5-22 screw"
+msgstr "4 M5-25 screw"
 
 #: ../../assemblage.rst:686 ../../assemblage.rst:839
 msgid "4 rondelles M5"
@@ -1056,7 +1055,6 @@ msgstr ""
 "a Ø 8mm bar and manually actuate it to straighten them."
 
 #: ../../assemblage.rst:696
-#, fuzzy
 msgid ""
 "Visser les KP08_support et les KP08 sur la caisse en laissant un peu de "
 "jeu avec les vis M5-25, les rondelles M5 et les écrous M5 NYL."
@@ -1198,13 +1196,12 @@ msgid "2 colliers"
 msgstr "2 necklaces"
 
 #: ../../assemblage.rst:802 ../../assemblage.rst:1039
-#, fuzzy
 msgid ""
 "A l’aide d’un collier, attacher la courroie autour de la vis du chariot "
 "avec les dents à l’extérieur."
 msgstr ""
 "Using a collar, attach the strap around the carriage screw with the teeth"
-" facing out. ** ADD PICTURE **"
+" facing out."
 
 #: ../../assemblage.rst:809 ../../assemblage.rst:1046
 msgid ""
@@ -1213,20 +1210,18 @@ msgid ""
 msgstr "Pass the belt in the free pulley then the pulley of the vertical axis."
 
 #: ../../assemblage.rst:816 ../../assemblage.rst:1053
-#, fuzzy
 msgid ""
 "Tendre la courroie en retenant le chariot et fixer la deuxième extrémité "
 "de la courroie sur sa vis avec un collier."
 msgstr ""
 "Tension the belt while holding the carriage and secure the second end of "
-"the belt to its screw with a collar. ** ADD PICTURE **"
+"the belt to its screw with a collar."
 
 #: ../../assemblage.rst:818 ../../assemblage.rst:1055
-#, fuzzy
 msgid "Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse."
 msgstr ""
-"Finish stretching the belt with the screw on the outside of the body. ** "
-"ADD PICTURE **"
+"Finish stretching the belt with the screw on the outside of the body."
+
 
 #: ../../assemblage.rst:825
 msgid "Pour l'instant, ne pas serrer les vis de la poulie sur l'axe."
@@ -1234,7 +1229,7 @@ msgstr "For now, do not tighten the pulley bolts on the axle."
 
 #: ../../assemblage.rst:833
 msgid "Montage de l’axe Y (étape 1)"
-msgstr "Mounting the Y axis (step 1)"
+msgstr "Y axis mounting (step 1)"
 
 #: ../../assemblage.rst:836
 msgid "2 KFL8"
@@ -1250,7 +1245,7 @@ msgstr "1 GT2 20 teeth boron 8mm pulley"
 
 #: ../../assemblage.rst:841
 msgid "1 barre lisse Ø 8mm, longueur : 364mm"
-msgstr "1 smooth bar Ø 8mm, length: 364mm"
+msgstr "1 smooth rod Ø 8mm, length: 364mm"
 
 #: ../../assemblage.rst:842
 msgid "1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )"
@@ -1281,7 +1276,6 @@ msgstr ""
 "the KFL8."
 
 #: ../../assemblage.rst:865
-#, fuzzy
 msgid ""
 "Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée"
 " et les 3 ROLL_joint (attention à la position du joint torique). Mettre "
@@ -1328,7 +1322,6 @@ msgid "Serrer les 2 vis de la poulie de l'axe."
 msgstr "Tighten the 2 screws of the pulley of the axle."
 
 #: ../../assemblage.rst:913
-#, fuzzy
 msgid ""
 "Mettre en place la plaque en CP (sans la coller) afin d’aligner les "
 "ROLL_joint avec les trous présents dans la plaque."
@@ -1337,7 +1330,6 @@ msgstr ""
 "ROLL_joint with the holes present in the plate."
 
 #: ../../assemblage.rst:914
-#, fuzzy
 msgid ""
 "Centrer les rouleaux dans les trous de la plaque et visser les vis sans "
 "tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe. "
@@ -1354,41 +1346,34 @@ msgid "Retirer la plaque de contre plaqué."
 msgstr "Remove the plywood plate."
 
 #: ../../assemblage.rst:925
-#, fuzzy
 msgid "Montage des guide-papiers sur la plaque support"
-msgstr "Assembling the paper guides on the plate"
+msgstr "Assembling paper guides on the plate"
 
 #: ../../assemblage.rst:928
-#, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left"
 msgstr "**3D printed parts** : PAPER_GUIDE_left"
 
 #: ../../assemblage.rst:929
-#, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right"
 msgstr "**3D printed parts** : PAPER_GUIDE_right"
 
 #: ../../assemblage.rst:930
-#, fuzzy
 msgid "**PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)"
-msgstr "PAPER_support (laser cut 5mm plywood)."
+msgstr "**PAPER_support** (laser cut 5mm plywood)."
 
 #: ../../assemblage.rst:931
 msgid "4 vis M3-16"
 msgstr "4 M3-16 screws"
 
 #: ../../assemblage.rst:932
-#, fuzzy
 msgid "4 vis M3-12"
 msgstr "4 M3-12 screw"
 
 #: ../../assemblage.rst:933
-#, fuzzy
 msgid "8 rondelles M3 Larges"
 msgstr "8 wide M3 washers"
 
 #: ../../assemblage.rst:934
-#, fuzzy
 msgid "8 écrous M3 NYL"
 msgstr "8 M3 NYL nuts"
 
@@ -1401,7 +1386,6 @@ msgstr ""
 " there are 2 thicknesses of wood."
 
 #: ../../assemblage.rst:939
-#, fuzzy
 msgid ""
 "Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des "
 "rondelles M3 Larges et les écrous M3 NYL."
@@ -1451,7 +1435,6 @@ msgstr ""
 "it at the end when The embosser will work."
 
 #: ../../assemblage.rst:976
-#, fuzzy
 msgid ""
 "Encoller les encoches qui vont être en contact. Introduire la plaque par "
 "l'arrière et la maintenir fermement avec du ruban adhésif pendant le "
@@ -1469,9 +1452,8 @@ msgid "2 barres lisses Ø 8mm, longueur : 330mm"
 msgstr "2 smooth bars Ø 8mm, length: 330mm"
 
 #: ../../assemblage.rst:1002
-#, fuzzy
 msgid "Enfiler le chariot haut sur les barres lisses."
-msgstr "Thread the trolley down over the smooth bars."
+msgstr "Thread the top trolley over the rods."
 
 #: ../../assemblage.rst:1009
 msgid "Terminer d’enfiler les barres."
@@ -1498,17 +1480,14 @@ msgid "Montage des presse-papiers (étape 2) :"
 msgstr "Assembly of the paperweights (step 2):"
 
 #: ../../assemblage.rst:1066
-#, fuzzy
 msgid "3 CLIPBOARD montés à l'étape 1"
 msgstr "3 CLIPBOARD mounted in step 1"
 
 #: ../../assemblage.rst:1067
-#, fuzzy
 msgid "6 vis M3-14"
 msgstr "6 screws M3-14"
 
 #: ../../assemblage.rst:1068
-#, fuzzy
 msgid "6 rondelles M3 moyennes"
 msgstr "6 medium M3 washers"
 
@@ -1525,28 +1504,24 @@ msgid "Montage du fin de course Y"
 msgstr "Assembly of the Y limit switch"
 
 #: ../../assemblage.rst:1092
-#, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D** : ENDSTOP_Y_support, ENDSTOP_Y_lever"
-msgstr "**3D printed part(s)**: SWITCH_Y_support"
+msgstr "**3D printed part(s)**: ENDSTOP_Y_support, ENDSTOP_Y_lever"
 
 #: ../../assemblage.rst:1093 ../../assemblage.rst:1183
 msgid "2 vis M3-14"
 msgstr "2 M3-14 screws"
 
 #: ../../assemblage.rst:1094
-#, fuzzy
 msgid "1 vis M3-12"
 msgstr "1 M3-12 screw"
 
 #: ../../assemblage.rst:1095
-#, fuzzy
 msgid "1 vis M3-20"
 msgstr "1 M3-20 screw"
 
 #: ../../assemblage.rst:1097
-#, fuzzy
 msgid "3 écrous M3 NYL"
-msgstr "3 M3 nuts"
+msgstr "3 M3-NYL nuts"
 
 #: ../../assemblage.rst:1098
 msgid "1 interrupteur fin de course à lamelle"
