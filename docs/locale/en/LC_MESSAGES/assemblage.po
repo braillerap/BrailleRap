@@ -870,7 +870,7 @@ msgstr ""
 
 #: ../../assemblage.rst:549 ../../assemblage.rst:571 ../../assemblage.rst:1161
 msgid "4 vis M3-14"
-msgstr "4 M3-14 screws  "
+msgstr "4 M3-14 screws"
 
 #: ../../assemblage.rst:550 ../../assemblage.rst:572
 msgid "4 rondelles M3 larges"
@@ -1943,9 +1943,5 @@ msgstr ""
 " you will need to adjust the height of the borrows of the high carriage "
 "using the blind nut"
 
-#~ msgid "2 vis BTR M3-20"
-#~ msgstr "2 M3-20 screw"
 
-#~ msgid "2 vis BTR M3-25"
-#~ msgstr "2 M3-25 BTR screw"
 
