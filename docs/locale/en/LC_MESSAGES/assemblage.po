@@ -44,12 +44,10 @@ msgid "1 foret de 3mm."
 msgstr "3mm drill."
 
 #: ../../assemblage.rst:12
-#, fuzzy
 msgid "Clés 6 pans 1.5, 2, 2.5 et 4."
 msgstr "Hex keys 1.5, 2, 2.5 and 4"
 
 #: ../../assemblage.rst:13
-#, fuzzy
 msgid "Clés à tube 5.5 et 8."
 msgstr "Tube wrenches 5.5 and 8."
 
