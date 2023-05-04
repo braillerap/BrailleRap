@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-{}, BrailleRap
+# This file is distributed under the same license as the BrailleRap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BrailleRap 6.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-04 16:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../history.rst:2
+msgid "Historique du projet"
+msgstr ""
+
+#: ../../history.rst:5
+msgid "Le commencement"
+msgstr ""
+
+#: ../../history.rst:7
+msgid "En 2016 l'association **MyHumanKit** organise en collaboration avec **Airbus Industries** un hackaton appelé Fabrikarium."
+msgstr ""
+
+#: ../../history.rst:9
+msgid "Pendant le Fabrikarium plusieurs travaux ont été réalisés pour modifier des imprimantes 3D afin d'embosser du **Braille** sur du papier 160g,"
+msgstr ""
+
+#: ../../history.rst:11
+msgid "Le projet s'appelait `BrailleRap <https://github.com/arthursw/BrailleRap/blob/master/Documentation/documentation-en.md>`_."
+msgstr ""
+
+#: ../../history.rst:13
+msgid "Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une démonstration de faisabilité, mais qu'il fallait mettre au point une machine spécialisée facile à reproduire."
+msgstr ""
+
+#: ../../history.rst:18
+msgid "OpenBraille"
+msgstr ""
+
+#: ../../history.rst:19
+msgid "En 2017 Carlos Campos démarre le projet OpenBraille et construit une embosseuse braille à partir de pièces d'imprimante recyclées."
+msgstr ""
+
+#: ../../history.rst:21
+msgid "Le projet démontre qu'il est possible de déplacer une feuille de papier avec suffisamment de précision dans une embosseuse braille."
+msgstr ""
+
+#: ../../history.rst:24
+msgid "BrailleRap-SP"
+msgstr ""
+
+#: ../../history.rst:25
+msgid "En Janvier 2018, nous avons commencé avec quelques rails linéaires, des moteurs Nema et des pièces imprimées pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard, nous avons commencé à montrer des exemples de textes embossés en Braille, et tout le monde était très enthousiastes. Le projet BrailleRAP-SP était né."
+msgstr ""
+
+#: ../../history.rst:38
+msgid "BrailleRap"
+msgstr ""
+
+#: ../../history.rst:39
+msgid "En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, nous reprenons le projet pour proposer des améliorations."
+msgstr ""
+
+#: ../../history.rst:42
+msgid "BrailleRap Cameroun"
+msgstr ""
+
+#: ../../history.rst:43
+msgid "Toujours en 2022, le `CCLab <https://forgecc.org>`_ nous confie la préparation et la réalisation de 4 ateliers grand public au Cameroun. C'est l'opération BrailleRAP Cameroun."
+msgstr ""
+
+#: ../../history.rst:45
+msgid "2 ateliers grand public, 2 master class dans 4 villes du Cameroun en collaboration avec le CCLab et les partenaires Camerounais. C'est l'occasion pendant 3 semaines, de confronter une nouvelle fois le projet au grand public: non voyants, makers, associations, établissements d'enseignements. Tout cela dans un contexte international très différent de nos activités habituelles."
+msgstr ""
+
+#: ../../history.rst:48
+msgid "Une experience riche en rencontres exceptionelles, en anecdotes, en expérimentations et en nouvelles idées d'évolutions et d'améliorations."
+msgstr ""
+
+#: ../../history.rst:50
+msgid "L'opération BrailleRAP Cameroun à donné lieu à la réalisation de 2 fiches de conduite d'atelier :"
+msgstr ""
+
+#: ../../history.rst:52
+msgid "Fiche de conduite `atelier grand public <https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
+msgstr ""
+
+#: ../../history.rst:54
+msgid "Fiche de conduite `master class <https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
+msgstr ""
+
+#: ../../history.rst:56
+msgid "Ainsi qu'a des fiches qui décrivent les experimentations menées en marge des ateliers."
+msgstr ""
+
+#: ../../history.rst:58
+msgid "Atelier non voyants  `représentation mentale <https://forgecc.org/?RepresentationMentaleDUneImprimanteBraille2>`_"
+msgstr ""
+
+#: ../../history.rst:60
+msgid "Plus de détails sur l'opération `ici <https://forgecc.org/?BraillerapCameroun>`_"
+msgstr ""

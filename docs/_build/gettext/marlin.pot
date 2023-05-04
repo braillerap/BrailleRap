@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-{}, BrailleRap
+# This file is distributed under the same license as the BrailleRap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BrailleRap 6.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-04 16:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../marlin.rst:2
+msgid "Marlin Firmware pour cartes Ramps ou compatibles"
+msgstr ""
+
+#: ../../marlin.rst:6
+msgid "Le firmware Marlin est utilisé pour contrôler l'embosseuse Braille. Nous utilisons la configuration CNC pour contrôler l'électro-aimant avec les commandes associées au moteur de CNC / stylo / laser (GCODE M3 et M4)"
+msgstr ""
+
+#: ../../marlin.rst:8
+msgid "Le firmware Marlin qui se trouve dans le repertoire MarlinBraille https://github.com/braillerap/BrailleRap/tree/master/MarlinBraille est déja configuré pour la BrailleRAP. Si vous n'avez pas effectué de modifications par rapport à la documentation, vous pouvez l'utiliser directement sans vous préoccuper de la configuration Marlin"
+msgstr ""
+
+#: ../../marlin.rst:12
+msgid "Configuration Marlin"
+msgstr ""
+
+#: ../../marlin.rst:14
+msgid "in configuration.h"
+msgstr ""
+
+#: ../../marlin.rst:16
+msgid "Motherboard configuration ::"
+msgstr ""
+
+#: ../../marlin.rst:23
+msgid "Spindle / laser / pen configuration ::"
+msgstr ""
+
+#: ../../marlin.rst:32
+msgid "Endstop configuration ::"
+msgstr ""
+
+#: ../../marlin.rst:44
+msgid "Motor step / mm ::"
+msgstr ""
+
+#: ../../marlin.rst:48
+msgid "Max feedrate ::"
+msgstr ""
+
+#: ../../marlin.rst:52
+msgid "Acceleration ::"
+msgstr ""
+
+#: ../../marlin.rst:60
+msgid "Jerk ::"
+msgstr ""
+
+#: ../../marlin.rst:69
+msgid "Dans la version présente sur le github du projet BrailleRap, d'autres fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin de course de l'axe Y."
+msgstr ""

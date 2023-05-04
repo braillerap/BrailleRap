@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-{}, BrailleRap
+# This file is distributed under the same license as the BrailleRap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BrailleRap 6.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-04 09:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../drivers_mks.rst:2 84354c9b11d74191b39091d12d17a014
+msgid "Windows USB Drivers pour MKS 1.4 ou MKS GEN L 2.1"
+msgstr ""
+
+#: ../../drivers_mks.rst:5 80beabb900d24602874515878866a6aa
+msgid "Pour MakerBase MKS 1.4"
+msgstr ""
+
+#: ../../drivers_mks.rst:8 6d0abc6b4391463ca754552457b7ebc0
+msgid ""
+"Télécharger le driver FTDI (Virtual COM Port Drivers) ici: "
+"https://ftdichip.com/drivers/vcp-drivers/"
+msgstr ""
+
+#: ../../drivers_mks.rst:10 ../../drivers_mks.rst:18
+#: 09aa01b03106494490019f4d2c4c0727 e28d46fe3ad14666bb7d362900b54e11
+msgid "Installer le driver"
+msgstr ""
+
+#: ../../drivers_mks.rst:14 714e4457cedd4f46acb8efc37fb6765c
+msgid "Pour MakerBase MKS GEN L 2.1"
+msgstr ""
+
+#: ../../drivers_mks.rst:16 c5f699cf847b447ab93c7ba7cf83f9a4
+msgid ""
+"Télécharger le driver CH340 (CH341SER.EXE) ici : "
+"https://www.wch.cn/download/CH341SER_ZIP.html"
+msgstr ""
+

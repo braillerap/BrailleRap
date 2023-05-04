@@ -5,6 +5,8 @@ Bienvenue sur la documentation BrailleRAP
   :width: 400px
   :align: center
 
+|
+
 Contenu:
 
 .. toctree::

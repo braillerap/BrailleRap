@@ -1,0 +1,187 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-{}, BrailleRap
+# This file is distributed under the same license as the BrailleRap package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BrailleRap 6.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-04 16:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../bom.rst:2
+msgid "Liste du matériel"
+msgstr ""
+
+#: ../../bom.rst:5
+msgid "Découpe laser"
+msgstr ""
+
+#: ../../bom.rst:6
+msgid "2 planches de contreplaqué 5mm en 600mm x 400mm."
+msgstr ""
+
+#: ../../bom.rst:8
+msgid "Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
+msgstr ""
+
+#: ../../bom.rst:12
+msgid "Pièces imprimées"
+msgstr ""
+
+#: ../../bom.rst:13
+msgid "Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres extérieurs. Nous utilisons le filament eSun ABS Natural."
+msgstr ""
+
+#: ../../bom.rst:15
+msgid "Les fichiers au format stl sont ici : https://github.com/braillerap/BrailleRap/tree/master/printed_parts"
+msgstr ""
+
+#: ../../bom.rst:19
+msgid "Pièces mécaniques"
+msgstr ""
+
+#: ../../bom.rst:23
+#: ../../bom.rst:58
+msgid "Qty"
+msgstr ""
+
+#: ../../bom.rst:23
+#: ../../bom.rst:58
+msgid "Type"
+msgstr ""
+
+#: ../../bom.rst:25
+msgid "4"
+msgstr ""
+
+#: ../../bom.rst:25
+msgid "Rail de guidage linéaire ( diamètre 8mm ) 330 mm length"
+msgstr ""
+
+#: ../../bom.rst:26
+#: ../../bom.rst:27
+#: ../../bom.rst:38
+#: ../../bom.rst:42
+#: ../../bom.rst:60
+#: ../../bom.rst:62
+#: ../../bom.rst:63
+#: ../../bom.rst:64
+#: ../../bom.rst:65
+msgid "1"
+msgstr ""
+
+#: ../../bom.rst:26
+msgid "Rail de guidage linéaire ( diamètre 8mm ) 365 mm length"
+msgstr ""
+
+#: ../../bom.rst:27
+msgid "Rail de guidage linéaire ( diamètre 8mm ) *100 mm* length"
+msgstr ""
+
+#: ../../bom.rst:29
+#: ../../bom.rst:47
+msgid "6"
+msgstr ""
+
+#: ../../bom.rst:29
+msgid "RJ4JP-01-08 palier linéaire Polymer"
+msgstr ""
+
+#: ../../bom.rst:32
+#: ../../bom.rst:49
+msgid "3"
+msgstr ""
+
+#: ../../bom.rst:32
+msgid "GT2 poulie 20 dents pour axe 8mm"
+msgstr ""
+
+#: ../../bom.rst:33
+#: ../../bom.rst:35
+#: ../../bom.rst:36
+#: ../../bom.rst:40
+#: ../../bom.rst:43
+#: ../../bom.rst:45
+#: ../../bom.rst:61
+msgid "2"
+msgstr ""
+
+#: ../../bom.rst:33
+msgid "GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)"
+msgstr ""
+
+#: ../../bom.rst:35
+msgid "KP08  pallier horizontal pour rail linéaire 8mm"
+msgstr ""
+
+#: ../../bom.rst:36
+msgid "KFL08 pallier vertical pour rail linéaire 8mm"
+msgstr ""
+
+#: ../../bom.rst:38
+msgid "Accouplement d'axe 5mm/8mm"
+msgstr ""
+
+#: ../../bom.rst:40
+msgid "Nema 17 40 N/cm avec câble"
+msgstr ""
+
+#: ../../bom.rst:42
+msgid "Courroie GT2 fermée 200 mm"
+msgstr ""
+
+#: ../../bom.rst:43
+msgid "630 mm de courroie GT2"
+msgstr ""
+
+#: ../../bom.rst:45
+msgid "Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur (15.1 x 20.5 x 2.7)"
+msgstr ""
+
+#: ../../bom.rst:47
+msgid "Colliers de serrage 2.5 x 160 mm"
+msgstr ""
+
+#: ../../bom.rst:49
+msgid "Ressorts tendeurs de courroie GT2"
+msgstr ""
+
+#: ../../bom.rst:50
+msgid "..."
+msgstr ""
+
+#: ../../bom.rst:55
+msgid "Electronique"
+msgstr ""
+
+#: ../../bom.rst:60
+msgid "MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 https://github.com/makerbase-mks"
+msgstr ""
+
+#: ../../bom.rst:61
+msgid "drivers DRV8825 avec radiateur"
+msgstr ""
+
+#: ../../bom.rst:62
+msgid "Electro-aimant *tau-826* 12V 2A"
+msgstr ""
+
+#: ../../bom.rst:63
+msgid "1N4004  diode de roue libre ou equivalent (12V 2A)"
+msgstr ""
+
+#: ../../bom.rst:64
+msgid "Embase Alimentation jack 2.5"
+msgstr ""
+
+#: ../../bom.rst:65
+msgid "Alimentation 12v 6A"
+msgstr ""
