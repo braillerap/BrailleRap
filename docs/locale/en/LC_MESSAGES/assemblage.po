@@ -337,12 +337,11 @@ msgstr ""
 "the connector is in the position corresponding to the illustration."
 
 #: ../../assemblage.rst:219
-#, fuzzy
 msgid ""
 "Introduire les écrous 4 NYL M3 dans le support moteur. Les maintenir en "
 "place avec un petit bout de scotch de peintre."
 msgstr ""
-"Insert the NYL M3 nuts into the engine mount. Hold them in place with a "
+"Insert the 4 NYL M3 nuts into the engine mount. Hold them in place with a "
 "small piece of painter's tape."
 
 #: ../../assemblage.rst:227
