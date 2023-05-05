@@ -549,7 +549,7 @@ Matériel :
 
 .. image :: ./IMG/motorx_mount_2.jpg
        :align: center
-       
+
 |
 
 Fixation Moteur Y :
@@ -696,21 +696,7 @@ Matériel :
 
 |
 
-
 Montage de l’axe vertical (étape 1)
-------------------------------------
-
-* Visser l’ensemble moteur/support sur la caisse avec les 2 vis M3-16 en laissant du jeu.
-
-.. image :: ./IMG/BrailleRAP-V5.32.1.jpg
-       :align: center
-
-.. image :: ./IMG/BrailleRAP-V5.33.1.jpg
-       :align: center
-
-|
-
-Montage de l’axe vertical (étape 2)
 ------------------------------------
 
 Matériel :
