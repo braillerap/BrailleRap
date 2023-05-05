@@ -171,13 +171,12 @@ Préparation Moteur Y
 
 Matériel :
 
-    * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support_200 ou YMOTOR_support_220 (selon la longueur de la courroie fermée GT2)
+    * **Pièce(s) imprimée(s) en 3D** :  YMOTOR_support2_200_1, YMOTOR_support2_200_2, YMOTOR_support2_200
     * 1 moteur Nema 17
     * 1 poulie GT2 20 dents bore 5mm
     * 4 vis M3-8 
-    * 2 écrous NYL M3
     * 2 vis M3-12
-    * 2 rondelles M3 larges
+    
 
 * Serrer la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat de l’axe du moteur et que les dents de la poulie soient orientées vers le moteur.
 
@@ -186,15 +185,36 @@ Matériel :
 
 |
 
+* Tarauder les deux cotés de la pièce centrale du support (**YMOTOR_support2_200_2**)
 
-* Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur du moteur soit dans la position correspondante à l'illustration.
-
-.. image :: ./IMG/BrailleRAP-V5.04.jpg
+.. image :: ./IMG/ymotor_support_assembly_1.png
+       :align: center
+.. image :: ./IMG/ymotor_support_assembly_2.png
        :align: center
 
 |
 
-.. NOTE:: L'illustration montre un support moteur prévu pour une courroie de 200mm mais le montage est le même avec un support moteur prévu pour une courroie de 220mm.
+* Fixer les pieces **YMOTOR_support2_200_2** et **YMOTOR_support2_200_1** avec une Vis M3-12.
+
+.. image :: ./IMG/ymotor_support_assembly3.png
+       :align: center
+
+|
+
+* Fixer la piece **YMOTOR_support2_200** sur l'ensemble précédent avec une vis M3-12.
+
+.. image :: ./IMG/ymotor_support_assembly_4.png
+       :align: center
+
+|
+
+* Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur du moteur soit dans la position correspondante à l'illustration.
+
+.. image :: ./IMG/ymotor_support_assembly_5.png
+       :align: center
+
+|
+
 
 * Introduire les écrous NYL M3 dans le support moteur. Les maintenir en place avec un petit bout de scotch de peintre.
 
