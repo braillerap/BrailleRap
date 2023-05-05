@@ -2,10 +2,9 @@
 # Copyright (C) 2018-{}, BrailleRap
 # This file is distributed under the same license as the BrailleRap package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# Stephane <contact@braillerap.org>, 2018.
 #
-#, fuzzy
-msgid ""
-msgstr ""
+
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-04 09:05+0000\n"

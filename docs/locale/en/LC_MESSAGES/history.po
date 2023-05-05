@@ -1,18 +1,18 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, braillerapsp@gmail.com
-# This file is distributed under the same license as the BraillerRapSP
+# Copyright (C) 2018, contact@braillerap.org
+# This file is distributed under the same license as the BraillerRap
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# Stephane <braillerapsp@gmail.com>, 2018, 2019.
+# Stephane <contact@braillerap.org>, 2018, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version:  BraillerRapSP\n"
+"Project-Id-Version:  BrailleRap\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-04 09:05+0000\n"
 "PO-Revision-Date: 2019-01-16 13:07+0200\n"
-"Last-Translator: Stephane <braillerapsp@gmail.com>\n"
+"Last-Translator: Stephane <contact@braillerap.org>\n"
 "Language: en\n"
-"Language-Team: braillerapsp\n"
+"Language-Team: braillerap\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -40,7 +40,7 @@ msgid ""
 "Pendant le Fabrikarium plusieurs travaux ont été réalisés pour modifier "
 "des imprimantes 3D afin d'embosser du **Braille** sur du papier 160g,"
 msgstr ""
-"During the Fabrikarium many tests were made to emboss \\**Braille\\** on "
+"During the Fabrikarium many tests were made to emboss **Braille\\ on "
 "160g paper with hacked 3D printers,"
 
 #: ../../history.rst:11 ebfc9e2c800949c0b12a8f8a4e80c58b
@@ -53,7 +53,7 @@ msgstr ""
 "<https://github.com/arthursw/BrailleRap/blob/master/Documentation"
 "/documentation-en.md>`_."
 
-#: ../../history.rst:13 1c5ad7688d7a427da7ef721f97df6ec8
+#: ../../history.rst:13 
 msgid ""
 "Dans l'equipe BrailleRAP-SP nous pensions que ces travaux êtaient une "
 "démonstration de faisabilité, mais qu'il fallait mettre au point une "
@@ -63,11 +63,11 @@ msgstr ""
 "of feasibility, but that it was better to develop a specialized machine "
 "that was easy to reproduce."
 
-#: ../../history.rst:18 bf6012f953a54e47a20a8e813072018a
+#: ../../history.rst:18 
 msgid "OpenBraille"
 msgstr "OpenBraille"
 
-#: ../../history.rst:19 46f61307a954419ea0d874410def775a
+#: ../../history.rst:19 
 msgid ""
 "En 2017 Carlos Campos démarre le projet OpenBraille et construit une "
 "embosseuse braille à partir de pièces d'imprimante recyclées."
@@ -163,7 +163,7 @@ msgid ""
 "Fiche de conduite `atelier grand public "
 "<https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
 msgstr ""
-"General public workshop conduct sheet"
+"General public `workshop conduct sheet"
 "<https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
 
 #: ../../history.rst:53 
@@ -171,10 +171,10 @@ msgid ""
 "Fiche de conduite `master class "
 "<https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
 msgstr ""
-"Master class conduct sheet"
+"`Master class conduct sheet"
 "<https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
 
-#: ../../history.rst:55 291142ced06a4cbb9a2d41f9c00e1700
+#: ../../history.rst:55 
 msgid ""
 "Ainsi qu'a des fiches qui décrivent les experimentations menées en marge "
 "des ateliers."
@@ -195,6 +195,6 @@ msgid ""
 "Plus de détails sur l'opération `ici "
 "<https://forgecc.org/?BraillerapCameroun>`_"
 msgstr ""
-"More on BrailleRAP Cameroun `here "
+"More on BrailleRAP Cameroon `here "
 "<https://forgecc.org/?BraillerapCameroun>`_"
 
