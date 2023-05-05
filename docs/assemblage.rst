@@ -164,6 +164,8 @@ Matériel :
 
 |
 
+.. NOTE:: Attention à l'orientation du connecteur du moteur !
+
 Préparation Moteur Y
 --------------------
 
