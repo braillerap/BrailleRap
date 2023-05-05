@@ -133,6 +133,39 @@ Matériel :
 
 |
 
+Préparation Moteur X
+--------------------
+Matériel :
+
+    * **Pièce(s) imprimée(s) en 3D** :  XMOTOR_support2 ou XMOTOR_support2_1 
+    * 1 moteur Nema 17
+    * 4 vis M3-8 
+    * 2 écrous NYL M3
+    * 2 vis M3-14
+    
+* Insérer 2 écrous NYL M3 dans la piece imprimée **XMOTOR_support2_1**.
+
+.. image :: ./IMG/xmotor_support_assembly_v2_1.png
+       :align: center
+
+|
+
+* Fixer les deux pièces imprimée **XMOTOR_support2_1** et **XMOTOR_support2** avec deux vis M3-14.
+
+.. image :: ./IMG/xmotor_support_assembly_v1_2.png
+       :align: center
+
+|
+
+* Fixer le moteur dans son support avec 4 vis M3-8. Ne pas serrer les vis, le moteur doit conserver un peu de jeu, il sera fixé ultérieurement.
+
+.. image :: ./IMG/xmotor_support_assembly_v1_3.png
+       :align: center
+
+|
+
+.. NOTE:: Attention à l'orientation du connecteur du moteur !
+
 Préparation Moteur Y
 --------------------
 
@@ -152,6 +185,7 @@ Matériel :
        :align: center
 
 |
+
 
 * Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur du moteur soit dans la position correspondante à l'illustration.
 
