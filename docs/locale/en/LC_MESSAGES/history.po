@@ -19,25 +19,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.10.1\n"
 
-#: ../../history.rst:2 7034705a381043548efd6404f7357f81
+#: ../../history.rst:2 
 msgid "Historique du projet"
 msgstr "Project history"
 
-#: ../../history.rst:5 a5e7c0f29e684d08a670da5c822f9a9d
+#: ../../history.rst:5 
 msgid "Le commencement"
 msgstr "The beginning"
 
-#: ../../history.rst:7 9bcb49adc30848f3a4e2b80ad965a3b6
-#, fuzzy
+#: ../../history.rst:7 
 msgid ""
 "En 2016 l'association **MyHumanKit** organise en collaboration avec "
 "**Airbus Industries** un hackaton appelé Fabrikarium."
 msgstr ""
-"In 2016 MyHumanKit organization organizes with the partnership of Airbus "
+"In 2016 **MyHumanKit** organization organizes with the partnership of Airbus "
 "Industries a hackacaton called Fabriakarium"
 
-#: ../../history.rst:9 93d4f2a392814a0a807f6673ac22d0ce
-#, fuzzy
+#: ../../history.rst:9 
 msgid ""
 "Pendant le Fabrikarium plusieurs travaux ont été réalisés pour modifier "
 "des imprimantes 3D afin d'embosser du **Braille** sur du papier 160g,"
@@ -103,9 +101,8 @@ msgstr ""
 " excited. The BrailleRAP-SP project was born."
 
 #: ../../history.rst:37 f022123b17f842dbb12395df88362596
-#, fuzzy
 msgid "BrailleRap"
-msgstr "BrailleRap-SP"
+msgstr "BrailleRap"
 
 #: ../../history.rst:38 d761f9e0233b4fe3a9035c0c8f926094
 msgid ""
@@ -117,7 +114,7 @@ msgstr ""
 
 #: ../../history.rst:41 da48be5f4a054a219e7000a08be6b45a
 msgid "BrailleRap Cameroun"
-msgstr ""
+msgstr "BrailleRap Cameroon"
 
 #: ../../history.rst:42 64d1d5b60fa24a28bae279c7ba84b612
 msgid ""
@@ -125,6 +122,9 @@ msgid ""
 "préparation et la réalisation de 4 ateliers grand public au Cameroun. "
 "C'est l'opération BrailleRAP Cameroun."
 msgstr ""
+"Also in 2022, the `CCLab <https://forgecc.org>`_ entrusts us with the "
+"preparation and realization of 4 general public workshops in Cameroon. "
+"It's Operation BrailleRAP Cameroon."
 
 #: ../../history.rst:44 7ca098b3143041929c4add2798a7d12d
 msgid ""
@@ -135,69 +135,66 @@ msgid ""
 "d'enseignements. Tout cela dans un contexte international très différent "
 "de nos activités habituelles."
 msgstr ""
+"2 workshops for the general public, 2 master classes in 4 cities in Cameroon in "
+"collaboration with CCLab and Cameroonian partners. It is "
+"the opportunity for 3 weeks to confront the project once again"
+"to the general public: blind people, makers, associations, establishments"
+"lessons learned. All this in a very different international context"
+"of our usual activities."
 
 #: ../../history.rst:47 bd4904c08a1d418e8925b66cac3da9be
 msgid ""
 "Une experience riche en rencontres exceptionelles, en anecdotes, en "
 "expérimentations et en nouvelles idées d'évolutions et d'améliorations."
 msgstr ""
+"An experience rich in exceptional encounters, in anecdotes, in "
+"experiments and new ideas for evolutions and improvements."
 
 #: ../../history.rst:49 d61117fb206c4fd79b1539179e806f5d
 msgid ""
 "L'opération BrailleRAP Cameroun à donné lieu à la réalisation de 2 fiches"
 " de conduite d'atelier :"
 msgstr ""
+"The BrailleRAP Cameroon operation resulted in the production of 2 sheets"
+"of workshop conduct:"
 
-#: ../../history.rst:51 d1558cd4b5264767af1828cfb0b4724b
+#: ../../history.rst:51 
 msgid ""
 "Fiche de conduite `atelier grand public "
 "<https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
 msgstr ""
+"General public workshop conduct sheet"
+"<https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
 
-#: ../../history.rst:53 f38712893cc64e27a30b53be51005d81
+#: ../../history.rst:53 
 msgid ""
 "Fiche de conduite `master class "
 "<https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
 msgstr ""
+"Master class conduct sheet"
+"<https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
 
 #: ../../history.rst:55 291142ced06a4cbb9a2d41f9c00e1700
 msgid ""
 "Ainsi qu'a des fiches qui décrivent les experimentations menées en marge "
 "des ateliers."
 msgstr ""
+"As well as sheets that describe the experiments carried out on the sidelines"
+"workshops."
 
 #: ../../history.rst:57 c3c7ace0722c463d99818e275ee5b6da
 msgid ""
 "Atelier non voyants  `représentation mentale "
 "<https://forgecc.org/?RepresentationMentaleDUneImprimanteBraille2>`_"
 msgstr ""
+"Blind workshop  `mental representation "
+"<https://forgecc.org/?RepresentationMentaleDUneImprimanteBraille2>`_"
 
 #: ../../history.rst:59 13f1b99f30a64119ae5205d1964bcfb7
 msgid ""
 "Plus de détails sur l'opération `ici "
 "<https://forgecc.org/?BraillerapCameroun>`_"
 msgstr ""
-
-#~ msgid ""
-#~ "En 2016 l'association \\*MyHumanKit\\* "
-#~ "organise en collaboration avec \\*Airbus "
-#~ "Industries\\* un hackaton appelé Fabrikarium."
-#~ " Pendant le Fabrikarium plusieurs travaux"
-#~ " ont été réalisés pour modifier des"
-#~ " imprimantes 3D afin d'embosser du "
-#~ "\\**Braille\\** sur du papier 160g, Le"
-#~ " projet s'appelait `BrailleRap "
-#~ "<https://github.com/arthursw/BrailleRap/blob/master/Documentation"
-#~ "/documentation-en.md>`_."
-#~ msgstr ""
-#~ "In 2016 the MyHumanKit association "
-#~ "organize a hackaton called Fabrikarium "
-#~ "in collaboration with Airbus Industrie. "
-#~ "During the Fabrikarium several works "
-#~ "have been done to modify 3D "
-#~ "printers in order to emboss Braille "
-#~ "`on 160g paper. The project was "
-#~ "called `BrailleRap "
-#~ "<https://github.com/arthursw/BrailleRap/blob/master/Documentation"
-#~ "/documentation-en.md>` _."
+"More on BrailleRAP Cameroun `here "
+"<https://forgecc.org/?BraillerapCameroun>`_"
 
