@@ -406,9 +406,8 @@ msgid ""
 msgstr "The end of the screw must not protrude in the passage of Ø 8mm bars."
 
 #: ../../assemblage.rst:245
-#, fuzzy
 msgid "Préparation de l'interrupteur de fin de course X"
-msgstr "Mounting the limit switch X"
+msgstr "Limit switch X prepare"
 
 #: ../../assemblage.rst:249
 msgid "**Pièce(s) imprimée(s) en 3D** : SWITCH_X_support"
@@ -843,27 +842,24 @@ msgid "**Pièces** : ensemble XMOTOR_support2, XMOTOR_support2_1 et Moteur"
 msgstr ""
 
 #: ../../assemblage.rst:539
-#, fuzzy
 msgid "3 vis M3-16"
-msgstr "4 M3-16 screws"
+msgstr "3 M3-16 screws"
 
 #: ../../assemblage.rst:540 ../../assemblage.rst:1129
 msgid "3 écrous M3 NYL"
 msgstr "3 M3-NYL nuts"
 
 #: ../../assemblage.rst:541
-#, fuzzy
-msgid "3 rondelles M3 grandes"
-msgstr "4 wide M3 washers"
+msgid "3 rondelles M3 larges"
+msgstr "3 wide M3 washers"
 
 #: ../../assemblage.rst:543
-#, fuzzy
 msgid ""
 "Introduire les 3 vis et les 3 rondelles par l'exterieur. Et attacher le "
 "support avec 3 ecrou NYL sans serrer."
 msgstr ""
-"Insert the screws and washers from the outside and screw the support onto"
-" the crate so that it can still slide in the oblong holes."
+"Insert the 3 screws and the 3 washers from the outside. And attach the "
+"bracket with 3 NYL nuts without tightening."
 
 #: ../../assemblage.rst:545
 msgid "Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical."
