@@ -241,29 +241,8 @@ Préparation des supports d’axes
 
 |
 
-Préparation de l’axe vertical (étape 1)
----------------------------------------
-
-Matériel :
-
-  * **Pièce(s) imprimée(s) en 3D** : XMOTOR_support
-  * 1 moteur NEMA 17
-  * 4 vis M3-8
-  * 2 vis M3-16
-  * 2 écrous M3 NYL
-  * 4 rondelles M3 grandes
-
-* Visser le moteur sur son support en laissant un peu de jeu et en respectant la position du connecteur.
-
-.. Note:: Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
-
-.. image :: ./IMG/BrailleRAP-V5.31.jpg
-       :align: center
-
-|	   
-
-Montage de l'interrupteur de fin de course X
----------------------------------------------
+Préparation de l'interrupteur de fin de course X
+------------------------------------------------
 
 Matériel :
 
@@ -547,6 +526,25 @@ Préparation des presse-papiers (étape 1) :
 
   .. NOTE:: Ne pas serrer l'écrou M3-NYL **CLIPBOARD2_WHEEL** doit pouvoir tourner librement.      
   .. image :: ./IMG/BrailleRAP-V6.113.3.png
+       :align: center
+
+|
+
+Préparation de l’axe vertical (étape 1)
+---------------------------------------
+
+Matériel :
+
+  * **Pièces** : ensemble XMOTOR_support2, XMOTOR_support2_1 et Moteur
+  * 3 vis M3-16
+  * 3 écrous M3 NYL
+  * 3 rondelles M3 grandes
+
+* Introduire les 3 vis et les 3 rondelles par l'exterieur. Et attacher le support avec 3 ecrou NYL sans serrer. 
+
+.. Note:: Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
+
+.. image :: ./IMG/motorx_mount_1.jpg
        :align: center
 
 |
