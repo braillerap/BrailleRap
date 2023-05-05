@@ -547,6 +547,9 @@ Matériel :
 .. image :: ./IMG/motorx_mount_1.jpg
        :align: center
 
+.. image :: ./IMG/motorx_mount_2.jpg
+       :align: center
+       
 |
 
 Fixation Moteur Y :
