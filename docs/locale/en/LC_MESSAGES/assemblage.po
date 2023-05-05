@@ -1,11 +1,11 @@
-# Stephane <braillerapsp@gmail.com>, 2018.
+# Stephane <contact@braillerap.org>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version:  test\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-05 11:51+0000\n"
 "PO-Revision-Date: 2018-12-28 12:02+0200\n"
-"Last-Translator: Stephane <sgn.braillerap@gmail.com>\n"
+"Last-Translator: Stephane <contact@braillerap.org>\n"
 "Language: en\n"
 "Language-Team: braillerap\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"

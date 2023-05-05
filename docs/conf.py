@@ -74,13 +74,14 @@ html_theme = 'sphinx_rtd_theme'
 #html_logo = 'IMG/logo.svg' 
 
 html_theme_options = {
-    'logo_only': True,
+    'logo_only': False,
     'display_version': True,
 }
 
 
 def setup(app):
     #app.add_stylesheet('css/custom.css')
+    app.add_css_file('css/custom.css')
     pass
 
 
