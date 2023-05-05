@@ -5,16 +5,6 @@
 # Stephane <contact@braillerap.org>, 2018.
 #
 
-"Project-Id-Version: BrailleRap 6.5.0\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 09:05+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
 
 #: ../../drivers_mks.rst:2 84354c9b11d74191b39091d12d17a014
 msgid "Windows USB Drivers pour MKS 1.4 ou MKS GEN L 2.1"

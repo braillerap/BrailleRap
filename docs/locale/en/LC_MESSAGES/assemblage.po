@@ -1,18 +1,4 @@
 # Stephane <contact@braillerap.org>, 2018.
-msgid ""
-msgstr ""
-"Project-Id-Version:  test\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-05 14:03+0000\n"
-"PO-Revision-Date: 2018-12-28 12:02+0200\n"
-"Last-Translator: Stephane <contact@braillerap.org>\n"
-"Language: en\n"
-"Language-Team: braillerap\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
 
 #: ../../assemblage.rst:2
 msgid "Manuel de montage BrailleRAP"
@@ -296,8 +282,8 @@ msgid ""
 "**Pièce(s) imprimée(s) en 3D** :  YMOTOR_support2_200_1, "
 "YMOTOR_support2_200_2, YMOTOR_support2_200"
 msgstr ""
-"**3D Printed parts** :  YMOTOR_support2_200_1, "
-"YMOTOR_support2_200_2, YMOTOR_support2_200"
+"**3D Printed parts** :  YMOTOR_support2_200_1, YMOTOR_support2_200_2, "
+"YMOTOR_support2_200"
 
 #: ../../assemblage.rst:176
 msgid "1 poulie GT2 20 dents bore 5mm"
@@ -322,24 +308,24 @@ msgid ""
 "Tarauder les deux cotés de la pièce centrale du support "
 "(**YMOTOR_support2_200_2**)"
 msgstr ""
-"Tap both sides of the central part of the support"
-"(**YMOTOR_support2_200_2**)"
+"Tap both sides of the central part of the "
+"support(**YMOTOR_support2_200_2**)"
 
 #: ../../assemblage.rst:197
 msgid ""
 "Fixer les pieces **YMOTOR_support2_200_2** et **YMOTOR_support2_200_1** "
 "avec une Vis M3-12."
 msgstr ""
-"Fix the two parts printed **YMOTOR_support2_200_2** and **YMOTOR_support2_200_1** "
-"with an M3-12 screws."
+"Fix the two parts printed **YMOTOR_support2_200_2** and "
+"**YMOTOR_support2_200_1** with an M3-12 screws."
 
 #: ../../assemblage.rst:204
 msgid ""
 "Fixer la piece **YMOTOR_support2_200** sur l'ensemble précédent avec une "
 "vis M3-12."
 msgstr ""
-"Fix the part **YMOTOR_support2_200** on the previous set with a "
-"M3-12 screws."
+"Fix the part **YMOTOR_support2_200** on the previous set with a M3-12 "
+"screws."
 
 #: ../../assemblage.rst:211
 msgid ""
@@ -351,8 +337,9 @@ msgstr ""
 "the connector is in the position corresponding to the illustration."
 
 #: ../../assemblage.rst:219
+#, fuzzy
 msgid ""
-"Introduire les écrous NYL M3 dans le support moteur. Les maintenir en "
+"Introduire les écrous 4 NYL M3 dans le support moteur. Les maintenir en "
 "place avec un petit bout de scotch de peintre."
 msgstr ""
 "Insert the NYL M3 nuts into the engine mount. Hold them in place with a "

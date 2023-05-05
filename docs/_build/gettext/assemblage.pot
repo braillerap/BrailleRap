@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-05 14:03+0000\n"
+"POT-Creation-Date: 2023-05-05 18:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -307,7 +307,7 @@ msgid "Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le
 msgstr ""
 
 #: ../../assemblage.rst:219
-msgid "Introduire les écrous NYL M3 dans le support moteur. Les maintenir en place avec un petit bout de scotch de peintre."
+msgid "Introduire les écrous 4 NYL M3 dans le support moteur. Les maintenir en place avec un petit bout de scotch de peintre."
 msgstr ""
 
 #: ../../assemblage.rst:227

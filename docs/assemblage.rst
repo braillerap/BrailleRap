@@ -216,9 +216,9 @@ Matériel :
 |
 
 
-* Introduire les écrous NYL M3 dans le support moteur. Les maintenir en place avec un petit bout de scotch de peintre.
+* Introduire les écrous 4 NYL M3 dans le support moteur. Les maintenir en place avec un petit bout de scotch de peintre.
 
-.. image :: ./IMG/BrailleRAP-V5.05.jpg
+.. image :: ./IMG/ymotor_support_assembly_6.png
        :align: center
 
 |

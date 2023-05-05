@@ -10,4 +10,4 @@ Nous utilisons plusieurs projets open source, qui ont leur propre licence :
    #. BrailleRap le premier generateur de  gcode pour imprimante 3D https://github.com/arthursw/BrailleRap
    #. NatBraille le transcripteur Braille Open Source http://natbraille.free.fr/
    
-  
+   

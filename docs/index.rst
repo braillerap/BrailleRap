@@ -6,7 +6,7 @@ Bienvenue sur la documentation BrailleRAP
   :align: center
 
 |
-
+ 
 Contenu:
 
 .. toctree::

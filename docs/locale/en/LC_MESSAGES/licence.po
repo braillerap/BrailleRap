@@ -1,29 +1,10 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, braillerapsp@gmail.com
-# This file is distributed under the same license as the BraillerRapSP
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# Stephane <braillerapsp@gmail.com>, 2019.
-msgid ""
-msgstr ""
-"Project-Id-Version:  BraillerRapSP\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 09:05+0000\n"
-"PO-Revision-Date: 2019-01-16 23:06+0200\n"
-"Last-Translator: Stephane <braillerapsp@gmail.com>\n"
-"Language: en\n"
-"Language-Team: braillerapsp\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+# Stephane <contact@braillerap.org>, 2018.
 
-#: ../../licence.rst:2 962a3a3ee7954c7ab86526b334084106
+#: ../../licence.rst:2 
 msgid "Licence"
 msgstr "License"
 
-#: ../../licence.rst:4 89b6e93601c441c19e84dd926e73635b
+#: ../../licence.rst:4 
 msgid ""
 "Tous les travaux originaux de BrailleRap sont sous la license CERN Open "
 "Hardware Licence v1.2 (https://www.ohwr.org/projects/cernohl/wiki), "
@@ -32,16 +13,16 @@ msgid ""
 msgstr ""
 "All original BrailleRap works are licensed under the CERN Open Hardware "
 "License v1.2 license (https://www.ohwr.org/projects/cernohl/wiki), "
-"translated into French on this page: http: // fr-voosilla. ouvaton.org"
+"translated into French on this page: http://fr-voosilla.ouvaton.org"
 "/CERN-OHL-%5Bfr%5D-Traduction-Fran%C3%A7aise.html"
 
-#: ../../licence.rst:7 0982b7243f01475ab60dee0ea6590530
+#: ../../licence.rst:7 
 msgid ""
 "Nous utilisons plusieurs projets open source, qui ont leur propre licence"
 " :"
 msgstr "We use several open source projects, which have their own license:"
 
-#: ../../licence.rst:9 5a6c167b43de4c1d91cb1e6b28cdc8d2
+#: ../../licence.rst:9 
 msgid ""
 "Le projet \"Marlin firmware\"  pour le firmware de la carte: "
 "https://github.com/MarlinFirmware/Marlin"
@@ -50,7 +31,6 @@ msgstr ""
 "https://github.com/MarlinFirmware/Marlin"
 
 #: ../../licence.rst:10 e2d1bc8ece7345b5b6e14680d1198baf
-#, fuzzy
 msgid ""
 "BrailleRap le premier generateur de  gcode pour imprimante 3D "
 "https://github.com/arthursw/BrailleRap"
@@ -58,7 +38,7 @@ msgstr ""
 "BrailleRap that has a gcode generator "
 "https://github.com/arthursw/BrailleRap"
 
-#: ../../licence.rst:11 e484e29473b94661b8c9ad77c31d77ad
+#: ../../licence.rst:11 
 msgid "NatBraille le transcripteur Braille Open Source http://natbraille.free.fr/"
-msgstr ""
+msgstr "NatBraille open source Braille transcriptor http://natbraille.free.fr/"
 
