@@ -578,17 +578,17 @@ Fixation Moteur Y :
 Matériel :
 
     
-    * le moteur Nema 17 monté sur la pièce YMOTOR_support    
-    * 2 vis M3-12
-    * 2 rondelles M3 larges
+    * le moteur Nema 17 monté sur la pièce **YMOTOR_support2_200** + **YMOTOR_support2_200_1** + **YMOTOR_support2_200_2**
+    * 4 vis M3-14
+    * 4 rondelles M3 larges
 
 
 * Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
 
-.. image :: ./IMG/BrailleRAP-V5.06.1.jpg
+.. image :: ./IMG/ymotor_support_assembly_7.jpg
        :align: center
 
-.. image :: ./IMG/BrailleRAP-V5.07.1.jpg
+.. image :: ./IMG/ymotor_support_assembly_7.jpg
        :align: center
 
 |
@@ -636,7 +636,7 @@ Matériel :
        :align: center
 
 Fixation des tendeurs de courroie
-----------------------------------------------
+---------------------------------
 
 Matériel :
 
