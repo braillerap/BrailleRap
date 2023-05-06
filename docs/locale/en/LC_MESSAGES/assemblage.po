@@ -1,4 +1,22 @@
+# Translations template for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 # Stephane <contact@braillerap.org>, 2018.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-05-06 16:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
 
 #: ../../assemblage.rst:2
 msgid "Manuel de montage BrailleRAP"
@@ -289,7 +307,7 @@ msgstr ""
 msgid "1 poulie GT2 20 dents bore 5mm"
 msgstr "1  pulley GT2 20 teeth  5mm bore"
 
-#: ../../assemblage.rst:178 ../../assemblage.rst:423 ../../assemblage.rst:582
+#: ../../assemblage.rst:178 ../../assemblage.rst:423
 msgid "2 vis M3-12"
 msgstr "2 screws M3-12"
 
@@ -341,8 +359,8 @@ msgid ""
 "Introduire les écrous 4 NYL M3 dans le support moteur. Les maintenir en "
 "place avec un petit bout de scotch de peintre."
 msgstr ""
-"Insert the 4 NYL M3 nuts into the engine mount. Hold them in place with a "
-"small piece of painter's tape."
+"Insert the 4 NYL M3 nuts into the engine mount. Hold them in place with a"
+" small piece of painter's tape."
 
 #: ../../assemblage.rst:227
 msgid "Préparation des supports d’axes"
@@ -865,12 +883,19 @@ msgid "Fixation Moteur Y :"
 msgstr "Y Motor Mount:"
 
 #: ../../assemblage.rst:581
-msgid "le moteur Nema 17 monté sur la pièce YMOTOR_support"
-msgstr "the Nema 17 motor mounted on the YMOTOR_support part"
+msgid ""
+"le moteur Nema 17 monté sur la pièce **YMOTOR_support2_200** + "
+"**YMOTOR_support2_200_1** + **YMOTOR_support2_200_2**"
+msgstr ""
 
-#: ../../assemblage.rst:583 ../../assemblage.rst:645
-msgid "2 rondelles M3 larges"
-msgstr "2 wide M3 washers"
+#: ../../assemblage.rst:582 ../../assemblage.rst:604 ../../assemblage.rst:626
+#: ../../assemblage.rst:1202
+msgid "4 vis M3-14"
+msgstr "4 M3-14 screws"
+
+#: ../../assemblage.rst:583 ../../assemblage.rst:605 ../../assemblage.rst:627
+msgid "4 rondelles M3 larges"
+msgstr "4 wide M3 washers"
 
 #: ../../assemblage.rst:586
 msgid ""
@@ -899,14 +924,6 @@ msgid ""
 msgstr ""
 "**3D printed parts**: TOP_AXIS_left prepared with nut and grub screw (see"
 " Preparation of axle supports)"
-
-#: ../../assemblage.rst:604 ../../assemblage.rst:626 ../../assemblage.rst:1202
-msgid "4 vis M3-14"
-msgstr "4 M3-14 screws"
-
-#: ../../assemblage.rst:605 ../../assemblage.rst:627
-msgid "4 rondelles M3 larges"
-msgstr "4 wide M3 washers"
 
 #: ../../assemblage.rst:606 ../../assemblage.rst:628
 msgid "4 écrous NYL M3"
@@ -958,6 +975,10 @@ msgstr "Fastening the belt tensioners"
 #: ../../assemblage.rst:643
 msgid "**Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing"
 msgstr "**3D printed parts** :  2 x DRIVEN_PULLEY_housing"
+
+#: ../../assemblage.rst:645
+msgid "2 rondelles M3 larges"
+msgstr "2 wide M3 washers"
 
 #: ../../assemblage.rst:649
 msgid ""
@@ -1983,4 +2004,7 @@ msgstr ""
 #~ "but the mounting is the same with"
 #~ " a motor support provided for a "
 #~ "belt of 220mm."
+
+#~ msgid "le moteur Nema 17 monté sur la pièce YMOTOR_support"
+#~ msgstr "the Nema 17 motor mounted on the YMOTOR_support part"
 
