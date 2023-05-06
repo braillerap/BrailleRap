@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-05 18:48+0000\n"
+"POT-Creation-Date: 2023-05-06 16:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -282,7 +282,6 @@ msgstr ""
 
 #: ../../assemblage.rst:178
 #: ../../assemblage.rst:423
-#: ../../assemblage.rst:582
 msgid "2 vis M3-12"
 msgstr ""
 
@@ -721,12 +720,20 @@ msgid "Fixation Moteur Y :"
 msgstr ""
 
 #: ../../assemblage.rst:581
-msgid "le moteur Nema 17 monté sur la pièce YMOTOR_support"
+msgid "le moteur Nema 17 monté sur la pièce **YMOTOR_support2_200** + **YMOTOR_support2_200_1** + **YMOTOR_support2_200_2**"
+msgstr ""
+
+#: ../../assemblage.rst:582
+#: ../../assemblage.rst:604
+#: ../../assemblage.rst:626
+#: ../../assemblage.rst:1202
+msgid "4 vis M3-14"
 msgstr ""
 
 #: ../../assemblage.rst:583
-#: ../../assemblage.rst:645
-msgid "2 rondelles M3 larges"
+#: ../../assemblage.rst:605
+#: ../../assemblage.rst:627
+msgid "4 rondelles M3 larges"
 msgstr ""
 
 #: ../../assemblage.rst:586
@@ -743,17 +750,6 @@ msgstr ""
 
 #: ../../assemblage.rst:602
 msgid "**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
-msgstr ""
-
-#: ../../assemblage.rst:604
-#: ../../assemblage.rst:626
-#: ../../assemblage.rst:1202
-msgid "4 vis M3-14"
-msgstr ""
-
-#: ../../assemblage.rst:605
-#: ../../assemblage.rst:627
-msgid "4 rondelles M3 larges"
 msgstr ""
 
 #: ../../assemblage.rst:606
@@ -787,6 +783,10 @@ msgstr ""
 
 #: ../../assemblage.rst:643
 msgid "**Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing"
+msgstr ""
+
+#: ../../assemblage.rst:645
+msgid "2 rondelles M3 larges"
 msgstr ""
 
 #: ../../assemblage.rst:649

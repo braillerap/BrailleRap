@@ -585,7 +585,7 @@ Matériel :
 
 * Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs.
 
-.. image :: ./IMG/ymotor_support_assembly_7.jpg
+.. image :: ./IMG/ymotor_support_assembly_8.jpg
        :align: center
 
 .. image :: ./IMG/ymotor_support_assembly_7.jpg
