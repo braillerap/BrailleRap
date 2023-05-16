@@ -501,7 +501,7 @@ msgid ""
 "Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de "
 "l’entretoise."
 msgstr ""
-"Tighten the M3-12 screw with the needle punched out, allowing it to "
+"Tighten the M3-12 screw with the Braille stylus punched out, allowing it to "
 "extend ± 6mm beyond the spacer."
 
 #: ../../assemblage.rst:322
@@ -639,8 +639,8 @@ msgid ""
 "vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle"
 " empêche le contre écrou de se coincer dans le guide de l’entretoise."
 msgstr ""
-"Fit a washer and tighten the M3 lock nut, ensuring that the needle screw "
-"does not screw into the spacer at the same time. The washer prevents the "
+"Fit a washer and tighten the M3 lock nut, ensuring that the stylus screw "
+"does not move into the spacer at the same time. The washer prevents the "
 "jam nut from getting caught in the spacer guide."
 
 #: ../../assemblage.rst:407
@@ -1847,7 +1847,7 @@ msgid ""
 " avec le sommet du pointeau."
 msgstr ""
 "Move upper carriage to align footprint (**FEMALE_shape**)with the top of "
-"the needle."
+"the Braille stylus."
 
 #: ../../assemblage.rst:1365
 msgid ""
@@ -1882,7 +1882,7 @@ msgid ""
 "En observant par l'arriere de la machine, monter le pointeau en appuyant "
 "avec le doigt sous l'electro-aimant."
 msgstr ""
-"Observing from the rear of the machine, raise the needle by pressing with"
+"Observing from the rear of the machine, raise the Braille stylus by pressing with"
 " the finger under the electromagnet."
 
 #: ../../assemblage.rst:1387
@@ -1890,7 +1890,7 @@ msgid ""
 "Logiquement le pointeau doit entrer légérement dans la vis sans tête de "
 "la **FEMALE_shape**."
 msgstr ""
-"Logically the needle must enter slightly into the grub screw of the "
+"Logically the Braille stylus must enter slightly into the grub screw of the "
 "**FEMALE_shape**."
 
 #: ../../assemblage.rst:1394

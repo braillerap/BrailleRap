@@ -69,7 +69,7 @@ Matériel:
 
 .. ATTENTION:: bien repérer la position des cotés (droit et gauche) et le fond. Utiliser les percages pour orienter les pièces comme sur la figure
 
-.. image :: ./IMG/BrailleRAP-V5.02.1.jpg
+.. image :: ./IMG/gluing_chassis.png
        :align: center
 
 |
