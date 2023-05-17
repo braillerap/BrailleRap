@@ -159,7 +159,7 @@ msgstr ""
 
 #: ../../assemblage.rst:85
 msgid "Collage des bloqueurs de trappe"
-msgstr "Door blockers gluing"
+msgstr "Door blockers bonding"
 
 #: ../../assemblage.rst:88
 msgid "Caisse bois assemblée."
@@ -180,7 +180,7 @@ msgstr ""
 
 #: ../../assemblage.rst:100
 msgid "Collage du plateau papier"
-msgstr "Bonding of the paper plate"
+msgstr "Bonding of the paper tray"
 
 #: ../../assemblage.rst:102
 msgid "Support papier supérieur."
@@ -1365,7 +1365,7 @@ msgid ""
 "Mettre en place la plaque en CP (sans la coller) afin d’aligner les "
 "ROLL_joint avec les trous présents dans la plaque."
 msgstr ""
-"Put the CP plate in place (without gluing it) in order to align the "
+"Put the CP plate in place (without bonding it) in order to align the "
 "ROLL_joint with the holes present in the plate."
 
 #: ../../assemblage.rst:955
@@ -1470,7 +1470,7 @@ msgid ""
 "l'embosseuse marchera."
 msgstr ""
 "Glue the plate only if you are sure of the mounting that is in below. If "
-"you're not sure, you can just position the support plate, you will glue "
+"you're not sure, you can just position the support plate, you will bond "
 "it at the end when The embosser will work."
 
 #: ../../assemblage.rst:1017
