@@ -91,7 +91,7 @@ Matériel:
 
 Coller les 4 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine.
 
-.. image :: ./IMG/BrailleRAP-V5.01.2.jpg
+.. image :: ./IMG/chassis_disc.png
        :align: center
 
 |
