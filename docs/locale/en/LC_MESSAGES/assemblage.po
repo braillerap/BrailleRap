@@ -612,7 +612,7 @@ msgid ""
 "aimant doit être le plus perpendiculaire possible à la plaque support "
 "(l'axe doit être au milieu du percage qui permet son pasage)."
 msgstr ""
-"Depending on the quality of the print, it may be necessary to filethe "
+"Depending on the quality of the print, it may be necessary to file the "
 "spacer housing. Also note that the body of the electro-magnet must be as "
 "perpendicular as possible to the support plate(the axis must be in the "
 "middle of the drilling which allows its passage)."
@@ -1014,7 +1014,7 @@ msgstr ""
 
 #: ../../assemblage.rst:684
 msgid "Montage du chariot bas (étape 2)"
-msgstr "Mounting the low truck (step 2)"
+msgstr "Bottom trolley assembly (step 2)"
 
 #: ../../assemblage.rst:688
 msgid "2 barres lisses Ø8mm, longueur : 330mm"
