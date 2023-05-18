@@ -10,3 +10,4 @@ MarlinBraille.zip
 NatBrailleTools/bin/hs_err_pid2756.log
 *.log
 NatBrailleTools/gcodestreamer/.settings/org.eclipse.jdt.core.prefs
+docs/_build/gettext/.doctrees/
