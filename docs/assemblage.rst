@@ -91,7 +91,7 @@ Matériel:
 
 Coller les 4 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine.
 
-.. image :: ./IMG/BrailleRAP-V5.01.2.jpg
+.. image :: ./IMG/chassis_disc.png
        :align: center
 
 |
@@ -118,13 +118,13 @@ Matériel:
 
 .. ATTENTION:: les 2 pièces doivent êtrent parfaitement alignées. Placer des vis dans les percages pour bien aligner les pièces. Il ne doit pas y avoir d'espace entre les deux pièces (ou la feuille de papier pourrait venir se coincer). Bien serrer les pièces l'une contre l'autre avec des pinces de serrages 
 
-Préparation du pointeau mâle
------------------------------
+Préparation du pointeau Braille
+-------------------------------
 
 Matériel :
 
     * 1 Pierre à aiguisé
-    * 1 vis sans tête M3-12 bout téton
+    * 1 vis sans tête M3-16 bout téton
 
 * Limer l'arête du téton afin d’obtenir un profil approchant celui illustré.
 
@@ -951,16 +951,6 @@ Montage de l’axe Y (étape 2)
 
 |
 
-* Mettre en place la plaque en CP (sans la coller) afin d’aligner les ROLL_joint avec les trous présents dans la plaque.
-* Centrer les rouleaux dans les trous de la plaque et visser les vis sans tête jusqu'à ce que les rouleaux soient bien solidaires de l'axe. Attention, sur ce schema il n'y a que deux rouleaux (image d'une ancienne version, mais c'est le meme principe)
-
-.. image :: ./IMG/BrailleRAP-V5.103.jpg
-       :align: center
-
-|
-
-* Retirer la plaque de contre plaqué.
-
 
 Montage des guide-papiers sur la plaque support
 -----------------------------------------------
@@ -970,7 +960,7 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right
   * **PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)
   * 4 vis M3-16
-  * 4 vis M3-12
+  * 4 vis M3-14
   * 8 rondelles M3 Larges
   * 8 écrous M3 NYL
 
