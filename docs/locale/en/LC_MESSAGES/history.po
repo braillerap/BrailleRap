@@ -141,7 +141,7 @@ msgid ""
 "L'opération BrailleRAP Cameroun à donné lieu à la réalisation de 2 fiches"
 " de conduite d'atelier :"
 msgstr ""
-"The BrailleRAP Cameroon operation resulted in the production of 2 sheets"
+"The BrailleRAP Cameroon operation resulted in the production of 2 sheets "
 "of workshop conduct:"
 
 #: ../../history.rst:51 
@@ -149,7 +149,7 @@ msgid ""
 "Fiche de conduite `atelier grand public "
 "<https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
 msgstr ""
-"General public `workshop conduct sheet"
+"General public `workshop conduct sheet "
 "<https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
 
 #: ../../history.rst:53 
@@ -157,7 +157,7 @@ msgid ""
 "Fiche de conduite `master class "
 "<https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
 msgstr ""
-"`Master class conduct sheet"
+"Master class workshop `conduct sheet "
 "<https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
 
 #: ../../history.rst:55 
