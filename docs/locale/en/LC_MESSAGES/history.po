@@ -26,7 +26,7 @@ msgid ""
 "Pendant le Fabrikarium plusieurs travaux ont été réalisés pour modifier "
 "des imprimantes 3D afin d'embosser du **Braille** sur du papier 160g,"
 msgstr ""
-"During the Fabrikarium many tests were made to emboss **Braille\\ on "
+"During the Fabrikarium many tests were made to emboss **Braille** on "
 "160g paper with hacked 3D printers,"
 
 #: ../../history.rst:11 ebfc9e2c800949c0b12a8f8a4e80c58b
@@ -125,7 +125,7 @@ msgstr ""
 "collaboration with CCLab and Cameroonian partners. It is "
 "the opportunity for 3 weeks to confront the project once again"
 "to the general public: blind people, makers, associations, establishments"
-"lessons learned. All this in a very different international context"
+"lessons learned. All this in a very different international context "
 "of our usual activities."
 
 #: ../../history.rst:47 bd4904c08a1d418e8925b66cac3da9be
@@ -141,7 +141,7 @@ msgid ""
 "L'opération BrailleRAP Cameroun à donné lieu à la réalisation de 2 fiches"
 " de conduite d'atelier :"
 msgstr ""
-"The BrailleRAP Cameroon operation resulted in the production of 2 sheets"
+"The BrailleRAP Cameroon operation resulted in the production of 2 sheets "
 "of workshop conduct:"
 
 #: ../../history.rst:51 
@@ -149,7 +149,7 @@ msgid ""
 "Fiche de conduite `atelier grand public "
 "<https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
 msgstr ""
-"General public `workshop conduct sheet"
+"General public `workshop conduct sheet "
 "<https://forgecc.org/?AtelierBraillerapCamerounGrandPublic>`_"
 
 #: ../../history.rst:53 
@@ -157,7 +157,7 @@ msgid ""
 "Fiche de conduite `master class "
 "<https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
 msgstr ""
-"`Master class conduct sheet"
+"Master class workshop `conduct sheet "
 "<https://forgecc.org/?MasterClassBraillerapCameroun2>`_"
 
 #: ../../history.rst:55 
