@@ -1,23 +1,4 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, braillerapsp@gmail.com
-# This file is distributed under the same license as the BraillerRapSP
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# Stephane <braillerapsp@gmail.com>, 2018.
-msgid ""
-msgstr ""
-"Project-Id-Version:  BraillerRapSP\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-03 19:08+0000\n"
-"PO-Revision-Date: 2018-12-28 11:31+0200\n"
-"Last-Translator: Stephane <braillerapsp@gmail.com>\n"
-"Language: en\n"
-"Language-Team: braillerapsp\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+# Stephane <contact@braillerap.org>, 2018.
 
 #: ../../bom.rst:2
 msgid "Liste du matériel"
@@ -54,18 +35,23 @@ msgstr ""
 "We use eSun ABS Natural filament"
 
 #: ../../bom.rst:15
-msgid "Ajouter le lien pour le téléchargement de STL"
-msgstr "Add link for stl download"
+#, fuzzy
+msgid ""
+"Les fichiers au format stl sont ici : "
+"https://github.com/braillerap/BrailleRap/tree/master/printed_parts"
+msgstr ""
+"The dxf files are availables here : "
+"https://github.com/BrailleRapSP/BrailleRap/tree/master/lasercut"
 
 #: ../../bom.rst:19
 msgid "Pièces mécaniques"
 msgstr "Mechanical parts"
 
-#: ../../bom.rst:23 ../../bom.rst:54
+#: ../../bom.rst:23 ../../bom.rst:58
 msgid "Qty"
 msgstr "Qty"
 
-#: ../../bom.rst:23 ../../bom.rst:54
+#: ../../bom.rst:23 ../../bom.rst:58
 msgid "Type"
 msgstr "Type"
 
@@ -78,10 +64,10 @@ msgid "Rail de guidage linéaire ( diamètre 8mm ) 330 mm length"
 msgstr "Linear rod 8mm diameter 330 mmlength"
 
 #: ../../bom.rst:26 ../../bom.rst:27 ../../bom.rst:38 ../../bom.rst:42
-#: ../../bom.rst:56 ../../bom.rst:58 ../../bom.rst:59 ../../bom.rst:60
-#: ../../bom.rst:61
+#: ../../bom.rst:60 ../../bom.rst:62 ../../bom.rst:63 ../../bom.rst:64
+#: ../../bom.rst:65
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: ../../bom.rst:26
 msgid "Rail de guidage linéaire ( diamètre 8mm ) 365 mm length"
@@ -91,26 +77,26 @@ msgstr "Linear rod 8mm diameter 365 mm length"
 msgid "Rail de guidage linéaire ( diamètre 8mm ) *100 mm* length"
 msgstr "Linear rod 8mm diameter 100mm length"
 
-#: ../../bom.rst:29
+#: ../../bom.rst:29 ../../bom.rst:47
 msgid "6"
-msgstr "6"
+msgstr ""
 
 #: ../../bom.rst:29
 msgid "RJ4JP-01-08 palier linéaire Polymer"
 msgstr "RJ4JP-01-08 polymer linear bushing"
 
-#: ../../bom.rst:32
+#: ../../bom.rst:32 ../../bom.rst:49
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #: ../../bom.rst:32
 msgid "GT2 poulie 20 dents pour axe 8mm"
 msgstr "GT2 pulley 20 teeth 8mm bore"
 
 #: ../../bom.rst:33 ../../bom.rst:35 ../../bom.rst:36 ../../bom.rst:40
-#: ../../bom.rst:43 ../../bom.rst:45 ../../bom.rst:57
+#: ../../bom.rst:43 ../../bom.rst:45 ../../bom.rst:61
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #: ../../bom.rst:33
 msgid "GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)"
@@ -148,79 +134,47 @@ msgstr ""
 "O-ring 15.1 mm inside diameter 20.5 mm outside diameter (15.1 x 20.5 x "
 "2.7)"
 
-#: ../../bom.rst:46
-msgid "..."
-msgstr "..."
+#: ../../bom.rst:47
+msgid "Colliers de serrage 2.5 x 160 mm"
+msgstr "Zip tie selflock 2.5 x 160 mm"
 
-#: ../../bom.rst:51
+#: ../../bom.rst:49
+msgid "Ressorts tendeurs de courroie GT2"
+msgstr "GT2 tensionner springs"
+
+#: ../../bom.rst:50
+msgid "..."
+msgstr ""
+
+#: ../../bom.rst:55
 msgid "Electronique"
 msgstr "Electronics"
 
-#: ../../bom.rst:56
-msgid "MKS GEN 1.4 ou carte compatible Ramps 1.4"
-msgstr "MKS GEN 1.4 or Ramps 1.4 compatible board"
+#: ../../bom.rst:60
+msgid ""
+"MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 "
+"https://github.com/makerbase-mks"
+msgstr ""
+"MKS GEN 1.4 or Ramps 1.4 compatible or MKS GEN L 2.1 https://github.com"
+"/makerbase-mks"
 
-#: ../../bom.rst:57
+#: ../../bom.rst:61
 msgid "drivers DRV8825 avec radiateur"
 msgstr "DRV8825 drivers with cooling radiator"
 
-#: ../../bom.rst:58
+#: ../../bom.rst:62
 msgid "Electro-aimant *tau-826* 12V 2A"
 msgstr "Electro-magnet *tau-826* 12V 2A"
 
-#: ../../bom.rst:59
+#: ../../bom.rst:63
 msgid "1N4004  diode de roue libre ou equivalent (12V 2A)"
 msgstr "1N4004  flyback diode  (12V 2A)"
 
-#: ../../bom.rst:60
+#: ../../bom.rst:64
 msgid "Embase Alimentation jack 2.5"
 msgstr "jack 2.5mm connector"
 
-#: ../../bom.rst:61
+#: ../../bom.rst:65
 msgid "Alimentation 12v 6A"
 msgstr "12V 6A Alimentation"
 
-#~ msgid "8mm linear shaft 330 mm length"
-#~ msgstr "8mm linear shaft 330 mm length"
-
-#~ msgid "8mm linear shaft 365 mm length"
-#~ msgstr "8mm linear shaft 365 mm length"
-
-#~ msgid "8mm linear shaft *100 mm* length"
-#~ msgstr "8mm linear shaft *100 mm* length"
-
-#~ msgid "RJ4JP-01-08 Polimer linear bearing"
-#~ msgstr "RJ4JP-01-08 Polimer linear bearing"
-
-#~ msgid "x"
-#~ msgstr "x"
-
-#~ msgid "BTR M3 5mm"
-#~ msgstr "BTR M3 5mm"
-
-#~ msgid "BTR M3 10mm"
-#~ msgstr "BTR M3 10mm"
-
-#~ msgid "M3 nuts"
-#~ msgstr "M3 nuts"
-
-#~ msgid "M3 nylstop nuts"
-#~ msgstr "M3 nylstop nuts"
-
-#~ msgid "M3 washer"
-#~ msgstr "M3 washer"
-
-#~ msgid "BTR M4 10"
-#~ msgstr "BTR M4 10"
-
-#~ msgid "BTR M4 50mm partially threaded."
-#~ msgstr "BTR M4 50mm partially threaded."
-
-#~ msgid "Clapets de robinet dimension 4x16x6 mm"
-#~ msgstr ""
-
-#~ msgid "Embase USB"
-#~ msgstr "USB connector"
-
-#~ msgid "12v power supply 6A"
-#~ msgstr "12v power supply 6A"

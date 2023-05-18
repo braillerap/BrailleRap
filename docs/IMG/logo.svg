@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.746319mm"
+   height="16.305576mm"
+   viewBox="0 0 47.746319 16.305576"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.7572176"
+     inkscape:cx="72.206073"
+     inkscape:cy="53.182348"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="178.36649"
+       y="410.24289"
+       width="306.02957"
+       height="78.481247"
+       id="rect356" />
+    <rect
+       x="156.36794"
+       y="375.7587"
+       width="195.01401"
+       height="65.995598"
+       id="rect350" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.823826,-84.195713)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="44.046612"
+       y="91.868637"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px;fill:#000000;fill-opacity:1"
+         x="44.046612"
+         y="91.868637">BrailleRAP</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583px;fill:#000000;fill-opacity:1"
+         x="44.046612"
+         y="105.97976"
+         id="tspan238" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text348"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect350);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="156.36719"
+         y="477.14453"
+         id="tspan2068"><tspan
+           dx="0 31.25 31.25 31.25 31.25 31.25 31.25 31.25 31.25 31.25"
+           id="tspan2066">⡃⠗⠁⠊⠇⠇⠑⡗⡁⡏</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.22439186,0,0,0.26458333,4.0221698,-16.372987)"
+       id="text354"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.9565px;line-height:125%;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect356);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="178.36719"
+         y="435.8619"
+         id="tspan2070">⡃⠗⠁⠊⠇⠇⠑⡗⡁⡏</tspan></text>
+  </g>
+</svg>

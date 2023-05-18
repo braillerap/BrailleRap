@@ -1,29 +1,10 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, braillerapsp@gmail.com
-# This file is distributed under the same license as the BraillerRapSP
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# Stephane <braillerapsp@gmail.com>, 2019.
-msgid ""
-msgstr ""
-"Project-Id-Version:  BraillerRapSP\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-03 20:43+0000\n"
-"PO-Revision-Date: 2019-01-17 00:03+0200\n"
-"Last-Translator: Stephane <braillerapsp@gmail.com>\n"
-"Language: en\n"
-"Language-Team: braillerapsp\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+# Stephane <contact@braillerap.org>, 2018.
 
-#: ../../marlin.rst:2
+#: ../../marlin.rst:2 1123fa9e7130408597e27689602d69f3
 msgid "Marlin Firmware pour cartes Ramps ou compatibles"
 msgstr "Ramps or compatible boards Marlin firmware"
 
-#: ../../marlin.rst:6
+#: ../../marlin.rst:6 e5ece19c243b4258b5b468fd8a796741
 msgid ""
 "Le firmware Marlin est utilisé pour contrôler l'embosseuse Braille. Nous "
 "utilisons la configuration CNC pour contrôler l'électro-aimant avec les "
@@ -32,43 +13,57 @@ msgstr ""
 "Marlin firmware is used for braille embosser controlWe use the CNC "
 "configuration to control the elctromagnet with M3 and M4 GCODE commands"
 
-#: ../../marlin.rst:10
+#: ../../marlin.rst:8 e603d1413d2542c58dc424ea11ff52d0
+msgid ""
+"Le firmware Marlin qui se trouve dans le repertoire MarlinBraille "
+"https://github.com/braillerap/BrailleRap/tree/master/MarlinBraille est "
+"déja configuré pour la BrailleRAP. Si vous n'avez pas effectué de "
+"modifications par rapport à la documentation, vous pouvez l'utiliser "
+"directement sans vous préoccuper de la configuration Marlin"
+msgstr ""
+"The Marlin firmware in **MarlinBraille** directory"
+"https://github.com/braillerap/BrailleRap/tree/master/MarlinBraille is "
+"already configured for BrailleRAP. If you have not performed a "
+"modifications from the documentation, you can use it"
+"directly without worrying about the Marlin configuration"
+
+#: ../../marlin.rst:12 3b4cb0214954403cba804e248b5d6ac8
 msgid "Configuration Marlin"
 msgstr "Marlin configuration"
 
-#: ../../marlin.rst:12
+#: ../../marlin.rst:14 91219dfed46a4562b357f72288ac4f64
 msgid "in configuration.h"
 msgstr ""
 
-#: ../../marlin.rst:14
+#: ../../marlin.rst:16 00d9654f881247e3ab05ccb413839489
 msgid "Motherboard configuration ::"
 msgstr ""
 
-#: ../../marlin.rst:21
+#: ../../marlin.rst:23 c9f48d7c4115496a82551a12d2f0f8a8
 msgid "Spindle / laser / pen configuration ::"
 msgstr ""
 
-#: ../../marlin.rst:30
+#: ../../marlin.rst:32 5229b08584e84b59aab0517ab0768c72
 msgid "Endstop configuration ::"
 msgstr ""
 
-#: ../../marlin.rst:42
+#: ../../marlin.rst:44 7fc91a0069bc44a8b4c4eedcaa6fc07f
 msgid "Motor step / mm ::"
 msgstr ""
 
-#: ../../marlin.rst:46
+#: ../../marlin.rst:48 d64d0ee9e8fc458180bc21a9df8b2b00
 msgid "Max feedrate ::"
 msgstr ""
 
-#: ../../marlin.rst:50
+#: ../../marlin.rst:52 15fb959190154c16b6331ab627f8f20b
 msgid "Acceleration ::"
 msgstr ""
 
-#: ../../marlin.rst:58
+#: ../../marlin.rst:60 55545d0e9d524d4a8ba3d627f85033fb
 msgid "Jerk ::"
 msgstr ""
 
-#: ../../marlin.rst:65
+#: ../../marlin.rst:69 fdd71398190f4ded8d374e1f4e545572
 msgid ""
 "Dans la version présente sur le github du projet BrailleRap, d'autres "
 "fichiers ont été modifiés pour gérer l'alimentation du papier avec le fin"
@@ -76,3 +71,4 @@ msgid ""
 msgstr ""
 "In the current release on BrailleRap github, other files have been "
 "modified to handle the paper sheet position with the Y end-stop."
+

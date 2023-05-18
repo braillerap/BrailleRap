@@ -1,24 +1,16 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018, braillerapsp@gmail.com
-# This file is distributed under the same license as the BraillerRapSP
-# package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# Stephane <braillerapsp@gmail.com>, 2018, 2019.
-msgid ""
-msgstr ""
-"Project-Id-Version: BraillerRapSP\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-28 10:31+0100\n"
-"PO-Revision-Date: 2019-01-17 00:04+0200\n"
-"Last-Translator: Stephane <braillerapsp@gmail.com>\n"
-"Language-Team: braillerapsp\n"
-"Language: en\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
-"Generated-By: Babel 2.6.0\n"
+# Stephane <contact@braillerap.org>, 2018.
+# "Project-Id-Version:  test\n"
+# "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+# "POT-Creation-Date: 2023-05-05 18:48+0000\n"
+# "PO-Revision-Date: 2018-12-28 12:02+0200\n"
+# "Last-Translator: Stephane <contact@braillerap.org>\n"
+# "Language: en\n"
+# "Language-Team: braillerap\n"
+# "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+# "MIME-Version: 1.0\n"
+# "Content-Type: text/plain; charset=utf-8\n"
+# "Content-Transfer-Encoding: 8bit\n"
+# "Generated-By: Babel 2.10.1\n"
 
 #: ../../firstembossingpage.rst:2
 msgid "Embosser votre première page de Braille"

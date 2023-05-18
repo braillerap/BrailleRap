@@ -19,6 +19,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
 	'sphinx.ext.autosectionlabel',
+    'sphinx_rtd_theme',
     
 ]
 templates_path = ['_templates']
@@ -32,8 +33,8 @@ master_doc = 'index'
 project = u'BrailleRap'
 copyright = '2018-{}, BrailleRap'
 
-version = '6.3.0'
-release = '6.3.0'
+version = '6.5.0'
+release = '6.5.0'
 exclude_patterns = ['_build']
 default_role = 'obj'
 pygments_style = 'sphinx'
@@ -64,22 +65,24 @@ locale_dirs = [
     'locale/',
 ]
 gettext_compact = False
+gettext_uuid = False
 
-
-#html_theme = 'sphinx_rtd_theme'
-html_static_path = ['_static']
+html_theme = 'sphinx_rtd_theme'
+#html_static_path = ['_static']
 #html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-html_theme_path = ["_themes"]
-#html_logo = 'img/logo.svg'
+#html_theme_path = ["_themes"]
+#html_logo = 'IMG/logo.svg' 
 
 html_theme_options = {
-    'logo_only': True,
-    'display_version': False,
+    'logo_only': False,
+    'display_version': True,
 }
 
 
 def setup(app):
-    app.add_stylesheet('css/custom.css')
+    #app.add_stylesheet('css/custom.css')
+    app.add_css_file('css/custom.css')
+    pass
 
 
 
