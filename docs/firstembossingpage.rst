@@ -9,7 +9,7 @@ L'application BrailleRap en ligne https://crocsg.github.io/BrailleRap/
 L'application NatBraille http://natbraille.free.fr 
 
 Utilisation de l'application AccessBrailleRap
----------------------------------------
+---------------------------------------------
 Utiliser le bouton "Paramêtres" pour accéder à l'écran de paramétrage
 
 .. image :: ./IMG/AccBrap-3.png

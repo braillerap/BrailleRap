@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-04 16:50+0000\n"
+"POT-Creation-Date: 2023-05-19 12:06+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,49 +21,69 @@ msgid "Embosser votre première page de Braille"
 msgstr ""
 
 #: ../../firstembossingpage.rst:5
-msgid "BrailleRap est une machine qui se pilote en G-CODE, pour embosser du braille il faut tout d'abord traduire le texte en Braille. Il existe 2 solutions pour traduire le Braille : L'application BrailleRap en ligne https://crocsg.github.io/BrailleRap/ L'application NatBraille http://natbraille.free.fr"
-msgstr ""
+msgid "BrailleRap est une machine qui se pilote en G-CODE, pour embosser du braille il faut tout d'abord traduire le texte en Braille. Il existe 3 solutions pour traduire le Braille : L'application AccessBrailleRap https://github.com/braillerap/AccessBrailleRAP/releases L'application BrailleRap en ligne https://crocsg.github.io/BrailleRap/ L'application NatBraille http://natbraille.free.fr"
+msgstr "BrailleRAP is a GCODE controlled device, to emboss some Braille text, you need to translate text in Braille, and Braille in GCODE. You have 3 choices : The AccessBrailleRap application https://github.com/braillerap/AccessBrailleRAP/releases The BrailleRap online application https://crocsg.github.io/BrailleRap/ The NatBraille java app http://natbraille.free.fr"
 
 #: ../../firstembossingpage.rst:12
+msgid "Utilisation de l'application AccessBrailleRap"
+msgstr "Using AccessBrailleRAP Application"
+
+#: ../../firstembossingpage.rst:13
+msgid "Utiliser le bouton \"Paramêtres\" pour accéder à l'écran de paramétrage"
+msgstr "Use  the \"Parameters\" button to go to parameters screen"
+
+#: ../../firstembossingpage.rst:18
+msgid "Choisisser la table Braille de votre choix, le port de communication pour piloter BrailleRAP, et la langue de l'application"
+msgstr "Select the Braille translation of your choice, the communication port with BrailleRAP and the application language"
+
+#: ../../firstembossingpage.rst:23
+msgid "Utiliser le bouton \"Saisie\" pour accéder à l'écran de saisie du texte Entrer le texte de votre choix, vous pouvez utiliser le copier coller pour utiliser un texte existant (page web, document word ...)"
+msgstr "Use the \"Text input\" button  to go to the input screen. Enter some text, or use copy / paste coller to use some existing text (web page, word document ...)"
+
+#: ../../firstembossingpage.rst:32
+msgid "Utiliser le bouton \"Impression\" pour accéder à l'écran de d'impression Sélectionner la page que vous souhaitez embosser avec les boutons \"Page précédente\" et \"Page suivante\". Pour embosser le texte, installer une feuille de papier dans BrailleRAP et utiliser le bouton \"Imprimer\""
+msgstr "Use the \"Printing\" button to go to the print screen. Select the page, and use the \"Print\" button to emboss the page."
+
+#: ../../firstembossingpage.rst:42
 msgid "Utilisation de l'application BrailleRap"
 msgstr ""
 
-#: ../../firstembossingpage.rst:14
+#: ../../firstembossingpage.rst:44
 msgid "Aller sur la page https://crocsg.github.io/BrailleRap/"
 msgstr ""
 
-#: ../../firstembossingpage.rst:19
+#: ../../firstembossingpage.rst:49
 msgid "Entrer votre texte à l'endroit indiqué, et télécharger ensuite le fichier GCODE contenant les instructions pour l'embosseuse"
 msgstr ""
 
-#: ../../firstembossingpage.rst:24
+#: ../../firstembossingpage.rst:54
 msgid "Vous pouvez ensuite utiliser un logiciel comme **cura** ou **pronterface** pour envoyer le fichier GCODE à l'imprimante"
-msgstr ""
+msgstr "You can then use software like **cura** or **pronterface** to send the GCODE file to the BrailleRAP"
 
-#: ../../firstembossingpage.rst:29
+#: ../../firstembossingpage.rst:59
 msgid "Configuration NatBraille"
-msgstr ""
+msgstr "NatBraille Configuration"
 
-#: ../../firstembossingpage.rst:31
+#: ../../firstembossingpage.rst:61
 msgid "Compiler les programmes dans le repertoire NatBrailleTools du projet"
-msgstr ""
+msgstr "Compile the project in NatBrailleTools directory"
 
-#: ../../firstembossingpage.rst:33
+#: ../../firstembossingpage.rst:63
 msgid "Dans les options générales NatBraille, utiliser **TbFr2007** pour la table braille, Encodage document noir **Automtique**, Encodage document braille **Windows1252**"
-msgstr ""
+msgstr "In the NatBraille general options, use **TbFr2007** for the braille table, Black document encoding **Automatic**, Braille document encoding **Windows1252**"
 
-#: ../../firstembossingpage.rst:38
+#: ../../firstembossingpage.rst:68
 msgid "Dans les options d'embossage, utiliser **TbFr2007** pour la table braille pour l'embossage"
-msgstr ""
+msgstr "In the embossing options, use **TbFr2007** for the braille table for embossing"
 
-#: ../../firstembossingpage.rst:40
+#: ../../firstembossingpage.rst:70
 msgid "Activer l'option **utiliser une commande systeme pour l'embossage**"
-msgstr ""
+msgstr "Activate the option **use a system command for embossing**"
 
-#: ../../firstembossingpage.rst:42
+#: ../../firstembossingpage.rst:72
 msgid "le paramêtre  pour commande d'impression est : **java -jar d:\\\\usr\\\\home\\\\logger\\\\BrailleLogger.jar $f | java -jar d:\\\\usr\\\\home\\\\logger\\\\gcodestreamer.jar COM4 250000** en modifiant eventuellement les repertoires d'installation des programmes COM4 est le port serie utilisé pour communiquer avec l'imprimante"
-msgstr ""
+msgstr "the parameter for print command is: **java -jar d:\\\\usr\\\\home\\\\logger\\\\BrailleLogger.jar $f | java -jar d:\\\\usr\\\\home\\\\logger\\\\gcodestreamer.jar COM4 250000** possibly modifying the program installation directories COM4 is the serial port used to communicate with the printer"
 
-#: ../../firstembossingpage.rst:50
+#: ../../firstembossingpage.rst:80
 msgid "Dans les options de mise en page, indiquer 31 et 26 dans le nombre de caracter par ligne et le nombre de lignes par page"
-msgstr ""
+msgstr "In the layout options, indicate 31 and 26 in the number of characters per line and the number of lines per page"
