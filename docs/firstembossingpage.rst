@@ -11,8 +11,9 @@ L'application NatBraille http://natbraille.free.fr
 Utilisation de l'application AccessBrailleRap
 ---------------------------------------
 Utiliser le bouton "Paramêtres" pour accéder à l'écran de paramétrage
+
 .. image :: ./IMG/AccBrap-3.png
-       :align: center
+    :align: center
 
 Choisisser la table Braille de votre choix, le port de communication pour piloter BrailleRAP,
 et la langue de l'application
@@ -20,17 +21,22 @@ et la langue de l'application
 |
 
 Utiliser le bouton "Saisie" pour accéder à l'écran de saisie du texte
-Entrer le texte de votre choix, vous pouvez utiliser le copier coller pour utiliser un texte existant (page web, document word ...)
+Entrer le texte de votre choix, vous pouvez utiliser le copier coller pour 
+utiliser un texte existant (page web, document word ...)
+
 .. image :: ./IMG/AccBrap-1.png
-       :align: center
+    :align: center
 
 |
 
 Utiliser le bouton "Impression" pour accéder à l'écran de d'impression
 Sélectionner la page que vous souhaitez embosser avec les boutons "Page précédente" et "Page suivante".
 Pour embosser le texte, installer une feuille de papier dans BrailleRAP et utiliser le bouton "Imprimer"
+
 .. image :: ./IMG/AccBrap-2.png
-       :align: center
+    :align: center
+
+|
 
 Utilisation de l'application BrailleRap
 ---------------------------------------
