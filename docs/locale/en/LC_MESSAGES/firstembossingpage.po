@@ -43,6 +43,12 @@ msgid ""
 "BrailleRap en ligne https://crocsg.github.io/BrailleRap/ L'application "
 "NatBraille http://natbraille.free.fr"
 msgstr ""
+"BrailleRap is a G-CODE controlled device, to emboss "
+"Braille you must first translate the text into Braille and Braille into GCODE. There are 3 "
+"solutions for translating Braille: The AccessBrailleRap application"
+"https://github.com/braillerap/AccessBrailleRAP/releases The application"
+"BrailleRap online https://crocsg.github.io/BrailleRap/ The application"
+"NatBraille http://natbraille.free.fr"
 
 #: ../../firstembossingpage.rst:12
 #, fuzzy
@@ -51,13 +57,15 @@ msgstr "Using BrailleRap App"
 
 #: ../../firstembossingpage.rst:13
 msgid "Utiliser le bouton \"Paramêtres\" pour accéder à l'écran de paramétrage"
-msgstr ""
+msgstr "Use the \"Parameters\" button to access the settings screen"
 
 #: ../../firstembossingpage.rst:18
 msgid ""
 "Choisisser la table Braille de votre choix, le port de communication pour"
 " piloter BrailleRAP, et la langue de l'application"
 msgstr ""
+"Choose the Braille table of your choice, the communication port for"
+"drive BrailleRAP, and the language of the application"
 
 #: ../../firstembossingpage.rst:23
 msgid ""
@@ -65,6 +73,9 @@ msgid ""
 "Entrer le texte de votre choix, vous pouvez utiliser le copier coller "
 "pour utiliser un texte existant (page web, document word ...)"
 msgstr ""
+"Use the \"Text input\" button to access the text input screen "
+"Enter the text of your choice, you can use copy paste"
+"to use an existing text (web page, word document...)"
 
 #: ../../firstembossingpage.rst:32
 msgid ""
@@ -73,6 +84,10 @@ msgid ""
 "précédente\" et \"Page suivante\". Pour embosser le texte, installer une "
 "feuille de papier dans BrailleRAP et utiliser le bouton \"Imprimer\""
 msgstr ""
+"Use the \"Print\" button to access the print screen"
+"Select the page you want to emboss with the \"Page " buttons
+"previous\" and \"next page\". To emboss text, install a "
+"sheet of paper in BrailleRAP and use the \"Print\" button"
 
 #: ../../firstembossingpage.rst:42
 msgid "Utilisation de l'application BrailleRap"

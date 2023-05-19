@@ -6,7 +6,7 @@ BrailleRap est une machine qui se pilote en G-CODE, pour embosser du braille il 
 Il existe 3 solutions pour traduire le Braille :
 L'application AccessBrailleRap https://github.com/braillerap/AccessBrailleRAP/releases
 L'application BrailleRap en ligne https://crocsg.github.io/BrailleRap/
-L'application NatBraille http://natbraille.free.fr 
+L'application NatBraille http://natbraille.free.fr  
 
 Utilisation de l'application AccessBrailleRap
 ---------------------------------------------
