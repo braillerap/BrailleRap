@@ -36,7 +36,7 @@ msgid ""
 "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 msgstr ""
 "The dxf files are availables here : "
-"https://github.com/BrailleRapSP/BrailleRap/tree/master/lasercut"
+"https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 
 #: ../../bom.rst:12
 msgid "Pièces imprimées"
