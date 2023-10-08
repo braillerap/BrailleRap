@@ -5,7 +5,7 @@ from __future__ import division, print_function, unicode_literals
 import os
 import sys
 
-#import sphinx_rtd_theme
+import sphinx_rtd_theme
 from recommonmark.parser import CommonMarkParser
 
 sys.path.insert(0, os.path.abspath('..'))
