@@ -6,7 +6,7 @@ import os
 import sys
 
 import sphinx_rtd_theme
-from recommonmark.parser import CommonMarkParser
+
 
 sys.path.insert(0, os.path.abspath('..'))
 sys.path.append(os.path.dirname(__file__))
@@ -26,12 +26,12 @@ templates_path = ['_templates']
 
 source_suffix = ['.rst', '.md']
 source_parsers = {
-    '.md': CommonMarkParser,
+    
 }
 
 master_doc = 'index'
 project = u'BrailleRap'
-copyright = '2018-{}, BrailleRap'
+copyright = 'CERN Licence V1.2'
 
 version = '6.5.0'
 release = '6.5.0'
