@@ -31,6 +31,7 @@ Qty Type
 
 3   GT2 poulie 20 dents pour axe 8mm    
 2   GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)
+1   GT2 poulie 20 dents pour axe 5mm
 
 2   KP08  pallier horizontal pour rail linéaire 8mm 
 2   KFL08 pallier vertical pour rail linéaire 8mm 
