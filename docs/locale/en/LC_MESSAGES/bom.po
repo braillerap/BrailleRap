@@ -86,12 +86,10 @@ msgid "1"
 msgstr "1"
 
 #: ../../bom.rst:26
-#, fuzzy
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **365 mm** length"
 msgstr "Linear rod 8mm diameter **365 mm** length"
 
 #: ../../bom.rst:27
-#, fuzzy
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **100 mm** length"
 msgstr "Linear rod 8mm diameter **100 mm** length"
 
@@ -121,7 +119,6 @@ msgid "GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)"
 msgstr "GT2 free pulley 20 teeth bore 3mm (with bearing)"
 
 #: ../../bom.rst:34
-#, fuzzy
 msgid "GT2 poulie 20 dents pour axe 5mm"
 msgstr "GT2 pulley 20 teeth 5mm bore"
 
