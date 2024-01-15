@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2018-{}, BrailleRap
+# Copyright (C) CERN Licence V1.2
 # This file is distributed under the same license as the BrailleRap package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.5.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-18 10:24+0000\n"
+"POT-Creation-Date: 2024-01-15 21:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,12 +49,12 @@ msgid "Pièces mécaniques"
 msgstr ""
 
 #: ../../bom.rst:23
-#: ../../bom.rst:56
+#: ../../bom.rst:57
 msgid "Qty"
 msgstr ""
 
 #: ../../bom.rst:23
-#: ../../bom.rst:56
+#: ../../bom.rst:57
 msgid "Type"
 msgstr ""
 
@@ -68,13 +68,14 @@ msgstr ""
 
 #: ../../bom.rst:26
 #: ../../bom.rst:27
-#: ../../bom.rst:38
-#: ../../bom.rst:40
-#: ../../bom.rst:58
-#: ../../bom.rst:61
+#: ../../bom.rst:34
+#: ../../bom.rst:39
+#: ../../bom.rst:41
+#: ../../bom.rst:59
 #: ../../bom.rst:62
 #: ../../bom.rst:63
 #: ../../bom.rst:64
+#: ../../bom.rst:65
 msgid "1"
 msgstr ""
 
@@ -95,8 +96,8 @@ msgid "RJ4JP-01-08 palier linéaire Polymer"
 msgstr ""
 
 #: ../../bom.rst:32
-#: ../../bom.rst:43
-#: ../../bom.rst:47
+#: ../../bom.rst:44
+#: ../../bom.rst:48
 msgid "3"
 msgstr ""
 
@@ -105,11 +106,11 @@ msgid "GT2 poulie 20 dents pour axe 8mm"
 msgstr ""
 
 #: ../../bom.rst:33
-#: ../../bom.rst:35
 #: ../../bom.rst:36
-#: ../../bom.rst:41
-#: ../../bom.rst:59
+#: ../../bom.rst:37
+#: ../../bom.rst:42
 #: ../../bom.rst:60
+#: ../../bom.rst:61
 msgid "2"
 msgstr ""
 
@@ -117,74 +118,78 @@ msgstr ""
 msgid "GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)"
 msgstr ""
 
-#: ../../bom.rst:35
-msgid "KP08  pallier horizontal pour rail linéaire 8mm"
+#: ../../bom.rst:34
+msgid "GT2 poulie 20 dents pour axe 5mm"
 msgstr ""
 
 #: ../../bom.rst:36
+msgid "KP08  pallier horizontal pour rail linéaire 8mm"
+msgstr ""
+
+#: ../../bom.rst:37
 msgid "KFL08 pallier vertical pour rail linéaire 8mm"
 msgstr ""
 
-#: ../../bom.rst:38
+#: ../../bom.rst:39
 msgid "Accouplement d'axe 5mm/8mm"
 msgstr ""
 
-#: ../../bom.rst:40
+#: ../../bom.rst:41
 msgid "Courroie GT2 fermée 200 mm"
 msgstr ""
 
-#: ../../bom.rst:41
+#: ../../bom.rst:42
 msgid "630 mm de courroie GT2"
 msgstr ""
 
-#: ../../bom.rst:43
+#: ../../bom.rst:44
 msgid "Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur (15.1 x 20.5 x 2.7)"
 msgstr ""
 
-#: ../../bom.rst:45
+#: ../../bom.rst:46
 msgid "10"
 msgstr ""
 
-#: ../../bom.rst:45
+#: ../../bom.rst:46
 msgid "Colliers de serrage 2.5 x 160 mm"
 msgstr ""
 
-#: ../../bom.rst:47
+#: ../../bom.rst:48
 msgid "Ressorts tendeurs de courroie GT2"
 msgstr ""
 
-#: ../../bom.rst:48
+#: ../../bom.rst:49
 msgid "..."
 msgstr ""
 
-#: ../../bom.rst:53
+#: ../../bom.rst:54
 msgid "Electronique"
 msgstr ""
 
-#: ../../bom.rst:58
+#: ../../bom.rst:59
 msgid "MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 https://github.com/makerbase-mks"
 msgstr ""
 
-#: ../../bom.rst:59
+#: ../../bom.rst:60
 msgid "drivers DRV8825 avec radiateur"
 msgstr ""
 
-#: ../../bom.rst:60
+#: ../../bom.rst:61
 msgid "Nema 17 40 N/cm avec câble (17HS4401)"
 msgstr ""
 
-#: ../../bom.rst:61
+#: ../../bom.rst:62
 msgid "Electro-aimant *tau-826* 12V 2A"
 msgstr ""
 
-#: ../../bom.rst:62
+#: ../../bom.rst:63
 msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)"
 msgstr ""
 
-#: ../../bom.rst:63
+#: ../../bom.rst:64
 msgid "Embase Alimentation jack 2.5"
 msgstr ""
 
-#: ../../bom.rst:64
+#: ../../bom.rst:65
 msgid "Alimentation 12v 6A"
 msgstr ""
