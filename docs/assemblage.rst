@@ -1409,3 +1409,23 @@ Réglage de la profondeur du point
        :align: center
 
 |
+Fermeture de la porte arriere
+-----------------------------
+
+  * **Pièce(s) imprimée(s) en 3D** : 2 DOORLOCKER.stl
+  * 4 vis M3-16
+  
+
+  * Tarauder les trous de fixation des pieces **DOORLOCKER**
+
+  .. image :: ./IMG/DOORLOCK_tap.png
+       :align: center
+
+  * Attacher les **DOORLOCKER** sur la porte arriere. Laisser du jeu pour que les pieces **DOORLOCKER** puissent coulisser.
+
+  .. image :: ./IMG/door_locker.png
+       :align: center
+
+  * Positionner la porte assemblée sur BrailleRAP. 
+  * Faire glisser les pieces **DOORLOCKER** sur les trous de fixation pour que la porte soit bloquée.
+  * Serrer (doucement) les vis de fixation.
