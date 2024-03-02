@@ -1223,6 +1223,7 @@ Preparation des cables moteurs
 * 2 cables moteurs XH 2.54 4 pins => 6 pins
 
 Vérifier le schéma de cablage des cables. le cablage est le suivant
+
 ========== ===========
 coté carte coté moteur
 ========== ===========       
