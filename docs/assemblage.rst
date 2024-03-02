@@ -1219,8 +1219,8 @@ Matériel :
 
 |
 
-Montage de la carte électronique
---------------------------------
+Montage de la carte électronique MKS 1.4
+----------------------------------------
 Matériel :
 
   * Carte MKS GEN 1.4
@@ -1234,8 +1234,8 @@ Matériel :
 
 |
 
-Cablage de la carte électronique
---------------------------------
+Cablage de la carte électronique MKS 1.4
+----------------------------------------
 Schéma général :
 
 .. image :: ./IMG/braillerap_cablage.png
@@ -1340,6 +1340,125 @@ Câblage de l’électro-aimant
        :align: center
 
 |
+Montage de la carte électronique MKS GEN-L V2.1
+----------------------------------------
+Matériel :
+
+  * Carte MKS GEN L V2.1
+  * 4 entretoises M3-12
+  * 4 rondelles M3 moyennes
+  * 8 vis M3-8
+
+* Assembler les 4 entretoises sur la carte. 
+
+.. NOTE:: Pour pouvoir réaliser les derniers réglages facilement, nous vous conseillons de cabler la carte en dehors du chassis. Une fois l'embosseuse fonctionelle, vous pourrez fixer la carte dans le chassis.
+
+|
+
+Cablage de la carte électronique MKS GEN-L V2.1
+----------------------------------------
+Schéma général :
+
+.. image :: ./IMG/mksgenl_schema.png
+       :align: center
+
+|
+
+Photo de la carte assemblée
+
+.. image :: ./IMG/mksgenl.jpg
+       :align: center
+
+|
+
+Pose des drivers sur la carte électronique MKS GEN-L V2.1
+---------------------------------------------------------
+Matériel :
+
+  * Carte MKS GEN-L V2.1
+  * 2 Drivers DRV8825
+  * 6 cavaliers
+
+* Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y.
+
+.. image :: ./IMG/mksgenl_jumper.jpg
+       :align: center
+
+|
+
+* Enfoncer les drivers dans les emplacements X et Y.
+
+.. image :: ./IMG/mksgenl_drivers.jpg
+              :align: center
+
+|
+
+Câblage de l'alimentation 12V
+-----------------------------
+* placer les 2 fils de provenant de la prise **POWER_plate** dans le bornier de la carte MKS GEN-L
+
+.. image :: ./IMG/mksgenl_12V.jpg
+              :align: center
+
+|
+
+Réglage des drivers moteur
+--------------------------
+.. NOTE:: Cette étape doit **IMPERATIVEMENT** être réaliser **avant** le cablage des moteurs.
+
+* Controler que vous pouvez brancher l'alimentation 12V sur la carte (un dernier controle pour eviter des etincelles c'est mieux :-) )
+* Brancher l'alimentation 12 V sur la carte.
+* pour chaque driver, mesurer, avec un multimètre, la tension entre le potentiomètre de réglage et la masse de la connexion USB.
+
+.. image :: ./IMG/mks_driver_voltage.jpg
+              :align: center
+.. image :: ./IMG/mks_driver_voltage1.jpg
+              :align: center
+.. image :: ./IMG/mks_driver_voltage2.jpg
+              :align: center
+.. image :: ./IMG/mks_driver_voltage3.jpg
+              :align: center
+
+|
+
+* La tension mesurée doit être proche de 0,6 ~ 0,7 V pour des drivers DRV8825, si ce n'est pas le cas, utiliser un tournevis pour tourner le potentiomêtre de réglage et refaite la mesure.
+* Une fois que la tension mesurée sur chaque driver est correcte, vous pouvez passer à la suite
+
+
+Câblage des interrupteurs fin de course
+---------------------------------------
+* Cabler les fins de courses sur la carte MKS GEN-L.
+* Le fin de course X (chariot) doit être branché sur le connecteur de gauche en haut (rouge)
+* Le fin de course Y (détection papier) doit être branché sur le connecteur de gauche en bas (bleu)
+
+.. image :: ./IMG/mksgenl_endstops.jpg
+              :align: center
+
+|
+
+Raccordement des moteurs à la carte MKS GEN-L
+---------------------------------------------
+* Relier les moteurs à la carte de contrôle avec les cables.
+* Le moteur X (chariot) doit être branché dans le connecteur de gauche (rouge)
+
+.. image :: ./IMG/mksgenl_motorx.jpg
+              :align: center
+
+|
+
+* Le moteur Y (papier) doit être branché dans le connecteur de droite (bleu)
+
+.. image :: ./IMG/mksgenl_motory.jpg
+              :align: center
+
+|
+
+Câblage de l’électro-aimant MKS GEN-L 2.1
+-----------------------------------------
+* placer les 2 fils de l'electroaimant sur le connecteur HBED de la carte MKS GEN-L 2.1.
+
+.. image :: ./IMG/board_magnet.jpg
+       :align: center
 
 Alignement horizontal de l'empreinte du chariot haut
 ----------------------------------------------------
