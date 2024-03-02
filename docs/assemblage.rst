@@ -1218,7 +1218,22 @@ Matériel :
        :align: center
 
 |
+Preparation des cables moteurs
+------------------------------
+* 2 cables moteurs XH 2.54 4 pins => 6 pins
 
+Vérifier le schéma de cablage des cables. le cablage est le suivant
+
+coté carte		coté moteur
+       1		       1
+       2		       4
+       3		       6
+       4		       3
+
+.. image :: ./IMG/cablagemoteur.jpg
+       :align: center
+
+|
 Montage de la carte électronique MKS 1.4
 ----------------------------------------
 Matériel :
@@ -1459,6 +1474,8 @@ Câblage de l’électro-aimant MKS GEN-L 2.1
 
 .. image :: ./IMG/board_magnet.jpg
        :align: center
+
+|
 
 Alignement horizontal de l'empreinte du chariot haut
 ----------------------------------------------------
