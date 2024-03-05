@@ -1487,7 +1487,7 @@ Câblage de l’électro-aimant MKS GEN-L 2.1
 -----------------------------------------
 * placer les 2 fils de l'electroaimant sur le connecteur HBED de la carte MKS GEN-L 2.1.
 
-.. image :: ./IMG/board_magnet.jpg
+.. image :: ./IMG/mksgenl_solenoid.jpg
        :align: center
 
 |
