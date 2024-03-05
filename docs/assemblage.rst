@@ -291,6 +291,12 @@ Matériel :
 .. image :: ./IMG/endtsopx_assembly.png
        :align: center
 
+.. Note:: On utilisera de préférence un microswitch cablé dans l'alignement.
+
+.. image :: ./IMG/endstop_droit.jpg
+       :align: center
+
+
 |
 
 Préparation de l’électro-aimant
@@ -1181,6 +1187,12 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V6.108.jpg
        :align: center
+
+.. NOTE:: On utilisera de preference un endstop avec le cable coudé.
+
+.. image :: ./IMG/endstop_coude.jpg
+       :align: center
+
 
 |
 
