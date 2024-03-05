@@ -1136,7 +1136,10 @@ Matériel :
   * 2 vis M2.5-14
   * 2 écrous M2.5 NYL
 
-.. NOTE:: L'interrupteur fin de course à lamelle devra être câblé avant d'être monté sur son support (non représenté).
+.. NOTE:: On utilisera de preference un endstop avec le cable coudé.
+
+.. image :: ./IMG/endstop_coude.jpg
+       :align: center
 
 * Tarauder le support de la vis de reglage avec un taraud M3
 
@@ -1187,12 +1190,6 @@ Matériel :
 
 .. image :: ./IMG/BrailleRAP-V6.108.jpg
        :align: center
-
-.. NOTE:: On utilisera de preference un endstop avec le cable coudé.
-
-.. image :: ./IMG/endstop_coude.jpg
-       :align: center
-
 
 |
 
