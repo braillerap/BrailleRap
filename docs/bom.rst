@@ -3,7 +3,16 @@ Liste du matériel
 
 Découpe laser
 -------------
+
+Pour BrailleRAP
+<<<<<<<<<<<<<<<
 2 planches de contreplaqué 5mm en 600mm x 400mm.
+
+Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/BrailleRap/tree/master/lasercut
+
+Pour BrailleRAP XL
+<<<<<<<<<<<<<<<<<<
+2 planches de contreplaqué 5mm en 900mm x 400mm.
 
 Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/BrailleRap/tree/master/lasercut
 
