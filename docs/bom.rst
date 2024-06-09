@@ -64,9 +64,7 @@ Pièces communes BrailleRAP XL / BrailleRAP
 === =========================================
 Qty Type
 === =========================================
-
 6   RJ4JP-01-08 palier linéaire Polymer  
-
 
 3   GT2 poulie 20 dents pour axe 8mm    
 2   GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)
