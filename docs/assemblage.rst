@@ -137,20 +137,20 @@ Préparation Moteur X
 --------------------
 Matériel :
 
-    * **Pièce(s) imprimée(s) en 3D** :  XMOTOR_support2 ou XMOTOR_support2_1 
+    * **Pièce(s) imprimée(s) en 3D** :  XMOTOR_support3 ou XMOTOR_support3_1 
     * 1 moteur Nema 17
     * 4 vis M3-8 
     * 2 écrous NYL M3
     * 2 vis M3-14
     
-* Insérer 2 écrous NYL M3 dans la piece imprimée **XMOTOR_support2_1**.
+* Insérer 2 écrous NYL M3 dans la piece imprimée **XMOTOR_support3_1**.
 
 .. image :: ./IMG/xmotor_support_assembly_v2_1.png
        :align: center
 
 |
 
-* Fixer les deux pièces imprimée **XMOTOR_support2_1** et **XMOTOR_support2** avec deux vis M3-14.
+* Fixer les deux pièces imprimée **XMOTOR_support3_1** et **XMOTOR_support3** avec deux vis M3-14.
 
 .. image :: ./IMG/xmotor_support_assembly_v1_2.png
        :align: center
@@ -226,9 +226,9 @@ Matériel :
 Préparation des supports d’axes
 --------------------------------
 
-  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left
-  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left
-  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right
+  * **Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left2
+  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left2
+  * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right2
   * 1 foret de 8mm
   * 8 écrous M3
   * 8 vis M3-12 sans tête
@@ -354,7 +354,7 @@ Matériel :
 
   * Electro-aimant assemblé dans son support
   * **Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley
-  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide
+  * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide_fitxxx
   * 3 paliers lineaires IGUS
   * 6 colliers de serrage 2.5 x 160
   * 4 écrous M3 NYL
@@ -362,6 +362,7 @@ Matériel :
   * 2 vis M3-20
 
 
+.. NOTE:: Sélectionner la meilleure pièce ELECTRO_MAGNET_guide_fit_5.8 / ELECTRO_MAGNET_guide_fit_5.9 / ELECTRO_MAGNET_guide_fit_6.0. l'entretoise de l'éléctroaimant doit circuler librement avec le minimum de jeu mécanique.
 
 * Introduire les 3 IGUS sur le support BOTTOM_trolley. Les fixer avec des colliers de serrage
 
@@ -604,14 +605,14 @@ Fixation des supports GAUCHES des axes
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
-  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left2 préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left2 préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
 
   * 4 vis M3-14
   * 4 rondelles M3 larges
   * 4 écrous NYL M3
 
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
+* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left2 et TOP_AXIS_left2 à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
 
 .. image :: ./IMG/BrailleRAP-V5.12.1.jpg
        :align: center
@@ -627,13 +628,13 @@ Matériel :
 
 
 
-  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right
-  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
+  * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right2
+  * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right2 préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
   * 4 vis M3-14
   * 4 rondelles M3 larges
   * 4 écrous NYL M3
 
-* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right (attention à la position du repère) et TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
+* Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right2 (attention à la position du repère) et TOP_AXIS_right2 à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place.
 
 .. image :: ./IMG/BrailleRAP-V5.12.3.jpg
        :align: center
@@ -1126,7 +1127,7 @@ Montage du fin de course Y 
 
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : ENDSTOP_Y_support, ENDSTOP_Y_lever
+  * **Pièce(s) imprimée(s) en 3D** : ENDSTOP_Y_support, ENDSTOP_Y_lever_weight
   * 2 vis M3-14
   * 1 vis M3-12
   * 1 vis M3-20
@@ -1175,12 +1176,20 @@ Matériel :
 
 |
 
-* Positionner la vis de reglage M3-12 sur le levier **ENDSTOP_Y_LEVER**
+* Positionner la vis de reglage M3-12 sur le levier **ENDSTOP_Y_LEVER_weight**
 
 .. image :: ./IMG/BrailleRAP-V6.106.6.png
        :align: center
 
 |
+
+* Ajouter un écrou M3-NYL et une vis M3-8 sur le levier **ENDSTOP_Y_LEVER_weight**
+
+.. image :: ./IMG/BrailleRAP-V6.106.7.png
+       :align: center
+
+|
+
 
 * Assembler l'ensemble interrupteur fin de course et le **ENDSTOP_Y_support** sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL.
 
@@ -1216,7 +1225,7 @@ Matériel :
 
 
 Fixation de la plaque pour l'embase de l'alimentation
--------------------------------------------------------
+-----------------------------------------------------
 Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : POWER_plate
