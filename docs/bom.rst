@@ -85,15 +85,30 @@ Qty Type
 ...
 === =========================================
 
+
+Carte controleur
+----------------
+En fonction de vos souhaits vous pouvez utiliser au choix :
+
+- Une carte MKS GEN 1.4 (Mega2560) et 2 drivers DRV8825 https://github.com/makerbase-mks
+- Une carte MKS GEN-L (Mega2560) et 2 drivers DRV8825 https://github.com/makerbase-mks
+- Une carte MKS TinyBee (ESP32) et 2 drivers TMC2209 https://github.com/makerbase-mks
+
+D'autres configuration sont possibles, mais vous devrez effectuer la configuration du firmware vous même
+
+Carte de contrôleur
+--------------------
+
+Pour BrailleRAP
+
+
 Electronique
 ------------
 
 === ===========================================================================================
 Qty Type
 === ===========================================================================================
-1   MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 https://github.com/makerbase-mks
-2   drivers DRV8825 avec radiateur
-2   Nema 17 40 N/cm 40mm avec câble (17HS4401)
+2   Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401)
 1   Electro-aimant *tau-826b* 12V 2A
 1   1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)
 1   Embase Alimentation jack 2.5
