@@ -96,11 +96,6 @@ En fonction de vos souhaits vous pouvez utiliser au choix :
 
 D'autres configuration sont possibles, mais vous devrez effectuer la configuration du firmware vous même
 
-Carte de contrôleur
---------------------
-
-Pour BrailleRAP
-
 
 Electronique
 ------------
