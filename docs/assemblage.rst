@@ -53,6 +53,21 @@ Remarques sur les écrous
 
 |
 
+Remarques BrailleRAP / BrailleRAP XL
+------------------------------------
+Il existe désormais 2 modèles de BrailleRAP: BrailleRAP et BrailleRAP XL.
+
+BrailleRAP est la version historique de la machine et peut utiliser des feuilles jusqu'au format **A4**.
+
+BrailleRAP XL est la version agrandie et peut utiliser des feuilles jusqu'au format **A3**.
+
+Le montage des 2 modèles est très semblable, les principales différences sont :
+
+    * Le montage du plateau papier.
+    * Le nombre de rouleaux presse papier.
+    * les longeurs de barres lineaires et les longueurs de courroie.
+
+
 Collage de la caisse en bois
 ----------------------------
 Matériel:
@@ -85,7 +100,7 @@ Collage des bloqueurs de trappe
 -------------------------------
 Matériel:
 
-    * Caisse bois assemblée.
+    * Chassis assemblée.
     * 4 disques en bois récupérés de la découpe laser du couvercle.
     * Colle à bois.
 
