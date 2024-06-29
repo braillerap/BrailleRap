@@ -1059,9 +1059,15 @@ Matériel :
 
 Montage du chariot haut (étape 2)
 ---------------------------------
-Matériel :
+Matériel **BrailleRAP**:
 
   * 2 barres lisses Ø 8mm, longueur : 330mm
+
+Matériel **BrailleRAP XL**:
+
+  * 2 barres lisses Ø 8mm, longueur : 470mm
+
+
 
 * Enfiler les barres à mi-course par l’extérieur de la caisse.
 
@@ -1102,10 +1108,18 @@ Matériel :
 
 Pose de la courroie du chariot haut
 --------------------------------------
-Matériel :
+
+
+Matériel **BrailleRAP**:
 
   * 1 courroie GT2 longueur ± 620mm
   * 2 colliers
+
+Matériel **BrailleRAP XL**:
+
+  * 1 courroie GT2 longueur ± 620mm
+  * 2 colliers
+
 
 * A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur.
 
@@ -1132,13 +1146,19 @@ Matériel :
 
 Montage des presse-papiers (étape 2) :
 ----------------------------------------
-Matériel :
+Matériel **BrailleRAP**:
 
   * 3 CLIPBOARD montés à l'étape 1
   * 6 vis M3-14
   * 6 rondelles M3 moyennes
   * 6 écrous M3 NYL
 
+Matériel **BrailleRAP XL**:
+  
+  * 4 CLIPBOARD montés à l'étape 1
+  * 8 vis M3-14
+  * 8 rondelles M3 moyennes
+  * 8 écrous M3 NYL
 
 .. NOTE:: Les trous oblongs dans les pièces imprimées permettent de régler la pression des CLIPBOARD sur le papier.
 
@@ -1162,10 +1182,11 @@ Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : ENDSTOP_Y_support, ENDSTOP_Y_lever_weight
   * 2 vis M3-14
-  * 1 vis M3-12
+  * 2 vis M3-12
   * 1 vis M3-20
   * 2 rondelles M3 moyennes
   * 3 écrous M3 NYL
+  * 2 écrous M3 
   * 1 interrupteur fin de course à lamelle
   * 2 vis M2.5-14
   * 2 écrous M2.5 NYL
@@ -1216,7 +1237,7 @@ Matériel :
 
 |
 
-* Ajouter un écrou M3-NYL et une vis M3-8 sur le levier **ENDSTOP_Y_LEVER_weight**
+* Ajouter un écrou M3-NYL, 2 écrou m3 et une vis M3-12 sur le levier **ENDSTOP_Y_LEVER_weight**
 
 .. image :: ./IMG/BrailleRAP-V6.106.7.png
        :align: center
