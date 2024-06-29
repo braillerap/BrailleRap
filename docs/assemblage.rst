@@ -963,8 +963,11 @@ Montage des guide-papiers sur la plaque support
 -----------------------------------------------
 Matériel :
 
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left
-  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left          pour BrailleRAP
+  * **Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right         pour BrailleRAP
+  * **Pièce(s) imprimée(s) en 3D** : paper_guide_left_XL       pour BrailleRAP XL
+  * **Pièce(s) imprimée(s) en 3D** : paper_guide_right_XL      pour BrailleRAP XL
+  
   * **PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)
   * 4 vis M3-16
   * 4 vis M3-14
@@ -973,6 +976,36 @@ Matériel :
 
 .. NOTE:: Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois.
 
+.. NOTE:: C'est ici que ce trouve la principale difference entre une BrailleRAP et une BrailleRAP XL.
+
+BrailleRAP utilise les pièces PAPER_GUIDE_left et PAPER_GUIDE_right.
+
+.. image :: ./IMG/paper_guide_left.png
+       :align: center
+
+.. image :: ./IMG/paper_guide_right.png
+       :align: center
+
+|
+
+BrailleRAP XL utilise les pièces paper_guide_left_XL et paper_guide_right_XL.
+
+.. image :: ./IMG/paper_guide_left_A3_v8.png
+       :align: center
+
+.. image :: ./IMG/paper_guide_right_A3_v8.png
+       :align: center
+
+|
+
+* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL.
+
+.. image :: ./IMG/paper_support_assembly_screw_v1.png
+       :align: center
+
+|
+
+* Partie gauche.
 
 * Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL.
 
@@ -1007,7 +1040,7 @@ Collage de la plaque repose papier
 Matériel :
 
   * PAPER_support (contre-plaqué de 5mm découpé au laser).
-  * 3 Rouleaux papier préparés (avec joint et vis)
+  * 3 Rouleaux papier préparés (avec joint et vis) (4 pour BrailleRAP XL)
   
 .. NOTE:: Coller la plaque uniquement si vous êtes sure du montage qui est en dessous. Si vous n'êtes pas sure, vous pouvez vous contenter de positionner la plaque support, vous la collerez à la fin quand l'embosseuse marchera.
 
