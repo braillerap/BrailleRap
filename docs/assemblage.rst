@@ -441,7 +441,7 @@ Matériel :
 
   * 1 vis sans tête M3-30
   * 1 écrou borgne M3
-
+  * 1 écrou M3
   * 2 vis M3-12
   * 2 rondelles M3 moyennes
   * 2 vis M3-20
@@ -457,6 +457,9 @@ Matériel :
        :align: center
 
 |
+
+* Placer un contre écrou contre l'écrou borgne
+
 
 * Tarauder la FEMALE_shape au 2/3 en partant du haut.
 
@@ -502,7 +505,7 @@ Matériel :
        :align: center
 
 
-* Monter les vis M3-20 et les écrous M3.
+* Monter les vis M3-20 et les écrous M3-NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.86.png
        :align: center
@@ -577,12 +580,12 @@ Préparation de l’axe vertical (étape 1)
 
 Matériel :
 
-  * **Pièces** : ensemble XMOTOR_support2, XMOTOR_support2_1 et Moteur
-  * 3 vis M3-16
-  * 3 écrous M3 NYL
-  * 3 rondelles M3 grandes
+  * **Pièces** : ensemble XMOTOR_support3, XMOTOR_support3_1 et Moteur
+  * 2 vis M3-20
+  * 2 écrous M3 NYL
+  * 2 rondelles M3 larges
 
-* Introduire les 3 vis et les 3 rondelles par l'exterieur. Et attacher le support avec 3 ecrou NYL sans serrer. 
+* Introduire les 2 vis et les 2 rondelles par l'exterieur. Et attacher le support avec 3 ecrou NYL sans serrer. 
 
 .. Note:: Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical.
 
@@ -705,9 +708,13 @@ Matériel :
 Montage du chariot bas (étape 2)
 ---------------------------------
 
-Matériel :
+Matériel **BrailleRAP**:
 
   * 2 barres lisses Ø8mm, longueur : 330mm
+
+Matériel **BrailleRAP XL**:
+
+  * 2 barres lisses Ø8mm, longueur : 470mm
 
 .. NOTE:: Nous n'avons pas représenté la façade pour des raisons de lisibilité.
 
@@ -895,15 +902,24 @@ Matériel :
 Montage de l’axe Y (étape 1)
 -----------------------------
 
-Matériel :
+Matériel **BrailleRAP**:
   * 2 KFL8
   * 4 vis M5-18
   * 4 écrous M5 NYL
   * 4 rondelles M5
   * 1 poulie GT2 20 dents bore 8mm
   * 1 barre lisse Ø 8mm, longueur : 364mm
-  * 1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )
+  * 1 courroie GT2 fermée 200 mm 
 
+Matériel **BrailleRAP XL**:
+  * 2 KFL8
+  * 4 vis M5-18
+  * 4 écrous M5 NYL
+  * 4 rondelles M5
+  * 1 poulie GT2 20 dents bore 8mm
+  * 1 barre lisse Ø 8mm, longueur : 505mm
+  * 1 courroie GT2 fermée 200 mm 
+  
 * Fixer les KFL8 à gauche sur la caisse avec 2 vis M5-18, 2 rondelles M5 et 2 écrous M5 NYL.
 
 .. image :: ./IMG/BrailleRAP-V5.67.jpg

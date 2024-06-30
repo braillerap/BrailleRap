@@ -9,13 +9,16 @@ Pour BrailleRAP
 2 planches de contreplaqué 5mm en 600mm x 400mm.
 
 Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/BrailleRap/tree/master/lasercut
+   * lasercut/Braillerap_v6-5-1_600x400-planche1.svg
+   * lasercut/Braillerap_v6-5-1-600x400-planche2.svg
 
 Pour BrailleRAP XL
 <<<<<<<<<<<<<<<<<<
 2 planches de contreplaqué 5mm en 900mm x 400mm.
 
 Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/BrailleRap/tree/master/lasercut
-
+   * lasercut/.svg
+   * lasercut/.svg
 
 Pièces imprimées
 ----------------
@@ -40,7 +43,7 @@ Qty Type
 2   630 mm de courroie GT2
 
 3   Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur (15.1 x 20.5 x 2.7)
-4   Ressorts tendeurs de courroie GT2
+3   Ressorts tendeurs de courroie GT2
 
 ...
 === =========================================
