@@ -2178,7 +2178,7 @@ msgstr ""
 
 #: ../../assemblage.rst:1662
 msgid "Fermeture de la porte arriere"
-msgstr ""
+msgstr "Closing the rear panel"
 
 #: ../../assemblage.rst:1664
 #, fuzzy
@@ -2194,8 +2194,8 @@ msgid ""
 "Attacher les **DOORLOCKER** sur la porte arriere. Laisser du jeu pour que"
 " les pieces **DOORLOCKER** puissent coulisser."
 msgstr ""
-"Fix  **DOORLOCKER** parts on the rear panel. Laisser du jeu pour que"
-" les pieces **DOORLOCKER** puissent coulisser."
+"Fix  **DOORLOCKER** parts on the rear panel. "
+" "
 
 #: ../../assemblage.rst:1678
 msgid "Positionner la porte assemblée sur BrailleRAP."
@@ -2211,7 +2211,7 @@ msgstr ""
 
 #: ../../assemblage.rst:1680
 msgid "Serrer (doucement) les vis de fixation."
-msgstr "Tighten (gently) the screw"
+msgstr "Tighten (gently) the screws"
 
 #: ../../assemblage.rst:1685
 msgid "Réglage fin des marges X et Y"
@@ -2224,46 +2224,51 @@ msgid ""
 "particulièrement utile pour BrailleRAP XL. Les fins de courses sont en "
 "dehors du papier, par consequent l'offset doit toujours être négatif."
 msgstr ""
+"By using a software like pronterface, you can tune the "
+"distance between the endstops and the 0 position  on the paper sheet. This "
+"is more usefull on BrailleRAP XL."
 
 #: ../../assemblage.rst:1690
 msgid ""
 "la reference de la commande est disponible ici : "
 "'<https://marlinfw.org/docs/gcode/M206.html>'_"
 msgstr ""
+"the command reference is available here : "
+"'<https://marlinfw.org/docs/gcode/M206.html>'_"
 
 #: ../../assemblage.rst:1692
 msgid "pour connaitre les valeurs des offsets:"
-msgstr ""
+msgstr "To display the current offset values :"
 
 #: ../../assemblage.rst:1694
 msgid "M206"
-msgstr ""
+msgstr "M206"
 
 #: ../../assemblage.rst:1696
 msgid "pour régler l'offset X :"
-msgstr ""
+msgstr "tuning of X offset :"
 
 #: ../../assemblage.rst:1698
 msgid "M206 X-xx.xx"
-msgstr ""
+msgstr "M206 X-xx.xx"
 
 #: ../../assemblage.rst:1700
 msgid "pour régler l'offset Y :"
-msgstr ""
+msgstr "tuning of Y offset:"
 
 #: ../../assemblage.rst:1702
 msgid "M206 Y-xx.xx"
-msgstr ""
+msgstr "M206 Y-xx.xx"
 
 #: ../../assemblage.rst:1704
 msgid "Pour sauvegarder ces valeurs en EEPROM utiliser la commande : M500"
-msgstr ""
+msgstr "To save these values in EEPROM use the command : M500"
 
 #~ msgid "8 vis M3-10"
 #~ msgstr "8 screws M3-10"
 
 #~ msgid "Insérer 2 écrous NYL M3 dans la piece imprimée **YMOTOR_support2_1**."
-#~ msgstr ""
+#~ msgstr "Put 2  NYL M3 nuts in the 3d printed part **YMOTOR_support2_1**."
 
 #~ msgid ""
 #~ "Fixer les deux pièces imprimée "
