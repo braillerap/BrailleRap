@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: BrailleRap 6.5.0\n"
+"Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-15 21:43+0000\n"
+"POT-Creation-Date: 2024-07-03 21:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,14 +53,14 @@ msgid "Clés à tube 5.5 et 8."
 msgstr ""
 
 #: ../../assemblage.rst:14
-#: ../../assemblage.rst:65
-#: ../../assemblage.rst:90
-#: ../../assemblage.rst:104
+#: ../../assemblage.rst:87
+#: ../../assemblage.rst:112
+#: ../../assemblage.rst:126
 msgid "Colle à bois."
 msgstr ""
 
 #: ../../assemblage.rst:15
-#: ../../assemblage.rst:66
+#: ../../assemblage.rst:88
 msgid "Scotch de peintre."
 msgstr ""
 
@@ -93,1378 +93,1692 @@ msgid "**Ecrou M3 NYL** ou **ecrou M5 NYL** désignent des ecrous **frein** de d
 msgstr ""
 
 #: ../../assemblage.rst:57
-msgid "Collage de la caisse en bois"
+msgid "Remarques BrailleRAP / BrailleRAP XL"
 msgstr ""
 
 #: ../../assemblage.rst:58
-#: ../../assemblage.rst:86
-#: ../../assemblage.rst:105
-msgid "Matériel:"
+msgid "Il existe désormais 2 modèles de BrailleRAP: BrailleRAP et BrailleRAP XL."
 msgstr ""
 
 #: ../../assemblage.rst:60
-msgid "FACE (contre-plaqué de 5mm découpé au laser)."
-msgstr ""
-
-#: ../../assemblage.rst:61
-msgid "BACK (contre-plaqué de 5mm découpé au laser)."
+msgid "BrailleRAP est la version historique de la machine et peut utiliser des feuilles jusqu'au format **A4**."
 msgstr ""
 
 #: ../../assemblage.rst:62
-msgid "BOTTOM (contre-plaqué de 5mm découpé au laser)."
+msgid "Braillerap_v6-5-1_600x400-planche1.svg"
 msgstr ""
 
 #: ../../assemblage.rst:63
-msgid "LEFT_SIDE (contre-plaqué de 5mm découpé au laser)."
+msgid "Braillerap_v6-5-1_600x400-planche2.svg"
 msgstr ""
 
-#: ../../assemblage.rst:64
-msgid "RIGHT_SIDE (contre-plaqué de 5mm découpé au laser)."
+#: ../../assemblage.rst:65
+msgid "BrailleRAP XL est la version agrandie et peut utiliser des feuilles jusqu'au format **A3**."
+msgstr ""
+
+#: ../../assemblage.rst:67
+msgid "brapxl-v6-6-planche1_900x400.svg"
 msgstr ""
 
 #: ../../assemblage.rst:68
-msgid "Préparer les 5 éléments: FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
+msgid "brapxl-v6-6-planche2_900x400.svg"
 msgstr ""
 
-#: ../../assemblage.rst:70
-msgid "bien repérer la position des cotés (droit et gauche) et le fond. Utiliser les percages pour orienter les pièces comme sur la figure"
+#: ../../assemblage.rst:71
+msgid "Le montage des 2 modèles est très semblable, les principales différences sont :"
 msgstr ""
 
-#: ../../assemblage.rst:77
-msgid "Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage préconisé par le fabricant."
+#: ../../assemblage.rst:73
+msgid "Le montage du plateau papier."
+msgstr ""
+
+#: ../../assemblage.rst:74
+msgid "Le nombre de rouleaux presse papier."
+msgstr ""
+
+#: ../../assemblage.rst:75
+msgid "les longeurs de barres lineaires et les longueurs de courroie."
+msgstr ""
+
+#: ../../assemblage.rst:79
+msgid "Collage de la caisse en bois"
+msgstr ""
+
+#: ../../assemblage.rst:80
+#: ../../assemblage.rst:108
+#: ../../assemblage.rst:127
+msgid "Matériel:"
+msgstr ""
+
+#: ../../assemblage.rst:82
+msgid "FACE (contre-plaqué de 5mm découpé au laser)."
+msgstr ""
+
+#: ../../assemblage.rst:83
+msgid "BACK (contre-plaqué de 5mm découpé au laser)."
+msgstr ""
+
+#: ../../assemblage.rst:84
+msgid "BOTTOM (contre-plaqué de 5mm découpé au laser)."
 msgstr ""
 
 #: ../../assemblage.rst:85
-msgid "Collage des bloqueurs de trappe"
+msgid "LEFT_SIDE (contre-plaqué de 5mm découpé au laser)."
 msgstr ""
 
-#: ../../assemblage.rst:88
-msgid "Caisse bois assemblée."
+#: ../../assemblage.rst:86
+msgid "RIGHT_SIDE (contre-plaqué de 5mm découpé au laser)."
 msgstr ""
 
-#: ../../assemblage.rst:89
-msgid "4 disques en bois récupérés de la découpe laser du couvercle."
+#: ../../assemblage.rst:90
+msgid "Préparer les 5 éléments: FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
 msgstr ""
 
 #: ../../assemblage.rst:92
+msgid "bien repérer la position des cotés (droit et gauche) et le fond. Utiliser les percages pour orienter les pièces comme sur la figure"
+msgstr ""
+
+#: ../../assemblage.rst:99
+msgid "Encoller les encoches, assembler les 5 parties et les maintenir en place avec du scotch de peintre le temps du séchage préconisé par le fabricant."
+msgstr ""
+
+#: ../../assemblage.rst:107
+msgid "Collage des bloqueurs de trappe"
+msgstr ""
+
+#: ../../assemblage.rst:110
+msgid "Chassis assemblée."
+msgstr ""
+
+#: ../../assemblage.rst:111
+msgid "4 disques en bois récupérés de la découpe laser du couvercle."
+msgstr ""
+
+#: ../../assemblage.rst:114
 msgid "Coller les 4 disques de bois sur la façade arrière à l'intérieur de la caisse. Ces disques maintiendront la trappe d'accès à l'intérieur de la machine."
 msgstr ""
 
-#: ../../assemblage.rst:100
+#: ../../assemblage.rst:122
 msgid "Collage du plateau papier"
 msgstr ""
 
-#: ../../assemblage.rst:102
+#: ../../assemblage.rst:124
 msgid "Support papier supérieur."
 msgstr ""
 
-#: ../../assemblage.rst:103
+#: ../../assemblage.rst:125
 msgid "Support papier inférieur."
 msgstr ""
 
-#: ../../assemblage.rst:105
+#: ../../assemblage.rst:127
 msgid "Pinces de serrage."
 msgstr ""
 
-#: ../../assemblage.rst:112
+#: ../../assemblage.rst:134
 msgid "Coller le support inférieur sous le support supérieur."
 msgstr ""
 
-#: ../../assemblage.rst:119
+#: ../../assemblage.rst:141
 msgid "les 2 pièces doivent êtrent parfaitement alignées. Placer des vis dans les percages pour bien aligner les pièces. Il ne doit pas y avoir d'espace entre les deux pièces (ou la feuille de papier pourrait venir se coincer). Bien serrer les pièces l'une contre l'autre avec des pinces de serrages"
 msgstr ""
 
-#: ../../assemblage.rst:122
+#: ../../assemblage.rst:144
 msgid "Préparation du pointeau Braille"
 msgstr ""
 
-#: ../../assemblage.rst:124
-#: ../../assemblage.rst:138
-#: ../../assemblage.rst:172
-#: ../../assemblage.rst:267
-#: ../../assemblage.rst:299
-#: ../../assemblage.rst:347
-#: ../../assemblage.rst:414
-#: ../../assemblage.rst:556
-#: ../../assemblage.rst:578
-#: ../../assemblage.rst:599
-#: ../../assemblage.rst:620
-#: ../../assemblage.rst:641
-#: ../../assemblage.rst:669
-#: ../../assemblage.rst:686
-#: ../../assemblage.rst:722
-#: ../../assemblage.rst:757
-#: ../../assemblage.rst:799
-#: ../../assemblage.rst:838
-#: ../../assemblage.rst:883
-#: ../../assemblage.rst:957
-#: ../../assemblage.rst:1000
-#: ../../assemblage.rst:1022
-#: ../../assemblage.rst:1065
-#: ../../assemblage.rst:1095
-#: ../../assemblage.rst:1121
-#: ../../assemblage.rst:1189
-#: ../../assemblage.rst:1211
-#: ../../assemblage.rst:1224
-#: ../../assemblage.rst:1255
+#: ../../assemblage.rst:146
+#: ../../assemblage.rst:160
+#: ../../assemblage.rst:194
+#: ../../assemblage.rst:289
+#: ../../assemblage.rst:327
+#: ../../assemblage.rst:375
+#: ../../assemblage.rst:443
+#: ../../assemblage.rst:588
+#: ../../assemblage.rst:610
+#: ../../assemblage.rst:631
+#: ../../assemblage.rst:652
+#: ../../assemblage.rst:673
+#: ../../assemblage.rst:701
+#: ../../assemblage.rst:758
+#: ../../assemblage.rst:793
+#: ../../assemblage.rst:835
+#: ../../assemblage.rst:874
+#: ../../assemblage.rst:1002
+#: ../../assemblage.rst:1078
+#: ../../assemblage.rst:1219
+#: ../../assemblage.rst:1299
+#: ../../assemblage.rst:1321
+#: ../../assemblage.rst:1352
+#: ../../assemblage.rst:1383
+#: ../../assemblage.rst:1473
+#: ../../assemblage.rst:1504
 msgid "Matériel :"
 msgstr ""
 
-#: ../../assemblage.rst:126
+#: ../../assemblage.rst:148
 msgid "1 Pierre à aiguisé"
 msgstr ""
 
-#: ../../assemblage.rst:127
+#: ../../assemblage.rst:149
 msgid "1 vis sans tête M3-16 bout téton"
 msgstr ""
 
-#: ../../assemblage.rst:129
+#: ../../assemblage.rst:151
 msgid "Limer l'arête du téton afin d’obtenir un profil approchant celui illustré."
 msgstr ""
 
-#: ../../assemblage.rst:137
+#: ../../assemblage.rst:159
 msgid "Préparation Moteur X"
 msgstr ""
 
-#: ../../assemblage.rst:140
-msgid "**Pièce(s) imprimée(s) en 3D** :  XMOTOR_support2 ou XMOTOR_support2_1"
+#: ../../assemblage.rst:162
+msgid "**Pièce(s) imprimée(s) en 3D** :  XMOTOR_support3 ou XMOTOR_support3_1"
 msgstr ""
 
-#: ../../assemblage.rst:141
-#: ../../assemblage.rst:175
+#: ../../assemblage.rst:163
+#: ../../assemblage.rst:197
 msgid "1 moteur Nema 17"
 msgstr ""
 
-#: ../../assemblage.rst:142
-#: ../../assemblage.rst:177
+#: ../../assemblage.rst:164
+#: ../../assemblage.rst:199
 msgid "4 vis M3-8"
 msgstr ""
 
-#: ../../assemblage.rst:143
-#: ../../assemblage.rst:646
-#: ../../assemblage.rst:673
+#: ../../assemblage.rst:165
+#: ../../assemblage.rst:678
+#: ../../assemblage.rst:705
 msgid "2 écrous NYL M3"
 msgstr ""
 
-#: ../../assemblage.rst:144
-#: ../../assemblage.rst:1124
-#: ../../assemblage.rst:1214
+#: ../../assemblage.rst:166
+#: ../../assemblage.rst:1222
+#: ../../assemblage.rst:1324
 msgid "2 vis M3-14"
 msgstr ""
 
-#: ../../assemblage.rst:146
-msgid "Insérer 2 écrous NYL M3 dans la piece imprimée **XMOTOR_support2_1**."
+#: ../../assemblage.rst:168
+msgid "Insérer 2 écrous NYL M3 dans la piece imprimée **XMOTOR_support3_1**."
 msgstr ""
 
-#: ../../assemblage.rst:153
-msgid "Fixer les deux pièces imprimée **XMOTOR_support2_1** et **XMOTOR_support2** avec deux vis M3-14."
+#: ../../assemblage.rst:175
+msgid "Fixer les deux pièces imprimée **XMOTOR_support3_1** et **XMOTOR_support3** avec deux vis M3-14."
 msgstr ""
 
-#: ../../assemblage.rst:160
+#: ../../assemblage.rst:182
 msgid "Fixer le moteur dans son support avec 4 vis M3-8. Ne pas serrer les vis, le moteur doit conserver un peu de jeu, il sera fixé ultérieurement."
 msgstr ""
 
-#: ../../assemblage.rst:167
+#: ../../assemblage.rst:189
 msgid "Attention à l'orientation du connecteur du moteur !"
 msgstr ""
 
-#: ../../assemblage.rst:170
+#: ../../assemblage.rst:192
 msgid "Préparation Moteur Y"
 msgstr ""
 
-#: ../../assemblage.rst:174
+#: ../../assemblage.rst:196
 msgid "**Pièce(s) imprimée(s) en 3D** :  YMOTOR_support2_200_1, YMOTOR_support2_200_2, YMOTOR_support2_200"
 msgstr ""
 
-#: ../../assemblage.rst:176
+#: ../../assemblage.rst:198
 msgid "1 poulie GT2 20 dents bore 5mm"
 msgstr ""
 
-#: ../../assemblage.rst:178
-#: ../../assemblage.rst:423
+#: ../../assemblage.rst:200
+#: ../../assemblage.rst:452
+#: ../../assemblage.rst:1223
 msgid "2 vis M3-12"
 msgstr ""
 
-#: ../../assemblage.rst:181
+#: ../../assemblage.rst:203
 msgid "Serrer la poulie sur l’arbre du moteur en s’assurant qu’au moins une des deux vis soit en face du méplat de l’axe du moteur et que les dents de la poulie soient orientées vers le moteur."
 msgstr ""
 
-#: ../../assemblage.rst:188
+#: ../../assemblage.rst:210
 msgid "Tarauder les deux cotés de la pièce centrale du support (**YMOTOR_support2_200_2**)"
 msgstr ""
 
-#: ../../assemblage.rst:197
+#: ../../assemblage.rst:219
 msgid "Fixer les pieces **YMOTOR_support2_200_2** et **YMOTOR_support2_200_1** avec une Vis M3-12."
 msgstr ""
 
-#: ../../assemblage.rst:204
+#: ../../assemblage.rst:226
 msgid "Fixer la piece **YMOTOR_support2_200** sur l'ensemble précédent avec une vis M3-12."
 msgstr ""
 
-#: ../../assemblage.rst:211
+#: ../../assemblage.rst:233
 msgid "Monter le moteur sur son support avec les 4 vis M3-8 en s'assurant que le connecteur du moteur soit dans la position correspondante à l'illustration."
 msgstr ""
 
-#: ../../assemblage.rst:219
+#: ../../assemblage.rst:241
 msgid "Introduire les écrous 4 NYL M3 dans le support moteur. Les maintenir en place avec un petit bout de scotch de peintre."
 msgstr ""
 
-#: ../../assemblage.rst:227
+#: ../../assemblage.rst:249
 msgid "Préparation des supports d’axes"
 msgstr ""
 
-#: ../../assemblage.rst:229
-msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left"
-msgstr ""
-
-#: ../../assemblage.rst:230
-msgid "**Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left"
-msgstr ""
-
-#: ../../assemblage.rst:231
-msgid "**Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right"
-msgstr ""
-
-#: ../../assemblage.rst:232
-msgid "1 foret de 8mm"
-msgstr ""
-
-#: ../../assemblage.rst:233
-msgid "8 écrous M3"
-msgstr ""
-
-#: ../../assemblage.rst:234
-msgid "8 vis M3-12 sans tête"
-msgstr ""
-
-#: ../../assemblage.rst:236
-msgid "Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8."
-msgstr ""
-
-#: ../../assemblage.rst:238
-msgid "Les 3 pièces à assembler sont les suivantes"
-msgstr ""
-
-#: ../../assemblage.rst:245
-msgid "Pour chacune des 3 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis M3-12."
+#: ../../assemblage.rst:251
+msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_AXIS_left2"
 msgstr ""
 
 #: ../../assemblage.rst:252
-msgid "L’extrémité de la vis ne doit pas dépasser dans le passage des barres de Ø 8mm."
+msgid "**Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left2"
 msgstr ""
 
-#: ../../assemblage.rst:265
-msgid "Préparation de l'interrupteur de fin de course X"
+#: ../../assemblage.rst:253
+msgid "**Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right2"
 msgstr ""
 
-#: ../../assemblage.rst:269
-msgid "**Pièce(s) imprimée(s) en 3D** : SWITCH_X_support"
+#: ../../assemblage.rst:254
+msgid "1 foret de 8mm"
 msgstr ""
 
-#: ../../assemblage.rst:270
-msgid "1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)"
+#: ../../assemblage.rst:255
+msgid "8 écrous M3"
 msgstr ""
 
-#: ../../assemblage.rst:271
-msgid "1 vis sans tête M3-12"
+#: ../../assemblage.rst:256
+msgid "8 vis M3-12 sans tête"
 msgstr ""
 
-#: ../../assemblage.rst:272
-#: ../../assemblage.rst:304
-msgid "1 écrou M3"
+#: ../../assemblage.rst:258
+msgid "Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8."
 msgstr ""
 
-#: ../../assemblage.rst:273
-#: ../../assemblage.rst:1130
-msgid "2 vis M2.5-14"
+#: ../../assemblage.rst:260
+msgid "Les 3 pièces à assembler sont les suivantes"
+msgstr ""
+
+#: ../../assemblage.rst:267
+msgid "Pour chacune des 3 pièces, introduire un écrou M3 dans les trous rectangulaires. Visser les vis M3-12."
 msgstr ""
 
 #: ../../assemblage.rst:274
+msgid "L’extrémité de la vis ne doit pas dépasser dans le passage des barres de Ø 8mm."
+msgstr ""
+
+#: ../../assemblage.rst:287
+msgid "Préparation de l'interrupteur de fin de course X"
+msgstr ""
+
+#: ../../assemblage.rst:291
+msgid "**Pièce(s) imprimée(s) en 3D** : SWITCH_X_support"
+msgstr ""
+
+#: ../../assemblage.rst:292
+msgid "1 interrupteur fin de course câblé (cf câblage des interrupteurs fin de course)"
+msgstr ""
+
+#: ../../assemblage.rst:293
+msgid "1 vis sans tête M3-12"
+msgstr ""
+
+#: ../../assemblage.rst:294
+#: ../../assemblage.rst:332
+#: ../../assemblage.rst:451
+msgid "1 écrou M3"
+msgstr ""
+
+#: ../../assemblage.rst:295
+#: ../../assemblage.rst:1229
+msgid "2 vis M2.5-14"
+msgstr ""
+
+#: ../../assemblage.rst:296
 msgid "2 écrous M2.5"
 msgstr ""
 
-#: ../../assemblage.rst:277
+#: ../../assemblage.rst:299
 msgid "Introduire un écrou M3 et visser une vis sans tête M3-12."
 msgstr ""
 
-#: ../../assemblage.rst:286
+#: ../../assemblage.rst:308
 msgid "Visser l'interrupteur fin de course sur son support (ENDSTOP_X_support) à l'aide des vis M2.5-14 et des écrous M2.5."
 msgstr ""
 
-#: ../../assemblage.rst:288
+#: ../../assemblage.rst:310
 msgid "L'interrupteur fin de course devra être câblé avant le montage."
 msgstr ""
 
-#: ../../assemblage.rst:289
+#: ../../assemblage.rst:311
 msgid "Attention au sens des vis 2.5. La tête de la vis doit être sous le microswitch pour permettre le passage de l'axe linéaire."
 msgstr ""
 
-#: ../../assemblage.rst:297
-msgid "Préparation de l’électro-aimant"
-msgstr ""
-
-#: ../../assemblage.rst:301
-msgid "1 électro-aimant"
-msgstr ""
-
-#: ../../assemblage.rst:302
-msgid "1 entretoise de 18mm"
-msgstr ""
-
-#: ../../assemblage.rst:303
-msgid "1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau mâle)"
-msgstr ""
-
-#: ../../assemblage.rst:305
-msgid "1 rondelle M3 moyenne"
-msgstr ""
-
-#: ../../assemblage.rst:307
-msgid "Visser l’entretoise à fond sur l’électro-aimant."
-msgstr ""
-
-#: ../../assemblage.rst:314
-msgid "Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise."
-msgstr ""
-
-#: ../../assemblage.rst:322
-msgid "Montage de l'electro-aimant sur son support"
-msgstr ""
-
-#: ../../assemblage.rst:323
-msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)"
-msgstr ""
-
-#: ../../assemblage.rst:324
-msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing"
+#: ../../assemblage.rst:316
+msgid "On utilisera de préférence un microswitch cablé dans l'alignement."
 msgstr ""
 
 #: ../../assemblage.rst:325
-msgid "2 vis M3-8"
-msgstr ""
-
-#: ../../assemblage.rst:327
-msgid "Fixer l’électro-aimant sur son support avec les 2 vis M3-8."
+msgid "Préparation de l’électro-aimant"
 msgstr ""
 
 #: ../../assemblage.rst:329
-msgid "Respecter le côté de sortie des fils c'est important."
+msgid "1 électro-aimant"
 msgstr ""
 
-#: ../../assemblage.rst:337
-msgid "Veuiller à aligner soigneusement le bord du support et le bord de l'electro-aimant"
+#: ../../assemblage.rst:330
+msgid "1 entretoise de 18mm"
 msgstr ""
 
-#: ../../assemblage.rst:345
-msgid "Préparation du chariot bas (étape 1)"
+#: ../../assemblage.rst:331
+msgid "1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau mâle)"
 msgstr ""
 
-#: ../../assemblage.rst:349
-msgid "Electro-aimant assemblé dans son support"
+#: ../../assemblage.rst:333
+msgid "1 rondelle M3 moyenne"
+msgstr ""
+
+#: ../../assemblage.rst:335
+msgid "Visser l’entretoise à fond sur l’électro-aimant."
+msgstr ""
+
+#: ../../assemblage.rst:342
+msgid "Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise."
 msgstr ""
 
 #: ../../assemblage.rst:350
-msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley"
+msgid "Montage de l'electro-aimant sur son support"
 msgstr ""
 
 #: ../../assemblage.rst:351
-msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide"
+msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)"
 msgstr ""
 
 #: ../../assemblage.rst:352
-msgid "3 paliers lineaires IGUS"
+msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing2"
 msgstr ""
 
 #: ../../assemblage.rst:353
-msgid "6 colliers de serrage 2.5 x 160"
-msgstr ""
-
-#: ../../assemblage.rst:354
-#: ../../assemblage.rst:426
-#: ../../assemblage.rst:1193
-msgid "4 écrous M3 NYL"
+msgid "2 vis M3-8"
 msgstr ""
 
 #: ../../assemblage.rst:355
-msgid "2 vis M3-18"
+msgid "Fixer l’électro-aimant sur son support avec les 2 vis M3-8."
 msgstr ""
 
-#: ../../assemblage.rst:356
-#: ../../assemblage.rst:425
-#: ../../assemblage.rst:644
-msgid "2 vis M3-20"
+#: ../../assemblage.rst:357
+msgid "Respecter le côté de sortie des fils c'est important."
 msgstr ""
 
-#: ../../assemblage.rst:360
-msgid "Introduire les 3 IGUS sur le support BOTTOM_trolley. Les fixer avec des colliers de serrage"
+#: ../../assemblage.rst:365
+msgid "Veuiller à aligner soigneusement le bord du support et le bord de l'electro-aimant"
 msgstr ""
 
-#: ../../assemblage.rst:362
-#: ../../assemblage.rst:477
-msgid "Bloquer les IGUS dans le rainurage. Ne pas serrer les colliers trop fort, ils seront ajustés quand le chariot sera en place sur les rails linéaires"
+#: ../../assemblage.rst:373
+msgid "Préparation du chariot bas (étape 1)"
 msgstr ""
 
-#: ../../assemblage.rst:372
-msgid "Respecter la position du collier. Le verrouillage du collier doit être du coté de l'IGUS et vers la paroi de la machine."
+#: ../../assemblage.rst:377
+msgid "Electro-aimant assemblé dans son support"
+msgstr ""
+
+#: ../../assemblage.rst:378
+msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley"
 msgstr ""
 
 #: ../../assemblage.rst:379
-msgid "Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL."
+msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide_fitxxx"
+msgstr ""
+
+#: ../../assemblage.rst:380
+msgid "3 paliers lineaires IGUS"
 msgstr ""
 
 #: ../../assemblage.rst:381
-msgid "Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise. Notez également que le corps de l'electro-aimant doit être le plus perpendiculaire possible à la plaque support (l'axe doit être au milieu du percage qui permet son pasage)."
+msgid "6 colliers de serrage 2.5 x 160"
+msgstr ""
+
+#: ../../assemblage.rst:382
+#: ../../assemblage.rst:455
+#: ../../assemblage.rst:1303
+msgid "4 écrous M3 NYL"
 msgstr ""
 
 #: ../../assemblage.rst:383
-msgid "Notez que les fils de l'electro-aimant doivent sortir du coté ou il y a un seul pallier IGUS."
+msgid "2 vis M3-18"
 msgstr ""
 
-#: ../../assemblage.rst:390
-msgid "Visser les deux vis M3-20 (qui retiendront la courroie) et 2 écrous M3 NYL avec la tête de vis en dessous."
+#: ../../assemblage.rst:384
+#: ../../assemblage.rst:454
+#: ../../assemblage.rst:591
+#: ../../assemblage.rst:676
+msgid "2 vis M3-20"
 msgstr ""
 
-#: ../../assemblage.rst:397
-msgid "Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise."
+#: ../../assemblage.rst:387
+msgid "Sélectionner la meilleure pièce ELECTRO_MAGNET_guide_fit_5.8 / ELECTRO_MAGNET_guide_fit_5.9 / ELECTRO_MAGNET_guide_fit_6.0. l'entretoise de l'éléctroaimant doit circuler librement avec le minimum de jeu mécanique."
 msgstr ""
 
-#: ../../assemblage.rst:407
-msgid "L'axe de l'electroaimant doit pouvoir monter et descendre librement sans effort."
+#: ../../assemblage.rst:389
+msgid "Introduire les 3 IGUS sur le support BOTTOM_trolley. Les fixer avec des colliers de serrage"
+msgstr ""
+
+#: ../../assemblage.rst:391
+#: ../../assemblage.rst:509
+msgid "Bloquer les IGUS dans le rainurage. Ne pas serrer les colliers trop fort, ils seront ajustés quand le chariot sera en place sur les rails linéaires"
+msgstr ""
+
+#: ../../assemblage.rst:401
+msgid "Respecter la position du collier. Le verrouillage du collier doit être du coté de l'IGUS et vers la paroi de la machine."
+msgstr ""
+
+#: ../../assemblage.rst:408
+msgid "Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL."
+msgstr ""
+
+#: ../../assemblage.rst:410
+msgid "Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise. Notez également que le corps de l'electro-aimant doit être le plus perpendiculaire possible à la plaque support (l'axe doit être au milieu du percage qui permet son pasage)."
 msgstr ""
 
 #: ../../assemblage.rst:412
+msgid "Notez que les fils de l'electro-aimant doivent sortir du coté ou il y a un seul pallier IGUS."
+msgstr ""
+
+#: ../../assemblage.rst:419
+msgid "Visser les deux vis M3-20 (qui retiendront la courroie) et 2 écrous M3 NYL avec la tête de vis en dessous."
+msgstr ""
+
+#: ../../assemblage.rst:426
+msgid "Mettre une rondelle et serrer le contre écrou M3 en veillant à ce que la vis pointeau ne se visse pas en même temps dans l’entretoise. La rondelle empêche le contre écrou de se coincer dans le guide de l’entretoise."
+msgstr ""
+
+#: ../../assemblage.rst:436
+msgid "L'axe de l'electroaimant doit pouvoir monter et descendre librement sans effort."
+msgstr ""
+
+#: ../../assemblage.rst:441
 msgid "Preparation du chariot haut (étape 1)"
 msgstr ""
 
-#: ../../assemblage.rst:416
+#: ../../assemblage.rst:445
 msgid "**Pièce(s) imprimée(s) en 3D** : TOP_trolley"
 msgstr ""
 
-#: ../../assemblage.rst:417
+#: ../../assemblage.rst:446
 msgid "**Pièce(s) imprimée(s) en 3D** : FEMALE_shape"
 msgstr ""
 
-#: ../../assemblage.rst:418
+#: ../../assemblage.rst:447
 msgid "Taraud M3"
 msgstr ""
 
-#: ../../assemblage.rst:420
+#: ../../assemblage.rst:449
 msgid "1 vis sans tête M3-30"
 msgstr ""
 
-#: ../../assemblage.rst:421
+#: ../../assemblage.rst:450
 msgid "1 écrou borgne M3"
 msgstr ""
 
-#: ../../assemblage.rst:424
-#: ../../assemblage.rst:1127
+#: ../../assemblage.rst:453
+#: ../../assemblage.rst:1225
 msgid "2 rondelles M3 moyennes"
 msgstr ""
 
-#: ../../assemblage.rst:428
+#: ../../assemblage.rst:457
 msgid "3 IGUS_housing"
 msgstr ""
 
-#: ../../assemblage.rst:429
+#: ../../assemblage.rst:458
 msgid "6 vis M3-12"
 msgstr ""
 
-#: ../../assemblage.rst:430
-#: ../../assemblage.rst:1100
+#: ../../assemblage.rst:459
+#: ../../assemblage.rst:1192
 msgid "6 écrous M3 NYL"
 msgstr ""
 
-#: ../../assemblage.rst:432
+#: ../../assemblage.rst:461
 msgid "Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** empreinte allen."
 msgstr ""
 
-#: ../../assemblage.rst:439
+#: ../../assemblage.rst:468
+msgid "Placer un contre écrou contre l'écrou borgne"
+msgstr ""
+
+#: ../../assemblage.rst:471
 msgid "Tarauder la FEMALE_shape au 2/3 en partant du haut."
 msgstr ""
 
-#: ../../assemblage.rst:446
+#: ../../assemblage.rst:478
 msgid "Visser l’ensemble vis M3-30/écrou borgne pour le laisser dépasser ± 0,5mm."
 msgstr ""
 
-#: ../../assemblage.rst:453
+#: ../../assemblage.rst:485
 msgid "Assembler la FEMALE_shape sur le TOP_trolley avec les vis M3-12, les rondelles M3 et les écrous M3 NYL en laissant du jeu."
 msgstr ""
 
-#: ../../assemblage.rst:463
+#: ../../assemblage.rst:495
 msgid "Positionner les paliers IGUS sur la piece TOP_trolley."
 msgstr ""
 
-#: ../../assemblage.rst:473
+#: ../../assemblage.rst:505
 msgid "attacher les palliers IGUS avec des colliers de Fixation"
 msgstr ""
 
-#: ../../assemblage.rst:476
+#: ../../assemblage.rst:508
 msgid "Attention au sens des colliers. La fixation du collier doit être vers les parois de la machine."
 msgstr ""
 
-#: ../../assemblage.rst:483
-msgid "Monter les vis M3-20 et les écrous M3."
+#: ../../assemblage.rst:515
+msgid "Monter les vis M3-20 et les écrous M3-NYL."
 msgstr ""
 
-#: ../../assemblage.rst:493
+#: ../../assemblage.rst:525
 msgid "Préparation des rouleaux papier"
 msgstr ""
 
-#: ../../assemblage.rst:494
+#: ../../assemblage.rst:526
 msgid "**Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint"
 msgstr ""
 
-#: ../../assemblage.rst:495
+#: ../../assemblage.rst:527
 msgid "1 taraud M3"
 msgstr ""
 
-#: ../../assemblage.rst:496
+#: ../../assemblage.rst:528
 msgid "3 joints toriques"
 msgstr ""
 
-#: ../../assemblage.rst:497
+#: ../../assemblage.rst:529
 msgid "6 vis M3-6 sans tête"
 msgstr ""
 
-#: ../../assemblage.rst:499
+#: ../../assemblage.rst:531
 msgid "Tarauder les 3 ROLL_joint."
 msgstr ""
 
-#: ../../assemblage.rst:504
+#: ../../assemblage.rst:536
 msgid "Mettre les joints toriques dans la gorge des 3 ROLL_joint."
 msgstr ""
 
-#: ../../assemblage.rst:509
+#: ../../assemblage.rst:541
 msgid "Visser les vis M3-6 sans tête en s'assurant qu'elles ne dépassent pas à l'intérieur du trou. Vous devez pouvoir faire coulisser le rouleau sur un axe de 8 mm."
 msgstr ""
 
-#: ../../assemblage.rst:516
+#: ../../assemblage.rst:548
 msgid "Préparation des presse-papiers (étape 1) :"
 msgstr ""
 
-#: ../../assemblage.rst:517
+#: ../../assemblage.rst:549
 msgid "**Pièce(s) imprimée(s) en 3D** : 3 x **clipboard2_support**  3 x **clipboard2** 3 x **CLIPBOARD2_WHEEL**"
 msgstr ""
 
-#: ../../assemblage.rst:518
+#: ../../assemblage.rst:550
 msgid "3 vis M3-25"
 msgstr ""
 
-#: ../../assemblage.rst:519
+#: ../../assemblage.rst:551
 msgid "3 vis M3-20"
 msgstr ""
 
-#: ../../assemblage.rst:520
+#: ../../assemblage.rst:552
 msgid "3 ressorts tendeurs de courroie GT2"
 msgstr ""
 
-#: ../../assemblage.rst:521
+#: ../../assemblage.rst:553
 msgid "6 ecrous M3-NYL"
 msgstr ""
 
-#: ../../assemblage.rst:523
+#: ../../assemblage.rst:555
 msgid "Positionner le presse papier **clipboard2** par rapport au support **clipboard2_support**."
 msgstr ""
 
-#: ../../assemblage.rst:530
+#: ../../assemblage.rst:562
 msgid "Positionner le ressort entre **clipboard2** et **clipboard2_support**."
 msgstr ""
 
-#: ../../assemblage.rst:537
+#: ../../assemblage.rst:569
 msgid "Assembler le ressort avec **clipboard2** et **clipboard2_support** avec une vis M3-25 et un écrou M3-NYL."
 msgstr ""
 
-#: ../../assemblage.rst:539
+#: ../../assemblage.rst:571
 msgid "Ne pas serrer l'écrou M3-NYL **clipboard2** et **clipboard2_support** doivent pouvoir bouger librement."
 msgstr ""
 
-#: ../../assemblage.rst:545
+#: ../../assemblage.rst:577
 msgid "Assembler le rouleau avec **CLIPBOARD2_WHEEL** avec **clipboard2** à l'aide une vis M3-20 et d'un écrou M3-NYL."
 msgstr ""
 
-#: ../../assemblage.rst:547
+#: ../../assemblage.rst:579
 msgid "Ne pas serrer l'écrou M3-NYL **CLIPBOARD2_WHEEL** doit pouvoir tourner librement."
 msgstr ""
 
-#: ../../assemblage.rst:554
+#: ../../assemblage.rst:586
 msgid "Préparation de l’axe vertical (étape 1)"
 msgstr ""
 
-#: ../../assemblage.rst:558
-msgid "**Pièces** : ensemble XMOTOR_support2, XMOTOR_support2_1 et Moteur"
+#: ../../assemblage.rst:590
+msgid "**Pièces** : ensemble XMOTOR_support3, XMOTOR_support3_1 et Moteur"
 msgstr ""
 
-#: ../../assemblage.rst:559
-msgid "3 vis M3-16"
-msgstr ""
-
-#: ../../assemblage.rst:560
-#: ../../assemblage.rst:1128
-msgid "3 écrous M3 NYL"
-msgstr ""
-
-#: ../../assemblage.rst:561
-msgid "3 rondelles M3 grandes"
-msgstr ""
-
-#: ../../assemblage.rst:563
-msgid "Introduire les 3 vis et les 3 rondelles par l'exterieur. Et attacher le support avec 3 ecrou NYL sans serrer."
-msgstr ""
-
-#: ../../assemblage.rst:565
-msgid "Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical."
-msgstr ""
-
-#: ../../assemblage.rst:576
-msgid "Fixation Moteur Y :"
-msgstr ""
-
-#: ../../assemblage.rst:581
-msgid "le moteur Nema 17 monté sur la pièce **YMOTOR_support2_200** + **YMOTOR_support2_200_1** + **YMOTOR_support2_200_2**"
-msgstr ""
-
-#: ../../assemblage.rst:582
-#: ../../assemblage.rst:604
-#: ../../assemblage.rst:626
-#: ../../assemblage.rst:963
-#: ../../assemblage.rst:1192
-msgid "4 vis M3-14"
-msgstr ""
-
-#: ../../assemblage.rst:583
-#: ../../assemblage.rst:605
-#: ../../assemblage.rst:627
-msgid "4 rondelles M3 larges"
-msgstr ""
-
-#: ../../assemblage.rst:586
-msgid "Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs."
-msgstr ""
-
-#: ../../assemblage.rst:597
-msgid "Fixation des supports GAUCHES des axes"
-msgstr ""
-
-#: ../../assemblage.rst:601
-msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
-msgstr ""
-
-#: ../../assemblage.rst:602
-msgid "**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
-msgstr ""
-
-#: ../../assemblage.rst:606
-#: ../../assemblage.rst:628
-msgid "4 écrous NYL M3"
-msgstr ""
-
-#: ../../assemblage.rst:608
-msgid "Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left et TOP_AXIS_left à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place."
-msgstr ""
-
-#: ../../assemblage.rst:618
-msgid "Fixation des supports DROITS des axes"
-msgstr ""
-
-#: ../../assemblage.rst:624
-msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right"
-msgstr ""
-
-#: ../../assemblage.rst:625
-msgid "**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
-msgstr ""
-
-#: ../../assemblage.rst:630
-msgid "Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right (attention à la position du repère) et TOP_AXIS_right à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place."
-msgstr ""
-
-#: ../../assemblage.rst:639
-msgid "Fixation des tendeurs de courroie"
-msgstr ""
-
-#: ../../assemblage.rst:643
-msgid "**Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing"
-msgstr ""
-
-#: ../../assemblage.rst:645
-msgid "2 rondelles M3 larges"
-msgstr ""
-
-#: ../../assemblage.rst:649
-msgid "Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle."
-msgstr ""
-
-#: ../../assemblage.rst:660
-msgid "Laisser un jeu de ±5mm."
-msgstr ""
-
-#: ../../assemblage.rst:667
-msgid "Assemblage des poulies libres de renvoi"
-msgstr ""
-
-#: ../../assemblage.rst:671
-msgid "2 poulies libres 20 dents bore 3mm"
-msgstr ""
-
-#: ../../assemblage.rst:672
-msgid "2 vis M3-25"
-msgstr ""
-
-#: ../../assemblage.rst:676
-msgid "Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer."
-msgstr ""
-
-#: ../../assemblage.rst:684
-msgid "Montage du chariot bas (étape 2)"
-msgstr ""
-
-#: ../../assemblage.rst:688
-msgid "2 barres lisses Ø8mm, longueur : 330mm"
-msgstr ""
-
-#: ../../assemblage.rst:690
-msgid "Nous n'avons pas représenté la façade pour des raisons de lisibilité."
-msgstr ""
-
-#: ../../assemblage.rst:692
-#: ../../assemblage.rst:1026
-msgid "Enfiler les barres à mi-course par l’extérieur de la caisse."
-msgstr ""
-
-#: ../../assemblage.rst:697
-msgid "Enfiler le fin de course et son support sur la barre Ø8mm côté face arrière."
-msgstr ""
-
-#: ../../assemblage.rst:702
-msgid "La vis du support de l'interrupteur sera serrée plus tard lors du réglage."
-msgstr ""
-
-#: ../../assemblage.rst:704
-msgid "Enfiler le chariot bas sur les barres lisses."
-msgstr ""
-
-#: ../../assemblage.rst:711
-msgid "Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse)."
-msgstr ""
-
-#: ../../assemblage.rst:712
-msgid "Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour que les axes ne coulissent dans leurs logements."
-msgstr ""
-
-#: ../../assemblage.rst:720
-msgid "Montage de l’axe vertical (étape 1)"
-msgstr ""
-
-#: ../../assemblage.rst:724
-msgid "**Pièce(s) imprimée(s) en 3D** : 2 X KP08_support"
-msgstr ""
-
-#: ../../assemblage.rst:725
-msgid "2 KP08"
-msgstr ""
-
-#: ../../assemblage.rst:726
-msgid "4 vis M5-25"
-msgstr ""
-
-#: ../../assemblage.rst:727
-#: ../../assemblage.rst:880
-msgid "4 rondelles M5"
-msgstr ""
-
-#: ../../assemblage.rst:728
-#: ../../assemblage.rst:879
-msgid "4 écrous M5 NYL"
-msgstr ""
-
-#: ../../assemblage.rst:730
-msgid "Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leurs logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de les redresser."
-msgstr ""
-
-#: ../../assemblage.rst:737
-msgid "Visser les KP08_support et les KP08 sur la caisse en laissant un peu de jeu avec les vis M5-25, les rondelles M5 et les écrous M5 NYL."
-msgstr ""
-
-#: ../../assemblage.rst:744
-msgid "Respecter la position des bagues de serrage des KP08."
-msgstr ""
-
-#: ../../assemblage.rst:755
-msgid "Montage de l’axe vertical (étape 3)"
-msgstr ""
-
-#: ../../assemblage.rst:759
-msgid "1 barre lisse Ø 8mm, longueur : 100mm"
-msgstr ""
-
-#: ../../assemblage.rst:760
-msgid "1 Coupleur 5*8mm"
-msgstr ""
-
-#: ../../assemblage.rst:762
-msgid "Enfiler le coupleur sur l’arbre du moteur (trou Ø 5mm en bas)."
-msgstr ""
-
-#: ../../assemblage.rst:769
-msgid "Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur."
-msgstr ""
-
-#: ../../assemblage.rst:776
-msgid "Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés et que l'axe continue à tourner librement."
-msgstr ""
-
-#: ../../assemblage.rst:783
-msgid "Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions."
-msgstr ""
-
-#: ../../assemblage.rst:784
-msgid "Visser les 2 premières vis du moteur sur son support."
-msgstr ""
-
-#: ../../assemblage.rst:791
-msgid "Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main."
-msgstr ""
-
-#: ../../assemblage.rst:792
-msgid "Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. **AJOUTER IMAGE**"
-msgstr ""
-
-#: ../../assemblage.rst:793
-msgid "Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support, puis le support sur la caisse."
-msgstr ""
-
-#: ../../assemblage.rst:797
-msgid "Montage de l’axe vertical (étape 4)"
-msgstr ""
-
-#: ../../assemblage.rst:801
-msgid "2 poulies GT2 20 dents bore 8mm"
-msgstr ""
-
-#: ../../assemblage.rst:803
-msgid "Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur."
-msgstr ""
-
-#: ../../assemblage.rst:810
-msgid "Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leurs positions) et le coupleur."
-msgstr ""
-
-#: ../../assemblage.rst:817
-msgid "Visser les 2 vis en haut du coupleur sur l’axe vertical."
-msgstr ""
-
-#: ../../assemblage.rst:824
-msgid "Laisser les poulies libres sans les visser sur l'axe. Elles seront vissées quand la courroie sera en place."
-msgstr ""
-
-#: ../../assemblage.rst:825
-msgid "Visser les vis des bagues de serrage des KP08 (2 vis par bague)."
-msgstr ""
-
-#: ../../assemblage.rst:832
-msgid "S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support sur la caisse pour leur donner du jeu et refaire l’alignement."
-msgstr ""
-
-#: ../../assemblage.rst:836
-msgid "Montage de la courroie du chariot bas"
-msgstr ""
-
-#: ../../assemblage.rst:840
-#: ../../assemblage.rst:1067
-msgid "1 courroie GT2 longueur ± 620mm"
-msgstr ""
-
-#: ../../assemblage.rst:841
-#: ../../assemblage.rst:1068
-msgid "2 colliers"
-msgstr ""
-
-#: ../../assemblage.rst:843
-#: ../../assemblage.rst:1070
-msgid "A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur."
-msgstr ""
-
-#: ../../assemblage.rst:850
-#: ../../assemblage.rst:1077
-msgid "Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical."
-msgstr ""
-
-#: ../../assemblage.rst:857
-#: ../../assemblage.rst:1084
-msgid "Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier."
-msgstr ""
-
-#: ../../assemblage.rst:859
-#: ../../assemblage.rst:1086
-msgid "Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse."
-msgstr ""
-
-#: ../../assemblage.rst:866
-msgid "Pour l'instant, ne pas serrer les vis de la poulie sur l'axe."
-msgstr ""
-
-#: ../../assemblage.rst:874
-msgid "Montage de l’axe Y (étape 1)"
-msgstr ""
-
-#: ../../assemblage.rst:877
-msgid "2 KFL8"
-msgstr ""
-
-#: ../../assemblage.rst:878
-msgid "4 vis M5-18"
-msgstr ""
-
-#: ../../assemblage.rst:881
-msgid "1 poulie GT2 20 dents bore 8mm"
-msgstr ""
-
-#: ../../assemblage.rst:882
-msgid "1 barre lisse Ø 8mm, longueur : 364mm"
-msgstr ""
-
-#: ../../assemblage.rst:883
-msgid "1 courroie GT2 fermée 200 ou 220 mm (selon le support moteur Y )"
-msgstr ""
-
-#: ../../assemblage.rst:885
-msgid "Fixer les KFL8 à gauche sur la caisse avec 2 vis M5-18, 2 rondelles M5 et 2 écrous M5 NYL."
-msgstr ""
-
-#: ../../assemblage.rst:895
-msgid "Fixer les KFL8 à droite sur la caisse avec les KFL8_support, 2 vis M5-18, 2 rondelles M5 et les 2 écrous M5 NYL."
-msgstr ""
-
-#: ../../assemblage.rst:905
-msgid "Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8."
-msgstr ""
-
-#: ../../assemblage.rst:906
-msgid "Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 3 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe."
-msgstr ""
-
-#: ../../assemblage.rst:913
-msgid "Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm de la caisse."
-msgstr ""
-
-#: ../../assemblage.rst:920
-msgid "Serrer les vis des bagues des KFL8."
-msgstr ""
-
-#: ../../assemblage.rst:928
-msgid "Montage de l’axe Y (étape 2)"
-msgstr ""
-
-#: ../../assemblage.rst:930
-msgid "Faire tourner à la main la poulie du moteur afin que la poulie de l’axe s’aligne verticalement avec la poulie du moteur."
-msgstr ""
-
-#: ../../assemblage.rst:940
-msgid "Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée puis serrer les 2 vis."
-msgstr ""
-
-#: ../../assemblage.rst:947
-msgid "Serrer les 2 vis de la poulie de l'axe."
-msgstr ""
-
-#: ../../assemblage.rst:956
-msgid "Montage des guide-papiers sur la plaque support"
-msgstr ""
-
-#: ../../assemblage.rst:959
-msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left"
-msgstr ""
-
-#: ../../assemblage.rst:960
-msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right"
-msgstr ""
-
-#: ../../assemblage.rst:961
-msgid "**PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)"
-msgstr ""
-
-#: ../../assemblage.rst:962
-msgid "4 vis M3-16"
-msgstr ""
-
-#: ../../assemblage.rst:964
-msgid "8 rondelles M3 Larges"
-msgstr ""
-
-#: ../../assemblage.rst:965
-msgid "8 écrous M3 NYL"
-msgstr ""
-
-#: ../../assemblage.rst:967
-msgid "Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois."
-msgstr ""
-
-#: ../../assemblage.rst:970
-msgid "Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL."
-msgstr ""
-
-#: ../../assemblage.rst:977
-msgid "Partie gauche."
-msgstr ""
-
-#: ../../assemblage.rst:984
-msgid "Répéter l'opération pour la partie droite."
-msgstr ""
-
-#: ../../assemblage.rst:991
-msgid "Vérifier que vous pouvez poser une feuille de papier sur le plateau sans que la feuille gondole. Si la feuille gondole, essayez d'écarter les guides papier avant le serrage."
-msgstr ""
-
-#: ../../assemblage.rst:999
-msgid "Collage de la plaque repose papier"
-msgstr ""
-
-#: ../../assemblage.rst:1002
-msgid "PAPER_support (contre-plaqué de 5mm découpé au laser)."
-msgstr ""
-
-#: ../../assemblage.rst:1003
-msgid "3 Rouleaux papier préparés (avec joint et vis)"
-msgstr ""
-
-#: ../../assemblage.rst:1005
-msgid "Coller la plaque uniquement si vous êtes sure du montage qui est en dessous. Si vous n'êtes pas sure, vous pouvez vous contenter de positionner la plaque support, vous la collerez à la fin quand l'embosseuse marchera."
-msgstr ""
-
-#: ../../assemblage.rst:1007
-msgid "Encoller les encoches qui vont être en contact. Introduire la plaque par l'arrière et la maintenir fermement avec du ruban adhésif pendant le temps de séchage."
-msgstr ""
-
-#: ../../assemblage.rst:1021
-msgid "Montage du chariot haut (étape 2)"
-msgstr ""
-
-#: ../../assemblage.rst:1024
-msgid "2 barres lisses Ø 8mm, longueur : 330mm"
-msgstr ""
-
-#: ../../assemblage.rst:1033
-msgid "Enfiler le chariot haut sur les barres lisses."
-msgstr ""
-
-#: ../../assemblage.rst:1040
-msgid "Terminer d’enfiler les barres."
-msgstr ""
-
-#: ../../assemblage.rst:1042
-msgid "La tranche du bois doit rester apparente."
-msgstr ""
-
-#: ../../assemblage.rst:1049
-msgid "Serrer les vis des supports d’axes sur la caisse à gauche et à droite."
-msgstr ""
-
-#: ../../assemblage.rst:1056
-msgid "Visser les vis sans tête des supports des axes à gauche et à droite."
-msgstr ""
-
-#: ../../assemblage.rst:1064
-msgid "Pose de la courroie du chariot haut"
-msgstr ""
-
-#: ../../assemblage.rst:1094
-msgid "Montage des presse-papiers (étape 2) :"
-msgstr ""
-
-#: ../../assemblage.rst:1097
-msgid "3 CLIPBOARD montés à l'étape 1"
-msgstr ""
-
-#: ../../assemblage.rst:1098
-msgid "6 vis M3-14"
-msgstr ""
-
-#: ../../assemblage.rst:1099
-msgid "6 rondelles M3 moyennes"
-msgstr ""
-
-#: ../../assemblage.rst:1103
-msgid "Les trous oblongs dans les pièces imprimées permettent de régler la pression des CLIPBOARD sur le papier."
-msgstr ""
-
-#: ../../assemblage.rst:1119
-msgid "Montage du fin de course Y"
-msgstr ""
-
-#: ../../assemblage.rst:1123
-msgid "**Pièce(s) imprimée(s) en 3D** : ENDSTOP_Y_support, ENDSTOP_Y_lever"
-msgstr ""
-
-#: ../../assemblage.rst:1125
-msgid "1 vis M3-12"
-msgstr ""
-
-#: ../../assemblage.rst:1126
-msgid "1 vis M3-20"
-msgstr ""
-
-#: ../../assemblage.rst:1129
-msgid "1 interrupteur fin de course à lamelle"
-msgstr ""
-
-#: ../../assemblage.rst:1131
-msgid "2 écrous M2.5 NYL"
-msgstr ""
-
-#: ../../assemblage.rst:1133
-msgid "L'interrupteur fin de course à lamelle devra être câblé avant d'être monté sur son support (non représenté)."
-msgstr ""
-
-#: ../../assemblage.rst:1135
-msgid "Tarauder le support de la vis de reglage avec un taraud M3"
-msgstr ""
-
-#: ../../assemblage.rst:1142
-msgid "Positionner le levier **ENDSTOP_Y_LEVER** dans le support **ENDSTOP_Y_support**."
-msgstr ""
-
-#: ../../assemblage.rst:1149
-msgid "Fixer le levier **ENDSTOP_Y_LEVER** au support **ENDSTOP_Y_support** avec une vis M3-20 et un écrou M3-NYL"
-msgstr ""
-
-#: ../../assemblage.rst:1151
-msgid "Ne pas serrer l'ecrou M3, le levier doit pouvoir tourner librement dans son support."
-msgstr ""
-
-#: ../../assemblage.rst:1160
-msgid "Assembler l'interrupteur fin de course et le **ENDSTOP_Y_support** à l'aide des vis M2.5-14 et des écrous M2.5 NYL."
-msgstr ""
-
-#: ../../assemblage.rst:1169
-msgid "Positionner la vis de reglage M3-12 sur le levier **ENDSTOP_Y_LEVER**"
-msgstr ""
-
-#: ../../assemblage.rst:1176
-msgid "Assembler l'ensemble interrupteur fin de course et le **ENDSTOP_Y_support** sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL."
-msgstr ""
-
-#: ../../assemblage.rst:1188
-msgid "Fixation des clips sur le couvercle"
-msgstr ""
-
-#: ../../assemblage.rst:1191
-msgid "**Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK"
-msgstr ""
-
-#: ../../assemblage.rst:1195
-msgid "Assembler les 2 LID_LOCK sur le couvercle à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL."
-msgstr ""
-
-#: ../../assemblage.rst:1210
-msgid "Fixation de la plaque pour l'embase de l'alimentation"
-msgstr ""
-
-#: ../../assemblage.rst:1213
-msgid "**Pièce(s) imprimée(s) en 3D** : POWER_plate"
-msgstr ""
-
-#: ../../assemblage.rst:1215
+#: ../../assemblage.rst:592
+#: ../../assemblage.rst:1325
 msgid "2 écrous M3 NYL"
 msgstr ""
 
-#: ../../assemblage.rst:1223
-msgid "Montage de la carte électronique"
+#: ../../assemblage.rst:593
+#: ../../assemblage.rst:677
+msgid "2 rondelles M3 larges"
+msgstr ""
+
+#: ../../assemblage.rst:595
+msgid "Introduire les 2 vis et les 2 rondelles par l'exterieur. Et attacher le support avec 3 ecrou NYL sans serrer."
+msgstr ""
+
+#: ../../assemblage.rst:597
+msgid "Le jeu permettra ensuite d'aligner l'arbre du moteur avec l'axe vertical."
+msgstr ""
+
+#: ../../assemblage.rst:608
+msgid "Fixation Moteur Y :"
+msgstr ""
+
+#: ../../assemblage.rst:613
+msgid "le moteur Nema 17 monté sur la pièce **YMOTOR_support2_200** + **YMOTOR_support2_200_1** + **YMOTOR_support2_200_2**"
+msgstr ""
+
+#: ../../assemblage.rst:614
+#: ../../assemblage.rst:636
+#: ../../assemblage.rst:658
+#: ../../assemblage.rst:1011
+#: ../../assemblage.rst:1302
+msgid "4 vis M3-14"
+msgstr ""
+
+#: ../../assemblage.rst:615
+#: ../../assemblage.rst:637
+#: ../../assemblage.rst:659
+msgid "4 rondelles M3 larges"
+msgstr ""
+
+#: ../../assemblage.rst:618
+msgid "Introduire les vis et les rondelles par l’extérieur et visser le support sur la caisse afin qu’il puisse encore coulisser dans les trous oblongs."
+msgstr ""
+
+#: ../../assemblage.rst:629
+msgid "Fixation des supports GAUCHES des axes"
+msgstr ""
+
+#: ../../assemblage.rst:633
+msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_left2 préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
+msgstr ""
+
+#: ../../assemblage.rst:634
+msgid "**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_left2 préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
+msgstr ""
+
+#: ../../assemblage.rst:638
+#: ../../assemblage.rst:660
+msgid "4 écrous NYL M3"
+msgstr ""
+
+#: ../../assemblage.rst:640
+msgid "Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_left2 et TOP_AXIS_left2 à gauche en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place."
+msgstr ""
+
+#: ../../assemblage.rst:650
+msgid "Fixation des supports DROITS des axes"
+msgstr ""
+
+#: ../../assemblage.rst:656
+msgid "**Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right2"
+msgstr ""
+
+#: ../../assemblage.rst:657
+msgid "**Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right2 préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)"
+msgstr ""
+
+#: ../../assemblage.rst:662
+msgid "Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right2 (attention à la position du repère) et TOP_AXIS_right2 à droite en laissant un peu de jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront serrées quand l'ensemble sera en place."
+msgstr ""
+
+#: ../../assemblage.rst:671
+msgid "Fixation des tendeurs de courroie"
+msgstr ""
+
+#: ../../assemblage.rst:675
+msgid "**Pièce(s) imprimée(s) en 3D** :  2 x DRIVEN_PULLEY_housing"
+msgstr ""
+
+#: ../../assemblage.rst:681
+msgid "Insérer un écrou M3 NYL dans son logement et fixer les DRIVEN_PULLEY_housing avec une vis M3-20 et une rondelle."
+msgstr ""
+
+#: ../../assemblage.rst:692
+msgid "Laisser un jeu de ±5mm."
+msgstr ""
+
+#: ../../assemblage.rst:699
+msgid "Assemblage des poulies libres de renvoi"
+msgstr ""
+
+#: ../../assemblage.rst:703
+msgid "2 poulies libres 20 dents bore 3mm"
+msgstr ""
+
+#: ../../assemblage.rst:704
+msgid "2 vis M3-25"
+msgstr ""
+
+#: ../../assemblage.rst:708
+msgid "Commencer par insérer la poulie puis la vis M3-25. Visser avec un écrou M3 NYL sans trop serrer."
+msgstr ""
+
+#: ../../assemblage.rst:716
+msgid "Montage du chariot bas (étape 2)"
+msgstr ""
+
+#: ../../assemblage.rst:718
+#: ../../assemblage.rst:919
+#: ../../assemblage.rst:1100
+#: ../../assemblage.rst:1151
+#: ../../assemblage.rst:1187
+msgid "Matériel **BrailleRAP**:"
+msgstr ""
+
+#: ../../assemblage.rst:720
+msgid "2 barres lisses Ø8mm, longueur : 330mm"
+msgstr ""
+
+#: ../../assemblage.rst:722
+#: ../../assemblage.rst:928
+#: ../../assemblage.rst:1104
+#: ../../assemblage.rst:1156
+#: ../../assemblage.rst:1194
+msgid "Matériel **BrailleRAP XL**:"
+msgstr ""
+
+#: ../../assemblage.rst:724
+msgid "2 barres lisses Ø8mm, longueur : 470mm"
+msgstr ""
+
+#: ../../assemblage.rst:726
+msgid "Nous n'avons pas représenté la façade pour des raisons de lisibilité."
+msgstr ""
+
+#: ../../assemblage.rst:728
+#: ../../assemblage.rst:1110
+msgid "Enfiler les barres à mi-course par l’extérieur de la caisse."
+msgstr ""
+
+#: ../../assemblage.rst:733
+msgid "Enfiler le fin de course et son support sur la barre Ø8mm côté face arrière."
+msgstr ""
+
+#: ../../assemblage.rst:738
+msgid "La vis du support de l'interrupteur sera serrée plus tard lors du réglage."
+msgstr ""
+
+#: ../../assemblage.rst:740
+msgid "Enfiler le chariot bas sur les barres lisses."
+msgstr ""
+
+#: ../../assemblage.rst:747
+msgid "Terminer d’enfiler les barres (les barres ne doivent pas dépasser dans le bois de la caisse)."
+msgstr ""
+
+#: ../../assemblage.rst:748
+msgid "Serrer les 4 vis des supports d’axes sur la caisse (2 sur le côté gauche et 2 sur le côté droit) et les 4 vis sans tête des supports des axes suffisamment pour que les axes ne coulissent dans leurs logements."
+msgstr ""
+
+#: ../../assemblage.rst:756
+msgid "Montage de l’axe vertical (étape 1)"
+msgstr ""
+
+#: ../../assemblage.rst:760
+msgid "**Pièce(s) imprimée(s) en 3D** : 2 X KP08_support"
+msgstr ""
+
+#: ../../assemblage.rst:761
+msgid "2 KP08"
+msgstr ""
+
+#: ../../assemblage.rst:762
+msgid "4 vis M5-25"
+msgstr ""
+
+#: ../../assemblage.rst:763
+#: ../../assemblage.rst:916
+#: ../../assemblage.rst:925
+msgid "4 rondelles M5"
+msgstr ""
+
+#: ../../assemblage.rst:764
+#: ../../assemblage.rst:915
+#: ../../assemblage.rst:924
+msgid "4 écrous M5 NYL"
+msgstr ""
+
+#: ../../assemblage.rst:766
+msgid "Avant de fixer les KP08, s'assurer que les roulements sont bien alignés dans leurs logements. Il se peut qu'ils soient livrés un peu désaxés. Dans ce cas, introduire une barre Ø 8mm et l'actionner manuellement afin de les redresser."
+msgstr ""
+
+#: ../../assemblage.rst:773
+msgid "Visser les KP08_support et les KP08 sur la caisse en laissant un peu de jeu avec les vis M5-25, les rondelles M5 et les écrous M5 NYL."
+msgstr ""
+
+#: ../../assemblage.rst:780
+msgid "Respecter la position des bagues de serrage des KP08."
+msgstr ""
+
+#: ../../assemblage.rst:791
+msgid "Montage de l’axe vertical (étape 3)"
+msgstr ""
+
+#: ../../assemblage.rst:795
+msgid "1 barre lisse Ø 8mm, longueur : 100mm"
+msgstr ""
+
+#: ../../assemblage.rst:796
+msgid "1 Coupleur 5*8mm"
+msgstr ""
+
+#: ../../assemblage.rst:798
+msgid "Enfiler le coupleur sur l’arbre du moteur (trou Ø 5mm en bas)."
+msgstr ""
+
+#: ../../assemblage.rst:805
+msgid "Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans le coupleur."
+msgstr ""
+
+#: ../../assemblage.rst:812
+msgid "Faire tourner l’axe à la main pour s’assurer que tous les éléments sont bien alignés et que l'axe continue à tourner librement."
+msgstr ""
+
+#: ../../assemblage.rst:819
+msgid "Les trous du support moteur sont oblongs et permettent d'aligner le moteur avec l'axe vertical dans les 2 dimensions."
+msgstr ""
+
+#: ../../assemblage.rst:820
+msgid "Visser les 2 premières vis du moteur sur son support."
+msgstr ""
+
+#: ../../assemblage.rst:827
+msgid "Visser petit à petit les vis des KP08 en faisant tourner l’axe à la main."
+msgstr ""
+
+#: ../../assemblage.rst:828
+msgid "Visser petit à petit les vis du support moteur sur la caisse en faisant tourner l’axe à la main. **AJOUTER IMAGE**"
+msgstr ""
+
+#: ../../assemblage.rst:829
+msgid "Retirer l’axe et terminer de visser les 2 dernières vis du moteur sur son support, puis le support sur la caisse."
+msgstr ""
+
+#: ../../assemblage.rst:833
+msgid "Montage de l’axe vertical (étape 4)"
+msgstr ""
+
+#: ../../assemblage.rst:837
+msgid "2 poulies GT2 20 dents bore 8mm"
+msgstr ""
+
+#: ../../assemblage.rst:839
+msgid "Visser les 2 vis en bas du coupleur sur l’arbre du moteur en s’assurant qu’une des vis est en face du méplat de l’axe du moteur et que le bas du coupleur ne repose pas sur le moteur."
+msgstr ""
+
+#: ../../assemblage.rst:846
+msgid "Enfiler l’axe de 100mm dans les KP08, les poulies (en respectant leurs positions) et le coupleur."
+msgstr ""
+
+#: ../../assemblage.rst:853
+msgid "Visser les 2 vis en haut du coupleur sur l’axe vertical."
+msgstr ""
+
+#: ../../assemblage.rst:860
+msgid "Laisser les poulies libres sans les visser sur l'axe. Elles seront vissées quand la courroie sera en place."
+msgstr ""
+
+#: ../../assemblage.rst:861
+msgid "Visser les vis des bagues de serrage des KP08 (2 vis par bague)."
+msgstr ""
+
+#: ../../assemblage.rst:868
+msgid "S’assurer que l’axe tourne aisément et que le moteur n’oscille pas. Le cas échéant, desserrer les vis du moteur et du support sur la caisse pour leur donner du jeu et refaire l’alignement."
+msgstr ""
+
+#: ../../assemblage.rst:872
+msgid "Montage de la courroie du chariot bas"
+msgstr ""
+
+#: ../../assemblage.rst:876
+#: ../../assemblage.rst:1153
+#: ../../assemblage.rst:1158
+msgid "1 courroie GT2 longueur ± 620mm"
+msgstr ""
+
+#: ../../assemblage.rst:877
+#: ../../assemblage.rst:1154
+#: ../../assemblage.rst:1159
+msgid "2 colliers"
+msgstr ""
+
+#: ../../assemblage.rst:879
+#: ../../assemblage.rst:1162
+msgid "A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur."
+msgstr ""
+
+#: ../../assemblage.rst:886
+#: ../../assemblage.rst:1169
+msgid "Faire passer la courroie dans la poulie libre puis la poulie de l’axe vertical."
+msgstr ""
+
+#: ../../assemblage.rst:893
+#: ../../assemblage.rst:1176
+msgid "Tendre la courroie en retenant le chariot et fixer la deuxième extrémité de la courroie sur sa vis avec un collier."
+msgstr ""
+
+#: ../../assemblage.rst:895
+#: ../../assemblage.rst:1178
+msgid "Finir de tendre la courroie à l'aide de la vis à l'extérieur de la caisse."
+msgstr ""
+
+#: ../../assemblage.rst:902
+msgid "Pour l'instant, ne pas serrer les vis de la poulie sur l'axe."
+msgstr ""
+
+#: ../../assemblage.rst:910
+msgid "Montage de l’axe Y (étape 1)"
+msgstr ""
+
+#: ../../assemblage.rst:913
+#: ../../assemblage.rst:922
+msgid "2 KFL8"
+msgstr ""
+
+#: ../../assemblage.rst:914
+#: ../../assemblage.rst:923
+msgid "4 vis M5-18"
+msgstr ""
+
+#: ../../assemblage.rst:917
+#: ../../assemblage.rst:926
+msgid "1 poulie GT2 20 dents bore 8mm"
+msgstr ""
+
+#: ../../assemblage.rst:918
+msgid "1 barre lisse Ø 8mm, longueur : 364mm"
+msgstr ""
+
+#: ../../assemblage.rst:919
+#: ../../assemblage.rst:928
+msgid "1 courroie GT2 fermée 200 mm"
+msgstr ""
+
+#: ../../assemblage.rst:927
+msgid "1 barre lisse Ø 8mm, longueur : 505mm"
+msgstr ""
+
+#: ../../assemblage.rst:930
+msgid "Fixer les KFL8 à gauche sur la caisse avec 2 vis M5-18, 2 rondelles M5 et 2 écrous M5 NYL."
+msgstr ""
+
+#: ../../assemblage.rst:940
+msgid "Fixer les KFL8 à droite sur la caisse avec les KFL8_support, 2 vis M5-18, 2 rondelles M5 et les 2 écrous M5 NYL."
+msgstr ""
+
+#: ../../assemblage.rst:950
+msgid "Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8."
+msgstr ""
+
+#: ../../assemblage.rst:951
+msgid "Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 3 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe."
+msgstr ""
+
+#: ../../assemblage.rst:958
+msgid "Enfoncer l’axe dans le KFL8 de droite et le faire traverser pour qu’il dépasse de ±12mm de la caisse."
+msgstr ""
+
+#: ../../assemblage.rst:965
+msgid "Serrer les vis des bagues des KFL8."
+msgstr ""
+
+#: ../../assemblage.rst:973
+msgid "Montage de l’axe Y (étape 2)"
+msgstr ""
+
+#: ../../assemblage.rst:975
+msgid "Faire tourner à la main la poulie du moteur afin que la poulie de l’axe s’aligne verticalement avec la poulie du moteur."
+msgstr ""
+
+#: ../../assemblage.rst:985
+msgid "Déplacer l’ensemble moteur Y/support le long des trous oblongs sous la caisse afin de tendre la courroie fermée puis serrer les 2 vis."
+msgstr ""
+
+#: ../../assemblage.rst:992
+msgid "Serrer les 2 vis de la poulie de l'axe."
+msgstr ""
+
+#: ../../assemblage.rst:1001
+msgid "Montage des guide-papiers sur la plaque support"
+msgstr ""
+
+#: ../../assemblage.rst:1004
+msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_left          pour BrailleRAP"
+msgstr ""
+
+#: ../../assemblage.rst:1005
+msgid "**Pièce(s) imprimée(s) en 3D** : PAPER_GUIDE_right         pour BrailleRAP"
+msgstr ""
+
+#: ../../assemblage.rst:1006
+msgid "**Pièce(s) imprimée(s) en 3D** : paper_guide_left_XL       pour BrailleRAP XL"
+msgstr ""
+
+#: ../../assemblage.rst:1007
+msgid "**Pièce(s) imprimée(s) en 3D** : paper_guide_right_XL      pour BrailleRAP XL"
+msgstr ""
+
+#: ../../assemblage.rst:1009
+msgid "**PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)"
+msgstr ""
+
+#: ../../assemblage.rst:1010
+#: ../../assemblage.rst:1665
+msgid "4 vis M3-16"
+msgstr ""
+
+#: ../../assemblage.rst:1012
+msgid "8 rondelles M3 Larges"
+msgstr ""
+
+#: ../../assemblage.rst:1013
+#: ../../assemblage.rst:1199
+msgid "8 écrous M3 NYL"
+msgstr ""
+
+#: ../../assemblage.rst:1015
+msgid "Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois."
+msgstr ""
+
+#: ../../assemblage.rst:1017
+msgid "C'est ici que ce trouve la principale difference entre une BrailleRAP et une BrailleRAP XL."
+msgstr ""
+
+#: ../../assemblage.rst:1019
+msgid "BrailleRAP utilise les pièces PAPER_GUIDE_left et PAPER_GUIDE_right."
+msgstr ""
+
+#: ../../assemblage.rst:1029
+msgid "BrailleRAP XL utilise les pièces paper_guide_left_XL et paper_guide_right_XL."
+msgstr ""
+
+#: ../../assemblage.rst:1039
+#: ../../assemblage.rst:1048
+msgid "Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL."
+msgstr ""
+
+#: ../../assemblage.rst:1046
+#: ../../assemblage.rst:1055
+msgid "Partie gauche."
+msgstr ""
+
+#: ../../assemblage.rst:1062
+msgid "Répéter l'opération pour la partie droite."
+msgstr ""
+
+#: ../../assemblage.rst:1069
+msgid "Vérifier que vous pouvez poser une feuille de papier sur le plateau sans que la feuille gondole. Si la feuille gondole, essayez d'écarter les guides papier avant le serrage."
+msgstr ""
+
+#: ../../assemblage.rst:1077
+msgid "Collage de la plaque repose papier"
+msgstr ""
+
+#: ../../assemblage.rst:1080
+msgid "PAPER_support (contre-plaqué de 5mm découpé au laser)."
+msgstr ""
+
+#: ../../assemblage.rst:1081
+msgid "3 Rouleaux papier préparés (avec joint et vis) (4 pour BrailleRAP XL)"
+msgstr ""
+
+#: ../../assemblage.rst:1083
+msgid "Coller la plaque uniquement si vous êtes sure du montage qui est en dessous. Si vous n'êtes pas sure, vous pouvez vous contenter de positionner la plaque support, vous la collerez à la fin quand l'embosseuse marchera."
+msgstr ""
+
+#: ../../assemblage.rst:1085
+msgid "Encoller les encoches qui vont être en contact. Introduire la plaque par l'arrière et la maintenir fermement avec du ruban adhésif pendant le temps de séchage."
+msgstr ""
+
+#: ../../assemblage.rst:1099
+msgid "Montage du chariot haut (étape 2)"
+msgstr ""
+
+#: ../../assemblage.rst:1102
+msgid "2 barres lisses Ø 8mm, longueur : 330mm"
+msgstr ""
+
+#: ../../assemblage.rst:1106
+msgid "2 barres lisses Ø 8mm, longueur : 470mm"
+msgstr ""
+
+#: ../../assemblage.rst:1117
+msgid "Enfiler le chariot haut sur les barres lisses."
+msgstr ""
+
+#: ../../assemblage.rst:1124
+msgid "Terminer d’enfiler les barres."
+msgstr ""
+
+#: ../../assemblage.rst:1126
+msgid "La tranche du bois doit rester apparente."
+msgstr ""
+
+#: ../../assemblage.rst:1133
+msgid "Serrer les vis des supports d’axes sur la caisse à gauche et à droite."
+msgstr ""
+
+#: ../../assemblage.rst:1140
+msgid "Visser les vis sans tête des supports des axes à gauche et à droite."
+msgstr ""
+
+#: ../../assemblage.rst:1148
+msgid "Pose de la courroie du chariot haut"
+msgstr ""
+
+#: ../../assemblage.rst:1186
+msgid "Montage des presse-papiers (étape 2) :"
+msgstr ""
+
+#: ../../assemblage.rst:1189
+msgid "3 CLIPBOARD montés à l'étape 1"
+msgstr ""
+
+#: ../../assemblage.rst:1190
+msgid "6 vis M3-14"
+msgstr ""
+
+#: ../../assemblage.rst:1191
+msgid "6 rondelles M3 moyennes"
+msgstr ""
+
+#: ../../assemblage.rst:1196
+msgid "4 CLIPBOARD montés à l'étape 1"
+msgstr ""
+
+#: ../../assemblage.rst:1197
+msgid "8 vis M3-14"
+msgstr ""
+
+#: ../../assemblage.rst:1198
+msgid "8 rondelles M3 moyennes"
+msgstr ""
+
+#: ../../assemblage.rst:1201
+msgid "Les trous oblongs dans les pièces imprimées permettent de régler la pression des CLIPBOARD sur le papier."
+msgstr ""
+
+#: ../../assemblage.rst:1217
+msgid "Montage du fin de course Y"
+msgstr ""
+
+#: ../../assemblage.rst:1221
+msgid "**Pièce(s) imprimée(s) en 3D** : ENDSTOP_Y_support, ENDSTOP_Y_lever_weight"
+msgstr ""
+
+#: ../../assemblage.rst:1224
+msgid "1 vis M3-20"
 msgstr ""
 
 #: ../../assemblage.rst:1226
-#: ../../assemblage.rst:1257
-msgid "Carte MKS GEN 1.4"
+msgid "3 écrous M3 NYL"
 msgstr ""
 
 #: ../../assemblage.rst:1227
-msgid "4 entretoises M3-12"
+msgid "2 écrous M3"
 msgstr ""
 
 #: ../../assemblage.rst:1228
-msgid "4 rondelles M3 moyennes"
+msgid "1 interrupteur fin de course à lamelle"
 msgstr ""
 
-#: ../../assemblage.rst:1229
-msgid "8 vis M3-8"
+#: ../../assemblage.rst:1230
+msgid "2 écrous M2.5 NYL"
 msgstr ""
 
-#: ../../assemblage.rst:1231
-msgid "Assembler les 4 entretoises sur la carte."
+#: ../../assemblage.rst:1232
+msgid "On utilisera de preference un endstop avec le cable coudé."
 msgstr ""
 
-#: ../../assemblage.rst:1233
-msgid "Pour pouvoir réaliser les derniers réglages facilement, nous vous conseillons de cabler la carte en dehors du chassis. Une fois l'embosseuse fonctionelle, vous pourrez fixer la carte dans le chassis."
+#: ../../assemblage.rst:1237
+msgid "Tarauder le support de la vis de reglage avec un taraud M3"
 msgstr ""
 
-#: ../../assemblage.rst:1238
-msgid "Cablage de la carte électronique"
+#: ../../assemblage.rst:1244
+msgid "Positionner le levier **ENDSTOP_Y_LEVER** dans le support **ENDSTOP_Y_support**."
 msgstr ""
 
-#: ../../assemblage.rst:1239
-msgid "Schéma général :"
+#: ../../assemblage.rst:1251
+msgid "Fixer le levier **ENDSTOP_Y_LEVER** au support **ENDSTOP_Y_support** avec une vis M3-20 et un écrou M3-NYL"
 msgstr ""
 
-#: ../../assemblage.rst:1246
-msgid "Photo de la carte assemblée"
+#: ../../assemblage.rst:1253
+msgid "Ne pas serrer l'ecrou M3, le levier doit pouvoir tourner librement dans son support."
 msgstr ""
 
-#: ../../assemblage.rst:1254
-msgid "Pose des drivers sur la carte électronique"
+#: ../../assemblage.rst:1262
+msgid "Assembler l'interrupteur fin de course et le **ENDSTOP_Y_support** à l'aide des vis M2.5-14 et des écrous M2.5 NYL."
 msgstr ""
 
-#: ../../assemblage.rst:1258
-msgid "2 Drivers DRV8825"
+#: ../../assemblage.rst:1271
+msgid "Positionner la vis de reglage M3-12 sur le levier **ENDSTOP_Y_LEVER_weight**"
 msgstr ""
 
-#: ../../assemblage.rst:1259
-msgid "6 cavaliers"
-msgstr ""
-
-#: ../../assemblage.rst:1261
-msgid "Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y."
-msgstr ""
-
-#: ../../assemblage.rst:1268
-msgid "Enfoncer les drivers dans les emplacements X et Y."
-msgstr ""
-
-#: ../../assemblage.rst:1276
-msgid "Câblage de l'alimentation 12V"
-msgstr ""
-
-#: ../../assemblage.rst:1277
-msgid "placer les 2 fils de provenant de la prise **POWER_plate** dans le bornier de la carte MKS"
-msgstr ""
-
-#: ../../assemblage.rst:1285
-msgid "Réglage des drivers moteur"
+#: ../../assemblage.rst:1278
+msgid "Ajouter un écrou M3-NYL, 2 écrou m3 et une vis M3-12 sur le levier **ENDSTOP_Y_LEVER_weight**"
 msgstr ""
 
 #: ../../assemblage.rst:1286
-msgid "Cette étape doit **IMPERATIVEMENT** être réaliser **avant** le cablage des moteurs."
+msgid "Assembler l'ensemble interrupteur fin de course et le **ENDSTOP_Y_support** sur la caisse à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL."
 msgstr ""
 
-#: ../../assemblage.rst:1288
-msgid "Controler que vous pouvez brancher l'alimentation 12V sur la carte (un dernier controle pour eviter des etincelles c'est mieux :-) )"
+#: ../../assemblage.rst:1298
+msgid "Fixation des clips sur le couvercle"
 msgstr ""
 
-#: ../../assemblage.rst:1289
-msgid "Brancher l'alimentation 12 V sur la carte."
+#: ../../assemblage.rst:1301
+msgid "**Pièce(s) imprimée(s) en 3D** : 2 LID_LOCK"
 msgstr ""
 
-#: ../../assemblage.rst:1290
-msgid "pour chaque driver, mesurer, avec un multimètre, la tension entre le potentiomètre de réglage et la masse de la connexion USB."
-msgstr ""
-
-#: ../../assemblage.rst:1303
-msgid "La tension mesurée doit être proche de 0,6 V pour des drivers DRV8825, si ce n'est pas le cas, utiliser un tournevis pour tourner le potentiomêtre de réglage et refaite la mesure."
-msgstr ""
-
-#: ../../assemblage.rst:1304
-msgid "Une fois que la tension mesurée sur chaque driver est correcte, vous pouvez passer à la suite"
-msgstr ""
-
-#: ../../assemblage.rst:1308
-msgid "Câblage des interrupteurs fin de course"
-msgstr ""
-
-#: ../../assemblage.rst:1309
-msgid "Cabler les fins de courses sur la carte."
-msgstr ""
-
-#: ../../assemblage.rst:1310
-msgid "Le fin de course X (chariot) doit être branché sur le connecteur de gauche (rouge)"
-msgstr ""
-
-#: ../../assemblage.rst:1311
-msgid "Le fin de course Y (détection papier) doit être branché sur le connecteur de gauche (bleu)"
-msgstr ""
-
-#: ../../assemblage.rst:1319
-msgid "Raccordement des moteurs à la carte"
+#: ../../assemblage.rst:1305
+msgid "Assembler les 2 LID_LOCK sur le couvercle à l'aide des vis M3-14, des rondelles M3 et des écrous M3 NYL."
 msgstr ""
 
 #: ../../assemblage.rst:1320
-msgid "Relier les moteurs à la carte de contrôle avec les cables."
+msgid "Fixation de la plaque pour l'embase de l'alimentation"
 msgstr ""
 
-#: ../../assemblage.rst:1321
-msgid "Le moteur X (chariot) doit être branché dans le connecteur de gauche (rouge)"
+#: ../../assemblage.rst:1323
+msgid "**Pièce(s) imprimée(s) en 3D** : POWER_plate"
 msgstr ""
 
-#: ../../assemblage.rst:1328
-msgid "Le moteur Y (papier) doit être branché dans le connecteur de droite (bleu)"
+#: ../../assemblage.rst:1332
+msgid "Preparation des cables moteurs"
 msgstr ""
 
-#: ../../assemblage.rst:1336
-msgid "Câblage de l’électro-aimant"
+#: ../../assemblage.rst:1333
+msgid "2 cables moteurs XH 2.54 4 pins => 6 pins"
 msgstr ""
 
-#: ../../assemblage.rst:1337
-msgid "placer les 2 fils de l'electroaimant et la diode de roue libre. Attention au sens de la diode (trait blanc)."
+#: ../../assemblage.rst:1335
+msgid "Vérifier le schéma de cablage des cables. le cablage est le suivant"
 msgstr ""
 
-#: ../../assemblage.rst:1345
-msgid "Alignement horizontal de l'empreinte du chariot haut"
+#: ../../assemblage.rst:1338
+msgid "coté carte"
 msgstr ""
 
-#: ../../assemblage.rst:1346
-msgid "Dé serrer la poulie sur l’axe vertical pour libérer le chariot supérieur."
+#: ../../assemblage.rst:1338
+msgid "coté moteur"
 msgstr ""
 
-#: ../../assemblage.rst:1353
-msgid "Aligner les 2 chariots"
+#: ../../assemblage.rst:1340
+#: ../../assemblage.rst:1340
+msgid "1"
+msgstr ""
+
+#: ../../assemblage.rst:1341
+msgid "2"
+msgstr ""
+
+#: ../../assemblage.rst:1341
+#: ../../assemblage.rst:1343
+msgid "4"
+msgstr ""
+
+#: ../../assemblage.rst:1342
+#: ../../assemblage.rst:1343
+msgid "3"
+msgstr ""
+
+#: ../../assemblage.rst:1342
+msgid "6"
+msgstr ""
+
+#: ../../assemblage.rst:1351
+msgid "Montage de la carte électronique MKS 1.4"
 msgstr ""
 
 #: ../../assemblage.rst:1354
-#: ../../assemblage.rst:1376
-msgid "Déplacer le chariot supérieur pour aligner l'empreinte (**FEMALE_shape**) avec le sommet du pointeau."
+#: ../../assemblage.rst:1385
+msgid "Carte MKS GEN 1.4"
 msgstr ""
 
 #: ../../assemblage.rst:1355
-msgid "Utiliser les vis de fixation de la **FEMALE_shape** pour aligner l'empreinte avec le sommet du pointeau."
+#: ../../assemblage.rst:1476
+msgid "4 entretoises M3-12"
 msgstr ""
 
 #: ../../assemblage.rst:1356
-msgid "Quand l'alignement est satisfaisant, serrer les vis de fixations de la **FEMALE_shape**."
+#: ../../assemblage.rst:1477
+msgid "4 rondelles M3 moyennes"
+msgstr ""
+
+#: ../../assemblage.rst:1357
+#: ../../assemblage.rst:1478
+msgid "8 vis M3-8"
+msgstr ""
+
+#: ../../assemblage.rst:1359
+#: ../../assemblage.rst:1480
+msgid "Assembler les 4 entretoises sur la carte."
+msgstr ""
+
+#: ../../assemblage.rst:1361
+#: ../../assemblage.rst:1482
+msgid "Pour pouvoir réaliser les derniers réglages facilement, nous vous conseillons de cabler la carte en dehors du chassis. Une fois l'embosseuse fonctionelle, vous pourrez fixer la carte dans le chassis."
 msgstr ""
 
 #: ../../assemblage.rst:1366
-msgid "Alignement vertical des deux chariots"
+msgid "Cablage de la carte électronique MKS 1.4"
 msgstr ""
 
-#: ../../assemblage.rst:1368
-msgid "Dé serrer la poulie du chariot supérieur sur l’axe vertical pour libérer le chariot supérieur."
+#: ../../assemblage.rst:1367
+#: ../../assemblage.rst:1488
+msgid "Schéma général :"
 msgstr ""
 
-#: ../../assemblage.rst:1375
-msgid "En observant par l'arriere de la machine, monter le pointeau en appuyant avec le doigt sous l'electro-aimant."
+#: ../../assemblage.rst:1374
+#: ../../assemblage.rst:1495
+msgid "Photo de la carte assemblée"
 msgstr ""
 
-#: ../../assemblage.rst:1377
-msgid "Logiquement le pointeau doit entrer légérement dans la vis sans tête de la **FEMALE_shape**."
+#: ../../assemblage.rst:1382
+msgid "Pose des drivers sur la carte électronique"
 msgstr ""
 
-#: ../../assemblage.rst:1384
-msgid "Quand l'alignement est satifaisant, verouiller la poulie supérieure sur l'axe vertical."
+#: ../../assemblage.rst:1386
+#: ../../assemblage.rst:1507
+msgid "2 Drivers DRV8825"
 msgstr ""
 
-#: ../../assemblage.rst:1392
-msgid "Ajustement des capteurs de fin de course chariot et papier (X et Y)"
+#: ../../assemblage.rst:1387
+#: ../../assemblage.rst:1508
+msgid "6 cavaliers"
 msgstr ""
 
-#: ../../assemblage.rst:1394
-msgid "Ajuster la position du capteur fin de course X. Le capteur doit s'activer avant que la fixation de la courroie du chariot bas rencontre la poulie inférieure de l'axe verticale."
+#: ../../assemblage.rst:1389
+#: ../../assemblage.rst:1510
+msgid "Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y."
 msgstr ""
 
 #: ../../assemblage.rst:1396
-msgid "Avec une feuille de papier, ajuster le fin de course Y pour que le capteur s'active quand une feuille est présente sous le levier du capteur. Et se désactive si la feuille de papier n'a pas encore déplacée le levier."
+#: ../../assemblage.rst:1517
+msgid "Enfoncer les drivers dans les emplacements X et Y."
 msgstr ""
 
 #: ../../assemblage.rst:1404
+#: ../../assemblage.rst:1525
+msgid "Câblage de l'alimentation 12V"
+msgstr ""
+
+#: ../../assemblage.rst:1405
+msgid "placer les 2 fils de provenant de la prise **POWER_plate** dans le bornier de la carte MKS"
+msgstr ""
+
+#: ../../assemblage.rst:1413
+#: ../../assemblage.rst:1534
+msgid "Réglage des drivers moteur"
+msgstr ""
+
+#: ../../assemblage.rst:1414
+#: ../../assemblage.rst:1535
+msgid "Cette étape doit **IMPERATIVEMENT** être réaliser **avant** le cablage des moteurs."
+msgstr ""
+
+#: ../../assemblage.rst:1416
+#: ../../assemblage.rst:1537
+msgid "Controler que vous pouvez brancher l'alimentation 12V sur la carte (un dernier controle pour eviter des etincelles c'est mieux :-) )"
+msgstr ""
+
+#: ../../assemblage.rst:1417
+#: ../../assemblage.rst:1538
+msgid "Brancher l'alimentation 12 V sur la carte."
+msgstr ""
+
+#: ../../assemblage.rst:1418
+#: ../../assemblage.rst:1539
+msgid "pour chaque driver, mesurer, avec un multimètre, la tension entre le potentiomètre de réglage et la masse de la connexion USB."
+msgstr ""
+
+#: ../../assemblage.rst:1431
+msgid "La tension mesurée doit être proche de 0,6 V pour des drivers DRV8825, si ce n'est pas le cas, utiliser un tournevis pour tourner le potentiomêtre de réglage et refaite la mesure."
+msgstr ""
+
+#: ../../assemblage.rst:1432
+#: ../../assemblage.rst:1553
+msgid "Une fois que la tension mesurée sur chaque driver est correcte, vous pouvez passer à la suite"
+msgstr ""
+
+#: ../../assemblage.rst:1436
+#: ../../assemblage.rst:1557
+msgid "Câblage des interrupteurs fin de course"
+msgstr ""
+
+#: ../../assemblage.rst:1437
+msgid "Cabler les fins de courses sur la carte."
+msgstr ""
+
+#: ../../assemblage.rst:1438
+msgid "Le fin de course X (chariot) doit être branché sur le connecteur de gauche (rouge)"
+msgstr ""
+
+#: ../../assemblage.rst:1439
+msgid "Le fin de course Y (détection papier) doit être branché sur le connecteur de gauche (bleu)"
+msgstr ""
+
+#: ../../assemblage.rst:1447
+msgid "Raccordement des moteurs à la carte"
+msgstr ""
+
+#: ../../assemblage.rst:1448
+#: ../../assemblage.rst:1569
+msgid "Relier les moteurs à la carte de contrôle avec les cables."
+msgstr ""
+
+#: ../../assemblage.rst:1449
+#: ../../assemblage.rst:1570
+msgid "Le moteur X (chariot) doit être branché dans le connecteur de gauche (rouge)"
+msgstr ""
+
+#: ../../assemblage.rst:1456
+#: ../../assemblage.rst:1577
+msgid "Le moteur Y (papier) doit être branché dans le connecteur de droite (bleu)"
+msgstr ""
+
+#: ../../assemblage.rst:1464
+msgid "Câblage de l’électro-aimant"
+msgstr ""
+
+#: ../../assemblage.rst:1465
+msgid "placer les 2 fils de l'electroaimant et la diode de roue libre. Attention au sens de la diode (trait blanc)."
+msgstr ""
+
+#: ../../assemblage.rst:1472
+msgid "Montage de la carte électronique MKS GEN-L V2.1"
+msgstr ""
+
+#: ../../assemblage.rst:1475
+msgid "Carte MKS GEN L V2.1"
+msgstr ""
+
+#: ../../assemblage.rst:1487
+msgid "Cablage de la carte électronique MKS GEN-L V2.1"
+msgstr ""
+
+#: ../../assemblage.rst:1503
+msgid "Pose des drivers sur la carte électronique MKS GEN-L V2.1"
+msgstr ""
+
+#: ../../assemblage.rst:1506
+msgid "Carte MKS GEN-L V2.1"
+msgstr ""
+
+#: ../../assemblage.rst:1526
+msgid "placer les 2 fils de provenant de la prise **POWER_plate** dans le bornier de la carte MKS GEN-L"
+msgstr ""
+
+#: ../../assemblage.rst:1552
+msgid "La tension mesurée doit être proche de 0,6 ~ 0,7 V pour des drivers DRV8825, si ce n'est pas le cas, utiliser un tournevis pour tourner le potentiomêtre de réglage et refaite la mesure."
+msgstr ""
+
+#: ../../assemblage.rst:1558
+msgid "Cabler les fins de courses sur la carte MKS GEN-L."
+msgstr ""
+
+#: ../../assemblage.rst:1559
+msgid "Le fin de course X (chariot) doit être branché sur le connecteur de gauche en haut (rouge)"
+msgstr ""
+
+#: ../../assemblage.rst:1560
+msgid "Le fin de course Y (détection papier) doit être branché sur le connecteur de gauche en bas (bleu)"
+msgstr ""
+
+#: ../../assemblage.rst:1568
+msgid "Raccordement des moteurs à la carte MKS GEN-L"
+msgstr ""
+
+#: ../../assemblage.rst:1585
+msgid "Câblage de l’électro-aimant MKS GEN-L 2.1"
+msgstr ""
+
+#: ../../assemblage.rst:1586
+msgid "placer les 2 fils de l'electroaimant sur le connecteur HBED de la carte MKS GEN-L 2.1."
+msgstr ""
+
+#: ../../assemblage.rst:1594
+msgid "Alignement horizontal de l'empreinte du chariot haut"
+msgstr ""
+
+#: ../../assemblage.rst:1595
+msgid "Dé serrer la poulie sur l’axe vertical pour libérer le chariot supérieur."
+msgstr ""
+
+#: ../../assemblage.rst:1602
+msgid "Aligner les 2 chariots"
+msgstr ""
+
+#: ../../assemblage.rst:1603
+#: ../../assemblage.rst:1625
+msgid "Déplacer le chariot supérieur pour aligner l'empreinte (**FEMALE_shape**) avec le sommet du pointeau."
+msgstr ""
+
+#: ../../assemblage.rst:1604
+msgid "Utiliser les vis de fixation de la **FEMALE_shape** pour aligner l'empreinte avec le sommet du pointeau."
+msgstr ""
+
+#: ../../assemblage.rst:1605
+msgid "Quand l'alignement est satisfaisant, serrer les vis de fixations de la **FEMALE_shape**."
+msgstr ""
+
+#: ../../assemblage.rst:1615
+msgid "Alignement vertical des deux chariots"
+msgstr ""
+
+#: ../../assemblage.rst:1617
+msgid "Dé serrer la poulie du chariot supérieur sur l’axe vertical pour libérer le chariot supérieur."
+msgstr ""
+
+#: ../../assemblage.rst:1624
+msgid "En observant par l'arriere de la machine, monter le pointeau en appuyant avec le doigt sous l'electro-aimant."
+msgstr ""
+
+#: ../../assemblage.rst:1626
+msgid "Logiquement le pointeau doit entrer légérement dans la vis sans tête de la **FEMALE_shape**."
+msgstr ""
+
+#: ../../assemblage.rst:1633
+msgid "Quand l'alignement est satifaisant, verouiller la poulie supérieure sur l'axe vertical."
+msgstr ""
+
+#: ../../assemblage.rst:1641
+msgid "Ajustement des capteurs de fin de course chariot et papier (X et Y)"
+msgstr ""
+
+#: ../../assemblage.rst:1643
+msgid "Ajuster la position du capteur fin de course X. Le capteur doit s'activer avant que la fixation de la courroie du chariot bas rencontre la poulie inférieure de l'axe verticale."
+msgstr ""
+
+#: ../../assemblage.rst:1645
+msgid "Avec une feuille de papier, ajuster le fin de course Y pour que le capteur s'active quand une feuille est présente sous le levier du capteur. Et se désactive si la feuille de papier n'a pas encore déplacée le levier."
+msgstr ""
+
+#: ../../assemblage.rst:1653
 msgid "Réglage de la profondeur du point"
 msgstr ""
 
-#: ../../assemblage.rst:1406
+#: ../../assemblage.rst:1655
 msgid "Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette), vous devrez régler la hauteur de l'empreinte du chariot haut à l'aide de l'écrou borgne. *"
+msgstr ""
+
+#: ../../assemblage.rst:1662
+msgid "Fermeture de la porte arriere"
+msgstr ""
+
+#: ../../assemblage.rst:1664
+msgid "**Pièce(s) imprimée(s) en 3D** : 2 DOORLOCKER.stl"
+msgstr ""
+
+#: ../../assemblage.rst:1668
+msgid "Tarauder les trous de fixation des pieces **DOORLOCKER**"
+msgstr ""
+
+#: ../../assemblage.rst:1673
+msgid "Attacher les **DOORLOCKER** sur la porte arriere. Laisser du jeu pour que les pieces **DOORLOCKER** puissent coulisser."
+msgstr ""
+
+#: ../../assemblage.rst:1678
+msgid "Positionner la porte assemblée sur BrailleRAP."
+msgstr ""
+
+#: ../../assemblage.rst:1679
+msgid "Faire glisser les pieces **DOORLOCKER** sur les trous de fixation pour que la porte soit bloquée."
+msgstr ""
+
+#: ../../assemblage.rst:1680
+msgid "Serrer (doucement) les vis de fixation."
+msgstr ""
+
+#: ../../assemblage.rst:1685
+msgid "Réglage fin des marges X et Y"
+msgstr ""
+
+#: ../../assemblage.rst:1687
+msgid "En utilisant un logiciel comme pronterface, vous pouvez ajuster la distance entre les fins de courses et la position 0 sur le papier. C'est particulièrement utile pour BrailleRAP XL. Les fins de courses sont en dehors du papier, par consequent l'offset doit toujours être négatif."
+msgstr ""
+
+#: ../../assemblage.rst:1690
+msgid "la reference de la commande est disponible ici : '<https://marlinfw.org/docs/gcode/M206.html>'_"
+msgstr ""
+
+#: ../../assemblage.rst:1692
+msgid "pour connaitre les valeurs des offsets:"
+msgstr ""
+
+#: ../../assemblage.rst:1694
+msgid "M206"
+msgstr ""
+
+#: ../../assemblage.rst:1696
+msgid "pour régler l'offset X :"
+msgstr ""
+
+#: ../../assemblage.rst:1698
+msgid "M206 X-xx.xx"
+msgstr ""
+
+#: ../../assemblage.rst:1700
+msgid "pour régler l'offset Y :"
+msgstr ""
+
+#: ../../assemblage.rst:1702
+msgid "M206 Y-xx.xx"
+msgstr ""
+
+#: ../../assemblage.rst:1704
+msgid "Pour sauvegarder ces valeurs en EEPROM utiliser la commande : M500"
 msgstr ""
