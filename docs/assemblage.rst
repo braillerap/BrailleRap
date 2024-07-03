@@ -1678,3 +1678,29 @@ Fermeture de la porte arriere
   * Positionner la porte assemblée sur BrailleRAP. 
   * Faire glisser les pieces **DOORLOCKER** sur les trous de fixation pour que la porte soit bloquée.
   * Serrer (doucement) les vis de fixation.
+
+|
+
+Réglage fin des marges X et Y
+-----------------------------
+
+En utilisant un logiciel comme pronterface, vous pouvez ajuster la distance entre les fins de courses et la position 0 sur le papier. C'est particulièrement utile pour BrailleRAP XL.
+Les fins de courses sont en dehors du papier, par consequent l'offset doit toujours être négatif.
+
+la reference de la commande est disponible ici : '<https://marlinfw.org/docs/gcode/M206.html>'_
+
+pour connaitre les valeurs des offsets:
+
+M206
+
+pour régler l'offset X :
+
+M206 X-xx.xx
+
+pour régler l'offset Y :
+
+M206 Y-xx.xx
+
+Pour sauvegarder ces valeurs en EEPROM utiliser la commande :
+M500
+
