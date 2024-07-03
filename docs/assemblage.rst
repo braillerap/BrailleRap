@@ -58,8 +58,15 @@ Remarques BrailleRAP / BrailleRAP XL
 Il existe désormais 2 modèles de BrailleRAP: BrailleRAP et BrailleRAP XL.
 
 BrailleRAP est la version historique de la machine et peut utiliser des feuilles jusqu'au format **A4**.
+       
+       * Braillerap_v6-5-1_600x400-planche1.svg
+       * Braillerap_v6-5-1_600x400-planche2.svg
 
 BrailleRAP XL est la version agrandie et peut utiliser des feuilles jusqu'au format **A3**.
+       
+       * brapxl-v6-6-planche1_900x400.svg
+       * brapxl-v6-6-planche2_900x400.svg
+
 
 Le montage des 2 modèles est très semblable, les principales différences sont :
 
