@@ -14,7 +14,7 @@ Based on 3d printer controller, BrailleRAP is an open hardware device to emboss 
 
 BrailleRAP is supported by the NlNet foundation.
 <figure>
-<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/logo-sh.svg" alt="NlNet foundation logo" style="width:10% align:center">
+<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/logo-sh.svg" alt="NlNet foundation logo" style="width:256px align:center">
 </figure>
 
 # BrailleRap 6.6
