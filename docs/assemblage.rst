@@ -1038,23 +1038,15 @@ BrailleRAP XL utilise les pièces paper_guide_left_XL et paper_guide_right_XL.
 
 |
 
-* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL.
-
-.. image :: ./IMG/paper_support_assembly_screw_v1.png
-       :align: center
-
-|
 
 * Partie gauche.
 
-* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-12, des rondelles M3 Larges et les écrous M3 NYL.
+* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-14, des rondelles M3 Larges et les écrous M3 NYL.
 
 .. image :: ./IMG/paper_support_assembly_screw_v2.png
        :align: center
 
 |
-
-* Partie gauche.
 
 .. image :: ./IMG/paper_support_assembly_v1.png
        :align: center
@@ -1330,8 +1322,10 @@ Matériel :
        :align: center
 
 |
+
 Preparation des cables moteurs
 ------------------------------
+
 * 2 cables moteurs XH 2.54 4 pins => 6 pins
 
 Vérifier le schéma de cablage des cables. le cablage est le suivant
@@ -1349,6 +1343,7 @@ coté carte coté moteur
        :align: center
 
 |
+
 Montage de la carte électronique MKS 1.4
 ----------------------------------------
 Matériel :
@@ -1470,8 +1465,9 @@ Câblage de l’électro-aimant
        :align: center
 
 |
+
 Montage de la carte électronique MKS GEN-L V2.1
-----------------------------------------
+-----------------------------------------------
 Matériel :
 
   * Carte MKS GEN L V2.1
@@ -1486,7 +1482,7 @@ Matériel :
 |
 
 Cablage de la carte électronique MKS GEN-L V2.1
-----------------------------------------
+-----------------------------------------------
 Schéma général :
 
 .. image :: ./IMG/mksgenl_schema.png
@@ -1660,8 +1656,10 @@ Réglage de la profondeur du point
        :align: center
 
 |
+
 Fermeture de la porte arriere
 -----------------------------
+Matériel :
 
   * **Pièce(s) imprimée(s) en 3D** : 2 DOORLOCKER.stl
   * 4 vis M3-16
