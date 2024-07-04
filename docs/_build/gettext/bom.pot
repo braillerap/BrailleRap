@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-03 21:07+0000\n"
+"POT-Creation-Date: 2024-07-04 19:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -113,10 +113,6 @@ msgstr ""
 #: ../../bom.rst:80
 #: ../../bom.rst:85
 #: ../../bom.rst:87
-#: ../../bom.rst:113
-#: ../../bom.rst:114
-#: ../../bom.rst:115
-#: ../../bom.rst:116
 msgid "1"
 msgstr ""
 
@@ -134,7 +130,6 @@ msgstr ""
 #: ../../bom.rst:79
 #: ../../bom.rst:82
 #: ../../bom.rst:83
-#: ../../bom.rst:112
 msgid "2"
 msgstr ""
 
@@ -252,22 +247,6 @@ msgstr ""
 msgid "Electronique"
 msgstr ""
 
-#: ../../bom.rst:112
-msgid "Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401)"
-msgstr ""
-
 #: ../../bom.rst:113
-msgid "Electro-aimant *tau-826b* 12V 2A"
-msgstr ""
-
-#: ../../bom.rst:114
-msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)"
-msgstr ""
-
-#: ../../bom.rst:115
-msgid "Embase Alimentation jack 2.5"
-msgstr ""
-
-#: ../../bom.rst:116
-msgid "Alimentation 12v 6A"
+msgid "2   Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401) 1   Electro-aimant *tau-826b* 12V 2A 1   MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 https://github.com/makerbase-mks 2   drivers DRV8825 avec radiateur 1   1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4) 1   Embase Alimentation jack 2.5 1   Alimentation 12v 6A === ==========================================================================================="
 msgstr ""
