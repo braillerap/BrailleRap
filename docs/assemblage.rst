@@ -255,8 +255,8 @@ Préparation des supports d’axes
   * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left2
   * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right2
   * 1 foret de 8mm
-  * 8 écrous M3
-  * 8 vis M3-12 sans tête
+  * 6 écrous M3
+  * 6 vis M3-12 sans tête
 
 .. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
 
@@ -354,8 +354,9 @@ Montage de l'electro-aimant sur son support
 	* Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
 	* **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing2
 	* 2 vis M3-8
+       * 2 rondelles M3 moyennes
 
-* Fixer l’électro-aimant sur son support avec les 2 vis M3-8.
+* Fixer l’électro-aimant sur son support avec les 2 vis M3-8 et 2 rondelles M3.
 
 .. ATTENTION:: Respecter le côté de sortie des fils c'est important.
 
@@ -381,9 +382,9 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley
   * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide_fitxxx
   * 3 paliers lineaires IGUS
-  * 6 colliers de serrage 2.5 x 160
+  * 3 colliers de serrage 2.5 x 160
   * 4 écrous M3 NYL
-  * 2 vis M3-18
+  * 2 vis M3-16
   * 2 vis M3-20
 
 
@@ -408,7 +409,7 @@ Matériel :
 
 |
 
-* Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL.
+* Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-16 et 2 écrous M3 NYL.
 
 .. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise. Notez également que le corps de l'electro-aimant doit être le plus perpendiculaire possible à la plaque support (l'axe doit être au milieu du percage qui permet son pasage). 
 
@@ -448,7 +449,6 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** : TOP_trolley
   * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape
   * Taraud M3
-
   * 1 vis sans tête M3-30
   * 1 écrou borgne M3
   * 1 écrou M3
@@ -456,10 +456,9 @@ Matériel :
   * 2 rondelles M3 moyennes
   * 2 vis M3-20
   * 4 écrous M3 NYL
-
-  * 3 IGUS_housing
-  * 6 vis M3-12
-  * 6 écrous M3 NYL
+  * 3 paliers lineaires IGUS
+  * 3 colliers de serrage 2.5 x 160
+  
 
 * Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** empreinte allen.
 
