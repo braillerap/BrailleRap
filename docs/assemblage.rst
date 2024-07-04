@@ -55,6 +55,7 @@ Remarques sur les écrous
 
 Remarques BrailleRAP / BrailleRAP XL
 ------------------------------------
+
 Il existe désormais 2 modèles de BrailleRAP: **BrailleRAP** et **BrailleRAP XL**.
 
 **BrailleRAP** est la version historique de la machine et peut utiliser des feuilles jusqu'au format **A4**.
