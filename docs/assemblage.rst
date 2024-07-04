@@ -526,12 +526,14 @@ Matériel :
 Préparation des rouleaux papier
 -------------------------------
 Matériel BrailleRAP:
+
   * **Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint
   * 1 taraud M3
   * 3 joints toriques
   * 6 vis M3-6 sans tête 
 
 Matériel BrailleRAP XL:
+
   * **Pièce(s) imprimée(s) en 3D** : 4 x ROLL_joint
   * 1 taraud M3
   * 4 joints toriques
@@ -556,6 +558,7 @@ Matériel BrailleRAP XL:
 Préparation des presse-papiers (étape 1) :
 ------------------------------------------
 Matériel BrailleRAP:
+
   * **Pièce(s) imprimée(s) en 3D** : 3 x **clipboard2_support**  3 x **clipboard2** 3 x **CLIPBOARD2_WHEEL**
   * 3 vis M3-25
   * 3 vis M3-20
@@ -563,6 +566,7 @@ Matériel BrailleRAP:
   * 6 ecrous M3-NYL
 
 Matériel BrailleRAP XL:
+
   * **Pièce(s) imprimée(s) en 3D** : 4 x **clipboard2_support**  4 x **clipboard2** 4 x **CLIPBOARD2_WHEEL**
   * 4 vis M3-25
   * 4 vis M3-20
@@ -626,7 +630,6 @@ Fixation Moteur Y :
 -------------------
 
 Matériel :
-
     
     * le moteur Nema 17 monté sur la pièce **YMOTOR_support2_200** + **YMOTOR_support2_200_1** + **YMOTOR_support2_200_2**
     * 4 vis M3-14
@@ -668,8 +671,6 @@ Fixation des supports DROITS des axes
 -------------------------------------
 
 Matériel :
-
-
 
   * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right2
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right2 préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
