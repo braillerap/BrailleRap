@@ -599,7 +599,7 @@ msgstr "2 medium M3 washers"
 msgid ""
 "Fixer l’électro-aimant sur son support avec les 2 vis M3-8 et 2 rondelles"
 " M3."
-msgstr "Fix the electromagnet on its support with the 2 screws M3-8 and 2 M3 washers."
+msgstr "Fix the solenoid on its support with the 2 screws M3-8 and 2 M3 washers."
 
 #: ../../assemblage.rst:361
 msgid "Respecter le côté de sortie des fils c'est important."
@@ -619,7 +619,7 @@ msgstr "Bottom truck prepare (step 1)"
 
 #: ../../assemblage.rst:381
 msgid "Electro-aimant assemblé dans son support"
-msgstr "Electromagnet assembled in its support"
+msgstr "Solenoid assembled in its support"
 
 #: ../../assemblage.rst:382
 msgid "**Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley"
@@ -675,7 +675,7 @@ msgid ""
 "linéaires"
 msgstr ""
 "Lock the IGUS in the groove. Do not overtighten the clamps,they will be "
-"adjusted when the carriage is in place on the railslinear"
+"adjusted when the carriage is in place on the linear rails"
 
 #: ../../assemblage.rst:405
 msgid ""
@@ -692,7 +692,7 @@ msgid ""
 " écrous M3 NYL."
 msgstr ""
 "Assemble the electromagnet (previously mounted in its housing) under the "
-"BOTTOM_trolley and the ELECTRO_MAGNET_guide with two M3-18 screws and two"
+"BOTTOM_trolley and the ELECTRO_MAGNET_guide with two M3-16 screws and two"
 " M3 NYL nuts."
 
 #: ../../assemblage.rst:414
