@@ -541,15 +541,15 @@ msgstr ""
 
 #: ../../assemblage.rst:319
 msgid "On utilisera de préférence un microswitch cablé dans l'alignement."
-msgstr ""
+msgstr "It's better to use a straight aligned wired endswitch."
 
 #: ../../assemblage.rst:328
 msgid "Préparation de l’électro-aimant"
-msgstr "Electromagnet preparation"
+msgstr "Solenoid preparation"
 
 #: ../../assemblage.rst:332
 msgid "1 électro-aimant"
-msgstr "1 electromagnet"
+msgstr "1 solenoid"
 
 #: ../../assemblage.rst:333
 msgid "1 entretoise de 18mm"
@@ -561,7 +561,7 @@ msgstr "1 set screw M3-12 stylus punched (see Preparing the Braille stylus)"
 
 #: ../../assemblage.rst:336
 msgid "1 rondelle M3 moyenne"
-msgstr "1 M3   medium washer"
+msgstr "1 M3 medium washer"
 
 #: ../../assemblage.rst:338
 msgid "Visser l’entretoise à fond sur l’électro-aimant."
@@ -577,11 +577,11 @@ msgstr ""
 
 #: ../../assemblage.rst:353
 msgid "Montage de l'electro-aimant sur son support"
-msgstr "Electro magnet assembly."
+msgstr "Solenoid assembly."
 
 #: ../../assemblage.rst:354
 msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)"
-msgstr "Pre-assembled electromagnet assembly (see Preparing the electromagnet)"
+msgstr "Pre-assembled solenoid assembly (see Preparing the electromagnet)"
 
 #: ../../assemblage.rst:355
 msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing2"
