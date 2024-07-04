@@ -3,6 +3,12 @@
 <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo.png" alt="BrailleRAP image" style="width:50% align:center">
 </figure>
 
+now in 2 differents size **BrailleRAP** and **BrailleRAP XL**
+
+<figure>
+<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo2.jpg" alt="BrailleRAP and BrailleRAP XL image" style="width:50% align:center">
+</figure>
+
 # BrailleRap 6.6
 
 Embosseuse Braille Open Source DIY
