@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-07-03 21:07+0000\n"
+"POT-Creation-Date: 2024-07-04 19:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,7 +39,6 @@ msgid "Les fichiers au format dxf sont disponibles ici"
 msgstr ""
 
 #: ../../bom.rst:12 ../../bom.rst:20
-#, fuzzy
 msgid "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 msgstr ""
 "The dxf files are availables here : "
@@ -58,13 +57,12 @@ msgid "Pour BrailleRAP XL"
 msgstr ""
 
 #: ../../bom.rst:17
-#, fuzzy
 msgid "2 planches de contreplaqué 5mm en 900mm x 400mm."
-msgstr "2 600mm x 400mm 5mm plywood sheets"
+msgstr "2 900mm x 400mm 5mm plywood sheets"
 
 #: ../../bom.rst:20 ../../bom.rst:21
 msgid "lasercut/.svg"
-msgstr ""
+msgstr "lasercut/.svg"
 
 #: ../../bom.rst:24
 msgid "Pièces imprimées"
@@ -108,8 +106,7 @@ msgid "Rail de guidage linéaire ( diamètre 8mm ) **330 mm** length"
 msgstr "Linear rod 8mm diameter **330 mm** length"
 
 #: ../../bom.rst:40 ../../bom.rst:41 ../../bom.rst:59 ../../bom.rst:60
-#: ../../bom.rst:80 ../../bom.rst:85 ../../bom.rst:87 ../../bom.rst:113
-#: ../../bom.rst:114 ../../bom.rst:115 ../../bom.rst:116
+#: ../../bom.rst:80 ../../bom.rst:85 ../../bom.rst:87
 msgid "1"
 msgstr "1"
 
@@ -122,7 +119,7 @@ msgid "Rail de guidage linéaire ( diamètre 8mm ) **100 mm** length"
 msgstr "Linear rod 8mm diameter **100 mm** length"
 
 #: ../../bom.rst:43 ../../bom.rst:62 ../../bom.rst:79 ../../bom.rst:82
-#: ../../bom.rst:83 ../../bom.rst:112
+#: ../../bom.rst:83
 msgid "2"
 msgstr "2"
 
@@ -151,23 +148,20 @@ msgid "..."
 msgstr ""
 
 #: ../../bom.rst:58
-#, fuzzy
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **470 mm** length"
-msgstr "Linear rod 8mm diameter **330 mm** length"
+msgstr "Linear rod 8mm diameter **470 mm** length"
 
 #: ../../bom.rst:59
-#, fuzzy
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **505 mm** length"
-msgstr "Linear rod 8mm diameter **365 mm** length"
+msgstr "Linear rod 8mm diameter **505 mm** length"
 
 #: ../../bom.rst:62
-#, fuzzy
 msgid "960 mm de courroie GT2"
-msgstr "GT2 belt 630 mm"
+msgstr "GT2 belt 960 mm"
 
 #: ../../bom.rst:71
 msgid "Pièces communes BrailleRAP XL / BrailleRAP"
-msgstr ""
+msgstr "Common parts BrailleRAP XL / BrailleRAP"
 
 #: ../../bom.rst:76
 msgid "6"
@@ -249,27 +243,16 @@ msgstr ""
 msgid "Electronique"
 msgstr "Electronics"
 
-#: ../../bom.rst:112
-#, fuzzy
-msgid "Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401)"
-msgstr "Nema 17 40 N/cm with wire (17HS4401)"
-
 #: ../../bom.rst:113
-#, fuzzy
-msgid "Electro-aimant *tau-826b* 12V 2A"
-msgstr "Electro-magnet *tau-826* 12V 2A"
-
-#: ../../bom.rst:114
-msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)"
-msgstr "1N4004  flyback diode  (12V 2A) (only for MKS GEN 1.4)"
-
-#: ../../bom.rst:115
-msgid "Embase Alimentation jack 2.5"
-msgstr "jack 2.5mm alimentation connector"
-
-#: ../../bom.rst:116
-msgid "Alimentation 12v 6A"
-msgstr "12V 6A Alimentation"
+msgid ""
+"2   Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401) 1   Electro-aimant"
+" *tau-826b* 12V 2A 1   MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS "
+"GEN L 2.1 https://github.com/makerbase-mks 2   drivers DRV8825 avec "
+"radiateur 1   1N4004  diode de roue libre ou equivalent (12V 2A) (pour "
+"MKS GEN 1.4) 1   Embase Alimentation jack 2.5 1   Alimentation 12v 6A ==="
+" "
+"==========================================================================================="
+msgstr ""
 
 #~ msgid ""
 #~ "MKS GEN 1.4 ou carte compatible "
@@ -282,4 +265,19 @@ msgstr "12V 6A Alimentation"
 
 #~ msgid "drivers DRV8825 avec radiateur"
 #~ msgstr "DRV8825 drivers with cooling radiator"
+
+#~ msgid "Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401)"
+#~ msgstr "Nema 17 40 N/cm with wire (17HS4401)"
+
+#~ msgid "Electro-aimant *tau-826b* 12V 2A"
+#~ msgstr "Electro-magnet *tau-826* 12V 2A"
+
+#~ msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)"
+#~ msgstr "1N4004  flyback diode  (12V 2A) (only for MKS GEN 1.4)"
+
+#~ msgid "Embase Alimentation jack 2.5"
+#~ msgstr "jack 2.5mm alimentation connector"
+
+#~ msgid "Alimentation 12v 6A"
+#~ msgstr "12V 6A Alimentation"
 

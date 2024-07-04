@@ -255,8 +255,8 @@ Préparation des supports d’axes
   * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_left2
   * **Pièce(s) imprimée(s) en 3D** : TOP_AXIS_right2
   * 1 foret de 8mm
-  * 8 écrous M3
-  * 8 vis M3-12 sans tête
+  * 6 écrous M3
+  * 6 vis M3-12 sans tête
 
 .. ATTENTION:: Selon la qualité d’impression des pièces en plastique, veiller à ce que les barres de 8mm puissent coulisser facilement dans leurs logements. Le cas échéant, percer le trou avec un foret de 8.
 
@@ -354,8 +354,9 @@ Montage de l'electro-aimant sur son support
 	* Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
 	* **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing2
 	* 2 vis M3-8
+       * 2 rondelles M3 moyennes
 
-* Fixer l’électro-aimant sur son support avec les 2 vis M3-8.
+* Fixer l’électro-aimant sur son support avec les 2 vis M3-8 et 2 rondelles M3.
 
 .. ATTENTION:: Respecter le côté de sortie des fils c'est important.
 
@@ -381,9 +382,9 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** : BOTTOM_trolley
   * **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide_fitxxx
   * 3 paliers lineaires IGUS
-  * 6 colliers de serrage 2.5 x 160
+  * 3 colliers de serrage 2.5 x 160
   * 4 écrous M3 NYL
-  * 2 vis M3-18
+  * 2 vis M3-16
   * 2 vis M3-20
 
 
@@ -408,7 +409,7 @@ Matériel :
 
 |
 
-* Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-18 et 2 écrous M3 NYL.
+* Assembler l'électro-aimant (préalablement monté dans son logement) sous le BOTTOM_trolley et le ELECTRO_MAGNET_guide avec les deux vis M3-16 et 2 écrous M3 NYL.
 
 .. ATTENTION:: Selon la qualité de l'impression, il sera peut-être nécessaire de limer le logement de l'entretoise. Notez également que le corps de l'electro-aimant doit être le plus perpendiculaire possible à la plaque support (l'axe doit être au milieu du percage qui permet son pasage). 
 
@@ -448,7 +449,6 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** : TOP_trolley
   * **Pièce(s) imprimée(s) en 3D** : FEMALE_shape
   * Taraud M3
-
   * 1 vis sans tête M3-30
   * 1 écrou borgne M3
   * 1 écrou M3
@@ -456,10 +456,9 @@ Matériel :
   * 2 rondelles M3 moyennes
   * 2 vis M3-20
   * 4 écrous M3 NYL
-
-  * 3 IGUS_housing
-  * 6 vis M3-12
-  * 6 écrous M3 NYL
+  * 3 paliers lineaires IGUS
+  * 3 colliers de serrage 2.5 x 160
+  
 
 * Encoller le pas de vis de l'écrou borgne et visser la vis M3-30 sans tête du côté **SANS** empreinte allen.
 
@@ -526,17 +525,26 @@ Matériel :
 
 Préparation des rouleaux papier
 -------------------------------
+Matériel BrailleRAP:
+
   * **Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint
   * 1 taraud M3
   * 3 joints toriques
   * 6 vis M3-6 sans tête 
+
+Matériel BrailleRAP XL:
+
+  * **Pièce(s) imprimée(s) en 3D** : 4 x ROLL_joint
+  * 1 taraud M3
+  * 4 joints toriques
+  * 8 vis M3-6 sans tête 
   
-  * Tarauder les 3 ROLL_joint.
+  * Tarauder les 3 ou 4 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
        :align: center
 
-* Mettre les joints toriques dans la gorge des 3 ROLL_joint.
+* Mettre les joints toriques dans la gorge des 3 ou 4 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.42.jpg
        :align: center
@@ -549,11 +557,22 @@ Préparation des rouleaux papier
 
 Préparation des presse-papiers (étape 1) :
 ------------------------------------------
+Matériel BrailleRAP:
+
   * **Pièce(s) imprimée(s) en 3D** : 3 x **clipboard2_support**  3 x **clipboard2** 3 x **CLIPBOARD2_WHEEL**
   * 3 vis M3-25
   * 3 vis M3-20
   * 3 ressorts tendeurs de courroie GT2
   * 6 ecrous M3-NYL
+
+Matériel BrailleRAP XL:
+
+  * **Pièce(s) imprimée(s) en 3D** : 4 x **clipboard2_support**  4 x **clipboard2** 4 x **CLIPBOARD2_WHEEL**
+  * 4 vis M3-25
+  * 4 vis M3-20
+  * 4 ressorts tendeurs de courroie GT2
+  * 8 ecrous M3-NYL
+
 
   * Positionner le presse papier **clipboard2** par rapport au support **clipboard2_support**.
 
@@ -611,7 +630,6 @@ Fixation Moteur Y :
 -------------------
 
 Matériel :
-
     
     * le moteur Nema 17 monté sur la pièce **YMOTOR_support2_200** + **YMOTOR_support2_200_1** + **YMOTOR_support2_200_2**
     * 4 vis M3-14
@@ -653,8 +671,6 @@ Fixation des supports DROITS des axes
 -------------------------------------
 
 Matériel :
-
-
 
   * **Pièce(s) imprimée(s) en 3D** :  BOTTOM_AXIS_right2
   * **Pièce(s) imprimée(s) en 3D** :  TOP_AXIS_right2 préparé avec écrou et vis sans tête (cf Préparation de supports d’axes)
@@ -874,9 +890,14 @@ Matériel :
 Montage de la courroie du chariot bas
 --------------------------------------
 
-Matériel :
+Matériel BrailleRAP:
 
   * 1 courroie GT2 longueur ± 620mm
+  * 2 colliers
+
+Matériel BrailleRAP XL:
+
+  * 1 courroie GT2 longueur ± 960mm
   * 2 colliers
 
 * A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur.
