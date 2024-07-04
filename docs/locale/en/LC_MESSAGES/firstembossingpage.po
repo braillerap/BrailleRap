@@ -51,9 +51,8 @@ msgstr ""
 "NatBraille http://natbraille.free.fr"
 
 #: ../../firstembossingpage.rst:12
-#, fuzzy
 msgid "Utilisation de l'application AccessBrailleRap"
-msgstr "Using BrailleRap App"
+msgstr "Using AccessBrailleRAP software"
 
 #: ../../firstembossingpage.rst:13
 msgid "Utiliser le bouton \"Paramêtres\" pour accéder à l'écran de paramétrage"
@@ -64,7 +63,7 @@ msgid ""
 "Choisisser la table Braille de votre choix, le port de communication pour"
 " piloter BrailleRAP, et la langue de l'application"
 msgstr ""
-"Choose the Braille table of your choice, the communication port for"
+"Choose the Braille table of your choice, the communication port to "
 "drive BrailleRAP, and the language of the application"
 
 #: ../../firstembossingpage.rst:23

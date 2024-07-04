@@ -113,14 +113,14 @@ msgstr "Notes on BrailleRAP / BrailleRAP XL"
 
 #: ../../assemblage.rst:58
 msgid "Il existe désormais 2 modèles de BrailleRAP: BrailleRAP et BrailleRAP XL."
-msgstr "BrailleRAP now exist in 2 differents models : BrailleRAP and BrailleRAP XL"
+msgstr "BrailleRAP now exist in 2 differents models : **BrailleRAP** and **BrailleRAP XL**"
 
 #: ../../assemblage.rst:60
 msgid ""
 "BrailleRAP est la version historique de la machine et peut utiliser des "
 "feuilles jusqu'au format **A4**."
 msgstr ""
-"BrailleRAP is the historical version an can use paper "
+"**BrailleRAP** is the historical version an can use paper "
 "sheet  in **A4** or smaller."
 
 #: ../../assemblage.rst:62
@@ -136,7 +136,7 @@ msgid ""
 "BrailleRAP XL est la version agrandie et peut utiliser des feuilles "
 "jusqu'au format **A3**."
 msgstr ""
-"BrailleRAP XL is a bigger version and can use paper "
+"**BrailleRAP XL** is a bigger version and can use paper "
 "sheet in **A3** or smaller."
 
 #: ../../assemblage.rst:67
@@ -161,7 +161,6 @@ msgid "Le montage du plateau papier."
 msgstr "Bonding of the paper tray"
 
 #: ../../assemblage.rst:74
-#, fuzzy
 msgid "Le nombre de rouleaux presse papier."
 msgstr "The number of paper roll"
 
@@ -331,7 +330,6 @@ msgid "Insérer 2 écrous NYL M3 dans la piece imprimée **XMOTOR_support3_1**."
 msgstr "Insert 2 NYL M3 nuts in the printed part **XMOTOR_support3_1**."
 
 #: ../../assemblage.rst:175
-#, fuzzy
 msgid ""
 "Fixer les deux pièces imprimée **XMOTOR_support3_1** et "
 "**XMOTOR_support3** avec deux vis M3-14."
@@ -1032,7 +1030,6 @@ msgstr ""
 "(see Preparation of axis supports)"
 
 #: ../../assemblage.rst:662
-#, fuzzy
 msgid ""
 "Fixer les supports d’axe sur la caisse le BOTTOM_AXIS_right2 (attention à"
 " la position du repère) et TOP_AXIS_right2 à droite en laissant un peu de"
@@ -1588,7 +1585,6 @@ msgid "2 barres lisses Ø 8mm, longueur : 330mm"
 msgstr "2 smooth bars Ø 8mm, length: 330mm"
 
 #: ../../assemblage.rst:1106
-#, fuzzy
 msgid "2 barres lisses Ø 8mm, longueur : 470mm"
 msgstr "2 smooth bars Ø 8mm, length: 470mm"
 
@@ -1641,7 +1637,6 @@ msgid "8 vis M3-14"
 msgstr "8 screws M3-14"
 
 #: ../../assemblage.rst:1198
-#, fuzzy
 msgid "8 rondelles M3 moyennes"
 msgstr "8 medium M3 washers"
 
@@ -2181,7 +2176,6 @@ msgid "Fermeture de la porte arriere"
 msgstr "Closing the rear panel"
 
 #: ../../assemblage.rst:1664
-#, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 DOORLOCKER.stl"
 msgstr "**3D printed parts** :  2 X DOORLOCKER.stl"
 
