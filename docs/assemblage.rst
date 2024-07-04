@@ -73,7 +73,7 @@ Le montage des 2 modèles est très semblable, les principales différences sont
     * Le montage du plateau papier.
     * Le nombre de rouleaux presse papier.
     * les longeurs de barres lineaires et les longueurs de courroie.
-    * BrailleRAP XL demande tout de même un peu plus de rigueur dans l'asemblage mécanique.
+    * BrailleRAP XL demande tout de même un peu plus de rigueur dans l'assemblage mécanique.
 
 |
 
