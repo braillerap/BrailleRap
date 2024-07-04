@@ -893,7 +893,7 @@ msgid ""
 "**clipboard2_support**."
 msgstr ""
 "Position the clipboard **clipboard2** in relation to the "
-"support**clipboard2_support**."
+"support **clipboard2_support**."
 
 #: ../../assemblage.rst:564
 msgid "Positionner le ressort entre **clipboard2** et **clipboard2_support**."
