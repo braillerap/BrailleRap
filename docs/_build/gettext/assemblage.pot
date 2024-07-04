@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-04 15:40+0000\n"
+"POT-Creation-Date: 2024-07-04 15:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -252,10 +252,11 @@ msgstr ""
 #: ../../assemblage.rst:1221
 #: ../../assemblage.rst:1301
 #: ../../assemblage.rst:1323
-#: ../../assemblage.rst:1354
-#: ../../assemblage.rst:1385
-#: ../../assemblage.rst:1475
-#: ../../assemblage.rst:1506
+#: ../../assemblage.rst:1357
+#: ../../assemblage.rst:1388
+#: ../../assemblage.rst:1479
+#: ../../assemblage.rst:1510
+#: ../../assemblage.rst:1670
 msgid "Matériel :"
 msgstr ""
 
@@ -1181,7 +1182,7 @@ msgid "**PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)"
 msgstr ""
 
 #: ../../assemblage.rst:1012
-#: ../../assemblage.rst:1667
+#: ../../assemblage.rst:1673
 msgid "4 vis M3-16"
 msgstr ""
 
@@ -1400,389 +1401,389 @@ msgstr ""
 msgid "**Pièce(s) imprimée(s) en 3D** : POWER_plate"
 msgstr ""
 
-#: ../../assemblage.rst:1334
+#: ../../assemblage.rst:1335
 msgid "Preparation des cables moteurs"
 msgstr ""
 
-#: ../../assemblage.rst:1335
+#: ../../assemblage.rst:1337
 msgid "2 cables moteurs XH 2.54 4 pins => 6 pins"
 msgstr ""
 
-#: ../../assemblage.rst:1337
+#: ../../assemblage.rst:1339
 msgid "Vérifier le schéma de cablage des cables. le cablage est le suivant"
 msgstr ""
 
-#: ../../assemblage.rst:1340
+#: ../../assemblage.rst:1342
 msgid "coté carte"
 msgstr ""
 
-#: ../../assemblage.rst:1340
+#: ../../assemblage.rst:1342
 msgid "coté moteur"
 msgstr ""
 
-#: ../../assemblage.rst:1342
-#: ../../assemblage.rst:1342
+#: ../../assemblage.rst:1344
+#: ../../assemblage.rst:1344
 msgid "1"
 msgstr ""
 
-#: ../../assemblage.rst:1343
+#: ../../assemblage.rst:1345
 msgid "2"
 msgstr ""
 
-#: ../../assemblage.rst:1343
 #: ../../assemblage.rst:1345
+#: ../../assemblage.rst:1347
 msgid "4"
 msgstr ""
 
-#: ../../assemblage.rst:1344
-#: ../../assemblage.rst:1345
+#: ../../assemblage.rst:1346
+#: ../../assemblage.rst:1347
 msgid "3"
 msgstr ""
 
-#: ../../assemblage.rst:1344
+#: ../../assemblage.rst:1346
 msgid "6"
 msgstr ""
 
-#: ../../assemblage.rst:1353
+#: ../../assemblage.rst:1356
 msgid "Montage de la carte électronique MKS 1.4"
 msgstr ""
 
-#: ../../assemblage.rst:1356
-#: ../../assemblage.rst:1387
+#: ../../assemblage.rst:1359
+#: ../../assemblage.rst:1390
 msgid "Carte MKS GEN 1.4"
 msgstr ""
 
-#: ../../assemblage.rst:1357
-#: ../../assemblage.rst:1478
+#: ../../assemblage.rst:1360
+#: ../../assemblage.rst:1482
 msgid "4 entretoises M3-12"
 msgstr ""
 
-#: ../../assemblage.rst:1358
-#: ../../assemblage.rst:1479
+#: ../../assemblage.rst:1361
+#: ../../assemblage.rst:1483
 msgid "4 rondelles M3 moyennes"
 msgstr ""
 
-#: ../../assemblage.rst:1359
-#: ../../assemblage.rst:1480
+#: ../../assemblage.rst:1362
+#: ../../assemblage.rst:1484
 msgid "8 vis M3-8"
 msgstr ""
 
-#: ../../assemblage.rst:1361
-#: ../../assemblage.rst:1482
+#: ../../assemblage.rst:1364
+#: ../../assemblage.rst:1486
 msgid "Assembler les 4 entretoises sur la carte."
 msgstr ""
 
-#: ../../assemblage.rst:1363
-#: ../../assemblage.rst:1484
+#: ../../assemblage.rst:1366
+#: ../../assemblage.rst:1488
 msgid "Pour pouvoir réaliser les derniers réglages facilement, nous vous conseillons de cabler la carte en dehors du chassis. Une fois l'embosseuse fonctionelle, vous pourrez fixer la carte dans le chassis."
 msgstr ""
 
-#: ../../assemblage.rst:1368
+#: ../../assemblage.rst:1371
 msgid "Cablage de la carte électronique MKS 1.4"
 msgstr ""
 
-#: ../../assemblage.rst:1369
-#: ../../assemblage.rst:1490
+#: ../../assemblage.rst:1372
+#: ../../assemblage.rst:1494
 msgid "Schéma général :"
 msgstr ""
 
-#: ../../assemblage.rst:1376
-#: ../../assemblage.rst:1497
+#: ../../assemblage.rst:1379
+#: ../../assemblage.rst:1501
 msgid "Photo de la carte assemblée"
 msgstr ""
 
-#: ../../assemblage.rst:1384
+#: ../../assemblage.rst:1387
 msgid "Pose des drivers sur la carte électronique"
 msgstr ""
 
-#: ../../assemblage.rst:1388
-#: ../../assemblage.rst:1509
+#: ../../assemblage.rst:1391
+#: ../../assemblage.rst:1513
 msgid "2 Drivers DRV8825"
 msgstr ""
 
-#: ../../assemblage.rst:1389
-#: ../../assemblage.rst:1510
+#: ../../assemblage.rst:1392
+#: ../../assemblage.rst:1514
 msgid "6 cavaliers"
 msgstr ""
 
-#: ../../assemblage.rst:1391
-#: ../../assemblage.rst:1512
+#: ../../assemblage.rst:1394
+#: ../../assemblage.rst:1516
 msgid "Si la carte ne vous est pas fournie déjà équipée de cavaliers, en mettre aux emplacements des drivers des moteurs X et Y."
 msgstr ""
 
-#: ../../assemblage.rst:1398
-#: ../../assemblage.rst:1519
+#: ../../assemblage.rst:1401
+#: ../../assemblage.rst:1523
 msgid "Enfoncer les drivers dans les emplacements X et Y."
 msgstr ""
 
-#: ../../assemblage.rst:1406
-#: ../../assemblage.rst:1527
+#: ../../assemblage.rst:1409
+#: ../../assemblage.rst:1531
 msgid "Câblage de l'alimentation 12V"
 msgstr ""
 
-#: ../../assemblage.rst:1407
+#: ../../assemblage.rst:1410
 msgid "placer les 2 fils de provenant de la prise **POWER_plate** dans le bornier de la carte MKS"
 msgstr ""
 
-#: ../../assemblage.rst:1415
-#: ../../assemblage.rst:1536
+#: ../../assemblage.rst:1418
+#: ../../assemblage.rst:1540
 msgid "Réglage des drivers moteur"
 msgstr ""
 
-#: ../../assemblage.rst:1416
-#: ../../assemblage.rst:1537
+#: ../../assemblage.rst:1419
+#: ../../assemblage.rst:1541
 msgid "Cette étape doit **IMPERATIVEMENT** être réaliser **avant** le cablage des moteurs."
 msgstr ""
 
-#: ../../assemblage.rst:1418
-#: ../../assemblage.rst:1539
+#: ../../assemblage.rst:1421
+#: ../../assemblage.rst:1543
 msgid "Controler que vous pouvez brancher l'alimentation 12V sur la carte (un dernier controle pour eviter des etincelles c'est mieux :-) )"
 msgstr ""
 
-#: ../../assemblage.rst:1419
-#: ../../assemblage.rst:1540
+#: ../../assemblage.rst:1422
+#: ../../assemblage.rst:1544
 msgid "Brancher l'alimentation 12 V sur la carte."
 msgstr ""
 
-#: ../../assemblage.rst:1420
-#: ../../assemblage.rst:1541
+#: ../../assemblage.rst:1423
+#: ../../assemblage.rst:1545
 msgid "pour chaque driver, mesurer, avec un multimètre, la tension entre le potentiomètre de réglage et la masse de la connexion USB."
 msgstr ""
 
-#: ../../assemblage.rst:1433
+#: ../../assemblage.rst:1436
 msgid "La tension mesurée doit être proche de 0,6 V pour des drivers DRV8825, si ce n'est pas le cas, utiliser un tournevis pour tourner le potentiomêtre de réglage et refaite la mesure."
 msgstr ""
 
-#: ../../assemblage.rst:1434
-#: ../../assemblage.rst:1555
+#: ../../assemblage.rst:1437
+#: ../../assemblage.rst:1559
 msgid "Une fois que la tension mesurée sur chaque driver est correcte, vous pouvez passer à la suite"
 msgstr ""
 
-#: ../../assemblage.rst:1438
-#: ../../assemblage.rst:1559
+#: ../../assemblage.rst:1441
+#: ../../assemblage.rst:1563
 msgid "Câblage des interrupteurs fin de course"
 msgstr ""
 
-#: ../../assemblage.rst:1439
+#: ../../assemblage.rst:1442
 msgid "Cabler les fins de courses sur la carte."
 msgstr ""
 
-#: ../../assemblage.rst:1440
+#: ../../assemblage.rst:1443
 msgid "Le fin de course X (chariot) doit être branché sur le connecteur de gauche (rouge)"
 msgstr ""
 
-#: ../../assemblage.rst:1441
+#: ../../assemblage.rst:1444
 msgid "Le fin de course Y (détection papier) doit être branché sur le connecteur de gauche (bleu)"
 msgstr ""
 
-#: ../../assemblage.rst:1449
+#: ../../assemblage.rst:1452
 msgid "Raccordement des moteurs à la carte"
 msgstr ""
 
-#: ../../assemblage.rst:1450
-#: ../../assemblage.rst:1571
+#: ../../assemblage.rst:1453
+#: ../../assemblage.rst:1575
 msgid "Relier les moteurs à la carte de contrôle avec les cables."
 msgstr ""
 
-#: ../../assemblage.rst:1451
-#: ../../assemblage.rst:1572
+#: ../../assemblage.rst:1454
+#: ../../assemblage.rst:1576
 msgid "Le moteur X (chariot) doit être branché dans le connecteur de gauche (rouge)"
 msgstr ""
 
-#: ../../assemblage.rst:1458
-#: ../../assemblage.rst:1579
+#: ../../assemblage.rst:1461
+#: ../../assemblage.rst:1583
 msgid "Le moteur Y (papier) doit être branché dans le connecteur de droite (bleu)"
 msgstr ""
 
-#: ../../assemblage.rst:1466
+#: ../../assemblage.rst:1469
 msgid "Câblage de l’électro-aimant"
 msgstr ""
 
-#: ../../assemblage.rst:1467
+#: ../../assemblage.rst:1470
 msgid "placer les 2 fils de l'electroaimant et la diode de roue libre. Attention au sens de la diode (trait blanc)."
 msgstr ""
 
-#: ../../assemblage.rst:1474
+#: ../../assemblage.rst:1478
 msgid "Montage de la carte électronique MKS GEN-L V2.1"
 msgstr ""
 
-#: ../../assemblage.rst:1477
+#: ../../assemblage.rst:1481
 msgid "Carte MKS GEN L V2.1"
 msgstr ""
 
-#: ../../assemblage.rst:1489
+#: ../../assemblage.rst:1493
 msgid "Cablage de la carte électronique MKS GEN-L V2.1"
 msgstr ""
 
-#: ../../assemblage.rst:1505
+#: ../../assemblage.rst:1509
 msgid "Pose des drivers sur la carte électronique MKS GEN-L V2.1"
 msgstr ""
 
-#: ../../assemblage.rst:1508
+#: ../../assemblage.rst:1512
 msgid "Carte MKS GEN-L V2.1"
 msgstr ""
 
-#: ../../assemblage.rst:1528
+#: ../../assemblage.rst:1532
 msgid "placer les 2 fils de provenant de la prise **POWER_plate** dans le bornier de la carte MKS GEN-L"
 msgstr ""
 
-#: ../../assemblage.rst:1554
+#: ../../assemblage.rst:1558
 msgid "La tension mesurée doit être proche de 0,6 ~ 0,7 V pour des drivers DRV8825, si ce n'est pas le cas, utiliser un tournevis pour tourner le potentiomêtre de réglage et refaite la mesure."
 msgstr ""
 
-#: ../../assemblage.rst:1560
+#: ../../assemblage.rst:1564
 msgid "Cabler les fins de courses sur la carte MKS GEN-L."
 msgstr ""
 
-#: ../../assemblage.rst:1561
+#: ../../assemblage.rst:1565
 msgid "Le fin de course X (chariot) doit être branché sur le connecteur de gauche en haut (rouge)"
 msgstr ""
 
-#: ../../assemblage.rst:1562
+#: ../../assemblage.rst:1566
 msgid "Le fin de course Y (détection papier) doit être branché sur le connecteur de gauche en bas (bleu)"
 msgstr ""
 
-#: ../../assemblage.rst:1570
+#: ../../assemblage.rst:1574
 msgid "Raccordement des moteurs à la carte MKS GEN-L"
 msgstr ""
 
-#: ../../assemblage.rst:1587
+#: ../../assemblage.rst:1591
 msgid "Câblage de l’électro-aimant MKS GEN-L 2.1"
 msgstr ""
 
-#: ../../assemblage.rst:1588
+#: ../../assemblage.rst:1592
 msgid "placer les 2 fils de l'electroaimant sur le connecteur HBED de la carte MKS GEN-L 2.1."
 msgstr ""
 
-#: ../../assemblage.rst:1596
+#: ../../assemblage.rst:1600
 msgid "Alignement horizontal de l'empreinte du chariot haut"
 msgstr ""
 
-#: ../../assemblage.rst:1597
+#: ../../assemblage.rst:1601
 msgid "Dé serrer la poulie sur l’axe vertical pour libérer le chariot supérieur."
 msgstr ""
 
-#: ../../assemblage.rst:1604
+#: ../../assemblage.rst:1608
 msgid "Aligner les 2 chariots"
 msgstr ""
 
-#: ../../assemblage.rst:1605
-#: ../../assemblage.rst:1627
+#: ../../assemblage.rst:1609
+#: ../../assemblage.rst:1631
 msgid "Déplacer le chariot supérieur pour aligner l'empreinte (**FEMALE_shape**) avec le sommet du pointeau."
 msgstr ""
 
-#: ../../assemblage.rst:1606
+#: ../../assemblage.rst:1610
 msgid "Utiliser les vis de fixation de la **FEMALE_shape** pour aligner l'empreinte avec le sommet du pointeau."
 msgstr ""
 
-#: ../../assemblage.rst:1607
+#: ../../assemblage.rst:1611
 msgid "Quand l'alignement est satisfaisant, serrer les vis de fixations de la **FEMALE_shape**."
 msgstr ""
 
-#: ../../assemblage.rst:1617
+#: ../../assemblage.rst:1621
 msgid "Alignement vertical des deux chariots"
 msgstr ""
 
-#: ../../assemblage.rst:1619
+#: ../../assemblage.rst:1623
 msgid "Dé serrer la poulie du chariot supérieur sur l’axe vertical pour libérer le chariot supérieur."
 msgstr ""
 
-#: ../../assemblage.rst:1626
+#: ../../assemblage.rst:1630
 msgid "En observant par l'arriere de la machine, monter le pointeau en appuyant avec le doigt sous l'electro-aimant."
 msgstr ""
 
-#: ../../assemblage.rst:1628
+#: ../../assemblage.rst:1632
 msgid "Logiquement le pointeau doit entrer légérement dans la vis sans tête de la **FEMALE_shape**."
 msgstr ""
 
-#: ../../assemblage.rst:1635
+#: ../../assemblage.rst:1639
 msgid "Quand l'alignement est satifaisant, verouiller la poulie supérieure sur l'axe vertical."
 msgstr ""
 
-#: ../../assemblage.rst:1643
+#: ../../assemblage.rst:1647
 msgid "Ajustement des capteurs de fin de course chariot et papier (X et Y)"
 msgstr ""
 
-#: ../../assemblage.rst:1645
+#: ../../assemblage.rst:1649
 msgid "Ajuster la position du capteur fin de course X. Le capteur doit s'activer avant que la fixation de la courroie du chariot bas rencontre la poulie inférieure de l'axe verticale."
 msgstr ""
 
-#: ../../assemblage.rst:1647
+#: ../../assemblage.rst:1651
 msgid "Avec une feuille de papier, ajuster le fin de course Y pour que le capteur s'active quand une feuille est présente sous le levier du capteur. Et se désactive si la feuille de papier n'a pas encore déplacée le levier."
 msgstr ""
 
-#: ../../assemblage.rst:1655
+#: ../../assemblage.rst:1659
 msgid "Réglage de la profondeur du point"
 msgstr ""
 
-#: ../../assemblage.rst:1657
+#: ../../assemblage.rst:1661
 msgid "Selon le matériau que vous utiliserez (papier, plastique, aluminium de canette), vous devrez régler la hauteur de l'empreinte du chariot haut à l'aide de l'écrou borgne. *"
 msgstr ""
 
-#: ../../assemblage.rst:1664
+#: ../../assemblage.rst:1669
 msgid "Fermeture de la porte arriere"
 msgstr ""
 
-#: ../../assemblage.rst:1666
+#: ../../assemblage.rst:1672
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 DOORLOCKER.stl"
 msgstr ""
 
-#: ../../assemblage.rst:1670
+#: ../../assemblage.rst:1676
 msgid "Tarauder les trous de fixation des pieces **DOORLOCKER**"
 msgstr ""
 
-#: ../../assemblage.rst:1675
+#: ../../assemblage.rst:1681
 msgid "Attacher les **DOORLOCKER** sur la porte arriere. Laisser du jeu pour que les pieces **DOORLOCKER** puissent coulisser."
 msgstr ""
 
-#: ../../assemblage.rst:1680
+#: ../../assemblage.rst:1686
 msgid "Positionner la porte assemblée sur BrailleRAP."
 msgstr ""
 
-#: ../../assemblage.rst:1681
+#: ../../assemblage.rst:1687
 msgid "Faire glisser les pieces **DOORLOCKER** sur les trous de fixation pour que la porte soit bloquée."
 msgstr ""
 
-#: ../../assemblage.rst:1682
+#: ../../assemblage.rst:1688
 msgid "Serrer (doucement) les vis de fixation."
 msgstr ""
 
-#: ../../assemblage.rst:1687
+#: ../../assemblage.rst:1693
 msgid "Réglage fin des marges X et Y"
 msgstr ""
 
-#: ../../assemblage.rst:1689
+#: ../../assemblage.rst:1695
 msgid "En utilisant un logiciel comme pronterface, vous pouvez ajuster la distance entre les fins de courses et la position 0 sur le papier. C'est particulièrement utile pour BrailleRAP XL. Les fins de courses sont en dehors du papier, par consequent l'offset doit toujours être négatif."
 msgstr ""
 
-#: ../../assemblage.rst:1692
+#: ../../assemblage.rst:1698
 msgid "la reference de la commande est disponible ici : '<https://marlinfw.org/docs/gcode/M206.html>'_"
 msgstr ""
 
-#: ../../assemblage.rst:1694
+#: ../../assemblage.rst:1700
 msgid "pour connaitre les valeurs des offsets:"
 msgstr ""
 
-#: ../../assemblage.rst:1696
+#: ../../assemblage.rst:1702
 msgid "M206"
 msgstr ""
 
-#: ../../assemblage.rst:1698
+#: ../../assemblage.rst:1704
 msgid "pour régler l'offset X :"
 msgstr ""
 
-#: ../../assemblage.rst:1700
+#: ../../assemblage.rst:1706
 msgid "M206 X-xx.xx"
 msgstr ""
 
-#: ../../assemblage.rst:1702
+#: ../../assemblage.rst:1708
 msgid "pour régler l'offset Y :"
 msgstr ""
 
-#: ../../assemblage.rst:1704
+#: ../../assemblage.rst:1710
 msgid "M206 Y-xx.xx"
 msgstr ""
 
-#: ../../assemblage.rst:1706
+#: ../../assemblage.rst:1712
 msgid "Pour sauvegarder ces valeurs en EEPROM utiliser la commande : M500"
 msgstr ""
