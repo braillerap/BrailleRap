@@ -525,17 +525,24 @@ Matériel :
 
 Préparation des rouleaux papier
 -------------------------------
+Matériel BrailleRAP:
   * **Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint
   * 1 taraud M3
   * 3 joints toriques
   * 6 vis M3-6 sans tête 
+
+Matériel BrailleRAP XL:
+  * **Pièce(s) imprimée(s) en 3D** : 4 x ROLL_joint
+  * 1 taraud M3
+  * 4 joints toriques
+  * 8 vis M3-6 sans tête 
   
-  * Tarauder les 3 ROLL_joint.
+  * Tarauder les 3 ou 4 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
        :align: center
 
-* Mettre les joints toriques dans la gorge des 3 ROLL_joint.
+* Mettre les joints toriques dans la gorge des 3 ou 4 ROLL_joint.
 
 .. image :: ./IMG/BrailleRAP-V5.42.jpg
        :align: center
@@ -548,11 +555,20 @@ Préparation des rouleaux papier
 
 Préparation des presse-papiers (étape 1) :
 ------------------------------------------
+Matériel BrailleRAP:
   * **Pièce(s) imprimée(s) en 3D** : 3 x **clipboard2_support**  3 x **clipboard2** 3 x **CLIPBOARD2_WHEEL**
   * 3 vis M3-25
   * 3 vis M3-20
   * 3 ressorts tendeurs de courroie GT2
   * 6 ecrous M3-NYL
+
+Matériel BrailleRAP XL:
+  * **Pièce(s) imprimée(s) en 3D** : 4 x **clipboard2_support**  4 x **clipboard2** 4 x **CLIPBOARD2_WHEEL**
+  * 4 vis M3-25
+  * 4 vis M3-20
+  * 4 ressorts tendeurs de courroie GT2
+  * 8 ecrous M3-NYL
+
 
   * Positionner le presse papier **clipboard2** par rapport au support **clipboard2_support**.
 
@@ -873,9 +889,14 @@ Matériel :
 Montage de la courroie du chariot bas
 --------------------------------------
 
-Matériel :
+Matériel BrailleRAP:
 
   * 1 courroie GT2 longueur ± 620mm
+  * 2 colliers
+
+Matériel BrailleRAP XL:
+
+  * 1 courroie GT2 longueur ± 960mm
   * 2 colliers
 
 * A l’aide d’un collier, attacher la courroie autour de la vis du chariot avec les dents à l’extérieur.
