@@ -4,7 +4,7 @@
 </figure>
 
 
-Based on 3d printer controller, BrailleRAP is an open hardware device to emboss Braille text or Vector graphics. You can use software like [AccessBrailleRAP](https://github.com/braillerap/AccessBrailleRAP) or [DesktopBraileRAP](https://github.com/braillerap/DesktopBrailleRAP) to build tangible document with the device.
+Based on 3d printer controller, BrailleRAP is an open hardware device to emboss Braille text or Vector graphics. You can use software like [AccessBrailleRAP](https://github.com/braillerap/AccessBrailleRAP) or [DesktopBrailleRAP](https://github.com/braillerap/DesktopBrailleRAP) to build tangible document with the device.
 
 
 BrailleRAP now exist in 2 differents size **BrailleRAP** and **BrailleRAP XL**
