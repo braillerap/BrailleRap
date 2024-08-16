@@ -14,8 +14,12 @@ BrailleRAP now exist in 2 differents size **BrailleRAP** and **BrailleRAP XL**
 </figure>
 
 # BrailleRAP is supported by the NLnet foundation.
+<figure>
+    <a href="https://nlnet.nl/">
+        <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/logo-nl.png" alt="NLnet foundation logo" style="width:50% align:center">
+    </a>
+</figure>
 
-[![NLnet foundation logo](https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/logo-sh.png '')](https://nlnet.nl/)
 
 # BrailleRap 6.6
 
