@@ -3,16 +3,17 @@
 <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo.png" alt="BrailleRAP image" style="width:50% align:center">
 </figure>
 
-Now in 2 differents size **BrailleRAP** and **BrailleRAP XL**
+
+Based on 3d printer controller, BrailleRAP is an open hardware device to emboss Braille text or Vector graphics. You can use software like [AccessBrailleRAP](https://github.com/braillerap/AccessBrailleRAP) or [DesktopBraileRAP](https://github.com/braillerap/DesktopBrailleRAP) to build tangible document with the device.
+
+
+BrailleRAP now exist in 2 differents size **BrailleRAP** and **BrailleRAP XL**
 
 <figure>
 <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo2.jpg" alt="BrailleRAP and BrailleRAP XL image" style="width:50% align:center">
 </figure>
 
-
-Based on 3d printer controller, BrailleRAP is an open hardware device to emboss Braille text or Vector graphics. You can use software like AccessBrailleRAP or DesktopBraileRAP to build tangible document with the device.
-
-BrailleRAP is supported by the NLnet foundation.
+# BrailleRAP is supported by the NLnet foundation.
 
 [![NLnet foundation logo](https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/logo-sh.png '')](https://nlnet.nl/)
 
