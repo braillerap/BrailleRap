@@ -28,7 +28,7 @@ msgstr "Laser cutting"
 
 #: ../../bom.rst:8 ../../bom.rst:34
 msgid "Pour BrailleRAP"
-msgstr ""
+msgstr "For BrailleRAP"
 
 #: ../../bom.rst:9
 msgid "2 planches de contreplaqué 5mm en 600mm x 400mm."
@@ -36,13 +36,12 @@ msgstr "2 600mm x 400mm 5mm plywood sheets"
 
 #: ../../bom.rst:13 ../../bom.rst:21
 msgid "Les fichiers au format dxf sont disponibles ici"
-msgstr ""
+msgstr "The dxf files are availables here : "
 
 #: ../../bom.rst:12 ../../bom.rst:20
 msgid "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
-msgstr ""
-"The dxf files are availables here : "
-"https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
+msgstr "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
+
 
 #: ../../bom.rst:12
 msgid "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
