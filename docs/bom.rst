@@ -17,8 +17,8 @@ Pour BrailleRAP XL
 2 planches de contreplaqué 5mm en 900mm x 400mm.
 
 Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/BrailleRap/tree/master/lasercut
-   * lasercut/.svg
-   * lasercut/.svg
+   * lasercut/brapxl-v6.6-planche1_900x400.svg
+   * lasercut/brapxl-v6-6-planche2_900x400.svg
 
 Pièces imprimées
 ----------------
