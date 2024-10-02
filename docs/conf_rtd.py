@@ -59,9 +59,9 @@ copyright = u'CERN licence V1.2'
 author = u'BrailleRAP team'
 
 # The short X.Y version
-version = u'6.5'
+version = u'6.6'
 # The full version, including alpha/beta/rc tags
-release = u'6.5'
+release = u'6.6'
 
 
 # -- General configuration ---------------------------------------------------
