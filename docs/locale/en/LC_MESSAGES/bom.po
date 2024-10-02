@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-07-04 19:51+0000\n"
+"POT-Creation-Date: 2024-10-02 19:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.16.0\n"
 
 # Stephane <contact@braillerap.org>, 2018.
 #: ../../bom.rst:2
@@ -42,7 +42,6 @@ msgstr "The dxf files are availables here : "
 msgid "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 msgstr "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 
-
 #: ../../bom.rst:12
 msgid "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
 msgstr "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
@@ -59,9 +58,15 @@ msgstr "For BrailleRAP XL"
 msgid "2 planches de contreplaqué 5mm en 900mm x 400mm."
 msgstr "2 900mm x 400mm 5mm plywood sheets"
 
-#: ../../bom.rst:20 ../../bom.rst:21
-msgid "lasercut/.svg"
-msgstr "lasercut/.svg"
+#: ../../bom.rst:20
+#, fuzzy
+msgid "lasercut/brapxl-v6.6-planche1_900x400.svg"
+msgstr "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
+
+#: ../../bom.rst:21
+#, fuzzy
+msgid "lasercut/brapxl-v6-6-planche2_900x400.svg"
+msgstr "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
 
 #: ../../bom.rst:24
 msgid "Pièces imprimées"
@@ -105,7 +110,8 @@ msgid "Rail de guidage linéaire ( diamètre 8mm ) **330 mm** length"
 msgstr "Linear rod 8mm diameter **330 mm** length"
 
 #: ../../bom.rst:40 ../../bom.rst:41 ../../bom.rst:59 ../../bom.rst:60
-#: ../../bom.rst:80 ../../bom.rst:85 ../../bom.rst:87
+#: ../../bom.rst:80 ../../bom.rst:85 ../../bom.rst:87 ../../bom.rst:113
+#: ../../bom.rst:114 ../../bom.rst:116 ../../bom.rst:117 ../../bom.rst:118
 msgid "1"
 msgstr "1"
 
@@ -118,7 +124,7 @@ msgid "Rail de guidage linéaire ( diamètre 8mm ) **100 mm** length"
 msgstr "Linear rod 8mm diameter **100 mm** length"
 
 #: ../../bom.rst:43 ../../bom.rst:62 ../../bom.rst:79 ../../bom.rst:82
-#: ../../bom.rst:83
+#: ../../bom.rst:83 ../../bom.rst:112 ../../bom.rst:115
 msgid "2"
 msgstr "2"
 
@@ -229,6 +235,7 @@ msgid ""
 msgstr ""
 "MKS GEN-L (Mega2560) board and 2 DRV8825 drivers https://github.com"
 "/makerbase-mks"
+
 #: ../../bom.rst:101
 msgid ""
 "Une carte MKS TinyBee (ESP32) et 2 drivers TMC2209 https://github.com"
@@ -241,56 +248,72 @@ msgstr ""
 msgid ""
 "D'autres configuration sont possibles, mais vous devrez effectuer la "
 "configuration du firmware vous même"
-msgstr "Many other board configuration are availables. But you will need to build a firmware for it."
+msgstr ""
+"Many other board configuration are availables. But you will need to build"
+" a firmware for it."
 
 #: ../../bom.rst:107
 msgid "Electronique"
 msgstr "Electronics"
 
+#: ../../bom.rst:112
+msgid "Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401)."
+msgstr "Nema 17 Motors 40N/cm 40mm with wire (17hs4401)"
+
 #: ../../bom.rst:113
+msgid "Electro-aimant *tau-826b* 12V 2A."
+msgstr "Solenoid *tau-826b* 12V 2A."
+
+#: ../../bom.rst:114
 msgid ""
-"2   Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401) 1   Electro-aimant"
-" *tau-826b* 12V 2A 1   MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS "
-"GEN L 2.1 https://github.com/makerbase-mks 2   drivers DRV8825 avec "
-"radiateur 1   1N4004  diode de roue libre ou equivalent (12V 2A) (pour "
-"MKS GEN 1.4) 1   Embase Alimentation jack 2.5 1   Alimentation 12v 6A ==="
-" "
-"==========================================================================================="
+"MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 "
+"https://github.com/makerbase-mks."
 msgstr ""
-"2   Nema 17 40 N/cm 40mm with wire (17HS4401)"
-"1   Solenoid *tau-826b* 12V 2A"
-"1   MKS GEN 1.4 or equivalent board Ramps 1.4 ou MKS GEN L 2.1 https://github.com/makerbase-mks"
-"2   DRV8825 drivers with dissipator"
-"1   1N4004  diode de roue libre ou equivalent (12V 2A) (for MKS GEN 1.4)"
-"1   Power supply Female jack 2.5"   
-"1   Power supply 12v 6A"
-" "
-"==========================================================================================="
+"MKS GEN 1.4 board or Ramps 1.4  compatible or MKS GEN L 2.1 "
+"https://github.com/makerbase-mks."
 
-#msgid ""
-#"MKS GEN 1.4 ou carte compatible "
-#"Ramps 1.4 ou MKS GEN L 2.1 "
-#"https://github.com/makerbase-mks"
-#msgstr ""
-#"MKS GEN 1.4 or Ramps 1.4 "
-#"compatible or MKS GEN L 2.1 "
-#"https://github.com/makerbase-mks"
+#: ../../bom.rst:115
+msgid "drivers DRV8825 avec radiateur."
+msgstr "DRV8825 drivers with dissipator"
 
-#msgid "drivers DRV8825 avec radiateur"
-#msgstr "DRV8825 drivers with cooling radiator"
+#: ../../bom.rst:116
+msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)."
+msgstr "free wheel diod 1n4004 or equivalent (12v 2A) (only for MKS GEN 1.4)"
 
-#msgid "Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401)"
-#msgstr "Nema 17 40 N/cm with wire (17HS4401)"
+#: ../../bom.rst:117
+msgid "Embase Alimentation jack 2.5."
+msgstr "Power supply female jack 2.5"
 
-#msgid "Electro-aimant *tau-826b* 12V 2A"
-#msgstr "Solenoid *tau-826* 12V 2A"
+#: ../../bom.rst:118
+msgid "Alimentation 12v 6A."
+msgstr "12V 6A power supply"
 
-#msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)"
-#msgstr "1N4004  flyback diode  (12V 2A) (only for MKS GEN 1.4)"
+#~ msgid "lasercut/.svg"
+#~ msgstr "lasercut/.svg"
 
-#msgid "Embase Alimentation jack 2.5"
-#msgstr "jack 2.5mm Power supply connector"
-
-#msgid "Alimentation 12v 6A"
-#msgstr "12V 6A Power supply"
+#~ msgid ""
+#~ "2   Moteurs Nema 17 40 N/cm 40mm"
+#~ " avec câble (17HS4401) 1   Electro-"
+#~ "aimant *tau-826b* 12V 2A 1   MKS"
+#~ " GEN 1.4 ou carte compatible Ramps"
+#~ " 1.4 ou MKS GEN L 2.1 "
+#~ "https://github.com/makerbase-mks 2   drivers "
+#~ "DRV8825 avec radiateur 1   1N4004  diode"
+#~ " de roue libre ou equivalent (12V "
+#~ "2A) (pour MKS GEN 1.4) 1   Embase"
+#~ " Alimentation jack 2.5 1   Alimentation "
+#~ "12v 6A === "
+#~ "==========================================================================================="
+#~ msgstr ""
+#~ "2   Nema 17 40 N/cm 40mm with "
+#~ "wire (17HS4401)1   Solenoid *tau-826b* "
+#~ "12V 2A1   MKS GEN 1.4 or "
+#~ "equivalent board Ramps 1.4 ou MKS "
+#~ "GEN L 2.1 https://github.com/makerbase-mks2"
+#~ "   DRV8825 drivers with dissipator1   "
+#~ "1N4004  diode de roue libre ou "
+#~ "equivalent (12V 2A) (for MKS GEN "
+#~ "1.4)1   Power supply Female jack 2.51"
+#~ "   Power supply 12v 6A "
+#~ "==========================================================================================="
 
