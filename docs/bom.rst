@@ -117,6 +117,7 @@ Qty Type
 1   1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)
 1   Embase Alimentation jack 2.5
 1   Alimentation 12v 6A 
+
 === ===========================================================================================
 
 
