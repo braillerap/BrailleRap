@@ -59,9 +59,9 @@ copyright = u'CERN licence V1.2'
 author = u'BrailleRAP team'
 
 # The short X.Y version
-version = u'6.5'
+version = u'6.6'
 # The full version, including alpha/beta/rc tags
-release = u'6.5'
+release = u'6.6'
 
 
 # -- General configuration ---------------------------------------------------
@@ -99,7 +99,7 @@ locale_dirs = [
     'locale/',
 ]
 gettext_compact = False
-gettext_uuid = False
+gettext_uuid = True
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path .
