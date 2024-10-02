@@ -209,35 +209,40 @@ msgstr "Zip tie selflock 2.5 x 160 mm"
 
 #: ../../bom.rst:96
 msgid "Carte controleur"
-msgstr ""
+msgstr "Controller board"
 
 #: ../../bom.rst:97
 msgid "En fonction de vos souhaits vous pouvez utiliser au choix :"
-msgstr ""
+msgstr "You can use one of the following :"
 
 #: ../../bom.rst:99
 msgid ""
 "Une carte MKS GEN 1.4 (Mega2560) et 2 drivers DRV8825 https://github.com"
 "/makerbase-mks"
 msgstr ""
+"MKS GEN 1.4 (Mega2560) board and 2 DRV8825 drivers https://github.com"
+"/makerbase-mks"
 
 #: ../../bom.rst:100
 msgid ""
 "Une carte MKS GEN-L (Mega2560) et 2 drivers DRV8825 https://github.com"
 "/makerbase-mks"
 msgstr ""
-
+"MKS GEN-L (Mega2560) board and 2 DRV8825 drivers https://github.com"
+"/makerbase-mks"
 #: ../../bom.rst:101
 msgid ""
 "Une carte MKS TinyBee (ESP32) et 2 drivers TMC2209 https://github.com"
 "/makerbase-mks"
 msgstr ""
+"MKS TinyBee (ESP32) board and 2 TMC2209 drivers https://github.com"
+"/makerbase-mks"
 
 #: ../../bom.rst:103
 msgid ""
 "D'autres configuration sont possibles, mais vous devrez effectuer la "
 "configuration du firmware vous même"
-msgstr ""
+msgstr "Many other board configuration are availables. But you will need to build a firmware for it."
 
 #: ../../bom.rst:107
 msgid "Electronique"
@@ -253,6 +258,15 @@ msgid ""
 " "
 "==========================================================================================="
 msgstr ""
+"2   Nema 17 40 N/cm 40mm with wire (17HS4401)"
+"1   Solenoid *tau-826b* 12V 2A"
+"1   MKS GEN 1.4 or equivalent board Ramps 1.4 ou MKS GEN L 2.1 https://github.com/makerbase-mks"
+"2   DRV8825 drivers with dissipator"
+"1   1N4004  diode de roue libre ou equivalent (12V 2A) (for MKS GEN 1.4)"
+"1   Power supply Female jack 2.5"   
+"1   Power supply 12v 6A"
+" "
+"==========================================================================================="
 
 #msgid ""
 #"MKS GEN 1.4 ou carte compatible "
