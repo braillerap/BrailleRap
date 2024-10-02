@@ -46,15 +46,15 @@ msgstr ""
 
 #: ../../bom.rst:12
 msgid "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
-msgstr ""
+msgstr "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
 
 #: ../../bom.rst:13
 msgid "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
-msgstr ""
+msgstr "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
 
 #: ../../bom.rst:16 ../../bom.rst:53
 msgid "Pour BrailleRAP XL"
-msgstr ""
+msgstr "For BrailleRAP XL"
 
 #: ../../bom.rst:17
 msgid "2 planches de contreplaqué 5mm en 900mm x 400mm."
