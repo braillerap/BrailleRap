@@ -1,6 +1,6 @@
 
 <figure>
-<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo.png" alt="BrailleRAP image" style="width:50%; align:center;">
+<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo.png" alt="BrailleRAP image" style="width:75%; align:center;">
 </figure>
 
 # BrailleRAP
@@ -10,13 +10,13 @@ Based on the [RepRap 3d printer controller](https://reprap.org/wiki/RepRap), Bra
 BrailleRAP now exist in 2 different sizes: **BrailleRAP** and **BrailleRAP XL**. <!-- Explain what the sizes are here. -->
 
 <figure>
-<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo2.jpg" alt="BrailleRAP and BrailleRAP XL image" style="width:50%; align:center;">
+<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo2.jpg" alt="BrailleRAP and BrailleRAP XL image" style="width:75%; align:center;">
 </figure>
 
 ## BrailleRAP is supported by the NLnet foundation.
 <figure>
     <a href="https://nlnet.nl/">
-        <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/logo-sh.png" alt="NLnet foundation logo" style="width:50%; align:center;"/>
+        <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/logo-sh.png" alt="NLnet foundation logo" style="width:30%; align:center;"/>
     </a>
 </figure>
 
