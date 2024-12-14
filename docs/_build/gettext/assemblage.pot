@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-04 20:40+0000\n"
+"POT-Creation-Date: 2024-10-02 19:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1462,7 +1462,6 @@ msgstr ""
 msgid "coté moteur"
 msgstr ""
 
-#: ../../assemblage.rst:1358
 #: ../../assemblage.rst:1358
 msgid "1"
 msgstr ""
