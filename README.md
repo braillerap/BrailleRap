@@ -5,7 +5,7 @@
 
 # BrailleRAP
 
-Based on a [RepRap 3d printer controller](https://reprap.org/wiki/RepRap), [BrailleRAP](https://github.com/braillerap/BrailleRap) is an open hardware device to emboss Braille text and/or Vector graphics. You can use software like [AccessBrailleRAP](https://github.com/braillerap/AccessBrailleRAP) or [DesktopBrailleRAP](https://github.com/braillerap/DesktopBrailleRAP) to translate text in Braille and build tangible documents with the device.
+Based on a [RepRap 3d printer controller](https://reprap.org/wiki/RepRap), [BrailleRAP](https://github.com/braillerap/BrailleRap) is an open hardware device to emboss Braille text and/or Vector graphics. You can use software like [AccessBrailleRAP](https://github.com/braillerap/AccessBrailleRAP) or [DesktopBrailleRAP](https://github.com/braillerap/DesktopBrailleRAP) to translate text in Braille and build tangible documents with the device. Some tools like [OpenStreetTouch](https://github.com/braillerap/OpenStreetTouch) can help you extract data from [OpenStreetMap](https://www.openstreetmap.org) to build public transport guide or small area city map.
 
 BrailleRAP now exist in 2 different sizes: **BrailleRAP** and **BrailleRAP XL**. 
 - **BrailleRAP** emboss sheet up to 210x297 mm. Lightweight, a completed device will weight less than 5 kg and fit in cabin travel case. 
