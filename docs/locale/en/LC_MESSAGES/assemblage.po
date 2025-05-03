@@ -8,12 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-17 16:07+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-05-03 19:28+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"braillerap-building-manual/manual_assemblage/en/>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.10.1\n"
 
 #: ../../assemblage.rst:2
@@ -851,6 +855,7 @@ msgstr "Mounting the vertical axis (step 1)"
 #: ../../assemblage.rst:558
 msgid "**Pièces** : ensemble XMOTOR_support2, XMOTOR_support2_1 et Moteur"
 msgstr ""
+"**parts**: assembled XMOTOR_support2, XMOTOR_support2_1 and stepper motor"
 
 #: ../../assemblage.rst:559
 msgid "3 vis M3-16"
@@ -885,6 +890,8 @@ msgid ""
 "le moteur Nema 17 monté sur la pièce **YMOTOR_support2_200** + "
 "**YMOTOR_support2_200_1** + **YMOTOR_support2_200_2**"
 msgstr ""
+"the Nema17 stepper motor mounted on **YMOTOR_support2_200** + "
+"**YMOTOR_support2_200_1** + **YMOTOR_support2_200_2**"
 
 #: ../../assemblage.rst:582 ../../assemblage.rst:604 ../../assemblage.rst:626
 #: ../../assemblage.rst:963 ../../assemblage.rst:1192
@@ -2012,4 +2019,3 @@ msgstr ""
 
 #~ msgid "4 vis M3-12"
 #~ msgstr "4 M3-12 screw"
-
