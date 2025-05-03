@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-17 16:07+0000\n"
-"PO-Revision-Date: 2025-05-03 19:28+0000\n"
+"PO-Revision-Date: 2025-05-04 13:27+0000\n"
 "Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
 "Language-Team: English <https://translate.codeberg.org/projects/"
 "braillerap-building-manual/manual_assemblage/en/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../assemblage.rst:2
 msgid "Manuel de montage BrailleRAP"
-msgstr "BrailleRAP building manual  "
+msgstr "BrailleRAP building manual"
 
 #: ../../assemblage.rst:5
 msgid "Outillages necessaires"
@@ -50,7 +50,7 @@ msgstr "3mm drill."
 
 #: ../../assemblage.rst:12
 msgid "Clés 6 pans 1.5, 2, 2.5 et 4."
-msgstr "Hex keys 1.5, 2, 2.5 and 4"
+msgstr "Hex keys 1.5, 2, 2.5 and 4."
 
 #: ../../assemblage.rst:13
 msgid "Clés à tube 5.5 et 8."
@@ -59,11 +59,11 @@ msgstr "Tube wrenches 5.5 and 8."
 #: ../../assemblage.rst:14 ../../assemblage.rst:65 ../../assemblage.rst:90
 #: ../../assemblage.rst:104
 msgid "Colle à bois."
-msgstr "wood glue"
+msgstr "wood glue."
 
 #: ../../assemblage.rst:15 ../../assemblage.rst:66
 msgid "Scotch de peintre."
-msgstr "Adhesive Blue tape"
+msgstr "Adhesive Blue tape."
 
 #: ../../assemblage.rst:19
 msgid "Remarques sur les vis"
@@ -108,8 +108,8 @@ msgid ""
 "**Ecrou M3 NYL** ou **ecrou M5 NYL** désignent des ecrous **frein** de "
 "diamêtre 3mm ou 5mm"
 msgstr ""
-"**M3 NYL nut** or **M5 NYL nut** refer to **locking** nuts of diameter "
-"3mm or 5mm "
+"**M3 NYL nut** or **M5 NYL nut** refer to **locking** nuts of diameter 3mm "
+"or 5mm"
 
 #: ../../assemblage.rst:57
 msgid "Collage de la caisse en bois"
@@ -125,7 +125,7 @@ msgstr "FACE (5mm laser cut plywood)."
 
 #: ../../assemblage.rst:61
 msgid "BACK (contre-plaqué de 5mm découpé au laser)."
-msgstr "BACK () 5mm laser cut plywood"
+msgstr "BACK (5mm laser cut plywood)."
 
 #: ../../assemblage.rst:62
 msgid "BOTTOM (contre-plaqué de 5mm découpé au laser)."
@@ -137,7 +137,7 @@ msgstr "LEFT_SIDE (5mm laser cut plywood)."
 
 #: ../../assemblage.rst:64
 msgid "RIGHT_SIDE (contre-plaqué de 5mm découpé au laser)."
-msgstr "RIGHT_SIDE  (5mm laser cut plywood)."
+msgstr "RIGHT_SIDE (5mm laser cut plywood)."
 
 #: ../../assemblage.rst:68
 msgid "Préparer les 5 éléments: FACE, BACK, LEFT_SIDE, RIGHT_SIDE et BOTTOM."
@@ -208,10 +208,10 @@ msgid ""
 " coincer). Bien serrer les pièces l'une contre l'autre avec des pinces de"
 " serrages"
 msgstr ""
-"the 2 parts must be perfectly aligned. Place screws in drillings to "
-"properly align the parts. There must not be any of space between the two "
-"pieces (where the sheet of paper could come jam). Tighten the parts well "
-"against each other with clamps "
+"the 2 parts must be perfectly aligned. Place screws in drillings to properly "
+"align the parts. There must not be any of space between the two pieces ("
+"where the sheet of paper could come jam). Tighten the parts well against "
+"each other with clamps."
 
 #: ../../assemblage.rst:122
 msgid "Préparation du pointeau Braille"
@@ -247,7 +247,7 @@ msgstr ""
 
 #: ../../assemblage.rst:137
 msgid "Préparation Moteur X"
-msgstr "X Motor prepare "
+msgstr "X Motor prepare."
 
 #: ../../assemblage.rst:140
 msgid "**Pièce(s) imprimée(s) en 3D** :  XMOTOR_support2 ou XMOTOR_support2_1"
@@ -286,8 +286,8 @@ msgid ""
 "Fixer le moteur dans son support avec 4 vis M3-8. Ne pas serrer les vis, "
 "le moteur doit conserver un peu de jeu, il sera fixé ultérieurement."
 msgstr ""
-"Fix the motor in its support with 4 M3-8 screws. Do not tighten the "
-"screws, the motor  must be free to move, it will be tighten later."
+"Fix the motor in its support with 4 M3-8 screws. Do not tighten the screws, "
+"the motor must be free to move, it will be tighten later."
 
 #: ../../assemblage.rst:167
 msgid "Attention à l'orientation du connecteur du moteur !"
@@ -295,7 +295,7 @@ msgstr "Pay attention to the orientation of the motor connector!"
 
 #: ../../assemblage.rst:170
 msgid "Préparation Moteur Y"
-msgstr "Y Motor prepare "
+msgstr "Y Motor prepare."
 
 #: ../../assemblage.rst:174
 msgid ""
@@ -307,7 +307,7 @@ msgstr ""
 
 #: ../../assemblage.rst:176
 msgid "1 poulie GT2 20 dents bore 5mm"
-msgstr "1  pulley GT2 20 teeth  5mm bore"
+msgstr "1 pulley GT2 20 teeth 5mm bore"
 
 #: ../../assemblage.rst:178 ../../assemblage.rst:423
 msgid "2 vis M3-12"
@@ -444,7 +444,7 @@ msgstr "1 M3 nuts"
 
 #: ../../assemblage.rst:273 ../../assemblage.rst:1130
 msgid "2 vis M2.5-14"
-msgstr "2  M2.5-14 screw"
+msgstr "2 M2.5-14 screw"
 
 #: ../../assemblage.rst:274
 msgid "2 écrous M2.5"
@@ -492,7 +492,7 @@ msgstr "1 set screw M3-12 stylus punched (see Preparing the Braille stylus)"
 
 #: ../../assemblage.rst:305
 msgid "1 rondelle M3 moyenne"
-msgstr "1 M3   medium washer"
+msgstr "1 M3 medium washer"
 
 #: ../../assemblage.rst:307
 msgid "Visser l’entretoise à fond sur l’électro-aimant."
@@ -508,7 +508,7 @@ msgstr ""
 
 #: ../../assemblage.rst:322
 msgid "Montage de l'electro-aimant sur son support"
-msgstr "Electro magnet assembly."
+msgstr "Solenoid assembly."
 
 #: ../../assemblage.rst:323
 msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)"
@@ -516,7 +516,7 @@ msgstr "Pre-assembled electromagnet assembly (see Preparing the electromagnet)"
 
 #: ../../assemblage.rst:324
 msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing"
-msgstr "**3D printed parts** :  ELECTRO_MAGNET_housing"
+msgstr "**3D printed parts** : ELECTRO_MAGNET_housing"
 
 #: ../../assemblage.rst:325
 msgid "2 vis M3-8"
@@ -552,7 +552,7 @@ msgstr "**3D printed part** : BOTTOM_trolley"
 
 #: ../../assemblage.rst:351
 msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_guide"
-msgstr "**3D printed parts** :  ELECTRO_MAGNET_guide"
+msgstr "**3D printed parts** : ELECTRO_MAGNET_guide"
 
 #: ../../assemblage.rst:352
 msgid "3 paliers lineaires IGUS"
@@ -568,7 +568,7 @@ msgstr "4 NYL M3 nuts"
 
 #: ../../assemblage.rst:355
 msgid "2 vis M3-18"
-msgstr "2  M3-18 screw"
+msgstr "2 M3-18 screw"
 
 #: ../../assemblage.rst:356 ../../assemblage.rst:425 ../../assemblage.rst:644
 msgid "2 vis M3-20"
@@ -837,8 +837,8 @@ msgid ""
 "Assembler le rouleau avec **CLIPBOARD2_WHEEL** avec **clipboard2** à "
 "l'aide une vis M3-20 et d'un écrou M3-NYL."
 msgstr ""
-"Assemble roller with **CLIPBOARD2_WHEEL** with **clipboard2**  using an "
-"M3-20 screw and an M3-NYL nut."
+"Assemble roller with **CLIPBOARD2_WHEEL** with **clipboard2** using an M3-20 "
+"screw and an M3-NYL nut."
 
 #: ../../assemblage.rst:547
 msgid ""
@@ -850,7 +850,7 @@ msgstr ""
 
 #: ../../assemblage.rst:554
 msgid "Préparation de l’axe vertical (étape 1)"
-msgstr "Mounting the vertical axis (step 1)"
+msgstr "Vertical axis setup (step 1)"
 
 #: ../../assemblage.rst:558
 msgid "**Pièces** : ensemble XMOTOR_support2, XMOTOR_support2_1 et Moteur"
@@ -968,10 +968,9 @@ msgid ""
 "jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront "
 "serrées quand l'ensemble sera en place."
 msgstr ""
-"Fix rod supports on the box with BOTTOM_AXIS_right and TOP_AXIS_right on "
-"the right with leaving some mechanical clearance  (screw + washer outside"
-" and nut inside). The screws will be tight when all parts will be in "
-"place."
+"Fix rod supports on the box with BOTTOM_AXIS_right and TOP_AXIS_right on the "
+"right with leaving some mechanical clearance (screw + washer outside and nut "
+"inside). The screws will be tight when all parts will be in place."
 
 #: ../../assemblage.rst:639
 msgid "Fixation des tendeurs de courroie"
@@ -999,11 +998,11 @@ msgstr "Leave a gap of ± 5mm."
 
 #: ../../assemblage.rst:667
 msgid "Assemblage des poulies libres de renvoi"
-msgstr "Free pulleys assembly "
+msgstr "Free pulleys assembly"
 
 #: ../../assemblage.rst:671
 msgid "2 poulies libres 20 dents bore 3mm"
-msgstr "2 free pulleys 20  teeth 3mm bore"
+msgstr "2 free pulleys 20 teeth 3mm bore"
 
 #: ../../assemblage.rst:672
 msgid "2 vis M3-25"
@@ -1071,7 +1070,7 @@ msgstr "Mounting the vertical axis (step 1)"
 
 #: ../../assemblage.rst:724
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 X KP08_support"
-msgstr "**3D printed parts** :  2 X KP08_support"
+msgstr "**3D printed parts** : 2 X KP08_support"
 
 #: ../../assemblage.rst:725
 msgid "2 KP08"
@@ -1083,7 +1082,7 @@ msgstr "4 M5-25 screw"
 
 #: ../../assemblage.rst:727 ../../assemblage.rst:880
 msgid "4 rondelles M5"
-msgstr " 4 M5 washer"
+msgstr "4 M5 washer"
 
 #: ../../assemblage.rst:728 ../../assemblage.rst:879
 msgid "4 écrous M5 NYL"
@@ -1122,7 +1121,7 @@ msgstr "1 linear shaft Ø 8mm, length : 100mm"
 
 #: ../../assemblage.rst:760
 msgid "1 Coupleur 5*8mm"
-msgstr "1  5*8mm Coupler"
+msgstr "1 5*8mm Coupler"
 
 #: ../../assemblage.rst:762
 msgid "Enfiler le coupleur sur l’arbre du moteur (trou Ø 5mm en bas)."
@@ -1133,8 +1132,8 @@ msgid ""
 "Enfiler la barre lisse de 100mm depuis le haut à travers les KP08 et dans"
 " le coupleur."
 msgstr ""
-"Thread the  100mm linear shaft from the top through the KP08 and into the"
-" coupler."
+"Thread the 100mm linear shaft from the top through the KP08 and into the "
+"coupler."
 
 #: ../../assemblage.rst:776
 msgid ""
@@ -1379,7 +1378,7 @@ msgstr "**3D printed parts** : PAPER_GUIDE_right"
 
 #: ../../assemblage.rst:961
 msgid "**PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)"
-msgstr "**PAPER_support** (laser cut 5mm plywood)."
+msgstr "**PAPER_support** (laser cut 5mm plywood)"
 
 #: ../../assemblage.rst:962
 msgid "4 vis M3-16"
@@ -1660,7 +1659,7 @@ msgstr ""
 
 #: ../../assemblage.rst:1238
 msgid "Cablage de la carte électronique"
-msgstr "Electronic board wiring "
+msgstr "Electronic board wiring"
 
 #: ../../assemblage.rst:1239
 msgid "Schéma général :"
