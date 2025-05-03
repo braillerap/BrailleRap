@@ -9,7 +9,7 @@ Based on a [RepRap 3d printer controller](https://reprap.org/wiki/RepRap), [Brai
 
 BrailleRAP now exist in 2 different sizes: **BrailleRAP** and **BrailleRAP XL**. 
 - **BrailleRAP** emboss sheet up to 210x297 mm. Lightweight, a completed device will weight less than 5 kg and fit in cabin travel case. 
-- **BrailleRAP XL** emboss sheet up to 297x420 mm. A larger surface if you need more place to emboss vector graphics. 
+- **BrailleRAP XL** emboss sheet up to 297x420 mm. A larger surface if you need more space to emboss vector graphics. 
 
 <figure>
 <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/github_logo2.jpg" alt="BrailleRAP and BrailleRAP XL image" style="width:75%; align:center;">
