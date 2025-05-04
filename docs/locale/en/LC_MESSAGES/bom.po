@@ -3,24 +3,27 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-15 21:43+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-05-04 13:27+0000\n"
+"Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"braillerap-building-manual/manual_bom/en/>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.10.1\n"
 
 # Stephane <contact@braillerap.org>, 2018.
 #: ../../bom.rst:2
 msgid "Liste du matériel"
-msgstr "Bill Off Material"
+msgstr "Bill of Materials"
 
 #: ../../bom.rst:5
 msgid "Découpe laser"
@@ -35,8 +38,8 @@ msgid ""
 "Les fichiers au format dxf sont disponibles ici : "
 "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 msgstr ""
-"The dxf files are availables here : "
-"https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
+"The dxf files are available here : https://github.com/BrailleRap/BrailleRap/"
+"tree/master/lasercut"
 
 #: ../../bom.rst:12
 msgid "Pièces imprimées"
@@ -56,8 +59,8 @@ msgid ""
 "Les fichiers au format stl sont ici : "
 "https://github.com/braillerap/BrailleRap/tree/master/printed_parts"
 msgstr ""
-"The stl files are availables here : "
-"https://github.com/braillerap/BrailleRap/tree/master/printed_parts"
+"The stl files are available here : https://github.com/braillerap/BrailleRap/"
+"tree/master/printed_parts"
 
 #: ../../bom.rst:19
 msgid "Pièces mécaniques"
@@ -160,11 +163,11 @@ msgstr "Zip tie selflock 2.5 x 160 mm"
 
 #: ../../bom.rst:48
 msgid "Ressorts tendeurs de courroie GT2"
-msgstr "GT2 tensionner springs"
+msgstr "GT2 tensioner springs"
 
 #: ../../bom.rst:49
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: ../../bom.rst:54
 msgid "Electronique"
@@ -180,7 +183,7 @@ msgstr ""
 
 #: ../../bom.rst:60
 msgid "drivers DRV8825 avec radiateur"
-msgstr "DRV8825 drivers with cooling radiator"
+msgstr "DRV8825 drivers with heat sinks"
 
 #: ../../bom.rst:61
 msgid "Nema 17 40 N/cm avec câble (17HS4401)"
@@ -188,7 +191,7 @@ msgstr "Nema 17 40 N/cm with wire (17HS4401)"
 
 #: ../../bom.rst:62
 msgid "Electro-aimant *tau-826* 12V 2A"
-msgstr "Electro-magnet *tau-826* 12V 2A"
+msgstr "Solenoid Electromagnet *tau-826* 12V 2A"
 
 #: ../../bom.rst:63
 msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)"
@@ -196,9 +199,8 @@ msgstr "1N4004  flyback diode  (12V 2A) (only for MKS GEN 1.4)"
 
 #: ../../bom.rst:64
 msgid "Embase Alimentation jack 2.5"
-msgstr "jack 2.5mm alimentation connector"
+msgstr "2.5mm Female power supply jack"
 
 #: ../../bom.rst:65
 msgid "Alimentation 12v 6A"
-msgstr "12V 6A Alimentation"
-
+msgstr "12V 6A Power supply"
