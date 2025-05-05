@@ -331,9 +331,9 @@ Matériel :
 
   * 1 électro-aimant
   * 1 entretoise de 18mm
-  * 1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau mâle)
+  * 1 vis sans tête M3-16 pointeau limée (cf Préparation du pointeau mâle)
   * 1 écrou M3
-  * 1 rondelle M3 moyenne
+  * 1 rondelle M3 
 
 * Visser l’entretoise à fond sur l’électro-aimant.
 
@@ -342,7 +342,7 @@ Matériel :
 
 |
 
-* Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise.
+* Visser la vis M3-16 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise.
 
 .. image :: ./IMG/BrailleRAP-V5.17.png
        :align: center
@@ -354,7 +354,7 @@ Montage de l'electro-aimant sur son support
 	* Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
 	* **Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing2
 	* 2 vis M3-8
-       * 2 rondelles M3 moyennes
+       * 2 rondelles M3
 
 * Fixer l’électro-aimant sur son support avec les 2 vis M3-8 et 2 rondelles M3.
 
@@ -453,7 +453,7 @@ Matériel :
   * 1 écrou borgne M3
   * 1 écrou M3
   * 2 vis M3-12
-  * 2 rondelles M3 moyennes
+  * 2 rondelles M3
   * 2 vis M3-20
   * 4 écrous M3 NYL
   * 3 paliers lineaires IGUS
@@ -1204,14 +1204,14 @@ Matériel **BrailleRAP**:
 
   * 3 CLIPBOARD montés à l'étape 1
   * 6 vis M3-14
-  * 6 rondelles M3 moyennes
+  * 6 rondelles M3 Larges
   * 6 écrous M3 NYL
 
 Matériel **BrailleRAP XL**:
   
   * 4 CLIPBOARD montés à l'étape 1
   * 8 vis M3-14
-  * 8 rondelles M3 moyennes
+  * 8 rondelles M3 Larges
   * 8 écrous M3 NYL
 
 .. NOTE:: Les trous oblongs dans les pièces imprimées permettent de régler la pression des CLIPBOARD sur le papier.
@@ -1238,7 +1238,7 @@ Matériel :
   * 2 vis M3-14
   * 2 vis M3-12
   * 1 vis M3-20
-  * 2 rondelles M3 moyennes
+  * 2 rondelles M3 Larges
   * 3 écrous M3 NYL
   * 2 écrous M3 
   * 1 interrupteur fin de course à lamelle
@@ -1372,7 +1372,7 @@ Matériel :
 
   * Carte MKS GEN 1.4
   * 4 entretoises M3-12
-  * 4 rondelles M3 moyennes
+  * 4 rondelles M3 Larges
   * 8 vis M3-8
 
 * Assembler les 4 entretoises sur la carte. 
@@ -1494,7 +1494,7 @@ Matériel :
 
   * Carte MKS GEN L V2.1
   * 4 entretoises M3-12
-  * 4 rondelles M3 moyennes
+  * 4 rondelles M3 Larges
   * 8 vis M3-8
 
 * Assembler les 4 entretoises sur la carte. 
