@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-05-05 18:57+0000\n"
+"POT-Creation-Date: 2025-05-05 19:05+0000\n"
 "PO-Revision-Date: 2025-05-05 13:24+0000\n"
 "Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
 "Language: en\n"
@@ -36,8 +36,8 @@ msgstr "For BrailleRAP"
 msgid "2 planches de contreplaqué 5mm en 600mm x 400mm."
 msgstr "2 600mm x 400mm 5mm plywood sheets"
 
-#: ../../bom.rst:14
-msgid "Les fichiers méchants au format dxf sont disponibles ici"
+#: ../../bom.rst:14 ../../bom.rst:23
+msgid "Les fichiers au format dxf sont disponibles ici"
 msgstr ""
 
 #: ../../bom.rst:13 ../../bom.rst:22
@@ -63,10 +63,6 @@ msgstr "For BrailleRAP XL"
 #: ../../bom.rst:18
 msgid "2 planches de contreplaqué 5mm en 900mm x 400mm."
 msgstr "2 900mm x 400mm 5mm plywood sheets"
-
-#: ../../bom.rst:23
-msgid "Les fichiers gentils au format dxf sont disponibles ici"
-msgstr ""
 
 #: ../../bom.rst:21
 msgid "lasercut/brapxl-v6.6-planche1_900x400.svg"
@@ -307,4 +303,10 @@ msgstr "12V 6A power supply"
 
 #~ msgid "Alimentation 12v 6A"
 #~ msgstr "12V 6A Power supply"
+
+#~ msgid "Les fichiers méchants au format dxf sont disponibles ici"
+#~ msgstr ""
+
+#~ msgid "Les fichiers gentils au format dxf sont disponibles ici"
+#~ msgstr ""
 

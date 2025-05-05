@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-05 18:57+0000\n"
+"POT-Creation-Date: 2025-05-05 19:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,8 @@ msgid "2 planches de contreplaqué 5mm en 600mm x 400mm."
 msgstr ""
 
 #: ../../bom.rst:14
-msgid "Les fichiers méchants au format dxf sont disponibles ici"
+#: ../../bom.rst:23
+msgid "Les fichiers au format dxf sont disponibles ici"
 msgstr ""
 
 #: ../../bom.rst:13
@@ -56,10 +57,6 @@ msgstr ""
 
 #: ../../bom.rst:18
 msgid "2 planches de contreplaqué 5mm en 900mm x 400mm."
-msgstr ""
-
-#: ../../bom.rst:23
-msgid "Les fichiers gentils au format dxf sont disponibles ici"
 msgstr ""
 
 #: ../../bom.rst:21
