@@ -353,7 +353,7 @@ Montage de l'electro-aimant sur son support
 -------------------------------------------
 
 Matériel :
-	* Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)
+	* Ensemble électro-aimant pré assemblé (cf Préparation de l'électro-aimant)
 	* **Pièce(s) imprimée(s) en 3D ** : ELECTRO_MAGNET_housing2
 	* 2 vis M3-8
        * 2 rondelles M3
