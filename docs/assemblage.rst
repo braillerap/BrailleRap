@@ -356,6 +356,7 @@ Montage de l'electro-aimant sur son support
 	* 2 vis M3-8
        * 2 rondelles M3
 
+
 * Fixer l’électro-aimant sur son support avec les 2 vis M3-8 et 2 rondelles M3.
 
 .. ATTENTION:: Respecter le côté de sortie des fils c'est important.
