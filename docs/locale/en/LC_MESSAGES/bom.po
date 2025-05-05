@@ -42,8 +42,8 @@ msgid ""
 "Les fichiers au format dxf sont disponibles ici : "
 "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 msgstr ""
-"The dxf files are available here : https://github.com/BrailleRap/BrailleRap/"
-"tree/master/lasercut"
+"The dxf files are available here : "
+"https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 
 #: ../../bom.rst:12
 msgid "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
