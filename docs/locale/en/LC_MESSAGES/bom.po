@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-15 21:43+0000\n"
-"PO-Revision-Date: 2025-05-05 11:56+0000\n"
-"Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-05-05 13:24+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
 "Language-Team: English <https://translate.codeberg.org/projects/"
 "braillerap-building-manual/manual_bom/en/>\n"
 "Language: en\n"
@@ -62,14 +62,12 @@ msgid "2 planches de contreplaqué 5mm en 900mm x 400mm."
 msgstr "2 900mm x 400mm 5mm plywood sheets"
 
 #: ../../bom.rst:20
-#, fuzzy
 msgid "lasercut/brapxl-v6.6-planche1_900x400.svg"
-msgstr "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
+msgstr "lasercut/brapxl-v6.6-planche1_900x400.svg"
 
 #: ../../bom.rst:21
-#, fuzzy
 msgid "lasercut/brapxl-v6-6-planche2_900x400.svg"
-msgstr "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
+msgstr "lasercut/brapxl-v6-6-planche2_900x400.svg"
 
 #: ../../bom.rst:24
 msgid "Pièces imprimées"
