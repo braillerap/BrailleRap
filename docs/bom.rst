@@ -13,8 +13,8 @@ Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/
    * lasercut/Braillerap_v6-5-1-600x400-planche2.svg
 
 
-**Pour BrailleRAP XL**
-
+Pour BrailleRAP XL
+<<<<<<<<<<<<<<<<<<
 2 planches de contreplaqué 5mm en 900mm x 400mm.
 
 Les fichiers au format dxf sont disponibles ici : https://github.com/BrailleRap/BrailleRap/tree/master/lasercut
