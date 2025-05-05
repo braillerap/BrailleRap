@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2023-05-19 12:06+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2025-05-04 13:27+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"braillerap-building-manual/manual_firstembossingpage/en/>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.10.1\n"
 
 # Stephane <contact@braillerap.org>, 2018.
@@ -84,7 +87,7 @@ msgid ""
 "feuille de papier dans BrailleRAP et utiliser le bouton \"Imprimer\""
 msgstr ""
 "Use the \"Print\" button to access the print screen"
-"Select the page you want to emboss with the \"Page " buttons
+"Select the page you want to emboss with the \"Page "
 "previous\" and \"next page\". To emboss text, install a "
 "sheet of paper in BrailleRAP and use the \"Print\" button"
 
@@ -116,7 +119,7 @@ msgstr "NatBraille configuration"
 
 #: ../../firstembossingpage.rst:61
 msgid "Compiler les programmes dans le repertoire NatBrailleTools du projet"
-msgstr "Build software in the NatBrailleTools project directory "
+msgstr "Build software in the NatBrailleTools project directory"
 
 #: ../../firstembossingpage.rst:63
 msgid ""
@@ -206,4 +209,3 @@ msgstr "In page settings enter 31 and 26 as caracter per line and line per page"
 #~ "BrailleRap application online "
 #~ "https://crocsg.github.io/BrailleRap/ The NatBraille "
 #~ "application http://natbraille.free.fr"
-
