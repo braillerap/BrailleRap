@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-02 19:37+0000\n"
+"POT-Creation-Date: 2025-05-05 12:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -467,11 +467,11 @@ msgid "1 entretoise de 18mm"
 msgstr ""
 
 #: ../../assemblage.rst:334
-msgid "1 vis sans tête M3-12 pointeau limée (cf Préparation du pointeau mâle)"
+msgid "1 vis sans tête M3-16 pointeau limée (cf Préparation du pointeau mâle)"
 msgstr ""
 
 #: ../../assemblage.rst:336
-msgid "1 rondelle M3 moyenne"
+msgid "1 rondelle M3"
 msgstr ""
 
 #: ../../assemblage.rst:338
@@ -479,7 +479,7 @@ msgid "Visser l’entretoise à fond sur l’électro-aimant."
 msgstr ""
 
 #: ../../assemblage.rst:345
-msgid "Visser la vis M3-12 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise."
+msgid "Visser la vis M3-16 pointeau limée en la laissant dépasser de ± 6mm de l’entretoise."
 msgstr ""
 
 #: ../../assemblage.rst:353
@@ -500,8 +500,7 @@ msgstr ""
 
 #: ../../assemblage.rst:357
 #: ../../assemblage.rst:456
-#: ../../assemblage.rst:1241
-msgid "2 rondelles M3 moyennes"
+msgid "2 rondelles M3"
 msgstr ""
 
 #: ../../assemblage.rst:359
@@ -1226,6 +1225,7 @@ msgid "4 vis M3-16"
 msgstr ""
 
 #: ../../assemblage.rst:1036
+#: ../../assemblage.rst:1214
 msgid "8 rondelles M3 Larges"
 msgstr ""
 
@@ -1335,7 +1335,7 @@ msgid "6 vis M3-14"
 msgstr ""
 
 #: ../../assemblage.rst:1207
-msgid "6 rondelles M3 moyennes"
+msgid "6 rondelles M3 Larges"
 msgstr ""
 
 #: ../../assemblage.rst:1208
@@ -1348,10 +1348,6 @@ msgstr ""
 
 #: ../../assemblage.rst:1213
 msgid "8 vis M3-14"
-msgstr ""
-
-#: ../../assemblage.rst:1214
-msgid "8 rondelles M3 moyennes"
 msgstr ""
 
 #: ../../assemblage.rst:1217
@@ -1368,6 +1364,10 @@ msgstr ""
 
 #: ../../assemblage.rst:1240
 msgid "1 vis M3-20"
+msgstr ""
+
+#: ../../assemblage.rst:1241
+msgid "2 rondelles M3 Larges"
 msgstr ""
 
 #: ../../assemblage.rst:1242
@@ -1500,7 +1500,7 @@ msgstr ""
 
 #: ../../assemblage.rst:1375
 #: ../../assemblage.rst:1497
-msgid "4 rondelles M3 moyennes"
+msgid "4 rondelles M3 Larges"
 msgstr ""
 
 #: ../../assemblage.rst:1376
