@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-05 19:05+0000\n"
+"POT-Creation-Date: 2025-05-05 20:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,8 +51,9 @@ msgstr ""
 msgid "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
 msgstr ""
 
-#: ../../bom.rst:16
-msgid "**Pour BrailleRAP XL**"
+#: ../../bom.rst:17
+#: ../../bom.rst:55
+msgid "Pour BrailleRAP XL"
 msgstr ""
 
 #: ../../bom.rst:18
@@ -166,10 +167,6 @@ msgstr ""
 #: ../../bom.rst:68
 #: ../../bom.rst:93
 msgid "..."
-msgstr ""
-
-#: ../../bom.rst:55
-msgid "Pour BrailleRAP XL"
 msgstr ""
 
 #: ../../bom.rst:60

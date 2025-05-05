@@ -7,17 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-05-05 19:05+0000\n"
+"POT-Creation-Date: 2025-05-05 20:10+0000\n"
 "PO-Revision-Date: 2025-05-05 19:12+0000\n"
 "Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
-"Language-Team: English <https://translate.codeberg.org/projects/"
-"braillerap-building-manual/manual_bom/en/>\n"
 "Language: en\n"
+"Language-Team: English <https://translate.codeberg.org/projects"
+"/braillerap-building-manual/manual_bom/en/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.16.0\n"
 
 # Stephane <contact@braillerap.org>, 2018.
@@ -53,9 +52,9 @@ msgstr "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
 msgid "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
 msgstr "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
 
-#: ../../bom.rst:16
-msgid "**Pour BrailleRAP XL**"
-msgstr "**For BrailleRAP XL**"
+#: ../../bom.rst:17 ../../bom.rst:55
+msgid "Pour BrailleRAP XL"
+msgstr "For BrailleRAP XL"
 
 #: ../../bom.rst:18
 msgid "2 planches de contreplaqué 5mm en 900mm x 400mm."
@@ -152,10 +151,6 @@ msgstr "GT2 tensioner springs"
 #: ../../bom.rst:50 ../../bom.rst:68 ../../bom.rst:93
 msgid "..."
 msgstr "..."
-
-#: ../../bom.rst:55
-msgid "Pour BrailleRAP XL"
-msgstr "For BrailleRAP XL"
 
 #: ../../bom.rst:60
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **470 mm** length"
@@ -304,3 +299,7 @@ msgstr "12V 6A power supply"
 
 #~ msgid "Les fichiers gentils au format dxf sont disponibles ici"
 #~ msgstr ""
+
+#~ msgid "**Pour BrailleRAP XL**"
+#~ msgstr "**For BrailleRAP XL**"
+
