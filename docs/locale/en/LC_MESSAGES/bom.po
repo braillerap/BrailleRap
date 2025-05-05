@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-05-05 19:05+0000\n"
-"PO-Revision-Date: 2025-05-05 13:24+0000\n"
+"PO-Revision-Date: 2025-05-05 19:12+0000\n"
 "Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"braillerap-building-manual/manual_bom/en/>\n"
 "Language: en\n"
-"Language-Team: English <https://translate.codeberg.org/projects"
-"/braillerap-building-manual/manual_bom/en/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.16.0\n"
 
 # Stephane <contact@braillerap.org>, 2018.
@@ -38,14 +39,11 @@ msgstr "2 600mm x 400mm 5mm plywood sheets"
 
 #: ../../bom.rst:14 ../../bom.rst:23
 msgid "Les fichiers au format dxf sont disponibles ici"
-msgstr ""
+msgstr "The laser cut svg files are availables here"
 
 #: ../../bom.rst:13 ../../bom.rst:22
-#, fuzzy
 msgid "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
-msgstr ""
-"The dxf files are available here : "
-"https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
+msgstr "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 
 #: ../../bom.rst:12
 msgid "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
@@ -56,9 +54,8 @@ msgid "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
 msgstr "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
 
 #: ../../bom.rst:16
-#, fuzzy
 msgid "**Pour BrailleRAP XL**"
-msgstr "For BrailleRAP XL"
+msgstr "**For BrailleRAP XL**"
 
 #: ../../bom.rst:18
 msgid "2 planches de contreplaqué 5mm en 900mm x 400mm."
@@ -281,18 +278,16 @@ msgstr ""
 "https://github.com/makerbase-mks."
 
 #: ../../bom.rst:117
-#, fuzzy
 msgid "drivers DRV8825 avec radiateur."
-msgstr "DRV8825 drivers with heat sinks"
+msgstr "DRV8825 drivers with heat sinks."
 
 #: ../../bom.rst:118
 msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)."
 msgstr "free wheel diod 1n4004 or equivalent (12v 2A) (only for MKS GEN 1.4)"
 
 #: ../../bom.rst:119
-#, fuzzy
 msgid "Embase Alimentation jack 2.5."
-msgstr "2.5mm Female power supply jack"
+msgstr "2.5mm Female power supply jack."
 
 #: ../../bom.rst:120
 msgid "Alimentation 12v 6A."
@@ -309,4 +304,3 @@ msgstr "12V 6A power supply"
 
 #~ msgid "Les fichiers gentils au format dxf sont disponibles ici"
 #~ msgstr ""
-
