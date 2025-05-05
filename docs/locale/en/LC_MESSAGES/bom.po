@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-01-15 21:43+0000\n"
-"PO-Revision-Date: 2025-05-04 13:27+0000\n"
+"PO-Revision-Date: 2025-05-05 11:56+0000\n"
 "Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
 "Language-Team: English <https://translate.codeberg.org/projects/"
 "braillerap-building-manual/manual_bom/en/>\n"
@@ -147,7 +147,15 @@ msgstr ""
 "O-ring 15.1 mm inside diameter 20.5 mm outside diameter (15.1 x 20.5 x "
 "2.7)"
 
-#: ../../bom.rst:46 ../../bom.rst:65
+#: ../../bom.rst:46
+msgid "10"
+msgstr "10"
+
+#: ../../bom.rst:46
+msgid "Colliers de serrage 2.5 x 160 mm"
+msgstr "2.5 x 160 mm zip ties"
+
+#: ../../bom.rst:48
 msgid "Ressorts tendeurs de courroie GT2"
 msgstr "GT2 tensioner springs"
 
@@ -285,7 +293,7 @@ msgstr "free wheel diod 1n4004 or equivalent (12v 2A) (only for MKS GEN 1.4)"
 
 #: ../../bom.rst:62
 msgid "Electro-aimant *tau-826* 12V 2A"
-msgstr "Solenoid Electromagnet *tau-826* 12V 2A"
+msgstr "12V 2A *tau-826* solenoid"
 
 #: ../../bom.rst:118
 msgid "Alimentation 12v 6A."
