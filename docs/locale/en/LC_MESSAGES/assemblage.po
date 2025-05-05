@@ -7,14 +7,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-
 "POT-Creation-Date: 2023-05-17 16:07+0000\n"
-"PO-Revision-Date: 2025-05-05 11:56+0000\n"
-"Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-05-05 13:24+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
 "Language-Team: English <https://translate.codeberg.org/projects/"
 "braillerap-building-manual/manual_assemblage/en/>\n"
 "Language: en\n"
-
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -120,16 +118,16 @@ msgid ""
 "Il existe désormais 2 modèles de BrailleRAP: **BrailleRAP** et "
 "**BrailleRAP XL**."
 msgstr ""
-"BrailleRAP now exist in 2 differents models : **BrailleRAP** and "
-"**BrailleRAP XL**"
+"BrailleRAP now exist in 2 differents models : **BrailleRAP** and **"
+"BrailleRAP XL**."
 
 #: ../../assemblage.rst:61
 msgid ""
 "**BrailleRAP** est la version historique de la machine et peut utiliser "
 "des feuilles jusqu'au format **A4**."
 msgstr ""
-"**BrailleRAP** is the historical version an can use paper sheet  in "
-"**A4** or smaller."
+"**BrailleRAP** is the historical version an can use paper sheet in **A4** or "
+"smaller."
 
 #: ../../assemblage.rst:63
 msgid "Braillerap_v6-5-1_600x400-planche1.svg"
@@ -165,21 +163,21 @@ msgstr ""
 
 #: ../../assemblage.rst:74
 msgid "Le montage du plateau papier."
-msgstr "Bonding of the paper tray"
+msgstr "Bonding of the paper tray."
 
 #: ../../assemblage.rst:75
 msgid "Le nombre de rouleaux presse papier."
-msgstr "The number of paper roll"
+msgstr "The number of paper roll."
 
 #: ../../assemblage.rst:76
 msgid "les longeurs de barres lineaires et les longueurs de courroie."
-msgstr "the length of linear rods and the length of belts"
+msgstr "the length of linear rods and the length of belts."
 
 #: ../../assemblage.rst:77
 msgid ""
 "BrailleRAP XL demande tout de même un peu plus de rigueur dans "
 "l'assemblage mécanique."
-msgstr "BrailleRAP XL need more accurate mechanical assembling "
+msgstr "BrailleRAP XL need more accurate mechanical assembling."
 
 #: ../../assemblage.rst:82
 msgid "Collage de la caisse en bois"
@@ -280,7 +278,7 @@ msgid ""
 msgstr ""
 "The 2 parts must be perfectly aligned. Place screws in the holes to properly "
 "align the parts. There must not be any space between the two pieces (or the "
-"paper could catch and jam there). Clamp the parts together tightly."
+"paper could catch and jam there). Clamp the parts together tightly"
 
 #: ../../assemblage.rst:147
 msgid "Préparation du pointeau Braille"
@@ -313,7 +311,7 @@ msgstr "File down the edge of the tip to match the illustrated shape."
 
 #: ../../assemblage.rst:162
 msgid "Préparation Moteur X"
-msgstr "X Motor preparation."
+msgstr "X Motor preparation"
 
 #: ../../assemblage.rst:165
 msgid "**Pièce(s) imprimée(s) en 3D** :  XMOTOR_support3 ou XMOTOR_support3_1"
@@ -362,7 +360,7 @@ msgstr "Carefully note the position of the motor connector!"
 
 #: ../../assemblage.rst:195
 msgid "Préparation Moteur Y"
-msgstr "Y Motor preparation."
+msgstr "Y Motor preparation"
 
 #: ../../assemblage.rst:199
 msgid ""
@@ -581,17 +579,15 @@ msgstr ""
 
 #: ../../assemblage.rst:353
 msgid "Montage de l'electro-aimant sur son support"
-msgstr "Solenoid assembly."
+msgstr "Solenoid assembly"
 
 #: ../../assemblage.rst:354
 msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)"
 msgstr "Pre-assembled solenoid assembly (see Preparing the electromagnet)"
 
-
 #: ../../assemblage.rst:355
 msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing2"
-msgstr "**3D printed parts** :  ELECTRO_MAGNET_housing2"
-
+msgstr "**3D printed parts** : ELECTRO_MAGNET_housing2"
 
 #: ../../assemblage.rst:356
 msgid "2 vis M3-8"
@@ -664,9 +660,8 @@ msgid ""
 "mécanique."
 msgstr ""
 "Select the best part between ELECTRO_MAGNET_guide_fit_5.8 / "
-"ELECTRO_MAGNET_guide_fit_5.9 / ELECTRO_MAGNET_guide_fit_6.0. the spacer"
-" must move freely with the less  "
-"tolerance."
+"ELECTRO_MAGNET_guide_fit_5.9 / ELECTRO_MAGNET_guide_fit_6.0. the spacer must "
+"move freely with the less tolerance."
 
 #: ../../assemblage.rst:393
 msgid ""
@@ -797,7 +792,7 @@ msgstr ""
 
 #: ../../assemblage.rst:470
 msgid "Placer un contre écrou contre l'écrou borgne"
-msgstr ""
+msgstr "Put a lock nut on the blind nut"
 
 #: ../../assemblage.rst:473
 msgid "Tarauder la FEMALE_shape au 2/3 en partant du haut."
@@ -1106,10 +1101,9 @@ msgid ""
 " jeu (vis+rondelle à l'extérieur et écrou à l'intérieur). Les vis seront "
 "serrées quand l'ensemble sera en place."
 msgstr ""
-"Fix rod supports on the box with BOTTOM_AXIS_right2 and TOP_AXIS_right2 "
-"on the right with leaving some mechanical clearance  (screw + washer "
-"outside and nut inside). The screws will be tight when all parts will be "
-"in place."
+"Fix rod supports on the box with BOTTOM_AXIS_right2 and TOP_AXIS_right2 on "
+"the right with leaving some mechanical clearance (screw + washer outside and "
+"nut inside). The screws will be tight when all parts will be in place."
 
 #: ../../assemblage.rst:690
 msgid "Fixation des tendeurs de courroie"
@@ -1801,7 +1795,7 @@ msgid ""
 "Ajouter un écrou M3-NYL, 2 écrou m3 et une vis M3-12 sur le levier "
 "**ENDSTOP_Y_LEVER_weight**"
 msgstr ""
-"Add an M3-NYL nut , 2 M3 nuts  and an M3-12 screw on the lever "
+"Add an M3-NYL nut , 2 M3 nuts and an M3-12 screw on the lever "
 "**ENDSTOP_Y_LEVER_weight**"
 
 #: ../../assemblage.rst:1302
@@ -1839,43 +1833,43 @@ msgstr "**3D printed part**: POWER_plate"
 
 #: ../../assemblage.rst:1349
 msgid "Preparation des cables moteurs"
-msgstr "Y Motor wires prepare "
+msgstr "Y Motor wires prepare"
 
 #: ../../assemblage.rst:1351
 msgid "2 cables moteurs XH 2.54 4 pins => 6 pins"
-msgstr ""
+msgstr "2 XH 2.54 4pins => 6pins stepper motor cable"
 
 #: ../../assemblage.rst:1353
 msgid "Vérifier le schéma de cablage des cables. le cablage est le suivant"
-msgstr ""
+msgstr "Check cable wiring. Wiring follow"
 
 #: ../../assemblage.rst:1356
 msgid "coté carte"
-msgstr ""
+msgstr "board side"
 
 #: ../../assemblage.rst:1356
 msgid "coté moteur"
-msgstr ""
+msgstr "motor side"
 
 #: ../../assemblage.rst:1358
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../assemblage.rst:1359
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../assemblage.rst:1359 ../../assemblage.rst:1361
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../assemblage.rst:1360 ../../assemblage.rst:1361
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../assemblage.rst:1360
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ../../assemblage.rst:1370
 msgid "Montage de la carte électronique MKS 1.4"
@@ -2249,7 +2243,7 @@ msgstr "Closing the rear panel"
 
 #: ../../assemblage.rst:1686
 msgid "**Pièce(s) imprimée(s) en 3D** : 2 DOORLOCKER.stl"
-msgstr "**3D printed parts** :  2 X DOORLOCKER.stl"
+msgstr "**3D printed parts** : 2 X DOORLOCKER.stl"
 
 #: ../../assemblage.rst:1690
 msgid "Tarauder les trous de fixation des pieces **DOORLOCKER**"
@@ -2259,11 +2253,11 @@ msgstr "Tap the fixing hole of the parts **DOORLOCKER**"
 msgid ""
 "Attacher les **DOORLOCKER** sur la porte arriere. Laisser du jeu pour que"
 " les pieces **DOORLOCKER** puissent coulisser."
-msgstr "Fix  **DOORLOCKER** parts on the rear panel.  "
+msgstr "Fix **DOORLOCKER** parts on the rear panel."
 
 #: ../../assemblage.rst:1700
 msgid "Positionner la porte assemblée sur BrailleRAP."
-msgstr "Put the rear panel on the frame"
+msgstr "Put the rear panel on the frame."
 
 #: ../../assemblage.rst:1701
 msgid ""
@@ -2273,7 +2267,7 @@ msgstr "Slide the **DOORLOCKER** parts to lock the door."
 
 #: ../../assemblage.rst:1702
 msgid "Serrer (doucement) les vis de fixation."
-msgstr "Tighten (gently) the screws"
+msgstr "Tighten (gently) the screws."
 
 #: ../../assemblage.rst:1707
 msgid "Réglage fin des marges X et Y"
@@ -2286,9 +2280,9 @@ msgid ""
 "particulièrement utile pour BrailleRAP XL. Les fins de courses sont en "
 "dehors du papier, par consequent l'offset doit toujours être négatif."
 msgstr ""
-"By using a software like pronterface, you can tune the distance between "
-"the endstops and the 0 position  on the paper sheet. This is more usefull"
-" on BrailleRAP XL."
+"By using a software like pronterface, you can tune the distance between the "
+"endstops and the 0 position on the paper sheet. This is more useful on "
+"BrailleRAP XL."
 
 #: ../../assemblage.rst:1712
 msgid ""
