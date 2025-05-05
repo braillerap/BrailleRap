@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-05-05 19:00+0000\n"
-"PO-Revision-Date: 2025-05-05 13:24+0000\n"
+"PO-Revision-Date: 2025-05-05 19:12+0000\n"
 "Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"braillerap-building-manual/manual_assemblage/en/>\n"
 "Language: en\n"
-"Language-Team: English <https://translate.codeberg.org/projects"
-"/braillerap-building-manual/manual_assemblage/en/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../assemblage.rst:2
@@ -109,9 +110,8 @@ msgstr ""
 "diameter 3mm or 5mm"
 
 #: ../../assemblage.rst:57
-#, fuzzy
 msgid "Remarques BrailleRAP / BrailleRAP XL"
-msgstr "Equipment **BrailleRAP XL**:"
+msgstr "Notes about BrailleRAP/BrailleRAP XL"
 
 #: ../../assemblage.rst:59
 msgid ""
@@ -232,7 +232,6 @@ msgid "Collage des bloqueurs de trappe"
 msgstr "Gluing the door stops"
 
 #: ../../assemblage.rst:113
-#, fuzzy
 msgid "Chassis assemblée."
 msgstr "Assembled wooden enclosure."
 
@@ -457,9 +456,8 @@ msgid "6 écrous M3"
 msgstr "6 M3 nuts"
 
 #: ../../assemblage.rst:259
-#, fuzzy
 msgid "6 vis M3-12 sans tête"
-msgstr "8 M3-12 grub screws"
+msgstr "6 M3-12 grub screws"
 
 #: ../../assemblage.rst:261
 msgid ""
@@ -562,39 +560,35 @@ msgid "1 entretoise de 18mm"
 msgstr "1 18mm spacer"
 
 #: ../../assemblage.rst:334
-#, fuzzy
 msgid "1 vis sans tête M3-16 pointeau limée (cf Préparation du pointeau mâle)"
-msgstr "1 M3-12 grub screw with shaped tip (see Preparation of the Braille stylus)"
+msgstr ""
+"1 M3-12 grub screw with shaped tip (see Preparation of the Braille stylus)"
 
 #: ../../assemblage.rst:336
-#, fuzzy
 msgid "1 rondelle M3"
-msgstr "4 M5 washer"
+msgstr "1 M3 washer"
 
 #: ../../assemblage.rst:338
 msgid "Visser l’entretoise à fond sur l’électro-aimant."
 msgstr "Screw the spacer all the way onto the electromagnet."
 
 #: ../../assemblage.rst:345
-#, fuzzy
 msgid ""
 "Visser la vis M3-16 pointeau limée en la laissant dépasser de ± 6mm de "
 "l’entretoise."
 msgstr ""
-"Tighten the M3-12 screw with the Braille stylus punched out, allowing it "
-"to extend ± 6mm beyond the spacer."
+"Tighten the M3-16 screw with the Braille stylus punched out, allowing it to "
+"extend ± 6mm beyond the spacer."
 
 #: ../../assemblage.rst:353
 msgid "Montage de l'electro-aimant sur son support"
 msgstr "Solenoid assembly"
 
 #: ../../assemblage.rst:356
-#, fuzzy
 msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l électro-aimant)"
 msgstr "Pre-assembled solenoid assembly (see Preparing the electromagnet)"
 
 #: ../../assemblage.rst:357
-#, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D ** : ELECTRO_MAGNET_housing2"
 msgstr "**3D printed parts** : ELECTRO_MAGNET_housing2"
 
@@ -603,9 +597,8 @@ msgid "2 vis M3-8"
 msgstr "2 screw M3-8"
 
 #: ../../assemblage.rst:359 ../../assemblage.rst:458
-#, fuzzy
 msgid "2 rondelles M3"
-msgstr "4 M5 washer"
+msgstr "2 M3 washers"
 
 #: ../../assemblage.rst:361
 msgid ""
@@ -992,9 +985,8 @@ msgid "2 écrous M3 NYL"
 msgstr "2 M3 NYL nuts"
 
 #: ../../assemblage.rst:617 ../../assemblage.rst:698
-#, fuzzy
 msgid "2 rondelles M3 larges"
-msgstr "8 wide M3 washers"
+msgstr "2 wide M3 washers"
 
 #: ../../assemblage.rst:619
 msgid ""
@@ -1682,9 +1674,8 @@ msgid "6 vis M3-14"
 msgstr "6 screws M3-14"
 
 #: ../../assemblage.rst:1209
-#, fuzzy
 msgid "6 rondelles M3 Larges"
-msgstr "8 wide M3 washers"
+msgstr "6 wide M3 washers"
 
 #: ../../assemblage.rst:1210
 msgid "6 écrous M3 NYL"
@@ -1719,9 +1710,8 @@ msgid "1 vis M3-20"
 msgstr "1 M3-20 screw"
 
 #: ../../assemblage.rst:1243
-#, fuzzy
 msgid "2 rondelles M3 Larges"
-msgstr "8 wide M3 washers"
+msgstr "2 wide M3 washers"
 
 #: ../../assemblage.rst:1244
 msgid "3 écrous M3 NYL"
@@ -1881,7 +1871,6 @@ msgid "4 entretoises M3-12"
 msgstr "4 spacer M3-12"
 
 #: ../../assemblage.rst:1377 ../../assemblage.rst:1499
-#, fuzzy
 msgid "4 rondelles M3 Larges"
 msgstr "4 wide M3 washers"
 
@@ -2441,4 +2430,3 @@ msgstr "To save these values in EEPROM use the command : M500"
 
 #~ msgid "4 rondelles M3 moyennes"
 #~ msgstr "4 medium M3 washers"
-
