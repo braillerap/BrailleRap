@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# English translations for PROJECT.
 # Copyright (C) 2023 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
@@ -7,18 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-01-15 21:43+0000\n"
+"POT-Creation-Date: 2025-05-05 18:57+0000\n"
 "PO-Revision-Date: 2025-05-05 13:24+0000\n"
 "Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
-"Language-Team: English <https://translate.codeberg.org/projects/"
-"braillerap-building-manual/manual_bom/en/>\n"
 "Language: en\n"
+"Language-Team: English <https://translate.codeberg.org/projects"
+"/braillerap-building-manual/manual_bom/en/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.16.0\n"
 
 # Stephane <contact@braillerap.org>, 2018.
 #: ../../bom.rst:2
@@ -29,7 +28,7 @@ msgstr "Bill of Materials"
 msgid "Découpe laser"
 msgstr "Laser cutting"
 
-#: ../../bom.rst:8 ../../bom.rst:34
+#: ../../bom.rst:8 ../../bom.rst:36
 msgid "Pour BrailleRAP"
 msgstr "For BrailleRAP"
 
@@ -37,10 +36,13 @@ msgstr "For BrailleRAP"
 msgid "2 planches de contreplaqué 5mm en 600mm x 400mm."
 msgstr "2 600mm x 400mm 5mm plywood sheets"
 
-#: ../../bom.rst:8
-msgid ""
-"Les fichiers au format dxf sont disponibles ici : "
-"https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
+#: ../../bom.rst:14
+msgid "Les fichiers méchants au format dxf sont disponibles ici"
+msgstr ""
+
+#: ../../bom.rst:13 ../../bom.rst:22
+#, fuzzy
+msgid "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
 msgstr ""
 "The dxf files are available here : "
 "https://github.com/BrailleRap/BrailleRap/tree/master/lasercut"
@@ -53,27 +55,32 @@ msgstr "lasercut/Braillerap_v6-5-1_600x400-planche1.svg"
 msgid "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
 msgstr "lasercut/Braillerap_v6-5-1-600x400-planche2.svg"
 
-#: ../../bom.rst:16 ../../bom.rst:53
-msgid "Pour BrailleRAP XL"
+#: ../../bom.rst:16
+#, fuzzy
+msgid "**Pour BrailleRAP XL**"
 msgstr "For BrailleRAP XL"
 
-#: ../../bom.rst:17
+#: ../../bom.rst:18
 msgid "2 planches de contreplaqué 5mm en 900mm x 400mm."
 msgstr "2 900mm x 400mm 5mm plywood sheets"
 
-#: ../../bom.rst:20
+#: ../../bom.rst:23
+msgid "Les fichiers gentils au format dxf sont disponibles ici"
+msgstr ""
+
+#: ../../bom.rst:21
 msgid "lasercut/brapxl-v6.6-planche1_900x400.svg"
 msgstr "lasercut/brapxl-v6.6-planche1_900x400.svg"
 
-#: ../../bom.rst:21
+#: ../../bom.rst:22
 msgid "lasercut/brapxl-v6-6-planche2_900x400.svg"
 msgstr "lasercut/brapxl-v6-6-planche2_900x400.svg"
 
-#: ../../bom.rst:24
+#: ../../bom.rst:26
 msgid "Pièces imprimées"
 msgstr "Printed parts"
 
-#: ../../bom.rst:25
+#: ../../bom.rst:27
 #, python-format
 msgid ""
 "Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres"
@@ -82,62 +89,62 @@ msgstr ""
 "All printed parts are printed in ABS, 50% infill, 3 outside perimeters. "
 "We use eSun ABS Natural filament"
 
-#: ../../bom.rst:27
+#: ../../bom.rst:29
 msgid ""
 "Les fichiers au format stl sont ici : "
 "https://github.com/braillerap/BrailleRap/tree/master/printed_parts"
 msgstr ""
-"The stl files are available here : https://github.com/braillerap/BrailleRap/"
-"tree/master/printed_parts"
+"The stl files are available here : "
+"https://github.com/braillerap/BrailleRap/tree/master/printed_parts"
 
-#: ../../bom.rst:31
+#: ../../bom.rst:33
 msgid "Pièces mécaniques"
 msgstr "Mechanical parts"
 
-#: ../../bom.rst:37 ../../bom.rst:56 ../../bom.rst:74 ../../bom.rst:110
+#: ../../bom.rst:39 ../../bom.rst:58 ../../bom.rst:76 ../../bom.rst:112
 msgid "Qty"
 msgstr "Qty"
 
-#: ../../bom.rst:37 ../../bom.rst:56 ../../bom.rst:74 ../../bom.rst:110
+#: ../../bom.rst:39 ../../bom.rst:58 ../../bom.rst:76 ../../bom.rst:112
 msgid "Type"
 msgstr "Type"
 
-#: ../../bom.rst:39 ../../bom.rst:58 ../../bom.rst:64 ../../bom.rst:65
+#: ../../bom.rst:41 ../../bom.rst:60 ../../bom.rst:66 ../../bom.rst:67
 msgid "4"
 msgstr "4"
 
-#: ../../bom.rst:39
+#: ../../bom.rst:41
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **330 mm** length"
 msgstr "Linear rod 8mm diameter **330 mm** length"
 
-#: ../../bom.rst:40 ../../bom.rst:41 ../../bom.rst:59 ../../bom.rst:60
-#: ../../bom.rst:80 ../../bom.rst:85 ../../bom.rst:87 ../../bom.rst:113
-#: ../../bom.rst:114 ../../bom.rst:116 ../../bom.rst:117 ../../bom.rst:118
+#: ../../bom.rst:42 ../../bom.rst:43 ../../bom.rst:61 ../../bom.rst:62
+#: ../../bom.rst:82 ../../bom.rst:87 ../../bom.rst:89 ../../bom.rst:115
+#: ../../bom.rst:116 ../../bom.rst:118 ../../bom.rst:119 ../../bom.rst:120
 msgid "1"
 msgstr "1"
 
-#: ../../bom.rst:40
+#: ../../bom.rst:42
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **365 mm** length"
 msgstr "Linear rod 8mm diameter **365 mm** length"
 
-#: ../../bom.rst:41 ../../bom.rst:60
+#: ../../bom.rst:43 ../../bom.rst:62
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **100 mm** length"
 msgstr "Linear rod 8mm diameter **100 mm** length"
 
-#: ../../bom.rst:43 ../../bom.rst:62 ../../bom.rst:79 ../../bom.rst:82
-#: ../../bom.rst:83 ../../bom.rst:112 ../../bom.rst:115
+#: ../../bom.rst:45 ../../bom.rst:64 ../../bom.rst:81 ../../bom.rst:84
+#: ../../bom.rst:85 ../../bom.rst:114 ../../bom.rst:117
 msgid "2"
 msgstr "2"
 
-#: ../../bom.rst:43
+#: ../../bom.rst:45
 msgid "630 mm de courroie GT2"
 msgstr "GT2 belt 630 mm"
 
-#: ../../bom.rst:45 ../../bom.rst:46 ../../bom.rst:78
+#: ../../bom.rst:47 ../../bom.rst:48 ../../bom.rst:80
 msgid "3"
 msgstr "3"
 
-#: ../../bom.rst:45 ../../bom.rst:64
+#: ../../bom.rst:47 ../../bom.rst:66
 msgid ""
 "Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur "
 "(15.1 x 20.5 x 2.7)"
@@ -145,91 +152,87 @@ msgstr ""
 "O-ring 15.1 mm inside diameter 20.5 mm outside diameter (15.1 x 20.5 x "
 "2.7)"
 
-#: ../../bom.rst:46
-msgid "10"
-msgstr "10"
-
-#: ../../bom.rst:46
-msgid "Colliers de serrage 2.5 x 160 mm"
-msgstr "2.5 x 160 mm zip ties"
-
-#: ../../bom.rst:48
+#: ../../bom.rst:48 ../../bom.rst:67
 msgid "Ressorts tendeurs de courroie GT2"
 msgstr "GT2 tensioner springs"
 
-#: ../../bom.rst:48 ../../bom.rst:66 ../../bom.rst:91
+#: ../../bom.rst:50 ../../bom.rst:68 ../../bom.rst:93
 msgid "..."
 msgstr "..."
 
-#: ../../bom.rst:58
+#: ../../bom.rst:55
+msgid "Pour BrailleRAP XL"
+msgstr "For BrailleRAP XL"
+
+#: ../../bom.rst:60
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **470 mm** length"
 msgstr "Linear rod 8mm diameter **470 mm** length"
 
-#: ../../bom.rst:59
+#: ../../bom.rst:61
 msgid "Rail de guidage linéaire ( diamètre 8mm ) **505 mm** length"
 msgstr "Linear rod 8mm diameter **505 mm** length"
 
-#: ../../bom.rst:62
+#: ../../bom.rst:64
 msgid "960 mm de courroie GT2"
 msgstr "GT2 belt 960 mm"
 
-#: ../../bom.rst:71
+#: ../../bom.rst:73
 msgid "Pièces communes BrailleRAP XL / BrailleRAP"
 msgstr "Common parts BrailleRAP XL / BrailleRAP"
 
-#: ../../bom.rst:76
+#: ../../bom.rst:78
 msgid "6"
 msgstr "6"
 
-#: ../../bom.rst:76
+#: ../../bom.rst:78
 msgid "RJ4JP-01-08 palier linéaire Polymer"
 msgstr "RJ4JP-01-08 polymer linear bushing"
 
-#: ../../bom.rst:78
+#: ../../bom.rst:80
 msgid "GT2 poulie 20 dents pour axe 8mm"
 msgstr "GT2 pulley 20 teeth 8mm bore"
 
-#: ../../bom.rst:79
+#: ../../bom.rst:81
 msgid "GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)"
 msgstr "GT2 free pulley 20 teeth bore 3mm (with bearing)"
 
-#: ../../bom.rst:80
+#: ../../bom.rst:82
 msgid "GT2 poulie 20 dents pour axe 5mm"
 msgstr "GT2 pulley 20 teeth 5mm bore"
 
-#: ../../bom.rst:82
+#: ../../bom.rst:84
 msgid "KP08  pallier horizontal pour rail linéaire 8mm"
 msgstr "KP08 linear bearing for 8mm linear shaft"
 
-#: ../../bom.rst:83
+#: ../../bom.rst:85
 msgid "KFL08 pallier vertical pour rail linéaire 8mm"
 msgstr "KFL08 vertical bearing for 8mm linear shaft"
 
-#: ../../bom.rst:85
+#: ../../bom.rst:87
 msgid "Accouplement d'axe 5mm/8mm"
 msgstr "5mm/8mm flexible motor coupling"
 
-#: ../../bom.rst:87
+#: ../../bom.rst:89
 msgid "Courroie GT2 fermée 200 mm"
 msgstr "Closed GT2 belt 200 mm"
 
-#: ../../bom.rst:89
+#: ../../bom.rst:91
 msgid "10"
 msgstr "10"
 
-#: ../../bom.rst:89
+#: ../../bom.rst:91
 msgid "Colliers de serrage 2.5 x 160 mm"
-msgstr "Zip tie selflock 2.5 x 160 mm"
+msgstr "2.5 x 160 mm zip ties"
 
-#: ../../bom.rst:96
+#: ../../bom.rst:98
 msgid "Carte controleur"
 msgstr "Controller board"
 
-#: ../../bom.rst:97
+#: ../../bom.rst:99
 msgid "En fonction de vos souhaits vous pouvez utiliser au choix :"
 msgstr "You can use one of the following :"
 
-#: ../../bom.rst:99
+#: ../../bom.rst:101
 msgid ""
 "Une carte MKS GEN 1.4 (Mega2560) et 2 drivers DRV8825 https://github.com"
 "/makerbase-mks"
@@ -237,7 +240,7 @@ msgstr ""
 "MKS GEN 1.4 (Mega2560) board and 2 DRV8825 drivers https://github.com"
 "/makerbase-mks"
 
-#: ../../bom.rst:100
+#: ../../bom.rst:102
 msgid ""
 "Une carte MKS GEN-L (Mega2560) et 2 drivers DRV8825 https://github.com"
 "/makerbase-mks"
@@ -245,7 +248,7 @@ msgstr ""
 "MKS GEN-L (Mega2560) board and 2 DRV8825 drivers https://github.com"
 "/makerbase-mks"
 
-#: ../../bom.rst:101
+#: ../../bom.rst:103
 msgid ""
 "Une carte MKS TinyBee (ESP32) et 2 drivers TMC2209 https://github.com"
 "/makerbase-mks"
@@ -253,7 +256,7 @@ msgstr ""
 "MKS TinyBee (ESP32) board and 2 TMC2209 drivers https://github.com"
 "/makerbase-mks"
 
-#: ../../bom.rst:103
+#: ../../bom.rst:105
 msgid ""
 "D'autres configuration sont possibles, mais vous devrez effectuer la "
 "configuration du firmware vous même"
@@ -261,19 +264,19 @@ msgstr ""
 "Many other board configuration are availables. But you will need to build"
 " a firmware for it."
 
-#: ../../bom.rst:107
+#: ../../bom.rst:109
 msgid "Electronique"
 msgstr "Electronics"
 
-#: ../../bom.rst:112
+#: ../../bom.rst:114
 msgid "Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401)."
 msgstr "Nema 17 Motors 40N/cm 40mm with wire (17hs4401)"
 
-#: ../../bom.rst:113
+#: ../../bom.rst:115
 msgid "Electro-aimant *tau-826b* 12V 2A."
 msgstr "Solenoid *tau-826b* 12V 2A."
 
-#: ../../bom.rst:114
+#: ../../bom.rst:116
 msgid ""
 "MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 "
 "https://github.com/makerbase-mks."
@@ -281,26 +284,27 @@ msgstr ""
 "MKS GEN 1.4 board or Ramps 1.4  compatible or MKS GEN L 2.1 "
 "https://github.com/makerbase-mks."
 
-#: ../../bom.rst:60
-msgid "drivers DRV8825 avec radiateur"
+#: ../../bom.rst:117
+#, fuzzy
+msgid "drivers DRV8825 avec radiateur."
 msgstr "DRV8825 drivers with heat sinks"
 
-#: ../../bom.rst:116
+#: ../../bom.rst:118
 msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)."
 msgstr "free wheel diod 1n4004 or equivalent (12v 2A) (only for MKS GEN 1.4)"
 
-#: ../../bom.rst:62
-msgid "Electro-aimant *tau-826* 12V 2A"
-msgstr "12V 2A *tau-826* solenoid"
+#: ../../bom.rst:119
+#, fuzzy
+msgid "Embase Alimentation jack 2.5."
+msgstr "2.5mm Female power supply jack"
 
-#: ../../bom.rst:118
+#: ../../bom.rst:120
 msgid "Alimentation 12v 6A."
 msgstr "12V 6A power supply"
 
-#: ../../bom.rst:64
-msgid "Embase Alimentation jack 2.5"
-msgstr "2.5mm Female power supply jack"
+#~ msgid "Electro-aimant *tau-826* 12V 2A"
+#~ msgstr "12V 2A *tau-826* solenoid"
 
-#: ../../bom.rst:65
-msgid "Alimentation 12v 6A"
-msgstr "12V 6A Power supply"
+#~ msgid "Alimentation 12v 6A"
+#~ msgstr "12V 6A Power supply"
+

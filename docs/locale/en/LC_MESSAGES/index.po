@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# English translations for PROJECT.
 # Copyright (C) 2022 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
@@ -7,18 +7,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-05-04 17:16+0000\n"
+"POT-Creation-Date: 2024-07-03 21:07+0000\n"
 "PO-Revision-Date: 2025-05-05 11:56+0000\n"
 "Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
-"Language-Team: English <https://translate.codeberg.org/projects/"
-"braillerap-building-manual/braillerap_glossary/en/>\n"
 "Language: en\n"
+"Language-Team: English <https://translate.codeberg.org/projects"
+"/braillerap-building-manual/braillerap_glossary/en/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.16.0\n"
 
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2018, braillerapsp@gmail.com
@@ -46,5 +45,6 @@ msgstr "Update :|today|"
 #~ msgid "Contenu: .. toctree::"
 #~ msgstr ""
 
-msgid "Colliers de serrage"
-msgstr "Zip ties"
+#~ msgid "Colliers de serrage"
+#~ msgstr "Zip ties"
+

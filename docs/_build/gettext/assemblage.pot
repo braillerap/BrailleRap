@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-05 12:22+0000\n"
+"POT-Creation-Date: 2025-05-05 19:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -488,11 +488,11 @@ msgid "Montage de l'electro-aimant sur son support"
 msgstr ""
 
 #: ../../assemblage.rst:356
-msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l’électro-aimant)"
+msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l électro-aimant)"
 msgstr ""
 
 #: ../../assemblage.rst:357
-msgid "**Pièce(s) imprimée(s) en 3D** : ELECTRO_MAGNET_housing2"
+msgid "**Pièce(s) imprimée(s) en 3D ** : ELECTRO_MAGNET_housing2"
 msgstr ""
 
 #: ../../assemblage.rst:358
