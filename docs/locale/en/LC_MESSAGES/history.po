@@ -1,10 +1,26 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-12 07:37+0000\n"
+"PO-Revision-Date: 2025-05-12 07:37+0000\n"
+"Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"braillerap-building-manual/manual_history/en/>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
+
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2018, contact@braillerap.org
 # This file is distributed under the same license as the BraillerRap
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
 # Stephane <contact@braillerap.org>, 2018, 2023.
-
 #: ../../history.rst:2 
 msgid "Historique du projet"
 msgstr "Project history"
@@ -18,8 +34,8 @@ msgid ""
 "En 2016 l'association **MyHumanKit** organise en collaboration avec "
 "**Airbus Industries** un hackaton appelé Fabrikarium."
 msgstr ""
-"In 2016 **MyHumanKit** organization organizes with the partnership of Airbus "
-"Industries a hackacaton called Fabriakarium"
+"In 2016 **MyHumanKit**, in partnership with Airbus Industries, organized a "
+"hackathon called Fabrikarium."
 
 #: ../../history.rst:9 
 msgid ""
@@ -95,8 +111,8 @@ msgid ""
 "En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, "
 "nous reprenons le projet pour proposer des améliorations."
 msgstr ""
-"In 2022, to improve the project with some enthousiasts, we create "
-"BrailleRap project"
+"In 2022, in order to continue to improve the project with other enthusiasts, "
+"we created the BrailleRap project."
 
 #: ../../history.rst:41 da48be5f4a054a219e7000a08be6b45a
 msgid "BrailleRap Cameroun"
@@ -183,4 +199,3 @@ msgid ""
 msgstr ""
 "More on BrailleRAP Cameroon `here "
 "<https://forgecc.org/?BraillerapCameroun>`_"
-
