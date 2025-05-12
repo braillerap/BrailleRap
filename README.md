@@ -5,6 +5,7 @@
 
 # BrailleRAP
 
+## Introduction
 Based on a [RepRap 3d printer controller](https://reprap.org/wiki/RepRap), [BrailleRAP](https://github.com/braillerap/BrailleRap) is an open hardware device to emboss Braille text and/or Vector graphics. You can use software like [AccessBrailleRAP](https://github.com/braillerap/AccessBrailleRAP) or [DesktopBrailleRAP](https://github.com/braillerap/DesktopBrailleRAP) to translate text in Braille and build tangible documents with the device. Some tools like [OpenStreetTouch](https://github.com/braillerap/OpenStreetTouch) can help you extract data from [OpenStreetMap](https://www.openstreetmap.org) to build public transport guide or small area city map.
 
 BrailleRAP now exist in 2 different sizes: **BrailleRAP** and **BrailleRAP XL**. 
@@ -19,6 +20,12 @@ BrailleRAP now exist in 2 different sizes: **BrailleRAP** and **BrailleRAP XL**.
 <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/brap_sample.jpg" alt="Tangible documents examples made on BrailleRAP" style="width:75%; align:center;">
 </figure>
 
+## Building manual
+The building manual translation files are available [on codeberg weblate host](https://translate.codeberg.org/projects/braillerap-building-manual/) . If you need the building manual in your language, feel free to contribute on codeberg/weblate.    
+
+<a href="https://translate.codeberg.org/engage/braillerap-building-manual/">
+<img src="https://translate.codeberg.org/widget/braillerap-building-manual/multi-auto.svg" alt="User manual translation status" width="75%"/>
+</a>
 
 ## Funding
 
@@ -28,7 +35,7 @@ This project is funded through [NGI0 Entrust](https://nlnet.nl/entrust), a fund 
 [<img src="https://nlnet.nl/image/logos/NGI0_tag.svg" alt="NGI Zero Logo" width="20%" />](https://nlnet.nl/entrust)
 
 
-## BrailleRap 6.6
+## BrailleRap 6.6 Building Manual
 
 Embosseuse Braille Open Source DIY
 
