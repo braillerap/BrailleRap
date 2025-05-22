@@ -1,19 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 11:52+0000\n"
-"PO-Revision-Date: 2025-05-10 11:52+0000\n"
+"PO-Revision-Date: 2025-05-23 07:58+0000\n"
 "Last-Translator: milimarg <milimarg@noreply.codeberg.org>\n"
 "Language-Team: English <https://translate.codeberg.org/projects/"
 "braillerap-building-manual/manual_marlin/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.11.4\n"
 
 # Stephane <contact@braillerap.org>, 2018.
 #: ../../marlin.rst:2 1123fa9e7130408597e27689602d69f3
@@ -53,27 +52,27 @@ msgstr "in configuration.h"
 
 #: ../../marlin.rst:16 00d9654f881247e3ab05ccb413839489
 msgid "Motherboard configuration ::"
-msgstr ""
+msgstr "Motherboard configuration ::"
 
 #: ../../marlin.rst:23 c9f48d7c4115496a82551a12d2f0f8a8
 msgid "Spindle / laser / pen configuration ::"
-msgstr ""
+msgstr "Broche / laser / configuration du stylo ::"
 
 #: ../../marlin.rst:32 5229b08584e84b59aab0517ab0768c72
 msgid "Endstop configuration ::"
-msgstr ""
+msgstr "Configuration de l'arrêt d'urgence ::"
 
 #: ../../marlin.rst:44 7fc91a0069bc44a8b4c4eedcaa6fc07f
 msgid "Motor step / mm ::"
-msgstr ""
+msgstr "Pas de moteur / mm ::"
 
 #: ../../marlin.rst:48 d64d0ee9e8fc458180bc21a9df8b2b00
 msgid "Max feedrate ::"
-msgstr ""
+msgstr "Taux d'alimentation maximum ::"
 
 #: ../../marlin.rst:52 15fb959190154c16b6331ab627f8f20b
 msgid "Acceleration ::"
-msgstr ""
+msgstr "Accélération ::"
 
 #: ../../marlin.rst:60 55545d0e9d524d4a8ba3d627f85033fb
 msgid "Jerk ::"
