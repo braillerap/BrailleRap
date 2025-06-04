@@ -115,9 +115,10 @@ Qty Type
 1   Electro-aimant *tau-826b* 12V 2A.
 1   MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 https://github.com/makerbase-mks.
 2   drivers DRV8825 avec radiateur.
-1   1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4).    
-1   Embase Alimentation jack 2.5.
-1   Alimentation 12v 6A.
+1   1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4 uniquement).    
+2   Commutateurs fin de course cablés conformément à la documentation.
+1   Embase Alimentation jack 2.5mm.
+1   Alimentation 12v 6A jack 2.5mm.
 
 === ===========================================================================================
 

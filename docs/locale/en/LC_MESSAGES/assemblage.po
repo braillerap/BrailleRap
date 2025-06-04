@@ -562,7 +562,7 @@ msgstr "1 18mm spacer"
 #: ../../assemblage.rst:334
 msgid "1 vis sans tête M3-16 pointeau limée (cf Préparation du pointeau mâle)"
 msgstr ""
-"1 M3-12 grub screw with shaped tip (see Preparation of the Braille stylus)"
+"1 M3-16 grub screw with shaped tip (see Preparation of the Braille stylus)"
 
 #: ../../assemblage.rst:336
 msgid "1 rondelle M3"
