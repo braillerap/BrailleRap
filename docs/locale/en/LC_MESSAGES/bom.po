@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-06-04 08:09+0000\n"
-"PO-Revision-Date: 2025-05-07 15:53+0000\n"
-"Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-04 08:21+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"braillerap-building-manual/manual_bom/en/>\n"
 "Language: en\n"
-"Language-Team: English <https://translate.codeberg.org/projects"
-"/braillerap-building-manual/manual_bom/en/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 "Generated-By: Babel 2.16.0\n"
 
 # Stephane <contact@braillerap.org>, 2018.
@@ -277,7 +278,6 @@ msgid "drivers DRV8825 avec radiateur."
 msgstr "DRV8825 drivers with heat sinks."
 
 #: ../../bom.rst:118
-#, fuzzy
 msgid ""
 "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4 "
 "uniquement)."
@@ -285,17 +285,15 @@ msgstr "Flyback diode 1N4004 or equivalent (12v 2A) (only for MKS GEN 1.4)."
 
 #: ../../bom.rst:119
 msgid "Commutateurs fin de course cablés conformément à la documentation."
-msgstr ""
+msgstr "Endswitches wired as in building manual."
 
 #: ../../bom.rst:120
-#, fuzzy
 msgid "Embase Alimentation jack 2.5mm."
 msgstr "2.5mm Female power supply jack."
 
 #: ../../bom.rst:121
-#, fuzzy
 msgid "Alimentation 12v 6A jack 2.5mm."
-msgstr "12V 6A power supply."
+msgstr "12V 6A power supply with jack 2.5mm."
 
 #~ msgid "Electro-aimant *tau-826* 12V 2A"
 #~ msgstr "12V 2A *tau-826* solenoid"
@@ -311,4 +309,3 @@ msgstr "12V 6A power supply."
 
 #~ msgid "**Pour BrailleRAP XL**"
 #~ msgstr "**For BrailleRAP XL**"
-
