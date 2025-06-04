@@ -7,17 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-05-05 19:00+0000\n"
+"POT-Creation-Date: 2025-06-04 08:09+0000\n"
 "PO-Revision-Date: 2025-05-05 19:12+0000\n"
 "Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
-"Language-Team: English <https://translate.codeberg.org/projects/"
-"braillerap-building-manual/manual_assemblage/en/>\n"
 "Language: en\n"
+"Language-Team: English <https://translate.codeberg.org/projects"
+"/braillerap-building-manual/manual_assemblage/en/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.16.0\n"
 
 #: ../../assemblage.rst:2
@@ -513,9 +512,9 @@ msgstr "1 M3 nut"
 msgid "2 vis M2.5-14"
 msgstr "2 M2.5-14 screws"
 
-#: ../../assemblage.rst:299
-msgid "2 écrous M2.5"
-msgstr "2 M2.5 nuts"
+#: ../../assemblage.rst:299 ../../assemblage.rst:1248
+msgid "2 écrous M2.5 NYL"
+msgstr "2 nuts M2.5 NYL"
 
 #: ../../assemblage.rst:302
 msgid "Introduire un écrou M3 et visser une vis sans tête M3-12."
@@ -561,8 +560,7 @@ msgstr "1 18mm spacer"
 
 #: ../../assemblage.rst:334
 msgid "1 vis sans tête M3-16 pointeau limée (cf Préparation du pointeau mâle)"
-msgstr ""
-"1 M3-16 grub screw with shaped tip (see Preparation of the Braille stylus)"
+msgstr "1 M3-16 grub screw with shaped tip (see Preparation of the Braille stylus)"
 
 #: ../../assemblage.rst:336
 msgid "1 rondelle M3"
@@ -577,8 +575,8 @@ msgid ""
 "Visser la vis M3-16 pointeau limée en la laissant dépasser de ± 6mm de "
 "l’entretoise."
 msgstr ""
-"Tighten the M3-16 screw with the Braille stylus punched out, allowing it to "
-"extend ± 6mm beyond the spacer."
+"Tighten the M3-16 screw with the Braille stylus punched out, allowing it "
+"to extend ± 6mm beyond the spacer."
 
 #: ../../assemblage.rst:353
 msgid "Montage de l'electro-aimant sur son support"
@@ -1725,10 +1723,6 @@ msgstr "2 M3 nuts"
 msgid "1 interrupteur fin de course à lamelle"
 msgstr "1 endstop switch"
 
-#: ../../assemblage.rst:1248
-msgid "2 écrous M2.5 NYL"
-msgstr "2 nuts M2.5 NYL"
-
 #: ../../assemblage.rst:1250
 msgid "On utilisera de preference un endstop avec le cable coudé."
 msgstr "It's better to use an endstop with angled wire."
@@ -2430,3 +2424,7 @@ msgstr "To save these values in EEPROM use the command : M500"
 
 #~ msgid "4 rondelles M3 moyennes"
 #~ msgstr "4 medium M3 washers"
+
+#~ msgid "2 écrous M2.5"
+#~ msgstr "2 M2.5 nuts"
+

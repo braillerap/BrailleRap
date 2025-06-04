@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-05 19:00+0000\n"
+"POT-Creation-Date: 2025-06-04 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -432,7 +432,8 @@ msgid "2 vis M2.5-14"
 msgstr ""
 
 #: ../../assemblage.rst:299
-msgid "2 écrous M2.5"
+#: ../../assemblage.rst:1248
+msgid "2 écrous M2.5 NYL"
 msgstr ""
 
 #: ../../assemblage.rst:302
@@ -1381,10 +1382,6 @@ msgstr ""
 
 #: ../../assemblage.rst:1246
 msgid "1 interrupteur fin de course à lamelle"
-msgstr ""
-
-#: ../../assemblage.rst:1248
-msgid "2 écrous M2.5 NYL"
 msgstr ""
 
 #: ../../assemblage.rst:1250

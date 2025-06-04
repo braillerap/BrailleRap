@@ -7,17 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-05-05 20:10+0000\n"
+"POT-Creation-Date: 2025-06-04 08:09+0000\n"
 "PO-Revision-Date: 2025-05-07 15:53+0000\n"
 "Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
-"Language-Team: English <https://translate.codeberg.org/projects/"
-"braillerap-building-manual/manual_bom/en/>\n"
 "Language: en\n"
+"Language-Team: English <https://translate.codeberg.org/projects"
+"/braillerap-building-manual/manual_bom/en/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
 "Generated-By: Babel 2.16.0\n"
 
 # Stephane <contact@braillerap.org>, 2018.
@@ -79,8 +78,8 @@ msgid ""
 "Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres"
 " extérieurs. Nous utilisons le filament eSun ABS Natural."
 msgstr ""
-"All printed parts are printed in ABS, 50% infill, 3 outside perimeters. We "
-"use eSun ABS Natural filament."
+"All printed parts are printed in ABS, 50% infill, 3 outside perimeters. "
+"We use eSun ABS Natural filament."
 
 #: ../../bom.rst:29
 msgid ""
@@ -112,7 +111,7 @@ msgstr "Linear rod 8mm diameter **330 mm** length"
 
 #: ../../bom.rst:42 ../../bom.rst:43 ../../bom.rst:61 ../../bom.rst:62
 #: ../../bom.rst:82 ../../bom.rst:87 ../../bom.rst:89 ../../bom.rst:115
-#: ../../bom.rst:116 ../../bom.rst:118 ../../bom.rst:119 ../../bom.rst:120
+#: ../../bom.rst:116 ../../bom.rst:118 ../../bom.rst:120 ../../bom.rst:121
 msgid "1"
 msgstr "1"
 
@@ -125,7 +124,7 @@ msgid "Rail de guidage linéaire ( diamètre 8mm ) **100 mm** length"
 msgstr "Linear rod 8mm diameter **100 mm** length"
 
 #: ../../bom.rst:45 ../../bom.rst:64 ../../bom.rst:81 ../../bom.rst:84
-#: ../../bom.rst:85 ../../bom.rst:114 ../../bom.rst:117
+#: ../../bom.rst:85 ../../bom.rst:114 ../../bom.rst:117 ../../bom.rst:119
 msgid "2"
 msgstr "2"
 
@@ -270,23 +269,32 @@ msgid ""
 "MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 "
 "https://github.com/makerbase-mks."
 msgstr ""
-"MKS GEN 1.4 board or Ramps 1.4 compatible or MKS GEN L 2.1 https://"
-"github.com/makerbase-mks."
+"MKS GEN 1.4 board or Ramps 1.4 compatible or MKS GEN L 2.1 "
+"https://github.com/makerbase-mks."
 
 #: ../../bom.rst:117
 msgid "drivers DRV8825 avec radiateur."
 msgstr "DRV8825 drivers with heat sinks."
 
 #: ../../bom.rst:118
-msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)."
+#, fuzzy
+msgid ""
+"1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4 "
+"uniquement)."
 msgstr "Flyback diode 1N4004 or equivalent (12v 2A) (only for MKS GEN 1.4)."
 
 #: ../../bom.rst:119
-msgid "Embase Alimentation jack 2.5."
-msgstr "2.5mm Female power supply jack."
+msgid "Commutateurs fin de course cablés conformément à la documentation."
+msgstr ""
 
 #: ../../bom.rst:120
-msgid "Alimentation 12v 6A."
+#, fuzzy
+msgid "Embase Alimentation jack 2.5mm."
+msgstr "2.5mm Female power supply jack."
+
+#: ../../bom.rst:121
+#, fuzzy
+msgid "Alimentation 12v 6A jack 2.5mm."
 msgstr "12V 6A power supply."
 
 #~ msgid "Electro-aimant *tau-826* 12V 2A"
@@ -303,3 +311,4 @@ msgstr "12V 6A power supply."
 
 #~ msgid "**Pour BrailleRAP XL**"
 #~ msgstr "**For BrailleRAP XL**"
+

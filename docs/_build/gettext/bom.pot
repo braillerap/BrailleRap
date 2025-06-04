@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-05 20:10+0000\n"
+"POT-Creation-Date: 2025-06-04 08:09+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -119,8 +119,8 @@ msgstr ""
 #: ../../bom.rst:115
 #: ../../bom.rst:116
 #: ../../bom.rst:118
-#: ../../bom.rst:119
 #: ../../bom.rst:120
+#: ../../bom.rst:121
 msgid "1"
 msgstr ""
 
@@ -140,6 +140,7 @@ msgstr ""
 #: ../../bom.rst:85
 #: ../../bom.rst:114
 #: ../../bom.rst:117
+#: ../../bom.rst:119
 msgid "2"
 msgstr ""
 
@@ -274,13 +275,17 @@ msgid "drivers DRV8825 avec radiateur."
 msgstr ""
 
 #: ../../bom.rst:118
-msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4)."
+msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4 uniquement)."
 msgstr ""
 
 #: ../../bom.rst:119
-msgid "Embase Alimentation jack 2.5."
+msgid "Commutateurs fin de course cablés conformément à la documentation."
 msgstr ""
 
 #: ../../bom.rst:120
-msgid "Alimentation 12v 6A."
+msgid "Embase Alimentation jack 2.5mm."
+msgstr ""
+
+#: ../../bom.rst:121
+msgid "Alimentation 12v 6A jack 2.5mm."
 msgstr ""
