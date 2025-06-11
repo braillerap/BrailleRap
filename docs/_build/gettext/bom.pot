@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-11 22:50+0000\n"
+"POT-Creation-Date: 2025-06-11 22:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -279,7 +279,7 @@ msgid "1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4 uniq
 msgstr ""
 
 #: ../../bom.rst:119
-msgid "Commutateurs fin de course cablés conformément à la documentation. (OMRON `SS-5GL <https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf>` ou compatible)"
+msgid "Commutateurs fin de course cablés conformément à la documentation. (OMRON `SS-5GL <https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf>`_ ou compatible)"
 msgstr ""
 
 #: ../../bom.rst:120
