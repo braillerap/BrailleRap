@@ -7,17 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2025-06-11 22:37+0000\n"
+"POT-Creation-Date: 2025-06-11 22:50+0000\n"
 "PO-Revision-Date: 2025-06-11 22:44+0000\n"
 "Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
-"Language-Team: English <https://translate.codeberg.org/projects/"
-"braillerap-building-manual/manual_bom/en/>\n"
 "Language: en\n"
+"Language-Team: English <https://translate.codeberg.org/projects"
+"/braillerap-building-manual/manual_bom/en/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 "Generated-By: Babel 2.16.0\n"
 
 # Stephane <contact@braillerap.org>, 2018.
@@ -284,13 +283,15 @@ msgid ""
 msgstr "Flyback diode 1N4004 or equivalent (12v 2A) (only for MKS GEN 1.4)."
 
 #: ../../bom.rst:119
+#, fuzzy
 msgid ""
 "Commutateurs fin de course cablés conformément à la documentation. (OMRON"
-" [SS-5GL](https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf) ou "
-"compatible)"
+" `SS-5GL <https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf>` ou"
+" compatible)"
 msgstr ""
-"End switches wired as in building manual. (OMRON [SS-5GL](https://"
-"omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf) or equivalent)"
+"End switches wired as in building manual. (OMRON [SS-"
+"5GL](https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf) or "
+"equivalent)"
 
 #: ../../bom.rst:120
 msgid "Embase Alimentation jack 2.5mm."
@@ -317,3 +318,4 @@ msgstr "12V 6A power supply with jack 2.5mm."
 
 #~ msgid "Commutateurs fin de course cablés conformément à la documentation."
 #~ msgstr "Endswitches wired as in building manual."
+
