@@ -117,7 +117,7 @@ Qty Type
 2   drivers DRV8825 avec radiateur.
 1   1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4 uniquement).    
 2   Commutateurs fin de course cablés conformément à la documentation. (OMRON `SS-5GL <https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf>`_ ou compatible)
-1   Embase Alimentation jack 2.5mm.
+1   Embase Alimentation jack 2.5mm. 
 1   Alimentation 12v 6A jack 2.5mm.
 
 === ===========================================================================================
