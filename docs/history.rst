@@ -25,15 +25,6 @@ BrailleRap-SP
 En Janvier 2018, nous avons commencé avec quelques rails linéaires, des moteurs Nema et des pièces imprimées pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard, nous avons commencé à montrer des exemples de textes embossés en Braille, et tout le monde était très enthousiastes. Le projet BrailleRAP-SP était né.  
  
 
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-	    <iframe width="560" height="315" src="https://www.youtube.com/embed/IYYWQi-H3YY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe> 
-    </div>
-     
-|
-|
-
 BrailleRap
 ----------
 En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, nous reprenons le projet pour proposer des améliorations.
@@ -51,18 +42,27 @@ Une experience riche en rencontres exceptionelles, en anecdotes, en expérimenta
 Hackaday Prize
 --------------
 Riche de l'experience du Cameroun, des améliorations sont apportées :
-- Création du logiciel `AccessBrailleRAP <https://https://github.com/braillerap/AccessBrailleRAP>`_ en utilisant la bibliotheque open source `liblouis <https://liblouis.io/>`_ ce qui améliore considérablement la transcription Braille et ouvre la possibilité d'avoir un logiciel utilisable avec un lecteur d'écran.
-- Renforcement des supports moteurs pour faciliter le transport.
-- Déplacement du fin de course de détection du papier pour faciliter le réglage.
-- Ajout d'un rouleau d'entrainement du papier supplémentaire pour permettre l'utilisation de différent format de support.
+* Création du logiciel `AccessBrailleRAP <https://https://github.com/braillerap/AccessBrailleRAP>`_ en utilisant la bibliotheque open source `liblouis <https://liblouis.io/>`_ ce qui améliore considérablement la transcription Braille et ouvre la possibilité d'avoir un logiciel utilisable avec un lecteur d'écran.
+* Renforcement des supports moteurs pour faciliter le transport.
+* Déplacement du fin de course de détection du papier pour faciliter le réglage.
+* Ajout d'un rouleau d'entrainement du papier supplémentaire pour permettre l'utilisation de différent format de support.
 
 Courant 2023, le projet est présenté au concours international `HackadayPrize <https://hackaday.com/2023/11/07/hackaday-prize-2023-ending-10-years-on-a-high-note/#more-639760>`_ et remporte le 5° prix à Pasadena le 7/11/2023. L'intégralité du prix associé est consacré au développement d'un prototype d'utilisation de la BrailleRAP à partir d'un téléphone portable. 
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+	    <iframe width="560" height="315" src="https://youtu.be/afmmY3M2pTo?si=Q1MPJ6qYq__vqL8t" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe> 
+    </div>
+     
+|
+|
 
 Ateliers intensifs et financement
 ---------------------------------
 Le prix international renforce la notoriété du projet, c'est l'occasion de préparer une dizaine d'ateliers et masterclass à travers la France mais aussi en Belgique et en République Démocratique du Congo.
-- Des ateliers "grand public" pour sensibiliser à l'utilisation des techniques de Fablab et equiper une famille (coucou Sophie et Noé), des institutions (une fédération d'office de tourisme, un musée, une médiathèque et une mairie).
-- Des master class pour demystifier la complexité du montage de la machine et former les fabmanagers a l'assemblage et à la maintenance, avec l'objectif de leur faciliter l'animation d'atelier.
+* Des ateliers "grand public" pour sensibiliser à l'utilisation des techniques de Fablab et equiper une famille (coucou Sophie et Noé), des institutions (une fédération d'office de tourisme, un musée, une médiathèque et une mairie).
+* Des master class pour demystifier la complexité du montage de la machine et former les fabmanagers a l'assemblage et à la maintenance, avec l'objectif de leur faciliter l'animation d'atelier.
 
 Autant d'expériences qui font évoluer à la fois les scénari de conduite d'ateliers. Mais également le modèle et améliore la facilité de montage en atelier, la maintenance, la vitesse d'embossage et les réglages. C'est egalement la naissance du premier modèle A3, la BrailleRAP XL.
 
