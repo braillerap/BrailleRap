@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-22 18:31+0000\n"
+"POT-Creation-Date: 2025-06-22 18:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,39 +60,39 @@ msgstr ""
 msgid "En Janvier 2018, nous avons commencé avec quelques rails linéaires, des moteurs Nema et des pièces imprimées pour essayer de réaliser une embosseuse Braille. Quelques essais plus tard, nous avons commencé à montrer des exemples de textes embossés en Braille, et tout le monde était très enthousiastes. Le projet BrailleRAP-SP était né."
 msgstr ""
 
-#: ../../history.rst:38
+#: ../../history.rst:29
 msgid "BrailleRap"
 msgstr ""
 
-#: ../../history.rst:39
+#: ../../history.rst:30
 msgid "En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, nous reprenons le projet pour proposer des améliorations."
 msgstr ""
 
-#: ../../history.rst:42
+#: ../../history.rst:33
 msgid "BrailleRap Cameroun"
 msgstr ""
 
-#: ../../history.rst:43
+#: ../../history.rst:34
 msgid "Toujours en 2022, le CCLab nous confie la préparation et la réalisation de 4 ateliers grand public au Cameroun. C'est l'opération BrailleRAP Cameroun."
 msgstr ""
 
-#: ../../history.rst:45
+#: ../../history.rst:36
 msgid "2 ateliers grand public, 2 master class dans 4 villes du Cameroun en collaboration avec l'ANIAAC, l'Association National pour l'Intégration et l'Accomodation des Aveugles du Cameroun. C'est l'occasion pendant 3 semaines, de confronter une nouvelle fois le projet au grand public: non voyants, makers, associations, établissements d'enseignements. Tout cela dans un contexte international très différent de nos activités habituelles."
 msgstr ""
 
-#: ../../history.rst:48
+#: ../../history.rst:39
 msgid "Une experience riche en rencontres exceptionelles, en anecdotes, en expérimentations et en nouvelles idées d'évolutions et d'améliorations."
 msgstr ""
 
-#: ../../history.rst:52
+#: ../../history.rst:43
 msgid "Hackaday Prize"
 msgstr ""
 
-#: ../../history.rst:53
-msgid "Riche de l'experience du Cameroun, des améliorations sont apportées : - Création du logiciel `AccessBrailleRAP <https://https://github.com/braillerap/AccessBrailleRAP>`_ en utilisant la bibliotheque open source `liblouis <https://liblouis.io/>`_ ce qui améliore considérablement la transcription Braille et ouvre la possibilité d'avoir un logiciel utilisable avec un lecteur d'écran. - Renforcement des supports moteurs pour faciliter le transport. - Déplacement du fin de course de détection du papier pour faciliter le réglage. - Ajout d'un rouleau d'entrainement du papier supplémentaire pour permettre l'utilisation de différent format de support."
+#: ../../history.rst:44
+msgid "Riche de l'experience du Cameroun, des améliorations sont apportées : * Création du logiciel `AccessBrailleRAP <https://https://github.com/braillerap/AccessBrailleRAP>`_ en utilisant la bibliotheque open source `liblouis <https://liblouis.io/>`_ ce qui améliore considérablement la transcription Braille et ouvre la possibilité d'avoir un logiciel utilisable avec un lecteur d'écran. * Renforcement des supports moteurs pour faciliter le transport. * Déplacement du fin de course de détection du papier pour faciliter le réglage. * Ajout d'un rouleau d'entrainement du papier supplémentaire pour permettre l'utilisation de différent format de support."
 msgstr ""
 
-#: ../../history.rst:59
+#: ../../history.rst:50
 msgid "Courant 2023, le projet est présenté au concours international `HackadayPrize <https://hackaday.com/2023/11/07/hackaday-prize-2023-ending-10-years-on-a-high-note/#more-639760>`_ et remporte le 5° prix à Pasadena le 7/11/2023. L'intégralité du prix associé est consacré au développement d'un prototype d'utilisation de la BrailleRAP à partir d'un téléphone portable."
 msgstr ""
 
@@ -101,7 +101,7 @@ msgid "Ateliers intensifs et financement"
 msgstr ""
 
 #: ../../history.rst:63
-msgid "Le prix international renforce la notoriété du projet, c'est l'occasion de préparer une dizaine d'ateliers et masterclass à travers la France mais aussi en Belgique et en République Démocratique du Congo. - Des ateliers \"grand public\" pour sensibiliser à l'utilisation des techniques de Fablab et equiper une famille (coucou Sophie et Noé), des institutions (une fédération d'office de tourisme, un musée, une médiathèque et une mairie). - Des master class pour demystifier la complexité du montage de la machine et former les fabmanagers a l'assemblage et à la maintenance, avec l'objectif de leur faciliter l'animation d'atelier."
+msgid "Le prix international renforce la notoriété du projet, c'est l'occasion de préparer une dizaine d'ateliers et masterclass à travers la France mais aussi en Belgique et en République Démocratique du Congo. * Des ateliers \"grand public\" pour sensibiliser à l'utilisation des techniques de Fablab et equiper une famille (coucou Sophie et Noé), des institutions (une fédération d'office de tourisme, un musée, une médiathèque et une mairie). * Des master class pour demystifier la complexité du montage de la machine et former les fabmanagers a l'assemblage et à la maintenance, avec l'objectif de leur faciliter l'animation d'atelier."
 msgstr ""
 
 #: ../../history.rst:67

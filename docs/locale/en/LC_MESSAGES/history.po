@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-22 18:31+0000\n"
+"POT-Creation-Date: 2025-06-22 18:58+0000\n"
 "PO-Revision-Date: 2025-05-12 07:37+0000\n"
 "Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
 "Language: en\n"
@@ -103,11 +103,11 @@ msgstr ""
 "started to show examples of Braille embossed texts, and everyone was very"
 " excited. The BrailleRAP-SP project was born."
 
-#: ../../history.rst:38
+#: ../../history.rst:29
 msgid "BrailleRap"
 msgstr "BrailleRap"
 
-#: ../../history.rst:39
+#: ../../history.rst:30
 msgid ""
 "En 2022, pour pouvoir continuer le projet avec quelques enthousiastes, "
 "nous reprenons le projet pour proposer des améliorations."
@@ -115,11 +115,11 @@ msgstr ""
 "In 2022, in order to continue to improve the project with other "
 "enthusiasts, we created the BrailleRap project."
 
-#: ../../history.rst:42
+#: ../../history.rst:33
 msgid "BrailleRap Cameroun"
 msgstr "BrailleRap Cameroon"
 
-#: ../../history.rst:43
+#: ../../history.rst:34
 #, fuzzy
 msgid ""
 "Toujours en 2022, le CCLab nous confie la préparation et la réalisation "
@@ -130,7 +130,7 @@ msgstr ""
 "preparation and realization of 4 general public workshops in Cameroon. "
 "It's Operation BrailleRAP Cameroon."
 
-#: ../../history.rst:45
+#: ../../history.rst:36
 #, fuzzy
 msgid ""
 "2 ateliers grand public, 2 master class dans 4 villes du Cameroun en "
@@ -148,7 +148,7 @@ msgstr ""
 "learned. All this in a very different international context of our usual "
 "activities."
 
-#: ../../history.rst:48
+#: ../../history.rst:39
 msgid ""
 "Une experience riche en rencontres exceptionelles, en anecdotes, en "
 "expérimentations et en nouvelles idées d'évolutions et d'améliorations."
@@ -156,25 +156,25 @@ msgstr ""
 "An experience rich in exceptional encounters, in anecdotes, in "
 "experiments and new ideas for evolutions and improvements."
 
-#: ../../history.rst:52
+#: ../../history.rst:43
 msgid "Hackaday Prize"
 msgstr ""
 
-#: ../../history.rst:53
+#: ../../history.rst:44
 msgid ""
-"Riche de l'experience du Cameroun, des améliorations sont apportées : - "
+"Riche de l'experience du Cameroun, des améliorations sont apportées : * "
 "Création du logiciel `AccessBrailleRAP "
 "<https://https://github.com/braillerap/AccessBrailleRAP>`_ en utilisant "
 "la bibliotheque open source `liblouis <https://liblouis.io/>`_ ce qui "
 "améliore considérablement la transcription Braille et ouvre la "
-"possibilité d'avoir un logiciel utilisable avec un lecteur d'écran. - "
-"Renforcement des supports moteurs pour faciliter le transport. - "
+"possibilité d'avoir un logiciel utilisable avec un lecteur d'écran. * "
+"Renforcement des supports moteurs pour faciliter le transport. * "
 "Déplacement du fin de course de détection du papier pour faciliter le "
-"réglage. - Ajout d'un rouleau d'entrainement du papier supplémentaire "
+"réglage. * Ajout d'un rouleau d'entrainement du papier supplémentaire "
 "pour permettre l'utilisation de différent format de support."
 msgstr ""
 
-#: ../../history.rst:59
+#: ../../history.rst:50
 msgid ""
 "Courant 2023, le projet est présenté au concours international "
 "`HackadayPrize <https://hackaday.com/2023/11/07/hackaday-"
@@ -192,11 +192,11 @@ msgstr ""
 msgid ""
 "Le prix international renforce la notoriété du projet, c'est l'occasion "
 "de préparer une dizaine d'ateliers et masterclass à travers la France "
-"mais aussi en Belgique et en République Démocratique du Congo. - Des "
+"mais aussi en Belgique et en République Démocratique du Congo. * Des "
 "ateliers \"grand public\" pour sensibiliser à l'utilisation des "
 "techniques de Fablab et equiper une famille (coucou Sophie et Noé), des "
 "institutions (une fédération d'office de tourisme, un musée, une "
-"médiathèque et une mairie). - Des master class pour demystifier la "
+"médiathèque et une mairie). * Des master class pour demystifier la "
 "complexité du montage de la machine et former les fabmanagers a "
 "l'assemblage et à la maintenance, avec l'objectif de leur faciliter "
 "l'animation d'atelier."
@@ -271,4 +271,45 @@ msgstr ""
 #~ msgstr ""
 #~ "More on BrailleRAP Cameroon `here "
 #~ "<https://forgecc.org/?BraillerapCameroun>`_"
+
+#~ msgid ""
+#~ "Riche de l'experience du Cameroun, des"
+#~ " améliorations sont apportées : - "
+#~ "Création du logiciel `AccessBrailleRAP "
+#~ "<https://https://github.com/braillerap/AccessBrailleRAP>`_ en"
+#~ " utilisant la bibliotheque open source "
+#~ "`liblouis <https://liblouis.io/>`_ ce qui "
+#~ "améliore considérablement la transcription "
+#~ "Braille et ouvre la possibilité d'avoir"
+#~ " un logiciel utilisable avec un "
+#~ "lecteur d'écran. - Renforcement des "
+#~ "supports moteurs pour faciliter le "
+#~ "transport. - Déplacement du fin de "
+#~ "course de détection du papier pour "
+#~ "faciliter le réglage. - Ajout d'un "
+#~ "rouleau d'entrainement du papier "
+#~ "supplémentaire pour permettre l'utilisation de"
+#~ " différent format de support."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Le prix international renforce la "
+#~ "notoriété du projet, c'est l'occasion de"
+#~ " préparer une dizaine d'ateliers et "
+#~ "masterclass à travers la France mais "
+#~ "aussi en Belgique et en République "
+#~ "Démocratique du Congo. - Des ateliers"
+#~ " \"grand public\" pour sensibiliser à "
+#~ "l'utilisation des techniques de Fablab "
+#~ "et equiper une famille (coucou Sophie"
+#~ " et Noé), des institutions (une "
+#~ "fédération d'office de tourisme, un "
+#~ "musée, une médiathèque et une mairie)."
+#~ " - Des master class pour demystifier"
+#~ " la complexité du montage de la "
+#~ "machine et former les fabmanagers a "
+#~ "l'assemblage et à la maintenance, avec"
+#~ " l'objectif de leur faciliter l'animation"
+#~ " d'atelier."
+#~ msgstr ""
 
