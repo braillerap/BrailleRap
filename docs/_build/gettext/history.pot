@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-22 18:58+0000\n"
+"POT-Creation-Date: 2025-06-22 21:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,19 +89,43 @@ msgid "Hackaday Prize"
 msgstr ""
 
 #: ../../history.rst:44
-msgid "Riche de l'experience du Cameroun, des améliorations sont apportées : * Création du logiciel `AccessBrailleRAP <https://https://github.com/braillerap/AccessBrailleRAP>`_ en utilisant la bibliotheque open source `liblouis <https://liblouis.io/>`_ ce qui améliore considérablement la transcription Braille et ouvre la possibilité d'avoir un logiciel utilisable avec un lecteur d'écran. * Renforcement des supports moteurs pour faciliter le transport. * Déplacement du fin de course de détection du papier pour faciliter le réglage. * Ajout d'un rouleau d'entrainement du papier supplémentaire pour permettre l'utilisation de différent format de support."
+msgid "Riche de l'experience du Cameroun, des améliorations sont apportées :"
 msgstr ""
 
-#: ../../history.rst:50
+#: ../../history.rst:46
+msgid "Création du logiciel `AccessBrailleRAP <https://https://github.com/braillerap/AccessBrailleRAP>`_ en utilisant la bibliotheque open source `liblouis <https://liblouis.io/>`_ ce qui améliore considérablement la transcription Braille et ouvre la possibilité d'avoir un logiciel utilisable avec un lecteur d'écran."
+msgstr ""
+
+#: ../../history.rst:47
+msgid "Renforcement des supports moteurs pour faciliter le transport."
+msgstr ""
+
+#: ../../history.rst:48
+msgid "Déplacement du fin de course de détection du papier pour faciliter le réglage."
+msgstr ""
+
+#: ../../history.rst:49
+msgid "Ajout d'un rouleau d'entrainement du papier supplémentaire pour permettre l'utilisation de différent format de support."
+msgstr ""
+
+#: ../../history.rst:51
 msgid "Courant 2023, le projet est présenté au concours international `HackadayPrize <https://hackaday.com/2023/11/07/hackaday-prize-2023-ending-10-years-on-a-high-note/#more-639760>`_ et remporte le 5° prix à Pasadena le 7/11/2023. L'intégralité du prix associé est consacré au développement d'un prototype d'utilisation de la BrailleRAP à partir d'un téléphone portable."
 msgstr ""
 
-#: ../../history.rst:62
+#: ../../history.rst:61
 msgid "Ateliers intensifs et financement"
 msgstr ""
 
-#: ../../history.rst:63
-msgid "Le prix international renforce la notoriété du projet, c'est l'occasion de préparer une dizaine d'ateliers et masterclass à travers la France mais aussi en Belgique et en République Démocratique du Congo. * Des ateliers \"grand public\" pour sensibiliser à l'utilisation des techniques de Fablab et equiper une famille (coucou Sophie et Noé), des institutions (une fédération d'office de tourisme, un musée, une médiathèque et une mairie). * Des master class pour demystifier la complexité du montage de la machine et former les fabmanagers a l'assemblage et à la maintenance, avec l'objectif de leur faciliter l'animation d'atelier."
+#: ../../history.rst:62
+msgid "Le prix international renforce la notoriété du projet, c'est l'occasion de préparer une dizaine d'ateliers et masterclass à travers la France mais aussi en Belgique et en République Démocratique du Congo."
+msgstr ""
+
+#: ../../history.rst:64
+msgid "Des ateliers \"grand public\" pour sensibiliser à l'utilisation des techniques de Fablab et equiper une famille (coucou Sophie et Noé), des institutions (une fédération d'office de tourisme, un musée, une médiathèque et une mairie)."
+msgstr ""
+
+#: ../../history.rst:65
+msgid "Des master class pour demystifier la complexité du montage de la machine et former les fabmanagers a l'assemblage et à la maintenance, avec l'objectif de leur faciliter l'animation d'atelier."
 msgstr ""
 
 #: ../../history.rst:67
