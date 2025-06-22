@@ -53,13 +53,14 @@ Courant 2023, le projet est présenté au concours international `HackadayPrize 
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-	    <iframe width="560" height="315" src="https://www.youtube.com/embed/afmmY3M2pTo?si=dz6DRnFYXkdmXdUv" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe> 
+	    <iframe width="560" height="315" src="https://www.youtube.com/embed/afmmY3M2pTo?si=0mn0qBLbHShMuEfu&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     
 
 Ateliers intensifs et financement
 ---------------------------------
 Le prix international renforce la notoriété du projet, c'est l'occasion de préparer une dizaine d'ateliers et masterclass à travers la France mais aussi en Belgique et en République Démocratique du Congo.
+
 * Des ateliers "grand public" pour sensibiliser à l'utilisation des techniques de Fablab et equiper une famille (coucou Sophie et Noé), des institutions (une fédération d'office de tourisme, un musée, une médiathèque et une mairie).
 * Des master class pour demystifier la complexité du montage de la machine et former les fabmanagers a l'assemblage et à la maintenance, avec l'objectif de leur faciliter l'animation d'atelier.
 
