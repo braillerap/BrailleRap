@@ -1,20 +1,18 @@
-
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-22 18:58+0000\n"
-"PO-Revision-Date: 2025-06-22 21:50+0000\n"
-"Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-06-22 22:18+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
 "Language-Team: English <https://translate.codeberg.org/projects/"
 "braillerap-building-manual/manual_history/en/>\n"
 "Language: en\n"
-"Language-Team: English <https://translate.codeberg.org/projects"
-"/braillerap-building-manual/manual_history/en/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11.4\n"
 "Generated-By: Babel 2.16.0\n"
 
 # SOME DESCRIPTIVE TITLE.
@@ -161,10 +159,9 @@ msgstr "Hackaday Prize"
 
 #: ../../history.rst:44
 msgid "Riche de l'experience du Cameroun, des améliorations sont apportées :"
-msgstr ""
+msgstr "Enriched by Cameroon's experience, improvements have been made:"
 
 #: ../../history.rst:46
-#, fuzzy
 msgid ""
 "Création du logiciel `AccessBrailleRAP "
 "<https://https://github.com/braillerap/AccessBrailleRAP>`_ en utilisant "
@@ -172,30 +169,28 @@ msgid ""
 "améliore considérablement la transcription Braille et ouvre la "
 "possibilité d'avoir un logiciel utilisable avec un lecteur d'écran."
 msgstr ""
-"Enriched by the experience in Cameroon, several improvements were made: * "
-"Creation of the `AccessBrailleRAP <https://https://github.com/braillerap/"
+"Created `AccessBrailleRAP <https://https://github.com/braillerap/"
 "AccessBrailleRAP>`_ software using the open source `liblouis <https://"
 "liblouis.io/>`_ library, greatly improving Braille transcription and making "
-"it possible to use the software with a screen reader. * Reinforcement of the "
-"motor mounts, making it easier to transport. * Repositioning of the paper "
-"detection limit switch for easier adjustment. * Addition of another paper "
-"feed roller, opening up the use of different media sizes."
+"it possible to use the software with a screen reader."
 
 #: ../../history.rst:47
 msgid "Renforcement des supports moteurs pour faciliter le transport."
-msgstr ""
+msgstr "Reinforced engine mounts for easier transportation."
 
 #: ../../history.rst:48
 msgid ""
 "Déplacement du fin de course de détection du papier pour faciliter le "
 "réglage."
-msgstr ""
+msgstr "Move the paper detection endstop to ease device setup."
 
 #: ../../history.rst:49
 msgid ""
 "Ajout d'un rouleau d'entrainement du papier supplémentaire pour permettre"
 " l'utilisation de différent format de support."
 msgstr ""
+"Added an additional paper feed roller to allow the use of different media "
+"sizes."
 
 #: ../../history.rst:51
 msgid ""
@@ -223,6 +218,9 @@ msgid ""
 "de préparer une dizaine d'ateliers et masterclass à travers la France "
 "mais aussi en Belgique et en République Démocratique du Congo."
 msgstr ""
+"The international award strengthens the project's reputation and provides an "
+"opportunity to organize around ten workshops and masterclasses across "
+"France, as well as in Belgium and the Democratic Republic of Congo."
 
 #: ../../history.rst:64
 msgid ""
@@ -231,6 +229,9 @@ msgid ""
 "institutions (une fédération d'office de tourisme, un musée, une "
 "médiathèque et une mairie)."
 msgstr ""
+"\"General public\" workshops to raise awareness of the use of Fablab "
+"techniques and equip a family (hello Sophie and Noé), institutions (a "
+"tourist office federation, a museum, a media library and a town hall)."
 
 #: ../../history.rst:65
 msgid ""
@@ -238,6 +239,9 @@ msgid ""
 "et former les fabmanagers a l'assemblage et à la maintenance, avec "
 "l'objectif de leur faciliter l'animation d'atelier."
 msgstr ""
+"Masterclasses to demystify the complexity of BrailleRAP assembly and train "
+"fab managers in assembly and maintenance, with the aim of making it easier "
+"for them to run workshops."
 
 #: ../../history.rst:67
 msgid ""
@@ -402,4 +406,3 @@ msgstr ""
 #~ " maintenance, with the aim of making"
 #~ " it easier for them to lead "
 #~ "workshops."
-
