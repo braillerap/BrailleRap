@@ -42,6 +42,7 @@ Une experience riche en rencontres exceptionelles, en anecdotes, en expérimenta
 Hackaday Prize
 --------------
 Riche de l'experience du Cameroun, des améliorations sont apportées :
+
 * Création du logiciel `AccessBrailleRAP <https://https://github.com/braillerap/AccessBrailleRAP>`_ en utilisant la bibliotheque open source `liblouis <https://liblouis.io/>`_ ce qui améliore considérablement la transcription Braille et ouvre la possibilité d'avoir un logiciel utilisable avec un lecteur d'écran.
 * Renforcement des supports moteurs pour faciliter le transport.
 * Déplacement du fin de course de détection du papier pour faciliter le réglage.
