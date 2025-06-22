@@ -53,11 +53,9 @@ Courant 2023, le projet est présenté au concours international `HackadayPrize 
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-	    <iframe width="560" height="315" src="https://youtu.be/afmmY3M2pTo?si=Q1MPJ6qYq__vqL8t" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe> 
+	    <iframe width="560" height="315" src="https://www.youtube.com/embed/afmmY3M2pTo?si=dz6DRnFYXkdmXdUv" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe> 
     </div>
-     
-|
-|
+    
 
 Ateliers intensifs et financement
 ---------------------------------
