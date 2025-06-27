@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-06-04 08:09+0000\n"
-"PO-Revision-Date: 2025-06-22 18:37+0000\n"
+"PO-Revision-Date: 2025-06-28 19:58+0000\n"
 "Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
 "Language-Team: English <https://translate.codeberg.org/projects/"
 "braillerap-building-manual/manual_assemblage/en/>\n"
@@ -760,7 +760,7 @@ msgstr "M3 tap"
 
 #: ../../assemblage.rst:454
 msgid "1 vis sans tête M3-30"
-msgstr "1 grub screw M3-30"
+msgstr "1 M3-30 grub screw"
 
 #: ../../assemblage.rst:455
 msgid "1 écrou borgne M3"
