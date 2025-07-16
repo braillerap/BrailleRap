@@ -1,8 +1,8 @@
 Licence
 =======
 
-Tous les travaux originaux de BrailleRap sont sous la license CERN Open Hardware Licence v1.2 (https://www.ohwr.org/projects/cernohl/wiki), traduite en français sur cette page: http://fr-voosilla.ouvaton.org/CERN-OHL-%5Bfr%5D-Traduction-Fran%C3%A7aise.html
-
+Tous les travaux originaux de BrailleRap sont régis par la license d'utilisation CERN Open Hardware Licence Version 2 - Permissive.
+Ce projet est basé sur les travaux préliminaires de BrailleRAP-SP qui sont sous license CERN Open Hardware Licence v1.2
 
 Nous utilisons plusieurs projets open source, qui ont leur propre licence :
 

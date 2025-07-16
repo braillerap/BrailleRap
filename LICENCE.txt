@@ -1,350 +1,199 @@
-CERN Open Hardware Licence v1.2 
+CERN Open Hardware Licence Version 2 - Permissive
+
 
 Preamble
 
-Through this CERN Open Hardware Licence ("CERN OHL") version 1.2, CERN
-wishes to provide a tool to foster collaboration and sharing among
-hardware designers.  The CERN OHL is copyright CERN. Anyone is welcome
-to use the CERN OHL, in unmodified form only, for the distribution of
-their own Open Hardware designs. Any other right is reserved. Release
-of hardware designs under the CERN OHL does not constitute an
-endorsement of the licensor or its designs nor does it imply any
-involvement by CERN in the development of such designs.
-
-1. Definitions
-
-In this Licence, the following terms have the following meanings:
- 
-“Licence” means this CERN OHL.
-
-“Documentation” means schematic diagrams, designs, circuit or circuit
-board layouts, mechanical drawings, flow charts and descriptive text,
-and other explanatory material that is explicitly stated as being made
-available under the conditions of this Licence. The Documentation may
-be in any medium, including but not limited to computer files and
-representations on paper, film, or any other media.
-
-“Documentation Location” means a location where the Licensor has
-placed Documentation, and which he believes will be publicly
-accessible for at least three years from the first communication to
-the public or distribution of Documentation.
-
-“Product” means either an entire, or any part of a, device built using
-the Documentation or the modified Documentation.
-
-“Licensee” means any natural or legal person exercising rights under
-this Licence.
-
-“Licensor” means any natural or legal person that creates or modifies
-Documentation and subsequently communicates to the public and/ or
-distributes the resulting Documentation under the terms and conditions
-of this Licence.
-
-A Licensee may at the same time be a Licensor, and vice versa. 
-
-Use of the masculine gender includes the feminine and neuter genders
-and is employed solely to facilitate reading.
-
-2. Applicability
-
-2.1. This Licence governs the use, copying, modification,
-communication to the public and distribution of the Documentation, and
-the manufacture and distribution of Products. By exercising any right
-granted under this Licence, the Licensee irrevocably accepts these
-terms and conditions.
-
-2.2. This Licence is granted by the Licensor directly to the Licensee,
-and shall apply worldwide and without limitation in time. The Licensee
-may assign his licence rights or grant sub-licences.
-
-2.3. This Licence does not extend to software, firmware, or code
-loaded into programmable devices which may be used in conjunction with
-the Documentation, the modified Documentation or with Products, unless
-such software, firmware, or code is explicitly expressed to be subject
-to this Licence. The use of such software, firmware, or code is
-otherwise subject to the applicable licence terms and conditions.
-
-3. Copying, modification, communication to the public and distribution
-of the Documentation
-
-3.1. The Licensee shall keep intact all copyright and trademarks
-notices, all notices referring to Documentation Location, and all
-notices that refer to this Licence and to the disclaimer of warranties
-that are included in the Documentation. He shall include a copy
-thereof in every copy of the Documentation or, as the case may be,
-modified Documentation, that he communicates to the public or
-distributes.
-
-3.2. The Licensee may copy, communicate to the public and distribute
-verbatim copies of the Documentation, in any medium, subject to the
-requirements specified in section 3.1.
-
-3.3. The Licensee may modify the Documentation or any portion thereof
-provided that upon modification of the Documentation, the Licensee
-shall make the modified Documentation available from a Documentation
-Location such that it can be easily located by an original Licensor
-once the Licensee communicates to the public or distributes the
-modified Documentation under section 3.4, and, where required by
-section 4.1, by a recipient of a Product. However, the Licensor shall
-not assert his rights under the foregoing proviso unless or until a
-Product is distributed.
-
-3.4. The Licensee may communicate to the public and distribute the
-modified Documentation (thereby in addition to being a Licensee also
-becoming a Licensor), always provided that he shall:
-
-a) comply with section 3.1;
-
-b) cause the modified Documentation to carry prominent notices stating
-that the Licensee has modified the Documentation, with the date and
-description of the modifications;
-
-c) cause the modified Documentation to carry a new Documentation
-Location notice if the original Documentation provided for one;
-
-d) make available the modified Documentation at the same level of
-abstraction as that of the Documentation, in the preferred format for
-making modifications to it (e.g. the native format of the CAD tool as
-applicable), and in the event that format is proprietary, in a format
-viewable with a tool licensed under an OSI-approved license if the
-proprietary tool can create it; and
-
-e) license the modified Documentation under the terms and conditions
-of this Licence or, where applicable, a later version of this Licence
-as may be issued by CERN.
-
-3.5. The Licence includes a non-exclusive licence to those patents or
-registered designs that are held by, under the control of, or
-sub-licensable by the Licensor, to the extent necessary to make use of
-the rights granted under this Licence. The scope of this section 3.5
-shall be strictly limited to the parts of the Documentation or
-modified Documentation created by the Licensor.
-
-4. Manufacture and distribution of Products
-
-4.1. The Licensee may manufacture or distribute Products always
-provided that, where such manufacture or distribution requires a
-licence under this Licence the Licensee provides to each recipient of
-such Products an easy means of accessing a copy of the Documentation
-or modified Documentation, as applicable, as set out in section 3.
-
-4.2. The Licensee is invited to inform any Licensor who has indicated
-his wish to receive this information about the type, quantity and
-dates of production of Products the Licensee has (had) manufactured
+CERN has developed this licence to promote collaboration among
+hardware designers and to provide a legal tool which supports the
+freedom to use, study, modify, share and distribute hardware designs
+and products based on those designs. Version 2 of the CERN Open
+Hardware Licence comes in three variants: this licence, CERN-OHL-P
+(permissive); and two reciprocal licences: CERN-OHL-W (weakly
+reciprocal) and CERN-OHL-S (strongly reciprocal).
 
-5. Warranty and liability
+The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it, in
+unmodified form only.
 
-5.1. DISCLAIMER – The Documentation and any modified Documentation are
-provided "as is" and any express or implied warranties, including, but
-not limited to, implied warranties of merchantability, of satisfactory
-quality, non-infringement of third party rights, and fitness for a
-particular purpose or use are disclaimed in respect of the
-Documentation, the modified Documentation or any Product. The Licensor
-makes no representation that the Documentation, modified
-Documentation, or any Product, does or will not infringe any patent,
-copyright, trade secret or other proprietary right. The entire risk as
-to the use, quality, and performance of a Product shall be with the
-Licensee and not the Licensor. This disclaimer of warranty is an
-essential part of this Licence and a condition for the grant of any
-rights granted under this Licence. The Licensee warrants that it does
-not act in a consumer capacity.
+Use of this Licence does not imply any endorsement by CERN of any
+Licensor or their designs nor does it imply any involvement by CERN in
+their development.
 
-5.2. LIMITATION OF LIABILITY – The Licensor shall have no liability
-for direct, indirect, special, incidental, consequential, exemplary,
-punitive or other damages of any character including, without
-limitation, procurement of substitute goods or services, loss of use,
-data or profits, or business interruption, however caused and on any
-theory of contract, warranty, tort (including negligence), product
-liability or otherwise, arising in any way in relation to the
-Documentation, modified Documentation and/or the use, manufacture or
-distribution of a Product, even if advised of the possibility of such
-damages, and the Licensee shall hold the Licensor(s) free and harmless
-from any liability, costs, damages, fees and expenses, including
-claims by third parties, in relation to such use.
 
-6. General
+1 Definitions
 
-6.1. Except for the rights explicitly granted hereunder, this Licence
-does not imply or represent any transfer or assignment of intellectual
-property rights to the Licensee.
+  1.1 'Licence' means this CERN-OHL-P.
 
-6.2. The Licensee shall not use or make reference to any of the names
-(including acronyms and abbreviations), images, or logos under which
-the Licensor is known, save in so far as required to comply with
-section 3. Any such permitted use or reference shall be factual and
-shall in no event suggest any kind of endorsement by the Licensor or
-its personnel of the modified Documentation or any Product, or any
-kind of implication by the Licensor or its personnel in the
-preparation of the modified Documentation or Product.
+  1.2 'Source' means information such as design materials or digital
+      code which can be applied to Make or test a Product or to
+      prepare a Product for use, Conveyance or sale, regardless of its
+      medium or how it is expressed. It may include Notices.
 
-6.3. CERN may publish updated versions of this Licence which retain
-the same general provisions as this version, but differ in detail so
-far this is required and reasonable. New versions will be published
-with a unique version number.
+  1.3 'Covered Source' means Source that is explicitly made available
+      under this Licence.
 
-6.4. This Licence shall terminate with immediate effect, upon written
-notice and without involvement of a court if the Licensee fails to
-comply with any of its terms and conditions, or if the Licensee
-initiates legal action against Licensor in relation to this
-Licence. Section 5 shall continue to apply.
+  1.4 'Product' means any device, component, work or physical object,
+      whether in finished or intermediate form, arising from the use,
+      application or processing of Covered Source.
 
+  1.5 'Make' means to create or configure something, whether by
+      manufacture, assembly, compiling, loading or applying Covered
+      Source or another Product or otherwise.
 
-CERN Open Hardware Licence v1.2
-================================
+  1.6 'Notice' means copyright, acknowledgement and trademark notices,
+      references to the location of any Notices, modification notices
+      (subsection 3.3(b)) and all notices that refer to this Licence
+      and to the disclaimer of warranties that are included in the
+      Covered Source.
 
-Traduction française, non-officielle, de la Licence "CERN Open Hardware Licence v1.2".
-Source:http://fr-voosilla.ouvaton.org/CERN-OHL-%5Bfr%5D-Traduction-Fran%C3%A7aise.html
+  1.7 'Licensee' or 'You' means any person exercising rights under
+      this Licence.
 
-Contenu:
---------
+  1.8 'Licensor' means a person who creates Source or modifies Covered
+      Source and subsequently Conveys the resulting Covered Source
+      under the terms and conditions of this Licence. A person may be
+      a Licensee and a Licensor at the same time.
 
-    Information préalable concernant cette traduction
+  1.9 'Convey' means to communicate to the public or distribute.
 
-    Traduction de la licence CERN Open Hardware Licence v1.2
 
+2 Applicability
 
-Information préalable concernant cette traduction
--------------------------------------------------
+  2.1 This Licence governs the use, copying, modification, Conveying
+      of Covered Source and Products, and the Making of Products. By
+      exercising any right granted under this Licence, You irrevocably
+      accept these terms and conditions.
 
-Chacun est autorisé à copier et distribuer des copies conformes de cette traduction, mais toute modiﬁcation en est proscrite, sans l'autorisation expresse de son auteur et/ou sans l'autorisation expresse de l'auteur du texte original de la licence ﻿"CERN Open Hardware Licence v1.2".
+  2.2 This Licence is granted by the Licensor directly to You, and
+      shall apply worldwide and without limitation in time.
 
-Le texte original de la licence ﻿CERN Open Hardware Licence v1.2 , se trouve à l'adresse internet suivante ;
+  2.3 You shall not attempt to restrict by contract or otherwise the
+      rights granted under this Licence to other Licensees.
 
-  	https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2
+  2.4 This Licence is not intended to restrict fair use, fair dealing,
+      or any other similar right.
 
-Cette traduction libre est réalisée dans le cadre des travaux du projet de matériel libre VOOSILLA, par 4k5ADllF0cok6 4kHq.ruL70FDI [1] en octobre 2015. Ce document est disponible via le site de CERN-OHL.
 
-Cette traduction est disponible notamment via les adresses internet URL suivantes:
+3 Copying, Modifying and Conveying Covered Source
 
-    page internet CERN-OHL [fr] , ou
-    fichiers aux formats html, odt, pdf, à télécharger , ou
-    fichier html sur GITLAB .
+  3.1 You may copy and Convey verbatim copies of Covered Source, in
+      any medium, provided You retain all Notices.
 
-Toute personne souhaitant contribuer à l'amélioration de cette traduction, est invitée à le faire tranquillement et en toute sérénité, en postant notamment ses travaux, remarques, commentaires à l'adresse email ci-dessous, ou bien en utilisant Git (voir ci-dessus).
+  3.2 You may modify Covered Source, other than Notices.
 
-    voosilla-incub-contact[cH3z]confluence.listes.vox[P01nt]coop, en remplaçant [cH3z] par le signe arobase (@) et [P01nt] par un point (.).
+      You may only delete Notices if they are no longer applicable to
+      the corresponding Covered Source as modified by You and You may
+      add additional Notices applicable to Your modifications.
 
-CERN = Conseil Européen pour la Recherche Nucléaire (European Organization for Nuclear Research) - Genève
+  3.3 You may Convey modified Covered Source (with the effect that You
+      shall also become a Licensor) provided that You:
 
-Projet CERN-OHL = <http://www.ohwr.org>
-
-[1] : Les identités sont données après avoir été cryptées avec la fonction crypt PHP . Chaque composante ci-dessous, entre crochets [], de l'identité est cryptée selon le respect du principe suivant, en respectant la logique de mise en forme, les majuscules et minuscules:
-
-    Pour un individus: [Prénom] [Nom] date de naissance le [jj/mm/aaaa] à [Ville] [Pays] .
-    Pour une organisation: [Nom] siège social à [Ville] [Pays] .
-
-Avertissement important au sujet de cette traduction:
-
-Ce document est une traduction non officielle en langue française, de la licence "﻿CERN Open Hardware Licence v1.2" dont le texte original est rédigé en anglais (traduction de l'anglais vers le français).
-
-Cette traduction est fournie dans l'espoir qu'elle facilitera la compréhension de la licence "﻿CERN Open Hardware Licence v1.2" pour les francophones non-anglophones.
-
-Cette traduction ne constitue ni une traduction officielle, ni une traduction approuvée juridiquement par le CERN.
-
-Le CERN n'est pas la personne qui publie cette traduction. Le CERN n'a  pas approuvé cette traduction en tant que substitut légalement valide de la licence authentique "﻿CERN Open Hardware Licence v1.2".
-
-Cette traduction n'a pas été vérifiée avec précaution par des juristes qualifiés. Par conséquent, la(les) personne(s) auteur(s) de cette traduction ne peut(peuvent) garantir avec certitude que cette traduction représente avec exactitude la signification légale des termes de la licence authentique "﻿CERN Open Hardware Licence v1.2" publiée en langue anglaise.
-
-Cette traduction n’établit donc légalement aucun des termes et conditions d’utilisation d’une chose matérielle mise à disposition sous la licence "﻿CERN Open Hardware Licence v1.2". Seul le texte original de la licence "﻿CERN Open Hardware Licence v1.2" établit cette dimension légale.
-
-Si vous souhaitez avoir la certitude que les activités que vous projetez seront autorisées par la licence "﻿CERN Open Hardware Licence v1.2", veuillez vous référer à la seule version anglaise authentique de la licence "﻿CERN Open Hardware Licence v1.2".
-
-Les personnes ayant réalisé cette traduction, ainsi que les personnes possédant les droits sur la licence "﻿CERN Open Hardware Licence v1.2", vous recommandent fortement de NE SURTOUT PAS UTILISER cette traduction en tant que termes oﬃciels pour vos propres réalisations matérielles. Utilisez plutôt la version anglaise authentique officielle de la licence "﻿CERN Open Hardware Licence v1.2" publiée par le CERN.
-
-Si vous choisissez de transmettre cette traduction en même temps qu’un produit matériel mis à disposition sous les termes et conditions de la licence "﻿CERN Open Hardware Licence v1.2", cela ne vous dispense pas de l’obligation de transmettre en même temps une copie de la licence "﻿CERN Open Hardware Licence v1.2" authentique en anglais, et de conserver dans la traduction cet important avertissement en français et son équivalent en anglais ci-dessous.
-Important Warning About This French Translation:
-
-This is a translation of the "﻿CERN Open Hardware Licence v1.2" into French.
-
-This translation is distributed in the hope that it will facilitate understanding, but it is not an oﬃcial or legally approved translation.
-
-The CERN is not the publisher of this translation and has not approved it as a legal substitute for the authentic "﻿CERN Open Hardware Licence v1.2".
-
-The translation has not been reviewed carefully by lawyers, and therefore the translator cannot be sure that it exactly represents the legal meaning of the authentic "﻿CERN Open Hardware Licence v1.2" published in English.
-
-This translation does not legally state the terms and conditions of use of any Hardware (Product) licenced under "﻿CERN Open Hardware Licence v1.2" — only the original English text of the "﻿CERN Open Hardware Licence v1.2" does that.
-
-If you wish to be sure whether your planned activities are
-permitted by the "﻿CERN Open Hardware Licence v1.2", please refer to its sole authentic English version of "﻿CERN Open Hardware Licence v1.2".
-
-The CERN strongly urges you not to use this translation as the oﬃcial distribution terms for your hardware (product); instead, please use the authentic English version published by the CERN.
-
-If you choose to convey this translation along with an Hardware (product) covered by the "﻿CERN Open Hardware Licence v1.2", this does not remove your obligation to convey at the same time a copy of the authentic "﻿CERN Open Hardware Licence v1.2" in English,
-and you must keep in this translation this important warning in English and its equivalent in French above.
-
-Traduction de la licence CERN Open Hardware Licence v1.2
-----------------------------------------------------------
-
-Nota Bene: à l’exception de ce "nota bene", tout ce qui suit dans cette section, est la traduction de la CERN Open Hardware Licence v1.2 (selon l'information préalable située dans la section ci-dessus). Pour faciliter la lecture de cette traduction, et la cohésion avec la renommée de cette licence, le terme "CERN OHL", abréviation du terme anglais "CERN Open Hardware Licence", a été conservé tel quel, tandis que le terme "CERN Open Hardware Licence" a lui été traduit par "Licence CERN Matériel Ouvert v1.2". Les termes de traduction "Concessionnaire" et "Concédant" ont été choisis pour traduire les termes anglais "Licensee" et "Licensor".
-
-
-Licence CERN Matériel Ouvert v1.2
-Préambule
-
-Au travers cette Licence CERN Matériel Ouvert ("CERN  OHL") en version 1.2, le CERN espère fournir un outil permettant de favoriser la collaboration et le partage parmi les concepteurs de Matériels. Le CERN est détenteur des droits d'auteur sur la CERN OHL. Tout le monde est le bienvenu à utiliser la CERN OHL, uniquement dans sa forme non modifiée, pour la distribution de ses conceptions de Matériel Ouvert. Tout autre droit est réservé. La publication de conceptions de matériel sous CERN OHL ne constitue pas une acceptation du concédant ou de ses conceptions, ni n'implique une quelconque participation du CERN dans le développement de telles conceptions.
-1. Définitions
-
-Dans cette Licence, les termes suivants ont les significations suivantes:
-
-"Licence" signifie cette CERN OHL.
-
-"Documentation" signifie les diagrammes schématiques, les plans, les tracés de circuit ou de circuit imprimé, les logigrammes et tout texte descriptif, et tout autre information qui est explicitement mentionné comme étant disponible sous les conditions de cette licence. La Documentation peut exister sous n'importe quel support, incluant mais ne se limitant pas aux fichiers informatiques et aux représentations sur papier, film, ou sur tout autre support.
-
-"Emplacement de la Documentation" signifie un emplacement où le Concédant a placé la Documentation, et qui sera, espère le Concédant, publiquement accessible  au moins pour les trois années qui suivent la première communication au public, ou la première distribution, de la Documentation.
-
-"Produit" signifie aussi bien tout ou partie d'un dispositif construit en utilisant la Documentation ou la Documentation Modifiée.
-
-"Concessionnaire" signifie toute personne physique ou morale qui exerce des droits couverts par cette Licence.
-
-"Concédant" signifie toute personne physique ou morale qui créée ou modifie la Documentation et qui subséquemment communique au public et/ou distribue la Documentation qui en résulte sous les termes et conditions de cette Licence.
-
-Un Concédant peut être à la fois un Concessionnaire, et vice versa.
-
-L'utilisation du genre masculin inclus le genre féminin et le genre neutre, et est employé uniquement pour faciliter la lecture.
-2. Applicabilité
-
-2.1   Cette licence régit l'utilisation, la reproduction, la modification, la communication au public et la distribution de la Documentation, ainsi que la fabrication et distribution des Produits. Par l'exercice de tout droit accordé en vertu de cette Licence, le Concessionnaire accepte de façon irrévocable ces termes et conditions.
-
-2.2 Cette Licence est accordée par le Concédant directement au Concessionnaire, et elle s'applique dans le monde entier et sans limitation dans le temps. Le Concessionnaire peut céder ses droits de licence ou concéder des sous-licences.
-
-2.3 Cette licence ne s'étend pas aux logiciels, aux micrologiciels, ou aux codes chargés dans des dispositifs programmables qui peuvent être utilisés en conjonction avec la Documentation, la Documentation modifiée ou avec les Produits, à moins qu'un tel logiciel, micrologiciel, ou code ne soit explicitement exprimé comme étant soumis à cette Licence. Autrement, l'utilisation d'un tel logiciel, micrologiciel, ou code est, soumis aux termes et conditions de la licence applicable.
-3. Reproduction, modification, communication au public et distribution de la Documentation.
-
-3.1 Le Concessionnaire doit conserver intacts tous les droits d'auteurs et les licences de marques, toutes les notices se référant à l'Emplacement de la Documentation, et toutes les notices qui se réfèrent à cette Licence et à la déclaration d'absence de garanties qui sont inclus dans la Documentation.
-
-3.2 Le Concessionnaire peut copier, communiquer au public et distribuer des copies verbatim de la Documentation, sur n'importe quel support, selon les exigences spécifiées dans la section 3.1.
-
-3.3 Le Concessionnaire peut modifier la documentation ou toute portion de celle-ci à condition que lors de la modification de la documentation, le Concessionnaire rende la Documentation Modifiée disponible depuis un Emplacement de la Documentation de telle sorte à ce qu'elle soit facilement localisée par un Concédant initial dès que le Concessionnaire communique au public ou distribue la Documentation Modifiée en vertu de la section 3.4, et, comme stipulé par la section 4.1, par un destinataire d'un Produit. Toutefois, le Concédant ne pourra faire valoir ses droits en vertu de la clause restrictive précédente, à moins que ou jusqu'à ce que, un Produit soit distribué.
-
-3.4 Le Concessionnaire peut communiquer au public et distribuer la Documentation Modifiée (de ce fait en plus d'être un Concessionnaire devenant également un Concédant ), à condition qu'il doive toujours :
-
-a) être conforme avec la section 3.1;
-
-b) faire de telle sorte à ce que la Documentation Modifiée contienne de façon bien en évidence des notices stipulant que le Concessionnaire a modifié la Documentation, avec la date et la description des modifications;
-
-c) faire de telle sorte à ce que la Documentation Modifiée contienne un nouvel Emplacement de Documentation lorsque la Documentation initiale en prévit un;
-
-d) rendre disponible la Documentation Modifiée dans un même niveau d'abstraction que celui de la Documentation,  dans une forme préférée pour faire des modifications sur celle-ci (càd: le format natif d'un outil de CAO qui s'applique), et dans le cas où ce format est propriétaire, dans un format consultable avec un outil régit par des termes et conditions sous une licence approuvée par l'OSI si l'outil propriétaire peut le créer; et
-
-e) placer la Documentation Modifiée sous les termes et conditions de cette Licence ou, lorsque cela s'applique, une version postérieure de cette Licence susceptible d'être émise par le CERN.
-
-3.5. La Licence inclus une licence non-exclusive pour ces brevets ou ces marques déposées qui sont détenus par, sous le contrôle de, ou sous-licenciable par le Concédant, dans la mesure nécessaire pour faire usage des droits accordés en vertu de cette Licence. Le champ de cette section 3.5 doit être strictement limité aux parties de le Documentation ou de la Documentation Modifiée créée par le Concédant.
-4. Fabrication et Distribution des Produits
-
-4.1. Le Concessionnaire peut fabriquer ou distribuer les Produits à la condition permanente que, lorsqu'une telle fabrication ou distribution requiert une licence sous cette Licence, le Concessionnaire fournisse à chaque destinataire de telle produits un moyen facile pour accéder à une copie de la Documentation ou de la Documentation Modifiée, comme cela s'applique, comme établit en section 3.
-
-4.2. Le Concessionnaire est invité à informer tout Concédant qui a indiqué qu'il souhaite recevoir cette information à propos du type, de la quantité et des dates de production des Produits que le Concessionnaire a (avait) fabriqués.
-5. Garantie et responsabilité
-
-5.1 RENONCIATION - La Documentation et la Documentation Modifiée sont fournies "en l'état" et toute garantie exprimée ou tacite, incluant, mais ne se limitant pas à, les garanties tacites de commercialisation (en terme de qualité, état, qualité, existence), de qualité satisfaisante, non-violation de droits de tiers, et d'adéquation à un objectif particulier ou à un usage, est exclue en ce qui concerne la Documentation, la Documentation modifiée ou tout Produit. Le Concédant ne fait aucune déclaration qui stipulerait que la Documentation, la Documentation Modifiée, ou tout Produit, est ou sera en violation avec un brevet, un droit d'auteur, un secret d'état ou une autre droit de propriété. La totalité du risque quant à l'utilisation, la qualité, et la performance d'un Produit, est assumé par le Concessionnaire et pas par le Concédant. Cette renonciation de garantie est une partie essentielle de cette Licence et une condition pour l'octroie de tous droits en vertu de cette Licence. Le Concessionnaire garantie qu'il n'agit pas en qualité de consommateur.
-
-5.2 LIMITE DE RESPONSABILITÉ - Le Concédant ne peut aucunement être tenu responsable d'aucune façon pour des dommages de tout type directs, indirects, spéciaux, consécutifs, exemplaires, punitifs ou autres, incluant, mais pas limité aux, achats de marchandises de remplacement ou de services, perte d'utilisation, de données ou de profits, ou interruption d'activités, même provoqués et fondés sur une quelconque théorie de contrat, de garantie, de délis (incluant la négligence), de responsabilité liée au produit ou quelque soit d'autre, survenant de n'importe quelle façon en relation avec la Documentation, la Documentation Modifiée et/ou l'utilisation, la fabrication ou la distribution d'un produit, même s'il est avisé de l'éventualité de tels dommages, et il est de la responsabilité du Concessionnaire de tenir le(s) Concédant(s) libre(s) et exonéré(s) toute responsabilité, coûts, dommages, frais et dépenses, y compris les réclamations de tiers, en relation avec à une telle utilisation.
-6. General
-
-6.1 À l'exception des droits explicitement accordés aux présentes, cette licence ni ne signifie ni ne représente un quelconque transfert ou une quelconque cession des droits de propriété intellectuelle au Concessionnaire.
-
-6.2. Le Concessionnaire ne doit pas utiliser ou faire référence à de quelconques noms (incluant les acronymes et les abréviations), images, ou logos en vertu desquels le Concédant est connu, sauf dans la mesure où cela est requis pour se conformer avec la section 3. Une telle utilisation autorisée ou référence doit être factuelle et ne doit en aucun cas suggérer une quelconque sorte d'approbation, par le Concédant ou son personnel, de la Documentation Modifiée ou de tout Produit, ou une quelconque implication par le Concédant ou son personnel, dans la préparation de la Documentation Modifiée ou du Produit.
-
-6.3. Le CERN peut publier des versions mises à jour de cette Licence qui conservent les mêmes dispositions générales que cette version, mais diffèrent dans les détails dans la limite du nécessaire et du raisonnable. Les nouvelles versions seront publiées avec un numéro de version unique.
-
-6.4. Cette Licence prend fin avec effet immédiat, moyennant un préavis écrit et sans intervention d'un tribunal si le Concessionnaire échoue à se mettre en conformité avec un quelconque de ses termes et conditions, ou si le Concessionnaire initie une action en justice contre le Concédant en relation avec cette Licence. La section 5 doit continuer à s'appliquer.
+       a) retain Notices as required in subsection 3.2; and
+
+       b) add a Notice to the modified Covered Source stating that You
+          have modified it, with the date and brief description of how
+          You have modified it.
+
+  3.4 You may Convey Covered Source or modified Covered Source under
+      licence terms which differ from the terms of this Licence
+      provided that You:
+
+       a) comply at all times with subsection 3.3; and
+
+       b) provide a copy of this Licence to anyone to whom You
+          Convey Covered Source or modified Covered Source.
+
+
+4 Making and Conveying Products
+
+You may Make Products, and/or Convey them, provided that You ensure
+that the recipient of the Product has access to any Notices applicable
+to the Product.
+
+
+5 DISCLAIMER AND LIABILITY
+
+  5.1 DISCLAIMER OF WARRANTY -- The Covered Source and any Products
+      are provided 'as is' and any express or implied warranties,
+      including, but not limited to, implied warranties of
+      merchantability, of satisfactory quality, non-infringement of
+      third party rights, and fitness for a particular purpose or use
+      are disclaimed in respect of any Source or Product to the
+      maximum extent permitted by law. The Licensor makes no
+      representation that any Source or Product does not or will not
+      infringe any patent, copyright, trade secret or other
+      proprietary right. The entire risk as to the use, quality, and
+      performance of any Source or Product shall be with You and not
+      the Licensor. This disclaimer of warranty is an essential part
+      of this Licence and a condition for the grant of any rights
+      granted under this Licence.
+
+  5.2 EXCLUSION AND LIMITATION OF LIABILITY -- The Licensor shall, to
+      the maximum extent permitted by law, have no liability for
+      direct, indirect, special, incidental, consequential, exemplary,
+      punitive or other damages of any character including, without
+      limitation, procurement of substitute goods or services, loss of
+      use, data or profits, or business interruption, however caused
+      and on any theory of contract, warranty, tort (including
+      negligence), product liability or otherwise, arising in any way
+      in relation to the Covered Source, modified Covered Source
+      and/or the Making or Conveyance of a Product, even if advised of
+      the possibility of such damages, and You shall hold the
+      Licensor(s) free and harmless from any liability, costs,
+      damages, fees and expenses, including claims by third parties,
+      in relation to such use.
+
+
+6 Patents
+
+  6.1 Subject to the terms and conditions of this Licence, each
+      Licensor hereby grants to You a perpetual, worldwide,
+      non-exclusive, no-charge, royalty-free, irrevocable (except as
+      stated in this section 6, or where terminated by the Licensor
+      for cause) patent licence to Make, have Made, use, offer to
+      sell, sell, import, and otherwise transfer the Covered Source
+      and Products, where such licence applies only to those patent
+      claims licensable by such Licensor that are necessarily
+      infringed by exercising rights under the Covered Source as
+      Conveyed by that Licensor.
+
+  6.2 If You institute patent litigation against any entity (including
+      a cross-claim or counterclaim in a lawsuit) alleging that the
+      Covered Source or a Product constitutes direct or contributory
+      patent infringement, or You seek any declaration that a patent
+      licensed to You under this Licence is invalid or unenforceable
+      then any rights granted to You under this Licence shall
+      terminate as of the date such process is initiated.
+
+
+7 General
+
+  7.1 If any provisions of this Licence are or subsequently become
+      invalid or unenforceable for any reason, the remaining
+      provisions shall remain effective.
+
+  7.2 You shall not use any of the name (including acronyms and
+      abbreviations), image, or logo by which the Licensor or CERN is
+      known, except where needed to comply with section 3, or where
+      the use is otherwise allowed by law. Any such permitted use
+      shall be factual and shall not be made so as to suggest any kind
+      of endorsement or implication of involvement by the Licensor or
+      its personnel.
+
+  7.3 CERN may publish updated versions and variants of this Licence
+      which it considers to be in the spirit of this version, but may
+      differ in detail to address new problems or concerns. New
+      versions will be published with a unique version number and a
+      variant identifier specifying the variant. If the Licensor has
+      specified that a given variant applies to the Covered Source
+      without specifying a version, You may treat that Covered Source
+      as being released under any version of the CERN-OHL with that
+      variant. If no variant is specified, the Covered Source shall be
+      treated as being released under CERN-OHL-S. The Licensor may
+      also specify that the Covered Source is subject to a specific
+      version of the CERN-OHL or any later version in which case You
+      may apply this or any later version of CERN-OHL with the same
+      variant identifier published by CERN.
+
+  7.4 This Licence shall not be enforceable except by a Licensor
+      acting as such, and third party beneficiary rights are
+      specifically excluded.
