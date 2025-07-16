@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 11:52+0000\n"
-"PO-Revision-Date: 2025-05-23 07:58+0000\n"
-"Last-Translator: milimarg <milimarg@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-07-16 08:59+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
 "Language-Team: English <https://translate.codeberg.org/projects/"
 "braillerap-building-manual/manual_marlin/en/>\n"
 "Language: en\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.12.2\n"
 
 # Stephane <contact@braillerap.org>, 2018.
 #: ../../marlin.rst:2 1123fa9e7130408597e27689602d69f3
@@ -76,7 +76,7 @@ msgstr "Accélération ::"
 
 #: ../../marlin.rst:60 55545d0e9d524d4a8ba3d627f85033fb
 msgid "Jerk ::"
-msgstr ""
+msgstr "Jerk ::"
 
 #: ../../marlin.rst:69 fdd71398190f4ded8d374e1f4e545572
 msgid ""
