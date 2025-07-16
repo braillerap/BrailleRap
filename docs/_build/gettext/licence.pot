@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-03 21:07+0000\n"
+"POT-Creation-Date: 2025-07-16 09:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "Licence"
 msgstr ""
 
 #: ../../licence.rst:4
-msgid "Tous les travaux originaux de BrailleRap sont sous la license CERN Open Hardware Licence v1.2 (https://www.ohwr.org/projects/cernohl/wiki), traduite en français sur cette page: http://fr-voosilla.ouvaton.org/CERN-OHL-%5Bfr%5D-Traduction-Fran%C3%A7aise.html"
+msgid "Tous les travaux originaux de BrailleRap sont régis par la license d'utilisation CERN Open Hardware Licence Version 2 - Permissive. Ce projet est basé sur les travaux préliminaires de BrailleRAP-SP qui sont sous license CERN Open Hardware Licence v1.2"
 msgstr ""
 
 #: ../../licence.rst:7
@@ -33,7 +33,7 @@ msgid "Le projet \"Marlin firmware\"  pour le firmware de la carte: https://gith
 msgstr ""
 
 #: ../../licence.rst:10
-msgid "BrailleRap le premier generateur de  gcode pour imprimante 3D https://github.com/arthursw/BrailleRap"
+msgid "BrailleRap le premier generateur de gcode pour imprimante 3D pour embosser en Braille https://github.com/arthursw/BrailleRap"
 msgstr ""
 
 #: ../../licence.rst:11
