@@ -29,7 +29,10 @@ msgid ""
 "projet est basé sur les travaux préliminaires de BrailleRAP-SP qui sont "
 "sous license CERN Open Hardware Licence v1.2."
 msgstr ""
-
+"All original work on BrailleRap are under end user licence "
+"CERN Open Hardware Licence Version 2 - Permissive. This "
+"project is  based on works from BrailleRAP-SP which are "
+"under licence CERN Open Hardware Licence v1.2."
 #: ../../licence.rst:7
 msgid ""
 "Nous utilisons plusieurs projets open source, qui ont leur propre licence"
