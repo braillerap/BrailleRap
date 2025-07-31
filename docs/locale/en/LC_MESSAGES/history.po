@@ -285,7 +285,6 @@ msgid "Certification open hardware"
 msgstr "Open Hardware Certification"
 
 #: ../../history.rst:76
-#, fuzzy
 msgid ""
 "Après une année chargée, notamment avec les ateliers au Congo et en "
 "Belgique, la création du modèle XL et de nombreuses heures consacrées au "
