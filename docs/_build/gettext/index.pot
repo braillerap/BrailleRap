@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-03 21:07+0000\n"
+"POT-Creation-Date: 2025-07-31 05:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,10 +20,10 @@ msgstr ""
 msgid "Bienvenue sur la documentation BrailleRAP"
 msgstr ""
 
-#: ../../index.rst:10
+#: ../../index.rst:16
 msgid "Contenu:"
 msgstr ""
 
-#: ../../index.rst:26
+#: ../../index.rst:32
 msgid "Mise à jour: |today|"
 msgstr ""
