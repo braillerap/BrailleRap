@@ -22,6 +22,13 @@ BrailleRAP now exist in 2 different sizes: **BrailleRAP** and **BrailleRAP XL**.
 
 You may also find some interest in [OpenStreetTangible](https://github.com/braillerap/OpenStreetTangible), a tangible subway map of the Rennes city in France. A custom build to demonstrate the ability of OpenStreetTouch and BrailleRAP to build accessible map.
 
+## OSHWA Certification
+
+This is the "official" certified version 6.6
+<a href="https://certification.oshwa.org/fr000027.html">
+<img src="docs/IMG/BrailleRAP-cert-oshwa.png" alt="OSHWA certificate" width="75%"/>
+</a>
+
 
 ## Building manual
 The building manual translation files are available [on codeberg weblate host](https://translate.codeberg.org/projects/braillerap-building-manual/) . If you need the building manual in your language, feel free to contribute on codeberg/weblate.    

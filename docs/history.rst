@@ -70,3 +70,15 @@ Autant d'expériences qui font évoluer à la fois les scénari de conduite d'at
 En paralelle nous déposons un dossier de financement auprès de la fondation `NlNet <https://nlnet.nl/project/BrailleRAP/>`_. Financement que la fondation nous a accordé. C'est le premier financement suivi dans le temps, il nous permet de développer les premières versions de `DesktopBrailleRAP <https://github.com/braillerap/DesktopBrailleRAP>`_ et `OpenStreetTouch <https://github.com/braillerap/OpenStreetTouch>`_ . L'occasion également de poursuivre des `expérimentations <https://github.com/braillerap/DesktopBrailleRAP/wiki/Pattern-filling-test-%E2%80%90-the-method>`_ avec des publics non ou mal voyant mais aussi des associations.
 
 
+Certification open hardware
+---------------------------
+
+Après une année chargée, notamment avec les ateliers au Congo et en Belgique, la création du modèle XL et de nombreuses heures consacrées au développement de DesktopBrailleRAP et OpenStreetTouch, et des discussions autours du modèle de licence open source. A l'été 2025, durant la conférence `Dinacon [https://www.dinacon.org/]` nous déposons un dossier de certification auprès de l' `OSHWA [https://oshwa.org/]`. Le 17 Juillet 2025 le dossier est accepté, et BrailleRAP est désormais certifié Open Source Hardware.
+
+.. image :: ./IMG/BrailleRAP-cert-oshwa.png
+  :width: 400px
+  :align: center
+  
+|
+
+

@@ -7,6 +7,12 @@ Bienvenue sur la documentation BrailleRAP
 
 |
  
+.. image :: ./IMG/BrailleRAP-cert-oshwa.png
+  :width: 400px
+  :align: center
+  
+|
+
 Contenu:
 
 .. toctree::
