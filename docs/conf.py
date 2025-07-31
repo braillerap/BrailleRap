@@ -31,10 +31,10 @@ source_parsers = {
 
 master_doc = 'index'
 project = u'BrailleRap'
-copyright = 'CERN Licence V1.2'
+copyright = 'CERN OHL-P V2.0'
 
-version = '6.6.0'
-release = '6.6.0'
+version = '6.6.0 [oshw] FR000027'
+release = '6.6.0 [oshw] FR000027'
 exclude_patterns = ['_build']
 default_role = 'obj'
 pygments_style = 'sphinx'
