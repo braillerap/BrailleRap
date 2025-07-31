@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) CERN Licence V1.2
+# Copyright (C) CERN OHL-P V2.0
 # This file is distributed under the same license as the BrailleRap package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: BrailleRap 6.6.0\n"
+"Project-Id-Version: BrailleRap 6.6.0 [oshw] FR000027\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-16 09:17+0000\n"
+"POT-Creation-Date: 2025-07-31 07:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
