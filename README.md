@@ -44,7 +44,7 @@ This project is funded through [NGI0 Entrust](https://nlnet.nl/entrust), a fund 
 [<img src="https://nlnet.nl/image/logos/NGI0_tag.svg" alt="NGI Zero Logo" width="20%" />](https://nlnet.nl/entrust)
 
 
-## BrailleRap 6.6 Building Manual
+## BrailleRap 6.x Building Manual
 
 Embosseuse Braille Open Source DIY
 
