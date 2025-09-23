@@ -76,6 +76,7 @@ Certification open hardware
 Après une année chargée, notamment avec les ateliers au Congo et en Belgique, la création du modèle XL et de nombreuses heures consacrées au développement de DesktopBrailleRAP et OpenStreetTouch, et des discussions autours du modèle de licence open source. A l'été 2025, durant la conférence `Dinacon <https://2025.dinacon.org/>`_ nous déposons un dossier de certification auprès de l' `OSHWA <https://oshwa.org/>`_. Le 17 Juillet 2025 le dossier est accepté, et BrailleRAP est désormais certifié Open Source Hardware.
 
 .. image :: ./IMG/BrailleRAP-cert-oshwa.png
+  :target: https://certification.oshwa.org/fr000027.html
   :width: 400px
   :align: center
   

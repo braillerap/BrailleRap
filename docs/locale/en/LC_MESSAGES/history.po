@@ -300,7 +300,7 @@ msgstr ""
 "DesktopBrailleRAP and OpenStreetTouch development, an some discussion "
 "about the open source licence. On summer 2025, during the `Dinacon "
 "<https://2025.dinacon.org/>`_ conference we fill the certification request "
-"form on `OSHWA <https://oshwa.org/>`_ web site.On July the 27 of 2025 the "
+"form on `OSHWA <https://oshwa.org/>`_ web site.On July the 17 of 2025 the "
 "certification is granted, and BrailleRAP is now officially certified Open"
 " Source Hardware."
 
