@@ -892,12 +892,12 @@ Matériel :
 Montage de la courroie du chariot bas
 --------------------------------------
 
-Matériel BrailleRAP:
+Matériel **BrailleRAP**:
 
   * 1 courroie GT2 longueur ± 620mm
   * 2 colliers
 
-Matériel BrailleRAP XL:
+Matériel **BrailleRAP XL**:
 
   * 1 courroie GT2 longueur ± 960mm
   * 2 colliers
@@ -1033,12 +1033,12 @@ Matériel :
   * **Pièce(s) imprimée(s) en 3D** : paper_guide_right_XL      pour BrailleRAP XL
   
   * **PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)
+  * 4 vis M3-20
   * 4 vis M3-16
-  * 4 vis M3-14
   * 8 rondelles M3 Larges
   * 8 écrous M3 NYL
 
-.. NOTE:: Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois.
+.. NOTE:: Les vis M3-20 sont utilisées pour les trous ou il y a 2 epaisseurs de bois.
 
 .. NOTE:: C'est ici que ce trouve la principale difference entre une BrailleRAP et une BrailleRAP XL.
 
@@ -1065,7 +1065,7 @@ BrailleRAP XL utilise les pièces paper_guide_left_XL et paper_guide_right_XL.
 
 * Partie gauche.
 
-* Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-14, des rondelles M3 Larges et les écrous M3 NYL.
+* Assembler les guide-papiers sur la plaque avec les vis M3-20/M3-16, des rondelles M3 Larges et les écrous M3 NYL.
 
 .. image :: ./IMG/paper_support_assembly_screw_v2.png
        :align: center
