@@ -1815,7 +1815,7 @@ msgstr "**3D printed part**: POWER_plate"
 
 #: ../../assemblage.rst:1351
 msgid "Preparation des cables moteurs"
-msgstr "Y Motor wires prepare"
+msgstr "Motor wires setup"
 
 #: ../../assemblage.rst:1353
 msgid "2 cables moteurs XH 2.54 4 pins => 6 pins"
