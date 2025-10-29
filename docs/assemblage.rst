@@ -354,9 +354,11 @@ Montage de l'electro-aimant sur son support
 
 Matériel :
   * Ensemble électro-aimant pré assemblé (cf Préparation de l électro-aimant)
-  * **Pièce(s) imprimée(s) en 3D ** : ELECTRO_MAGNET_housing2
+  * **Pièce(s) imprimée(s) en 3D ** : ELECTRO_MAGNET_housing2 ou ELECTRO_MAGNET_Housing2_fit
   * 2 vis M3-8
   * 2 rondelles M3
+
+* Sélectionner la pièce **ELECTRO_MAGNET_housing2** ou **ELECTRO_MAGNET_Housing2_fit**. Sur une imprimante 3D d'ancienne génération, on utilisera plutot **ELECTRO_MAGNET_housing2**. Sur une imprimante récente et ultra précise, on utilisera plutôt **ELECTRO_MAGNET_Housing2_fit**. Ce sont les même pièces, mais les tolérances mécaniques sont plus faible sur la version **fit**, ce qui permet un meilleur centrage de l'electro-aimant.
 
 * Fixer l’électro-aimant sur son support avec les 2 vis M3-8 et 2 rondelles M3.
 
@@ -529,24 +531,24 @@ Préparation des rouleaux papier
 -------------------------------
 Matériel BrailleRAP:
 
-  * **Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint
+  * **Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint3
   * 1 taraud M3
   * 3 joints toriques
   * 6 vis M3-6 sans tête 
 
 Matériel BrailleRAP XL:
 
-  * **Pièce(s) imprimée(s) en 3D** : 4 x ROLL_joint
+  * **Pièce(s) imprimée(s) en 3D** : 4 x ROLL_joint3
   * 1 taraud M3
   * 4 joints toriques
   * 8 vis M3-6 sans tête 
   
-  * Tarauder les 3 ou 4 ROLL_joint.
+  * Tarauder les 3 ou 4 ROLL_joint3.
 
 .. image :: ./IMG/BrailleRAP-V5.41.jpg
        :align: center
 
-* Mettre les joints toriques dans la gorge des 3 ou 4 ROLL_joint.
+* Mettre les joints toriques dans la gorge des 3 ou 4 ROLL_joint3.
 
 .. image :: ./IMG/BrailleRAP-V5.42.jpg
        :align: center
@@ -974,7 +976,7 @@ Matériel **BrailleRAP XL**:
 |
 
 * Enfiler la barre lisse à mi course par le côté gauche à travers la caisse et le KFL8.
-* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 3 ROLL_joint (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
+* Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée et les 3 (A4) ou 4 (XL) ROLL_joint3 (attention à la position du joint torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la poulie de l’axe.
 
 .. image :: ./IMG/BrailleRAP-V5.73.jpg
        :align: center
