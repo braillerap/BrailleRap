@@ -1,18 +1,18 @@
-
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-29 12:29+0000\n"
-"PO-Revision-Date: 2025-06-22 22:18+0000\n"
+"PO-Revision-Date: 2025-10-29 13:27+0000\n"
 "Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"braillerap-building-manual/manual_history/en/>\n"
 "Language: en\n"
-"Language-Team: English <https://translate.codeberg.org/projects"
-"/braillerap-building-manual/manual_history/en/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.17.0\n"
 
 # SOME DESCRIPTIVE TITLE.
@@ -34,7 +34,7 @@ msgid ""
 "En 2016 l'association **MyHumanKit** organise en collaboration avec "
 "**Airbus Industries** un hackaton appelé Fabrikarium."
 msgstr ""
-"In 2016 **MyHumanKit**, in partnership with Airbus Industries, organized "
+"In 2016 **MyHumanKit**, in partnership with **Airbus Industries**, organized "
 "a hackathon called Fabrikarium."
 
 #: ../../history.rst:9
@@ -282,7 +282,7 @@ msgstr ""
 
 #: ../../history.rst:74
 msgid "Certification open hardware"
-msgstr ""
+msgstr "Open Hardware Certification"
 
 #: ../../history.rst:76
 msgid ""
@@ -295,6 +295,13 @@ msgid ""
 "17 Juillet 2025 le dossier est accepté, et BrailleRAP est désormais "
 "certifié Open Source Hardware."
 msgstr ""
+"After a busy year, including workshops in Congo and Belgium, the creation of "
+"the XL model, and many hours dedicated to developing DesktopBrailleRAP and "
+"OpenStreetTouch, as well as discussions about the open-source licensing "
+"model, we submitted a certification application to `OSHWA <https://oshwa.org/"
+">`_ at the `Dinacon conference <https://2025.dinacon.org/>`_ in the summer "
+"of 2025. On July 17, 2025, the application was accepted, and BrailleRAP is "
+"now Open Source Hardware certified."
 
 #~ msgid ""
 #~ "L'opération BrailleRAP Cameroun à donné "
@@ -422,4 +429,3 @@ msgstr ""
 #~ " maintenance, with the aim of making"
 #~ " it easier for them to lead "
 #~ "workshops."
-
