@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BrailleRap 6.6.0 [oshw] FR000027\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-31 07:26+0000\n"
+"POT-Creation-Date: 2025-10-27 13:07+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -150,7 +150,7 @@ msgstr ""
 
 #: ../../assemblage.rst:83
 #: ../../assemblage.rst:111
-#: ../../assemblage.rst:130
+#: ../../assemblage.rst:126
 msgid "Matériel:"
 msgstr ""
 
@@ -235,7 +235,7 @@ msgstr ""
 #: ../../assemblage.rst:197
 #: ../../assemblage.rst:292
 #: ../../assemblage.rst:330
-#: ../../assemblage.rst:359
+#: ../../assemblage.rst:355
 #: ../../assemblage.rst:381
 #: ../../assemblage.rst:449
 #: ../../assemblage.rst:612
@@ -667,7 +667,6 @@ msgstr ""
 
 #: ../../assemblage.rst:530
 #: ../../assemblage.rst:562
-#: ../../assemblage.rst:895
 msgid "Matériel BrailleRAP:"
 msgstr ""
 
@@ -690,7 +689,6 @@ msgstr ""
 
 #: ../../assemblage.rst:537
 #: ../../assemblage.rst:570
-#: ../../assemblage.rst:900
 msgid "Matériel BrailleRAP XL:"
 msgstr ""
 
@@ -751,6 +749,7 @@ msgid "4 vis M3-25"
 msgstr ""
 
 #: ../../assemblage.rst:574
+#: ../../assemblage.rst:1036
 msgid "4 vis M3-20"
 msgstr ""
 
@@ -823,7 +822,6 @@ msgstr ""
 #: ../../assemblage.rst:637
 #: ../../assemblage.rst:659
 #: ../../assemblage.rst:679
-#: ../../assemblage.rst:1037
 #: ../../assemblage.rst:1320
 msgid "4 vis M3-14"
 msgstr ""
@@ -912,7 +910,8 @@ msgid "Montage du chariot bas (étape 2)"
 msgstr ""
 
 #: ../../assemblage.rst:739
-#: ../../assemblage.rst:945
+#: ../../assemblage.rst:895
+#: ../../assemblage.rst:938
 #: ../../assemblage.rst:1118
 #: ../../assemblage.rst:1169
 #: ../../assemblage.rst:1205
@@ -924,7 +923,8 @@ msgid "2 barres lisses Ø8mm, longueur : 330mm"
 msgstr ""
 
 #: ../../assemblage.rst:743
-#: ../../assemblage.rst:954
+#: ../../assemblage.rst:900
+#: ../../assemblage.rst:947
 #: ../../assemblage.rst:1122
 #: ../../assemblage.rst:1174
 #: ../../assemblage.rst:1212
@@ -1221,7 +1221,7 @@ msgstr ""
 msgid "**PAPER_SUPPORT** (contre-plaqué de 5mm découpé au laser)"
 msgstr ""
 
-#: ../../assemblage.rst:1036
+#: ../../assemblage.rst:1037
 #: ../../assemblage.rst:1689
 msgid "4 vis M3-16"
 msgstr ""
@@ -1237,7 +1237,7 @@ msgid "8 écrous M3 NYL"
 msgstr ""
 
 #: ../../assemblage.rst:1041
-msgid "Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois."
+msgid "Les vis M3-20 sont utilisées pour les trous ou il y a 2 epaisseurs de bois."
 msgstr ""
 
 #: ../../assemblage.rst:1043
@@ -1257,7 +1257,7 @@ msgid "Partie gauche."
 msgstr ""
 
 #: ../../assemblage.rst:1068
-msgid "Assembler les guide-papiers sur la plaque avec les vis M3-16/M3-14, des rondelles M3 Larges et les écrous M3 NYL."
+msgid "Assembler les guide-papiers sur la plaque avec les vis M3-20/M3-16, des rondelles M3 Larges et les écrous M3 NYL."
 msgstr ""
 
 #: ../../assemblage.rst:1080
