@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) CERN Licence V1.2
+# Copyright (C) CERN OHL-P V2.0
 # This file is distributed under the same license as the BrailleRap package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: BrailleRap 6.6.0\n"
+"Project-Id-Version: BrailleRap 6.x.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-22 21:47+0000\n"
+"POT-Creation-Date: 2025-10-29 12:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -134,4 +134,12 @@ msgstr ""
 
 #: ../../history.rst:70
 msgid "En paralelle nous déposons un dossier de financement auprès de la fondation `NlNet <https://nlnet.nl/project/BrailleRAP/>`_. Financement que la fondation nous a accordé. C'est le premier financement suivi dans le temps, il nous permet de développer les premières versions de `DesktopBrailleRAP <https://github.com/braillerap/DesktopBrailleRAP>`_ et `OpenStreetTouch <https://github.com/braillerap/OpenStreetTouch>`_ . L'occasion également de poursuivre des `expérimentations <https://github.com/braillerap/DesktopBrailleRAP/wiki/Pattern-filling-test-%E2%80%90-the-method>`_ avec des publics non ou mal voyant mais aussi des associations."
+msgstr ""
+
+#: ../../history.rst:74
+msgid "Certification open hardware"
+msgstr ""
+
+#: ../../history.rst:76
+msgid "Après une année chargée, notamment avec les ateliers au Congo et en Belgique, la création du modèle XL et de nombreuses heures consacrées au développement de DesktopBrailleRAP et OpenStreetTouch, et des discussions autours du modèle de licence open source. A l'été 2025, durant la conférence `Dinacon <https://2025.dinacon.org/>`_ nous déposons un dossier de certification auprès de l' `OSHWA <https://oshwa.org/>`_. Le 17 Juillet 2025 le dossier est accepté, et BrailleRAP est désormais certifié Open Source Hardware."
 msgstr ""
