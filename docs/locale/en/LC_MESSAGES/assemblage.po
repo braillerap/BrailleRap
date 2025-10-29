@@ -19,6 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
+
 #: ../../assemblage.rst:2
 msgid "Manuel de montage BrailleRAP"
 msgstr "BrailleRAP building manual"
@@ -248,7 +249,7 @@ msgstr ""
 
 #: ../../assemblage.rst:125
 msgid "Collage du plateau papier"
-msgstr "Gluing the paper tray"
+msgstr "Bonding the paper tray"
 
 #: ../../assemblage.rst:127
 msgid "Support papier supérieur."
