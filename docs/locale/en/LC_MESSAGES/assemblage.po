@@ -8,17 +8,17 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2025-10-29 12:29+0000\n"
-"PO-Revision-Date: 2025-07-16 09:13+0000\n"
-"Last-Translator: mark-hubbart <mark-hubbart@noreply.codeberg.org>\n"
+"PO-Revision-Date: 2025-10-29 13:27+0000\n"
+"Last-Translator: crocsg <crocsg@noreply.codeberg.org>\n"
+"Language-Team: English <https://translate.codeberg.org/projects/"
+"braillerap-building-manual/manual_assemblage/en/>\n"
 "Language: en\n"
-"Language-Team: English <https://translate.codeberg.org/projects"
-"/braillerap-building-manual/manual_assemblage/en/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 "Generated-By: Babel 2.17.0\n"
-
 
 #: ../../assemblage.rst:2
 msgid "Manuel de montage BrailleRAP"
@@ -587,11 +587,11 @@ msgid "Ensemble électro-aimant pré assemblé (cf Préparation de l électro-ai
 msgstr "Pre-assembled solenoid assembly (see Preparing the electromagnet)"
 
 #: ../../assemblage.rst:357
-#, fuzzy
 msgid ""
 "**Pièce(s) imprimée(s) en 3D ** : ELECTRO_MAGNET_housing2 ou "
 "ELECTRO_MAGNET_Housing2_fit"
-msgstr "**3D printed parts** : ELECTRO_MAGNET_housing2"
+msgstr ""
+"**3D printed parts** : ELECTRO_MAGNET_housing2 or ELECTRO_MAGNET_Housing2_fit"
 
 #: ../../assemblage.rst:358
 msgid "2 vis M3-8"
@@ -611,6 +611,12 @@ msgid ""
 "tolérances mécaniques sont plus faible sur la version **fit**, ce qui "
 "permet un meilleur centrage de l'electro-aimant."
 msgstr ""
+"Select either **ELECTRO_MAGNET_housing2** or **ELECTRO_MAGNET_Housing2_fit**"
+". On an older generation 3D printer, **ELECTRO_MAGNET_housing2** is "
+"preferred. On a modern, ultra-precise printer, "
+"**ELECTRO_MAGNET_Housing2_fit** is preferred. These are the same parts, but "
+"the mechanical tolerances are tighter on the **fit** version, allowing for "
+"better centering of the solenoid."
 
 #: ../../assemblage.rst:363
 msgid ""
@@ -840,9 +846,8 @@ msgid "Matériel BrailleRAP:"
 msgstr "Equipment **BrailleRAP**:"
 
 #: ../../assemblage.rst:534
-#, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint3"
-msgstr "**3D printed parts**: 3 x ROLL_joint"
+msgstr "**3D printed parts**: 3 x ROLL_joint3"
 
 #: ../../assemblage.rst:535 ../../assemblage.rst:542
 msgid "1 taraud M3"
@@ -861,9 +866,8 @@ msgid "Matériel BrailleRAP XL:"
 msgstr "Equipment **BrailleRAP XL**:"
 
 #: ../../assemblage.rst:541
-#, fuzzy
 msgid "**Pièce(s) imprimée(s) en 3D** : 4 x ROLL_joint3"
-msgstr "**3D printed parts**: 4 x ROLL_joint"
+msgstr "**3D printed parts**: 4 x ROLL_joint3"
 
 #: ../../assemblage.rst:543
 msgid "4 joints toriques"
@@ -874,14 +878,12 @@ msgid "8 vis M3-6 sans tête"
 msgstr "8 M3-6 grub screw"
 
 #: ../../assemblage.rst:546
-#, fuzzy
 msgid "Tarauder les 3 ou 4 ROLL_joint3."
-msgstr "Tap the 3 or 4 ROLL_joint."
+msgstr "Tap the 3 or 4 ROLL_joint3."
 
 #: ../../assemblage.rst:551
-#, fuzzy
 msgid "Mettre les joints toriques dans la gorge des 3 ou 4 ROLL_joint3."
-msgstr "Put the O-rings in the groove of the 3 or 4 ROLL_joint."
+msgstr "Put the O-rings in the groove of the 3 or 4 ROLL_joint3."
 
 #: ../../assemblage.rst:556
 msgid ""
@@ -969,8 +971,8 @@ msgid ""
 "Ne pas serrer l'écrou M3-NYL **clipboard2** et **clipboard2_support** "
 "doivent pouvoir bouger librement."
 msgstr ""
-"Do not tighten the M3 nyloc nut **clipboard2** and "
-"**clipboard2_support**must be able to move freely."
+"Do not tighten the M3 nyloc nut **clipboard2** and **clipboard2_support** "
+"must be able to move freely."
 
 #: ../../assemblage.rst:603
 msgid ""
@@ -1474,16 +1476,15 @@ msgstr ""
 "the KFL8."
 
 #: ../../assemblage.rst:979
-#, fuzzy
 msgid ""
 "Dans l’ordre, enfiler la poulie GT2 20 dents bore 8mm, la courroie fermée"
 " et les 3 (A4) ou 4 (XL) ROLL_joint3 (attention à la position du joint "
 "torique). Mettre la courroie fermée sur la poulie du moteur Y et sur la "
 "poulie de l’axe."
 msgstr ""
-"In order, thread the GT2 20 tooth boron 8mm pulley, the closed belt and "
-"the 2 ROLL_joint (pay attention to the position of the O-ring). Put the "
-"belt closed on the pulley of motor Y and on the pulley of the axle."
+"In order, thread the GT2 20 tooth boron 8mm pulley, the closed belt and the "
+"3 (A4) or 4 (XL) ROLL_joint3 (pay attention to the position of the O-ring). "
+"Put the belt closed on the pulley of motor Y and on the pulley of the axle."
 
 #: ../../assemblage.rst:986
 msgid ""
@@ -1756,8 +1757,7 @@ msgid ""
 "Positionner le levier **ENDSTOP_Y_LEVER** dans le support "
 "**ENDSTOP_Y_support**."
 msgstr ""
-"Position the lever **ENDSTOP_Y_LEVER** in the "
-"support**ENDSTOP_Y_support**."
+"Position the lever **ENDSTOP_Y_LEVER** in the support **ENDSTOP_Y_support**."
 
 #: ../../assemblage.rst:1271
 msgid ""
@@ -1780,7 +1780,7 @@ msgid ""
 "Assembler l'interrupteur fin de course et le **ENDSTOP_Y_support** à "
 "l'aide des vis M2.5-14 et des écrous M2.5 NYL."
 msgstr ""
-"Assemble the limit switch and the SWITCH_Y_support using M2.5-14 screws "
+"Assemble the limit switch and the **ENDSTOP_Y_support** using M2.5-14 screws "
 "and M2.5 NYL nuts."
 
 #: ../../assemblage.rst:1291
@@ -2254,7 +2254,9 @@ msgstr "Tap the fixing hole of the parts **DOORLOCKER**"
 msgid ""
 "Attacher les **DOORLOCKER** sur la porte arriere. Laisser du jeu pour que"
 " les pieces **DOORLOCKER** puissent coulisser."
-msgstr "Fix **DOORLOCKER** parts on the rear panel."
+msgstr ""
+"Fix **DOORLOCKER** parts on the rear panel. Do not tight too much, "
+"**DOORLOCKER** part must move easily."
 
 #: ../../assemblage.rst:1704
 msgid "Positionner la porte assemblée sur BrailleRAP."
@@ -2447,4 +2449,3 @@ msgstr "To save these values in EEPROM use the command : M500"
 
 #~ msgid "2 écrous M2.5"
 #~ msgstr "2 M2.5 nuts"
-
