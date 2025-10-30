@@ -35,4 +35,4 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership.
 
 ## Attribution
-This Code of Conduct is greatly inspired from  [openflexure project](href='https://openflexure.org) code of conduct, adapted from the Contributor Covenant, version 1.4, available at [http://contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1])
+This Code of Conduct is greatly inspired from  [openflexure project](https://openflexure.org) code of conduct, adapted from the Contributor Covenant, version 1.4, available at [http://contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1])
