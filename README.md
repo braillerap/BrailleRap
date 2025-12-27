@@ -22,6 +22,12 @@ BrailleRAP now exist in 2 different sizes: **BrailleRAP** and **BrailleRAP XL**.
 
 You may also find some interest in [OpenStreetTangible](https://github.com/braillerap/OpenStreetTangible), a tangible subway map of the Rennes city in France. A custom build to demonstrate the ability of OpenStreetTouch and BrailleRAP to build accessible map.
 
+If you built a **BrailleRAP XL** maybe you want to carry it easily. The transport bag for the **BrailleRAP XL** is available [here](https://github.com/braillerap/braillerap-bag). Many thanks to [pasfou](https://github.com/pasfou) for this brilliant idea and realization.
+
+<figure>
+<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/brapbag1.jpg" alt="A custom bag for BrailleRAP XL" style="width:75%; align:center;">
+</figure>
+
 ## OSHWA Certification
 
 BrailleRAP is [OSHWA](https:oshwa.org) open source hardware certified.
