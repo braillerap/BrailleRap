@@ -37,12 +37,8 @@ You may also find some interest in some 'side' projects to extend your BrailleRA
 
   **Carnet_de_sante** a [Handitechlab Inria](https://project.inria.fr/handitechlabinria/fr/) project to make children growing health data available for visual impaired peoples. [Carnet_de_sante](https://gitlab.inria.fr/handitechlabinria/enbosse/carnet_de_sante/-/blob/main/README.md?ref_type=heads).
 
-  **Tactipix** a [Handitechlab Inria](https://project.inria.fr/handitechlabinria/fr/) a starting collection of children illustrated books with audio resources. [Tactipix](https://handitechlabinria.gitlabpages.inria.fr/tactipix/)
+  **Tactipix** a [Handitechlab Inria](https://project.inria.fr/handitechlabinria/fr/) starting collection of children illustrated books with audio resources (in french). The illustrations can be embossed on BrailleRAP. [Tactipix](https://handitechlabinria.gitlabpages.inria.fr/tactipix/)
   
-
-
-
-
 
 ## OSHWA Certification
 
