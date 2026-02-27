@@ -11,11 +11,10 @@ import java.util.ArrayList;
  */
 public class Braille6GcodeEncoding implements BrailleGcodeEncoding {
 	private static final BrailleGcodeDot[] dot =  new BrailleGcodeDot[] {
-			new BrailleGcodeDot('a', new int[] {1}),
-			new BrailleGcodeDot('b', new int[] {1,2}),
-			new BrailleGcodeDot('c', new int[] {1,4}),
-			
-			
+		new BrailleGcodeDot('a', new int[] {1}),
+		new BrailleGcodeDot('b', new int[] {1,2}),
+		new BrailleGcodeDot('c', new int[] {1,4}),
+		
 		
 		new BrailleGcodeDot('d', new int[]{1,4,5}),
 		new BrailleGcodeDot('e', new int[] {1,5}),
