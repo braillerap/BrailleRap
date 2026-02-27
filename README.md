@@ -22,9 +22,19 @@ BrailleRAP now exist in 2 different sizes: **BrailleRAP** and **BrailleRAP XL**.
 <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/brap_sample2.jpg" alt="Tangible documents examples made on BrailleRAP" style="width:75%; align:center;">
 </figure>
 
-You may also find some interest in [OpenStreetTangible](https://github.com/braillerap/OpenStreetTangible), a tangible subway map of the Rennes city in France. A custom build to demonstrate the ability of OpenStreetTouch and BrailleRAP to build accessible map.
+You may also find some interest in some 'side' projects to extend your BrailleRAP usage :
 
-If you built a **BrailleRAP XL** maybe you want to carry it easily. The transport bag for the **BrailleRAP XL** is available [here](https://github.com/braillerap/braillerap-bag). Many thanks to [pasfou](https://github.com/pasfou) for this brilliant idea and realization.
+
+  [OpenStreetTangible](https://github.com/braillerap/OpenStreetTangible), a tangible subway map of the Rennes city in France. A custom build to demonstrate the ability of OpenStreetTouch and BrailleRAP to build accessible map.
+
+  If you built a **BrailleRAP XL** maybe you want to carry it easily. The transport bag for the **BrailleRAP XL** is available [here](https://github.com/braillerap/braillerap-bag). Many thanks to [pasfou](https://github.com/pasfou) for this brilliant idea and realization.
+
+  **En_Bosse** a [Handitechlab Inria](https://project.inria.fr/handitechlabinria/fr/) project to process ultrasound imagery. The project AIM to emboss ultrasound imagery to make it available for visual impaired parents. [Em_Bosse](https://gitlab.inria.fr/handitechlabinria/enbosse/en_bosse/-/blob/main/README.md?ref_type=heads).
+
+  **Carnet_de_sante** a [Handitechlab Inria](https://project.inria.fr/handitechlabinria/fr/) project to make children growing health data available for visual impaired peoples. [Carnet_de_sante](https://gitlab.inria.fr/handitechlabinria/enbosse/carnet_de_sante/-/blob/main/README.md?ref_type=heads).
+
+  
+
 
 <figure>
 <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/brapbag1.jpg" alt="A custom bag for BrailleRAP XL" style="width:75%; align:center;">
