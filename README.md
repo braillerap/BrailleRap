@@ -29,6 +29,10 @@ You may also find some interest in some 'side' projects to extend your BrailleRA
 
   If you built a **BrailleRAP XL** maybe you want to carry it easily. The transport bag for the **BrailleRAP XL** is available [here](https://github.com/braillerap/braillerap-bag). Many thanks to [pasfou](https://github.com/pasfou) for this brilliant idea and realization.
 
+    <figure>
+    <img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/brapbag1.jpg" alt="A custom bag for BrailleRAP XL" style="width:75%; align:center;">
+    </figure>
+
   **En_Bosse** a [Handitechlab Inria](https://project.inria.fr/handitechlabinria/fr/) project to process ultrasound imagery. The project AIM to emboss ultrasound imagery to make it available for visual impaired parents. [Em_Bosse](https://gitlab.inria.fr/handitechlabinria/enbosse/en_bosse/-/blob/main/README.md?ref_type=heads).
 
   **Carnet_de_sante** a [Handitechlab Inria](https://project.inria.fr/handitechlabinria/fr/) project to make children growing health data available for visual impaired peoples. [Carnet_de_sante](https://gitlab.inria.fr/handitechlabinria/enbosse/carnet_de_sante/-/blob/main/README.md?ref_type=heads).
@@ -36,12 +40,9 @@ You may also find some interest in some 'side' projects to extend your BrailleRA
   **Tactipix** a [Handitechlab Inria](https://project.inria.fr/handitechlabinria/fr/) a starting collection of children illustrated books with audio resources. [Tactipix](https://handitechlabinria.gitlabpages.inria.fr/tactipix/)
   
 
-  
 
 
-<figure>
-<img src="https://github.com/braillerap/BrailleRap/blob/master/docs/IMG/brapbag1.jpg" alt="A custom bag for BrailleRAP XL" style="width:75%; align:center;">
-</figure>
+
 
 ## OSHWA Certification
 
