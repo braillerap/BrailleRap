@@ -32,6 +32,7 @@ source_parsers = {
 master_doc = 'index'
 project = u'BrailleRap'
 copyright = 'CERN OHL-P V2.0'
+author = u'BrailleRAP team'
 
 version = '6.x.0'
 release = '6.x.0'

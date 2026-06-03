@@ -529,14 +529,14 @@ Matériel :
 
 Préparation des rouleaux papier
 -------------------------------
-Matériel BrailleRAP:
+Matériel **BrailleRAP**:
 
   * **Pièce(s) imprimée(s) en 3D** : 3 x ROLL_joint3
   * 1 taraud M3
   * 3 joints toriques
   * 6 vis M3-6 sans tête 
 
-Matériel BrailleRAP XL:
+Matériel **BrailleRAP XL**:
 
   * **Pièce(s) imprimée(s) en 3D** : 4 x ROLL_joint3
   * 1 taraud M3
@@ -561,7 +561,7 @@ Matériel BrailleRAP XL:
 
 Préparation des presse-papiers (étape 1) :
 ------------------------------------------
-Matériel BrailleRAP:
+Matériel **BrailleRAP**:
 
   * **Pièce(s) imprimée(s) en 3D** : 3 x **clipboard2_support**  3 x **clipboard2** 3 x **CLIPBOARD2_WHEEL**
   * 3 vis M3-25
@@ -569,7 +569,7 @@ Matériel BrailleRAP:
   * 3 ressorts tendeurs de courroie GT2
   * 6 ecrous M3-NYL
 
-Matériel BrailleRAP XL:
+Matériel **BrailleRAP XL**:
 
   * **Pièce(s) imprimée(s) en 3D** : 4 x **clipboard2_support**  4 x **clipboard2** 4 x **CLIPBOARD2_WHEEL**
   * 4 vis M3-25
@@ -894,12 +894,12 @@ Matériel :
 Montage de la courroie du chariot bas
 --------------------------------------
 
-Matériel BrailleRAP:
+Matériel **BrailleRAP**:
 
   * 1 courroie GT2 longueur ± 620mm
   * 2 colliers
 
-Matériel BrailleRAP XL:
+Matériel **BrailleRAP XL**:
 
   * 1 courroie GT2 longueur ± 960mm
   * 2 colliers
@@ -1042,7 +1042,7 @@ Matériel :
 
 .. NOTE:: Les vis M3-16(M3-18 si vous n'avez pas de M3_16) sont utilisées pour les trous ou il y a 2 epaisseurs de bois.
 
-.. NOTE:: C'est ici que ce trouve la principale difference entre une BrailleRAP et une BrailleRAP XL.
+.. NOTE:: C'est à cette étape que ce trouve la principale difference entre une **BrailleRAP** et une **BrailleRAP XL**.
 
 BrailleRAP utilise les pièces PAPER_GUIDE_left et PAPER_GUIDE_right.
 
