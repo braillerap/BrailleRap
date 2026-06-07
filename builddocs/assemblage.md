@@ -752,9 +752,13 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 7. attach the IGUS bearings with fixing collars
 
-**Note:** Pay attention to the direction of the cable ties. The cable tie fasteners must face toward the walls of the machine. Lock the IGUS bearings in the groove, and don't overtighten the cable ties — they will be adjusted when the carriage is in place on the linear rails.
-
-<img src="./IMG/toptroley_assembly_v3.png" alt="Top carriage cable ties installation" width="50%">
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  Pay attention to the direction of the cable ties. The cable tie fasteners must face toward the walls of the machine. Lock the IGUS bearings in the groove, and don't overtighten the cable ties — they will be adjusted when the carriage is in place on the linear rails.
+  </p>
+</div>
+<img src="./IMG/toptroley_assembly_v3.png" alt="Top carriage cable ties installation" width="80%">
 
 8. Fit the M3-20 screws and the M3 nuts.
 
@@ -772,7 +776,13 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 - 2 x linear shafts (Ø8mm, 470mm)
 
 **Steps:**
-**Note:** We did not represent the facade for readability reasons.
+
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  We did not represent the facade for readability reasons.
+  </p>
+</div>
 
 1. Push the bars halfway through the outside of the frame.
 
@@ -782,7 +792,12 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 <img src="./IMG/BrailleRAP-V5.51.2.jpg" alt="Installing endstop on shaft" width="50%">
 
-**Note:** The screw on the switch bracket will be tightened later during adjustment.
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  The screw on the switch bracket will be tightened later during adjustment.
+  </p>
+</div>
 
 3. Push the bottom carriage over the smooth bars.
 
@@ -816,7 +831,12 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 3. Finish putting on the bars.
 
-**Note:** The edge of the wood should remain visible.
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  The edge of the wood should remain visible.
+  </p>
+</div>
 
 <img src="./IMG/BrailleRAP-V5.91.jpg" alt="Final bar positioning" width="50%">
 
@@ -843,7 +863,13 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 - 4x M5 nyloc nuts
 
 **Steps:**
-**Note:** Before attaching the KP08, make sure the bearings are aligned in their housing. They may be delivered a little misaligned. In this case, insert a Ø 8mm bar and manually actuate it to straighten them.
+
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  Before attaching the KP08, make sure the bearings are aligned in their housing. They may be delivered a little misaligned. In this case, insert a Ø 8mm bar and manually actuate it to straighten them.
+  </p>
+</div>
 
 <img src="./IMG/BrailleRAP-V5.40.jpg" alt="KP08 bearing alignment" width="50%">
 
@@ -997,9 +1023,21 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 - 8 x M3 nyloc nuts
 
 **Steps:**
-**Note:** M3-16 screws (M3-18 if you don't have M3_16) are used for the holes where there are 2 thicknesses of wood.
 
-**Note:** This step is the main difference between BrailleRAP and BrailleRAP XL.
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  M3-16 screws (M3-18 if you don't have M3_16) are used for the holes where there are 2 thicknesses of wood.
+  </p>
+</div>
+
+
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  This step is the main difference between BrailleRAP and BrailleRAP XL.
+  </p>
+</div>
 
 BrailleRAP use part PAPER_GUIDE_left et PAPER_GUIDE_right.
 
@@ -1034,7 +1072,13 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 - Pre-assembled paper rolls: 3 x (BrailleRAP) or 4 x (BrailleRAP XL)
 
 **Steps:**
-**Note:** Glue the plate only if you are sure of the mounting that is in below. If you're not sure, you can just position the support plate, you will bond it at the end when The embosser will work.
+
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  Glue the plate only if you are sure of the mounting that is in below. If you're not sure, you can just position the support plate, you will bond it at the end when The embosser will work.
+  </p>
+</div>
 
 1. Glue the notches that will be in contact. Insert the plate from the front and hold it firmly with tape during the drying time.
 
@@ -1059,7 +1103,13 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 - 8 x M3 nyloc nuts
 
 **Steps:**
-**Note:** The oblong holes in the printed parts adjust the pressure of the CLIPBOARD on the paper.
+
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  The oblong holes in the printed parts adjust the pressure of the CLIPBOARD on the paper.
+  </p>
+</div>
 
 <img src="./IMG/BrailleRAP-V6.104.jpg" alt="Clipboard mounting step 1" width="80%">
 <img src="./IMG/BrailleRAP-V6.105.jpg" alt="Clipboard mounting step 2" width="80%">
@@ -1082,7 +1132,13 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 - 2 x M2.5 nyloc nuts
 
 **Steps:**
-**Note:** It's better to use an endstop with angled wire.
+
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  It's better to use an endstop with angled wire.
+  </p>
+</div>
 
 <img src="./IMG/endstop_coude.jpg" alt="Angled endstop preferred" width="50%">
 
@@ -1096,7 +1152,12 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 
 3. Fix the lever **ENDSTOP_Y_LEVER** to the support **ENDSTOP_Y_support** with an M3-20 screw and an M3-NYL nut
 
-**Note:** Do not tighten the M3 nut, the lever must be able to rotate freely in his support.
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  Do not tighten the M3 nut, the lever must be able to rotate freely in his support.
+  </p>
+</div>
 
 <img src="./IMG/BrailleRAP-V6.106.2.png" alt="Y endstop lever mounting step 1" width="50%">
 <img src="./IMG/BrailleRAP-V6.106.3.png" alt="Y endstop lever mounting step 2" width="50%">
@@ -1149,7 +1210,13 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 
 <img src="./IMG/pulley_tensioner_down.jpg" alt="Bottom belt tensioning" width="50%">
 
-**Note:** For now, do not tighten the pulley bolts on the axle.
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  For now, do not tighten the pulley bolts on the axle.
+  </p>
+</div>
+
 
 <img src="./IMG/BrailleRAP-V5.66.jpg" alt="Bottom carriage belt final" width="50%">
 
@@ -1248,7 +1315,13 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 
 1. Assemble the 4 spacers on the card.
 
-**Note:** To easily perform the final adjustments, we recommend wiring the board outside the chassis. Once the embosser is functional, you can mount the board inside the embosser.
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  To easily perform the final adjustments, we recommend wiring the board outside the chassis. Once the embosser is functional, you can mount the board inside the embosser.
+  </p>
+</div>
+
 
 ### Electronic board wiring for MKS 1.4
 
@@ -1289,7 +1362,13 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 ### Adjusting motor drivers
 
 **Steps:**
-**Note:** This step must **IMPERATIVELY** be carried out **before** wiring the motors.
+
+<div class="admonition warning">
+  <div class="title">Attention</div>
+  <p>
+  This step must **IMPERATIVELY** be carried out **before** wiring the motors.
+  </p>
+</div>
 
 1. Check that you can connect the 12V power supply to the board (a last check to avoid sparks is better :-) )
 
@@ -1355,7 +1434,12 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 
 1. Assemble the 4 spacers on the card.
 
-**Note:** To easily perform the final adjustments, we recommend wiring the board outside the chassis. Once the embosser is functional, you can mount the board inside the embosser.
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  To easily perform the final adjustments, we recommend wiring the board outside the chassis. Once the embosser is functional, you can mount the board inside the embosser.
+  </p>
+</div>
 
 ### Electronic board wiring MKS GEN-L V2.1
 
@@ -1396,7 +1480,13 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 ### Adjusting motor drivers MKS GEN-L V2.1
 
 **Steps:**
-**Note:** This step **HAS TO BE** carried out **before** wiring the motors.
+
+<div class="admonition warning">
+  <div class="title">Attention</div>
+  <p>
+  This step **HAS TO BE** carried out **before** wiring the motors.
+  </p>
+</div>
 
 1. Check that you can connect the 12V power supply to the board (a last check to avoid sparks is better)
 
