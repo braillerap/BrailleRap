@@ -1,6 +1,3 @@
-BrailleRAP Assembly Manual
-==========================
-
 # BrailleRAP Assembly Manual
 
 ## Required tools
