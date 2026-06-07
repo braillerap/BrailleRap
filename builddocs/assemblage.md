@@ -182,12 +182,12 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 1. Prepare the 5 parts: FACE, BACK, LEFT_SIDE, RIGHT_SIDE and BOTTOM. Carefully identify the orientation of the sides (right and left) and the bottom. Use the holes to orient the parts as shown in the picture below:
 
-<img src="./IMG/gluing_chassis.png" alt="Chassis gluing orientation" width="350">
+<img src="./IMG/gluing_chassis.png" alt="Chassis gluing orientation" width="50%">
 
 2. Apply glue to the notches and assemble the 5 parts
 3. Secure with painter's tape until the glue is fully dry
 
-<img src="./IMG/BrailleRAP-V5.01.jpg" alt="Assembled wooden enclosure" width="350">
+<img src="./IMG/BrailleRAP-V5.01.jpg" alt="Assembled wooden enclosure" width="50%">
 
 ## 1.2 Installing the Door Stops
 
@@ -1194,11 +1194,11 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 
 **General diagram:**
 
-<img src="./IMG/braillerap_cablage.png" alt="MKS 1.4 general wiring diagram" width="350">
+<img src="./IMG/braillerap_cablage.png" alt="MKS 1.4 general wiring diagram" width="50%">
 
 **Photo of the assembled board:**
 
-<img src="./IMG/braillerap_carte.jpg" alt="MKS 1.4 assembled board" width="350">
+<img src="./IMG/braillerap_carte.jpg" alt="MKS 1.4 assembled board" width="50%">
 
 ### Laying the drivers on the electronic board
 
@@ -1301,11 +1301,11 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 
 **General diagram:**
 
-<img src="./IMG/mksgenl_schema.png" alt="MKS GEN-L V2.1 general wiring diagram" width="350">
+<img src="./IMG/mksgenl_schema.png" alt="MKS GEN-L V2.1 general wiring diagram" width="50%">
 
 **Photo of the assembled board:**
 
-<img src="./IMG/mksgenl.jpg" alt="MKS GEN-L V2.1 assembled board" width="350">
+<img src="./IMG/mksgenl.jpg" alt="MKS GEN-L V2.1 assembled board" width="50%">
 
 ### Laying the drivers on the electronic board MKS GEN-L V2.1
 
