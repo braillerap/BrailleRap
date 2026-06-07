@@ -265,11 +265,11 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 1. Identify the 3 parts to be assembled.
 
-<img src="./IMG/Axis_assembly_v1.png" alt="Axis supports" width="50%">
+<img src="./IMG/Axis_assembly_v1.png" alt="Axis supports" width="80%">
 
 2. Insert an M3 nut into each of the rectangular holes in all 3 parts, then thread in the M3-12 grub screws.
 
-<img src="./IMG/BrailleRAP-V5.09.1.jpg" alt="Inserting nuts and screws" width="50%">
+<img src="./IMG/BrailleRAP-V5.09.1.jpg" alt="Inserting nuts and screws" width="80%">
 
 3. Ensure the tip of the screw does not protrude into the hole for the 8mm rods:
 
