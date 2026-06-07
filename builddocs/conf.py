@@ -24,7 +24,13 @@ extensions = [
     
 ]
 
-myst_enable_extensions = ["attrs_inline", "html_image"]
+myst_enable_extensions = [
+    "alert",
+    "colon_fence",
+    "attrs_inline", 
+    "html_admonition",
+    "html_image"
+    ]
 templates_path = ['_templates']
 
 source_suffix = ['.rst', '.md']
