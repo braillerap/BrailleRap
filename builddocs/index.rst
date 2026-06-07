@@ -19,7 +19,7 @@ Welcome on BrailleRAP Documentation
    firstembossingpage
     
 
-.. index:: history, licence, bom, assemblage, marlin, firstembossingpage
+.. index:: history, licence,bom,assemblage,marlin,firstembossingpage
 
 Mise à jour: |today|
 
