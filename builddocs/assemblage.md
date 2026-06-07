@@ -114,23 +114,24 @@ When we talk about 'M3' and 'M5', it refers to the diameter in millimeters of th
 
 **M5-18** refers to a hex head bolt (5mm diameter, 18mm length)
 
-<img src="./IMG/vis6pans.jpg" alt="Hex head bolt" width="150">
+<img src="./IMG/vis6pans.jpg" alt="Hex head bolt" width="25%">
 
 ### Set screws
 
 **M3-12 grub** refers to a grub screw/set screw (3mm diameter, 12mm length)
 
-<img src="./IMG/vissantete.jpg" alt="Grub screw" width="150">
+<img src="./IMG/vissantete.jpg" alt="Grub screw" width="25%">
 
 ### Nuts
 
 **M3 nut or M5 nut** refers to standard nuts with a diameter of 3mm or 5mm
 
-<img src="./IMG/ecrou.jpg" alt="Standard nuts" width="150">
+<img src="./IMG/ecrou.jpg" alt="Standard nuts" width="25%">
 
 **M3 nyloc nut** or **M5 nyloc nut** refer to **locking** nuts with a diameter of 3mm or 5mm
 
-<img src="./IMG/ecrounyl.jpg" alt="Nyloc nuts" width="150">
+<img src="./IMG/ecrounyl.jpg" alt="Nyloc nuts" width="25%">
+
 
 ## Notes about BrailleRAP/BrailleRAP XL
 
