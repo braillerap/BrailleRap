@@ -80,7 +80,6 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 |                            | Jumpers                              | 6                     | 6                        | Driver configuration             |
 |                            | Motor cables (4-pin to 6-pin)        | 2                     | 2                        | Motor connections                |
 |                            | 18mm spacer                          | 1                     | 1                        | Solenoid assembly                |
-
 | **3D Printed Parts**       | BOTTOM_AXIS_left2                    | 1                     | 1                        | Axis support                     |
 |                            | TOP_AXIS_left2                       | 1                     | 1                        | Axis support                     |
 |                            | TOP_AXIS_right2                      | 1                     | 1                        | Axis support                     |
@@ -183,7 +182,7 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | ------------------------------------ | --------- | ---------------------------------|
 | Nema 17 stepper motors               | 2         | **17HS4401** X & Y motors        |
 | Solenoid                             | 1         | **TAU 826B 12V 2A** Braille stylus      |
-| Wired limit switches                 | 2         | **OMRON SS-5GL (or compatible) **  X & Y endstops                   |
+| Wired limit switches                 | 2         | **OMRON SS-5GL (or compatible)**  X & Y endstops                   |
 | MKS GEN 1.4 or GEN-L V2.1 board      | 1         | Controller                       |
 | DRV8825 drivers                      | 2         | **8825** Motor drivers           |
 | Jumpers                              | 6         | Driver configuration             |
