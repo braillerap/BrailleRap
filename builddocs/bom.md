@@ -137,9 +137,9 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | Linear shafts Ø8mm, 330mm            | 4         | BrailleRAP carriages             |
 | Linear shafts Ø8mm, 364mm            | 1         | BrailleRAP Y axis                |
 | Linear shafts Ø8mm, 100mm            | 1         | Vertical axis                    |
-| IGUS linear bearings                 | 6         | **RJ4JP-08** for carriages           |
-| KP08 bearings                        | 2         | **KP08** for Vertical axis           |
-| KFL8 bearings                        | 2         | **KFL8** for Y axis                  |
+| IGUS linear bearings                 | 6         | **RJ4JP-01-08** for carriages    |
+| KP08 bearings                        | 2         | **KP08** for Vertical axis       |
+| KFL8 bearings                        | 2         | **KFL8** for Y axis              |
 
 ### BrailleRAP XL
 | Item                                 | Quantity  | **Ref** / Note                   |
@@ -147,7 +147,7 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | Linear shafts Ø8mm, 470mm            | 4         | BrailleRAP XL carriages          |
 | Linear shafts Ø8mm, 505mm            | 1         | BrailleRAP XL Y axis             |
 | Linear shafts Ø8mm, 100mm            | 1         | Vertical axis                    |
-| IGUS linear bearings                 | 6         | **RJ4JP-08** for carriages           |
+| IGUS linear bearings                 | 6         | **RJ4JP-01-08** for carriages    |
 | KP08 bearings                        | 2         | **KP08** for Vertical axis           |
 | KFL8 bearings                        | 2         | **KFL8** for Y axis                  |
 
@@ -162,7 +162,7 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | GT2 belt, 200mm closed               | 1         | **GT2 6mm width closed** Y axis  |
 | GT2 pulleys, 20 teeth, 5mm bore      | 1         | Y motor                          |
 | GT2 pulleys, 20 teeth, 8mm bore      | 3         | Vertical & Y axis                |
-| GT2 free pulleys, 20 teeth, 3mm bore | 2         | Free pulleys                     |
+| GT2 free pulleys, 20 teeth, 3mm bore | 2         | Free pulleys with bearing        |
 | 5x8mm coupler                        | 1         | Motor coupling                   |
 
 ### BrailleRAP XL
@@ -173,7 +173,7 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | GT2 belt, 200mm closed               | 1         | **GT2 6mm width closed** Y axis  |
 | GT2 pulleys, 20 teeth, 5mm bore      | 1         | Y motor                          |
 | GT2 pulleys, 20 teeth, 8mm bore      | 3         | Vertical & Y axis                |
-| GT2 free pulleys, 20 teeth, 3mm bore | 2         | Free pulleys                     |
+| GT2 free pulleys, 20 teeth, 3mm bore | 2         | Free pulleys with bearing        |
 | 5x8mm coupler                        | 1         | Motor coupling                   |
 
 ## Electronics
@@ -183,7 +183,7 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | ------------------------------------ | --------- | ---------------------------------|
 | Nema 17 stepper motors               | 2         | **17HS4401** X & Y motors        |
 | Solenoid                             | 1         | **TAU 826B** Braille stylus      |
-| Wired limit switches                 | 2         | X & Y endstops                   |
+| Wired limit switches                 | 2         | (OMRON `SS-5GL <https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf>`_ ou compatible) X & Y endstops                   |
 | MKS GEN 1.4 or GEN-L V2.1 board      | 1         | Controller                       |
 | DRV8825 drivers                      | 2         | **8825** Motor drivers           |
 | Jumpers                              | 6         | Driver configuration             |
