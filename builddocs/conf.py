@@ -25,7 +25,7 @@ extensions = [
 ]
 
 myst_enable_extensions = [
-    "alert",
+    
     "colon_fence",
     "attrs_inline", 
     "html_admonition",
