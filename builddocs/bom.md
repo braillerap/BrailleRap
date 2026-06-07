@@ -183,7 +183,7 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | ------------------------------------ | --------- | ---------------------------------|
 | Nema 17 stepper motors               | 2         | **17HS4401** X & Y motors        |
 | Solenoid                             | 1         | **TAU 826B** Braille stylus      |
-| Wired limit switches                 | 2         | (OMRON `SS-5GL <https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf>`_ ou compatible) X & Y endstops                   |
+| Wired limit switches                 | 2         | **OMRON SS-5GL (or compatible) **  X & Y endstops                   |
 | MKS GEN 1.4 or GEN-L V2.1 board      | 1         | Controller                       |
 | DRV8825 drivers                      | 2         | **8825** Motor drivers           |
 | Jumpers                              | 6         | Driver configuration             |
