@@ -11,7 +11,9 @@
 - Socket wrenches: 5.5mm and 8mm
 - Wood glue or appropriate glue for choosen material
 - Blue painter's tape
-
+- Clamping pliers
+- A Whetstone for Braille stylus manufactoring
+ 
 ## Materials list
 
 | Category                   | Item                                 | Quantity (BrailleRAP) | Quantity (BrailleRAP XL) | Notes                            |

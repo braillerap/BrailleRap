@@ -117,7 +117,8 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 |                            | Upper paper support                  | 1                     | 1                        | Paper tray                       |
 |                            | Lower paper support                  | 1                     | 1                        | Paper tray                       |
 |                            | Wooden discs (from lid)              | 4                     | 4                        | Door stops                       |
-| **Miscellaneous**          | O-rings                              | 3                     | 4                        | Paper rollers                    |
+| **Miscellaneous**          
+| O-rings                              | 3                     | 4                        | Paper rollers                    |
 |                            | Cable ties 2.5 x 160                 | 6                     | 6                        | Bearing retention                |
 |                            | Cable ties                           | 4                     | 4                        | Belt attachment                  |
 |                            | Whetstone                            | 1                     | 1                        | Stylus preparation               |
@@ -165,7 +166,7 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | 5x8mm coupler                        | 1         | Motor coupling                   |
 
 ### BrailleRAP XL
-| Item                                 | Quantity  | Ref / Note                       |
+| Item                                 | Quantity  | **Ref** / Note                       |
 | ------------------------------------ | --------- | ---------------------------------|
 | GT2 belts, ±960mm                    | 2         | **GT2 6mm width** XL bottom carriage           |
 | GT2 belt tensioning springs          | 4         | Paper hold-down                  |
@@ -178,7 +179,7 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 ## Electronics
 
 ### BrailleRAP and BrailleRAP XL
-| Item                                 | Quantity  | Ref / Note                       |
+| Item                                 | Quantity  | **Ref** / Note                       |
 | ------------------------------------ | --------- | ---------------------------------|
 | Nema 17 stepper motors               | 2         | **17HS4401** X & Y motors        |
 | Solenoid                             | 1         | **TAU 826B 12V 2A** Braille stylus      |
@@ -188,6 +189,28 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | Jumpers                              | 6         | Driver configuration             |
 | Motor cables (4-pin to 6-pin)        | 2         | Motor connections                |
 | 18mm spacer                          | 1         | Solenoid / Braille stylus assembly                |
+
+
+## Miscellaneous
+
+### BrailleRAP
+| Item                                 | Quantity  | **Ref** / Note                       |
+| ------------------------------------ | --------- | ------------------------------------ |
+| O-rings                              | 3         | Paper rollers                        |
+| Cable ties 2.5 x 160                 | 10        | Bearing retention & Belt attachment              |
+
+### BrailleRAP XL
+| Item                                 | Quantity  | **Ref** / Note                       |
+| ------------------------------------ | --------- | ------------------------------------ |
+| O-rings                              | 4         | Paper rollers                        |
+| Cable ties 2.5 x 160                 | 10        | Bearing retention & Belt attachment              |
+
+
+
+|                            | Whetstone                            | 1                     | 1                        | Stylus preparation               |
+|                            | Wood glue                            | 1                     | 1                        | Assembly                         |
+|                            | Blue painter's tape                  | 1                     | 1                        | Assembly                         |
+|                            | Clamping pliers                      | 1                     | 1                        | Assembly                         |
 
 
 
