@@ -1,13 +1,9 @@
 # Licence
 
+All original work on BrailleRAP are licensed under CERN Open Hardware License Version 2 - Permissive. This project is based on works from BrailleRAP-SP which are licensed CERN Open Hardware License v 1.2.
 
-Tous les travaux originaux de BrailleRap sont régis par la license d'utilisation CERN Open Hardware Licence Version 2 - Permissive.
-Ce projet est basé sur les travaux préliminaires de BrailleRAP-SP qui sont sous license CERN Open Hardware Licence v1.2.
+We use some open source projects, which have their own license:
 
-Nous utilisons plusieurs projets open source, qui ont leur propre licence :
-
-   #. Le projet "Marlin firmware"  pour le firmware de la carte: https://github.com/MarlinFirmware/Marlin 
-   #. BrailleRap le premier generateur de gcode pour imprimante 3D pour embosser en Braille https://github.com/arthursw/BrailleRap
-   #. NatBraille le transcripteur Braille Open Source http://natbraille.free.fr/
+#. A customized Firmware from “Marlin firmware” project as the firmware for the control board: https://github.com/MarlinFirmware/Marlin
    
-   
+

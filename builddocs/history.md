@@ -41,11 +41,6 @@ Added an additional paper feed roller to allow the use of different media sizes.
 
 In 2023, the project was presented at the international HackadayPrize competition in Pasadena, and won the 5th prize on 7/11/2023. The entire prize amount was dedicated to developing a prototype for using a BrailleRAP from a mobile phone.
 
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 5%; overflow: hidden; max-width: 100%; height: auto;">
-	    <iframe width="560" height="315" src="https://www.youtube.com/embed/afmmY3M2pTo?si=0mn0qBLbHShMuEfu&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
     
 
 ## Intensive workshops and funding

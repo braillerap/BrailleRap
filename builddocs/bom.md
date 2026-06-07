@@ -152,6 +152,32 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | KP08 bearings                        | 2         | **KP08** for Vertical axis           |
 | KFL8 bearings                        | 2         | **KFL8** for Y axis                  |
 
+## Motion Components
+
+### BrailleRAP
+| Item                                 | Quantity  | Ref / Note                       |
+| ------------------------------------ | --------- | ---------------------------------|
+| GT2 belts, ±620mm                    | 2         | **GT2 6mm width** Carriage belts |
+| GT2 belt, 200mm closed               | 1         | **GT2 6mm width closed **Y axis  |
+| GT2 belt tensioning springs          | 3         | Paper hold-down                  |
+
+
+### BrailleRAP XL
+| Item                                 | Quantity  | Ref / Note                       |
+| ------------------------------------ | --------- | ---------------------------------|
+| GT2 belts, ±960mm                    | 2         | **GT2 6mm width** XL bottom carriage           |
+| GT2 belt, 200mm closed               | 1         | **GT2 6mm width closed **Y axis  |
+| GT2 belt tensioning springs          | 4         | Paper hold-down                  |
+
+
+### Common part BrailleRAP / BrailleRAP XL
+| Item                                 | Quantity  | Ref / Note                       |
+| ------------------------------------ | --------- | ---------------------------------|
+| GT2 pulleys, 20 teeth, 5mm bore      | 1         | Y motor                          |
+| GT2 pulleys, 20 teeth, 8mm bore      | 3         | Vertical & Y axis                |
+| GT2 free pulleys, 20 teeth, 3mm bore | 2         | Free pulleys                     |
+| 5x8mm coupler                        | 1         | Motor coupling                   |
+
 
 === =========================================
 Qty Type
