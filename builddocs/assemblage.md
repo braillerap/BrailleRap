@@ -257,7 +257,7 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 **Note:** Verify that the 8mm rods slide easily into their holes, as the hole size may vary depending on the print quality of the plastic parts. If necessary, enlarge the holes with an 8mm drill bit.
 
 <div class="admonition note">
-<p>Verify that the 8mm rods slide easily into their holes, as the hole size may vary depending on the print quality of the plastic parts. If necessary, enlarge the holes with an 8mm drill bit.</p>
+<p>Verify that the 8mm rods slide into their holes, as the hole size may vary depending on the print quality of the plastic parts. If necessary, enlarge the holes with an 8mm drill bit.</p>
 </div>
 
 
