@@ -502,6 +502,12 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
    
    **Note:** (On an older generation 3D printer, **ELECTRO_MAGNET_housing2** is preferred. On a modern, ultra-precise printer, **ELECTRO_MAGNET_Housing2_fit** is preferred. These are the same parts, but the mechanical tolerances are tighter on the **fit** version, allowing for better centering of the solenoid.)
 
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  On an older generation 3D printer, **ELECTRO_MAGNET_housing2** is preferred. On a modern, ultra-precise printer, **ELECTRO_MAGNET_Housing2_fit** is preferred. These are the same parts, but the mechanical tolerances are tighter on the **fit** version, allowing for better centering of the solenoid.
+  </p>
+</div>
 
 
 
