@@ -9,7 +9,7 @@
 - 3mm drill bit
 - Hex keys: 1.5mm, 2mm, 2.5mm, and 4mm
 - Socket wrenches: 5.5mm and 8mm
-- Wood glue
+- Wood glue or appropriate glue for material frame
 - Blue painter's tape
 
 ## Materials list
