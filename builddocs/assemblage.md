@@ -225,7 +225,10 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 2. Glue the lower support to the underside of the upper support.
 
-**Attention:** The 2 parts must be perfectly aligned. Place screws in the holes to properly align the parts. There must not be any gap between the two pieces, or the paper could catch and jam there. Clamp the parts together tightly with the pliers.
+
+<div class="admonition warning">
+<p>The 2 parts must be perfectly aligned. Place screws in the holes to properly align the parts. There must not be any gap between the two pieces, or the paper could catch and jam there. Clamp the parts together tightly with the pliers.</p>
+</div>
 
 <img src="./IMG/paper_support_v8.png" alt="Paper support assembly" width="50%">
 
