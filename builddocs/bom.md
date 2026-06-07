@@ -55,13 +55,13 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | ------------------------------------ | --------------------- | ------------------------ | ---------------------------------|
 | **Linear Components**                |                       |                          |
 | Linear shafts Ø8mm, 100mm            | 1                     | 1                        | Vertical axis                    |
-|                            | Linear shafts Ø8mm, 330mm            | 4                     | -                        | BrailleRAP carriages             |
-|                            | Linear shafts Ø8mm, 364mm            | 1                     | -                        | BrailleRAP Y axis                |
-|                            | Linear shafts Ø8mm, 470mm            | -                     | 4                        | BrailleRAP XL carriages          |
-|                            | Linear shafts Ø8mm, 505mm            | -                     | 1                        | BrailleRAP XL Y axis             |
-|                            | IGUS linear bearings                 | 6                     | 6                        | Carriage bearings                |
-|                            | KP08 bearings                        | 2                     | 2                        | Vertical axis                    |
-|                            | KFL8 bearings                        | 2                     | 2                        | Y axis                           |
+| Linear shafts Ø8mm, 330mm            | 4                     | -                        | BrailleRAP carriages             |
+| Linear shafts Ø8mm, 364mm            | 1                     | -                        | BrailleRAP Y axis                |
+| Linear shafts Ø8mm, 470mm            | -                     | 4                        | BrailleRAP XL carriages          |
+| Linear shafts Ø8mm, 505mm            | -                     | 1                        | BrailleRAP XL Y axis             |
+| IGUS linear bearings                 | 6                     | 6                        | Carriage bearings                |
+| KP08 bearings                        | 2                     | 2                        | Vertical axis                    |
+| KFL8 bearings                        | 2                     | 2                        | Y axis                           |
 | **Motion Components**      |                                      |                       |                          |                                  |
 GT2 belts, ±620mm                    | 2                     | 1                        | Carriage belts                   |
 |                            | GT2 belts, ±960mm                    | -                     | 1                        | XL bottom carriage               |
