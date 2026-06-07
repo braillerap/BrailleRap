@@ -509,7 +509,7 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 **Attention:** Observe the exit side of the wires.
 
-<div class="admonition tip">
+<div class="admonition warning">
   <div class="title">Attention</div>
   <p>Observe the exit side of the wires.</p>
 </div>
