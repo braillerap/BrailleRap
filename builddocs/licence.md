@@ -1,5 +1,5 @@
-Licence
-=======
+# Licence
+
 
 Tous les travaux originaux de BrailleRap sont régis par la license d'utilisation CERN Open Hardware Licence Version 2 - Permissive.
 Ce projet est basé sur les travaux préliminaires de BrailleRAP-SP qui sont sous license CERN Open Hardware Licence v1.2.
