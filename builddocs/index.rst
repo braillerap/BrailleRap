@@ -1,4 +1,4 @@
-Bienvenue sur la documentation BrailleRAP 
+Welcome on BrailleRAP Documentation
 =========================================
 
 .. image :: ./IMG/brailleRAP_couv.jpg 
@@ -7,21 +7,19 @@ Bienvenue sur la documentation BrailleRAP
 
 |
  
-Contenu:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
 
    history
    licence
    bom
    assemblage
-   drivers_mks
    marlin
    firstembossingpage
     
 
-.. index:: history, licence, bom, marlin, assemblage, firstembossingpage
+.. index:: history, licence, bom, assemblage, marlin, firstembossingpage
 
 Mise à jour: |today|
 
