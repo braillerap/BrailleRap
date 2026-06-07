@@ -519,9 +519,9 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 <img src="./IMG/BrailleRAP-V5.19.png" alt="Solenoid mounting" width="50%">
 
 <div class="admonition warning">
-  <div class="title">Note</div>
+  <div class="title">Attention</div>
   <p>
-  Be sure to carefully align the edge of the plastic part with the edge of the solenoid, the solenoid axis **must** be vertical.
+  Be sure to carefully align the edge of the plastic part with the edge of the solenoid, the solenoid plunger **must** be vertical at the end of the assembly.
   </p>
 </div>
 
@@ -542,7 +542,12 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 1. Insert the 2 screws and the 2 washers from the outside. And attach the bracket with 2 NYL nuts without tightening.
 
-**Note:** The gap will then allow to align the motor shaft with the vertical axis.
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+ The gap will then allow to align the motor shaft with the vertical axis.
+  </p>
+</div>
 
 <img src="./IMG/motorx_mount_1.jpg" alt="X motor mounting step 1" width="50%">
 <img src="./IMG/motorx_mount_2.jpg" alt="X motor mounting step 2" width="50%">
@@ -650,13 +655,24 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 - 2 x M3-16 screws
 - 2 x M3-20 screws
 
-**Note:** Select the best-fitting part from ELECTRO_MAGNET_guide_fit_5.8, ELECTRO_MAGNET_guide_fit_5.9, and ELECTRO_MAGNET_guide_fit_6.0. The spacer must slide freely with the least amount of play.
+
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  Select the best-fitting part from **ELECTRO_MAGNET_guide_fit_5.8**, **ELECTRO_MAGNET_guide_fit_5.9**, and **ELECTRO_MAGNET_guide_fit_6.0**. The spacer must slide freely with the least amount of play.
+  </p>
+</div>
 
 **Steps:**
 
 1. Insert the 3 IGUS bearings into the BOTTOM_trolley support. Secure them with cable ties.
 
-**Attention:** Lock the IGUS bearings in the groove. Do not overtighten the cable ties; they will be adjusted when the carriage is in place on the linear rails. Respect the position of the cable ties. The locking of the cable ties must be on the IGUS side and towards the front of the machine.
+<div class="admonition warning">
+  <div class="title">Attention</div>
+  <p>
+  Lock the IGUS bearings in the groove. Do not overtighten the cable ties; they will be adjusted when the carriage is in place on the linear rails. Respect the position of the cable ties. The locking of the cable ties must be on the IGUS side and towards the front of the machine.
+  </p>
+</div>
 
 <img src="./IMG/bottom_trolley_ok_v9.png" alt="Bottom carriage bearing placement" width="50%">
 <img src="./IMG/bottom_trolley_assembly_v1-1.png" alt="Bottom carriage assembly" width="50%">
@@ -665,7 +681,12 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 2. Assemble the solenoid (previously mounted in its housing) under the BOTTOM_trolley and the ELECTRO_MAGNET_guide with two M3-16 screws and two M3 nyloc nuts.
 
-**Attention:** Depending on the print quality, it may be necessary to file the spacer housing. Also, the solenoid body must be as perpendicular as possible to the support plate (the axis must be centered in the hole that allows its passage). The solenoid wires must exit from the side where there is a single IGUS bearing.
+<div class="admonition warning">
+  <div class="title">Attention</div>
+  <p>
+  Depending on the print quality, it may be necessary to file the spacer housing. Also, the solenoid body must be as perpendicular as possible to the support plate (the axis must be centered in the hole that allows its passage). The solenoid wires must exit from the side where there is a single IGUS bearing.
+  </p>
+</div>
 
 <img src="./IMG/BrailleRAP-V5.14-3.png" alt="Solenoid mounting on carriage" width="50%">
 
@@ -678,7 +699,12 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 <img src="./IMG/BrailleRAP-V5.14-5.png" alt="Stylus adjustment" width="50%">
 <img src="./IMG/BrailleRAP-V5.18.png" alt="Final stylus positioning" width="50%">
 
-**Note:** The solenoid plunger must be able to move up and down freely without resistance.
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  The solenoid plunger must be able to move up and down freely without resistance.
+  </p>
+</div>
 
 ## 4.2 Top Trolley Preparation (Step 1)
 
