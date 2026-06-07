@@ -61,7 +61,7 @@ At the same time, we are submitting a funding application to the [**NlNet Founda
 
 
 ## Open Hardware Certification
-After a busy year, including workshops in Congo and Belgium, the creation of the XL model, and many hours dedicated to developing DesktopBrailleRAP and OpenStreetTouch, as well as discussions about the open-source licensing model, we submitted a certification application to [**OSHWA**](www.oshwa.org) at the [**Dinacon**](https://2025.dinacon.org/) conference in the summer of 2025. On July 17, 2025, the application was accepted, and BrailleRAP is now Open Source Hardware certified.
+After a busy year, including workshops in Congo and Belgium, the creation of the XL model, and many hours dedicated to developing DesktopBrailleRAP and OpenStreetTouch, as well as discussions about the open-source licensing model, we submitted a certification application to [**OSHWA**](https://www.oshwa.org) at the [**Dinacon**](https://2025.dinacon.org/) conference in the summer of 2025. On July 17, 2025, the application was accepted, and BrailleRAP is now Open Source Hardware certified.
 
 
- <img src="./IMG/BrailleRAP-cert-oshwa.png" alt="The OSHWA certfication number for the BrailleRAP project" width="80%">
+ ![The OSHWA certfication number for the BrailleRAP project](./IMG/BrailleRAP-cert-oshwa.png)
