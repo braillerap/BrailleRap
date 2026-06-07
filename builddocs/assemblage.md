@@ -114,13 +114,13 @@ When we talk about 'M3' and 'M5', it refers to the diameter in millimeters of th
 
 **M5-18** refers to a hex head bolt (5mm diameter, 18mm length)
 
-<img src="https://braillerap.readthedocs.io/en/latest/_images/vis6pans.jpg" alt="Hex head bolt" width="150">
+![Hex head bolt](./IMG/vis6pans.jpg)
 
 ### Set screws
 
 **M3-12 grub** refers to a grub screw/set screw (3mm diameter, 12mm length)
 
-<img src="https://braillerap.readthedocs.io/en/latest/_images/vissantete.jpg" alt="Grub screw" width="150">
+![Grub screw](./IMG/vissantete.jpg)
 
 ### Nuts
 
