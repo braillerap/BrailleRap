@@ -9,7 +9,7 @@ Welcome on BrailleRAP Documentation
  
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    history
    licence

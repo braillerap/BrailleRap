@@ -62,7 +62,8 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 |                            | IGUS linear bearings                 | 6                     | 6                        | Carriage bearings                |
 |                            | KP08 bearings                        | 2                     | 2                        | Vertical axis                    |
 |                            | KFL8 bearings                        | 2                     | 2                        | Y axis                           |
-| **Motion Components**      | GT2 belts, ±620mm                    | 2                     | 1                        | Carriage belts                   |
+| **Motion Components**      |                                      |                       |                          |                                  |
+GT2 belts, ±620mm                    | 2                     | 1                        | Carriage belts                   |
 |                            | GT2 belts, ±960mm                    | -                     | 1                        | XL bottom carriage               |
 |                            | GT2 belt, 200mm closed               | 1                     | 1                        | Y axis                           |
 |                            | GT2 pulleys, 20 teeth, 5mm bore      | 1                     | 1                        | Y motor                          |
