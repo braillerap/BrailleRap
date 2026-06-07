@@ -51,8 +51,9 @@ Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres ex
 The files for the 3d printer are available here : https://github.com/braillerap/BrailleRap/tree/master/printed_parts
  
 
-| Item                                 | Quantity (BrailleRAP) | Quantity (BrailleRAP XL) | Notes                            |
-| ------------------------------------ | --------------------- | ------------------------ | ---------------------------------|
+| Item                                 | Quantity      | Quantity        | Notes                            |
+|                                      |(BrailleRAP)   | (BrailleRAP XL) |                                  |
+| ------------------------------------ | --------------| --------------- | ---------------------------------|
 | **Linear Components**                |                       |                          |
 | Linear shafts Ø8mm, 100mm            | 1                     | 1                        | Vertical axis                    |
 | Linear shafts Ø8mm, 330mm            | 4                     | -                        | BrailleRAP carriages             |
@@ -62,16 +63,17 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | IGUS linear bearings                 | 6                     | 6                        | Carriage bearings                |
 | KP08 bearings                        | 2                     | 2                        | Vertical axis                    |
 | KFL8 bearings                        | 2                     | 2                        | Y axis                           |
-| **Motion Components**      |                                      |                       |                          |                                  |
-GT2 belts, ±620mm                    | 2                     | 1                        | Carriage belts                   |
-|                            | GT2 belts, ±960mm                    | -                     | 1                        | XL bottom carriage               |
-|                            | GT2 belt, 200mm closed               | 1                     | 1                        | Y axis                           |
-|                            | GT2 pulleys, 20 teeth, 5mm bore      | 1                     | 1                        | Y motor                          |
-|                            | GT2 pulleys, 20 teeth, 8mm bore      | 3                     | 3                        | Vertical & Y axis                |
-|                            | GT2 free pulleys, 20 teeth, 3mm bore | 2                     | 2                        | Free pulleys                     |
-|                            | 5x8mm coupler                        | 1                     | 1                        | Motor coupling                   |
-|                            | GT2 belt tensioning springs          | 3                     | 4                        | Paper hold-down                  |
-| **Electronics**            | Nema 17 stepper motors               | 2                     | 2                        | X & Y motors                     |
+| **Motion Components**                |                       |                          |                                  | 
+| GT2 belts, ±620mm                    | 2                     | -                        | Carriage belts                   |
+| GT2 belts, ±960mm                    | -                     | 2                        | XL bottom carriage               |
+| GT2 belt, 200mm closed               | 1                     | 1                        | Y axis                           |
+| GT2 pulleys, 20 teeth, 5mm bore      | 1                     | 1                        | Y motor                          |
+| GT2 pulleys, 20 teeth, 8mm bore      | 3                     | 3                        | Vertical & Y axis                |
+| GT2 free pulleys, 20 teeth, 3mm bore | 2                     | 2                        | Free pulleys                     |
+| 5x8mm coupler                        | 1                     | 1                        | Motor coupling                   |
+| GT2 belt tensioning springs          | 3                     | 4                        | Paper hold-down                  |
+| **Electronics**                      |                       |                          |                                  |
+| Nema 17 stepper motors               | 2                     | 2                        | X & Y motors                     |
 |                            | Solenoid                             | 1                     | 1                        | Braille stylus                   |
 |                            | Wired limit switches                 | 2                     | 2                        | X & Y endstops                   |
 |                            | MKS GEN 1.4 or GEN-L V2.1 board      | 1                     | 1                        | Controller                       |
