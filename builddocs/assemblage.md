@@ -502,9 +502,6 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
    
    **Note:** (On an older generation 3D printer, **ELECTRO_MAGNET_housing2** is preferred. On a modern, ultra-precise printer, **ELECTRO_MAGNET_Housing2_fit** is preferred. These are the same parts, but the mechanical tolerances are tighter on the **fit** version, allowing for better centering of the solenoid.)
 
-   <div class="admonition tip">
-<p>On an older generation 3D printer, **ELECTRO_MAGNET_housing2** is preferred. On a modern, ultra-precise printer, **ELECTRO_MAGNET_Housing2_fit** is preferred. These are the same parts, but the mechanical tolerances are tighter on the **fit** version, allowing for better centering of the solenoid.</p>
-</div>
 
 2. Secure the solenoid to its support with the 2 M3-8 screws and 2 M3 washers.
 
@@ -514,9 +511,8 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 **Note:** Be sure to carefully align the edge of the plastic part with the edge of the solenoid, the solenoid axis **must** be vertical.
 
-
-
 <img src="./IMG/BrailleRAP-V5.19-1.png" alt="Solenoid alignment" width="50%">
+
 
 
 ## 3.6 Vertical Axis Setup (Step 1)
