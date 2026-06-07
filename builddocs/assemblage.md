@@ -254,8 +254,6 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 - 6 x M3 nuts
 - 6 x M3-12 grub screws
 
-**Note:** Verify that the 8mm rods slide easily into their holes, as the hole size may vary depending on the print quality of the plastic parts. If necessary, enlarge the holes with an 8mm drill bit.
-
 <div class="admonition note">
 <p>Verify that the 8mm rods slide into their holes, as the hole size may vary depending on the print quality of the plastic parts. If necessary, enlarge the holes with an 8mm drill bit.</p>
 </div>
@@ -335,23 +333,29 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 1. Position the clipboard **clipboard2** in relation to the support **clipboard2_support**.
 
-<img src="./IMG/BrailleRAP-V6.113.png" alt="Clipboard positioning" width="50%">
+<img src="./IMG/BrailleRAP-V6.113.png" alt="Clipboard positioning" width="40%">
 
 2. Position the spring between **clipboard2** and **clipboard2_support**.
 
-<img src="./IMG/BrailleRAP-V6.113.1.png" alt="Spring positioning" width="50%">
+<img src="./IMG/BrailleRAP-V6.113.1.png" alt="Spring positioning" width="40%">
 
 3. Assemble the spring with **clipboard2** and **clipboard2_support** with an M3-25 screw and an M3 nyloc nut.
 
 **Note:** Do not tighten the M3 nyloc nut **clipboard2** and **clipboard2_support** must be able to move freely.
+<div class="admonition note">
+<p>Do not tighten the M3 nyloc nut **clipboard2** and **clipboard2_support** must be able to move freely.</p>
+</div>
 
-<img src="./IMG/BrailleRAP-V6.113.2.png" alt="Spring assembly" width="50%">
+<img src="./IMG/BrailleRAP-V6.113.2.png" alt="Spring assembly" width="40%">
 
 4. Assemble roller with **CLIPBOARD2_WHEEL** with **clipboard2** using an M3-20 screw and an M3 nyloc nut.
 
 **Note:** Do not tighten the M3 nyloc nut **CLIPBOARD2_WHEEL** must be able to turn freely.
+<div class="admonition note">
+<p>Do not tighten the M3 nyloc nut **CLIPBOARD2_WHEEL** must be able to turn freely.</p>
+</div>
 
-<img src="./IMG/BrailleRAP-V6.113.3.png" alt="Wheel assembly" width="50%">
+<img src="./IMG/BrailleRAP-V6.113.3.png" alt="Wheel assembly" width="40%">
 
 ---
 
@@ -384,6 +388,9 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 <img src="./IMG/xmotor_support_assembly_v1_3.png" alt="X motor installation" width="50%">
 
 **Note:** Carefully note the position of the motor connector!
+<div class="admonition note">
+<p>Carefully note the position of the motor connector!</p>
+</div>
 
 ## 3.2 Y Motor Preparation
 
@@ -453,6 +460,9 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 <img src="./IMG/endtsopx_assembly.png" alt="X limit switch assembly" width="50%">
 
 **Note:** It's better to use a straight aligned wired endswitch.
+<div class="admonition note">
+<p>It's better to use a straight aligned wired endswitch.</p>
+</div>
 
 <img src="./IMG/endstop_droit.jpg" alt="Straight endstop preferred" width="50%">
 
@@ -492,13 +502,21 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
    
    **Note:** (On an older generation 3D printer, **ELECTRO_MAGNET_housing2** is preferred. On a modern, ultra-precise printer, **ELECTRO_MAGNET_Housing2_fit** is preferred. These are the same parts, but the mechanical tolerances are tighter on the **fit** version, allowing for better centering of the solenoid.)
 
+   <div class="admonition tip">
+<p>On an older generation 3D printer, **ELECTRO_MAGNET_housing2** is preferred. On a modern, ultra-precise printer, **ELECTRO_MAGNET_Housing2_fit** is preferred. These are the same parts, but the mechanical tolerances are tighter on the **fit** version, allowing for better centering of the solenoid.</p>
+</div>
+
 2. Secure the solenoid to its support with the 2 M3-8 screws and 2 M3 washers.
 
 **Attention:** Observe the exit side of the wires.
 
 <img src="./IMG/BrailleRAP-V5.19.png" alt="Solenoid mounting" width="50%">
 
-**Note:** Be sure to carefully align the edge of the plastic part with the edge of the solenoid
+**Note:** Be sure to carefully align the edge of the plastic part with the edge of the solenoid, the solenoid axis **must** be vertical.
+
+<div class="admonition important">
+<p>On an older generation 3D printer, **ELECTRO_MAGNET_housing2** is preferred. On a modern, ultra-precise printer, **ELECTRO_MAGNET_Housing2_fit** is preferred. These are the same parts, but the mechanical tolerances are tighter on the **fit** version, allowing for better centering of the solenoid.</p>
+</div>
 
 <img src="./IMG/BrailleRAP-V5.19-1.png" alt="Solenoid alignment" width="50%">
 
@@ -1008,8 +1026,8 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 **Steps:**
 **Note:** The oblong holes in the printed parts adjust the pressure of the CLIPBOARD on the paper.
 
-<img src="./IMG/BrailleRAP-V6.104.jpg" alt="Clipboard mounting step 1" width="50%">
-<img src="./IMG/BrailleRAP-V6.105.jpg" alt="Clipboard mounting step 2" width="50%">
+<img src="./IMG/BrailleRAP-V6.104.jpg" alt="Clipboard mounting step 1" width="80%">
+<img src="./IMG/BrailleRAP-V6.105.jpg" alt="Clipboard mounting step 2" width="80%">
 
 ## 5.9 Y Limit Switch Assembly
 
@@ -1332,7 +1350,7 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 
 <img src="./IMG/mksgenl_drivers.jpg" alt="MKS GEN-L driver installation" width="50%">
 
-### 12V Power Wiring
+### 12V Power Wiring MKS GEN-L V2.1
 
 **Steps:**
 
@@ -1340,7 +1358,7 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 
 <img src="./IMG/mksgenl_12V.jpg" alt="MKS GEN-L 12V power wiring" width="50%">
 
-### Adjusting motor drivers
+### Adjusting motor drivers MKS GEN-L V2.1
 
 **Steps:**
 **Note:** This step **HAS TO BE** carried out **before** wiring the motors.
@@ -1360,7 +1378,7 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 
 5. Once the voltage measured on each driver is correct, you can proceed to the next step.
 
-### Wiring of limit switches
+### Wiring of limit switches MKS GEN-L V2.1
 
 **Steps:**
 
