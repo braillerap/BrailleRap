@@ -53,61 +53,38 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 
 | Item                                 | Quantity (BrailleRAP) | Quantity (BrailleRAP XL) | Notes                            |
 | ------------------------------------ | --------------------- | ------------------------ | ---------------------------------|
-| **Linear Components**                |                       |                          |
-| Linear shafts Ø8mm, 100mm            | 1                     | 1                        | Vertical axis                    |
-| Linear shafts Ø8mm, 330mm            | 4                     | -                        | BrailleRAP carriages             |
-| Linear shafts Ø8mm, 364mm            | 1                     | -                        | BrailleRAP Y axis                |
-| Linear shafts Ø8mm, 470mm            | -                     | 4                        | BrailleRAP XL carriages          |
-| Linear shafts Ø8mm, 505mm            | -                     | 1                        | BrailleRAP XL Y axis             |
-| IGUS linear bearings                 | 6                     | 6                        | Carriage bearings                |
-| KP08 bearings                        | 2                     | 2                        | Vertical axis                    |
-| KFL8 bearings                        | 2                     | 2                        | Y axis                           |
-| **Motion Components**                |                       |                          |                                  | 
-| GT2 belts, ±620mm                    | 2                     | -                        | Carriage belts                   |
-| GT2 belts, ±960mm                    | -                     | 2                        | XL bottom carriage               |
-| GT2 belt, 200mm closed               | 1                     | 1                        | Y axis                           |
-| GT2 pulleys, 20 teeth, 5mm bore      | 1                     | 1                        | Y motor                          |
-| GT2 pulleys, 20 teeth, 8mm bore      | 3                     | 3                        | Vertical & Y axis                |
-| GT2 free pulleys, 20 teeth, 3mm bore | 2                     | 2                        | Free pulleys                     |
-| 5x8mm coupler                        | 1                     | 1                        | Motor coupling                   |
-| GT2 belt tensioning springs          | 3                     | 4                        | Paper hold-down                  |
-| **Electronics**                      |                       |                          |                                  |
-| Nema 17 stepper motors               | 2                     | 2                        | X & Y motors                     |
-|                            | Solenoid                             | 1                     | 1                        | Braille stylus                   |
-|                            | Wired limit switches                 | 2                     | 2                        | X & Y endstops                   |
-|                            | MKS GEN 1.4 or GEN-L V2.1 board      | 1                     | 1                        | Controller                       |
-|                            | DRV8825 drivers                      | 2                     | 2                        | Motor drivers                    |
-|                            | Jumpers                              | 6                     | 6                        | Driver configuration             |
-|                            | Motor cables (4-pin to 6-pin)        | 2                     | 2                        | Motor connections                |
-|                            | 18mm spacer                          | 1                     | 1                        | Solenoid assembly                |
-| **3D Printed Parts**       | BOTTOM_AXIS_left2                    | 1                     | 1                        | Axis support                     |
-|                            | TOP_AXIS_left2                       | 1                     | 1                        | Axis support                     |
-|                            | TOP_AXIS_right2                      | 1                     | 1                        | Axis support                     |
-|                            | BOTTOM_AXIS_right2                   | 1                     | 1                        | Axis support                     |
-|                            | XMOTOR_support3                      | 1                     | 1                        | X motor mount                    |
-|                            | XMOTOR_support3_1                    | 1                     | 1                        | X motor mount                    |
-|                            | YMOTOR_support2_200 series           | 3                     | 3                        | Y motor mount parts              |
-|                            | SWITCH_X_support                     | 1                     | 1                        | X limit switch                   |
-|                            | ELECTRO_MAGNET_housing2(_fit)        | 1                     | 1                        | Solenoid housing                 |
-|                            | DRIVEN_PULLEY_housing                | 2                     | 2                        | Belt tensioners                  |
-|                            | BOTTOM_trolley                       | 1                     | 1                        | Bottom carriage                  |
-|                            | TOP_trolley                          | 1                     | 1                        | Top carriage                     |
-|                            | FEMALE_shape                         | 1                     | 1                        | Braille die                      |
-|                            | ROLL_joint3                          | 3                     | 4                        | Paper rollers                    |
-|                            | clipboard2_support                   | 3                     | 4                        | Paper hold-down                  |
-|                            | clipboard2                           | 3                     | 4                        | Paper hold-down                  |
-|                            | CLIPBOARD2_WHEEL                     | 3                     | 4                        | Paper hold-down                  |
-|                            | KP08_support                         | 2                     | 2                        | Vertical axis                    |
-|                            | PAPER_GUIDE_left                     | 1                     | -                        | BrailleRAP paper guide           |
-|                            | PAPER_GUIDE_right                    | 1                     | -                        | BrailleRAP paper guide           |
-|                            | paper_guide_left_XL                  | -                     | 1                        | BrailleRAP XL paper guide        |
-|                            | paper_guide_right_XL                 | -                     | 1                        | BrailleRAP XL paper guide        |
-|                            | ENDSTOP_Y_support                    | 1                     | 1                        | Y limit switch                   |
-|                            | ENDSTOP_Y_lever_weight               | 1                     | 1                        | Y limit switch                   |
-|                            | LID_LOCK                             | 2                     | 2                        | Lid clips                        |
-|                            | POWER_plate                          | 1                     | 1                        | Power supply mount               |
-|                            | DOORLOCKER                           | 2                     | 2                        | Rear panel lock                  |
-|                            | ELECTRO_MAGNET_guide_fitxxx          | 1                     | 1                        | Solenoid guide (select best fit) |
+| **3D Printed Parts**                 |                       |                          |                                  |                
+| BOTTOM_AXIS_left2                    | 1                     | 1                        | Axis support                     |
+| TOP_AXIS_left2                       | 1                     | 1                        | Axis support                     |
+| TOP_AXIS_right2                      | 1                     | 1                        | Axis support                     |
+| BOTTOM_AXIS_right2                   | 1                     | 1                        | Axis support                     |
+| XMOTOR_support3                      | 1                     | 1                        | X motor mount                    |
+| XMOTOR_support3_1                    | 1                     | 1                        | X motor mount                    |
+| YMOTOR_support2_200 series           | 3                     | 3                        | Y motor mount parts              |
+| SWITCH_X_support                     | 1                     | 1                        | X limit switch                   |
+| ELECTRO_MAGNET_housing2(_fit)        | 1                     | 1                        | Solenoid housing                 |
+| DRIVEN_PULLEY_housing                | 2                     | 2                        | Belt tensioners                  |
+| BOTTOM_trolley                       | 1                     | 1                        | Bottom carriage                  |
+| TOP_trolley                          | 1                     | 1                        | Top carriage                     |
+| FEMALE_shape                         | 1                     | 1                        | Braille die                      |
+| ROLL_joint3                          | 3                     | 4                        | Paper rollers                    |
+| clipboard2_support                   | 3                     | 4                        | Paper hold-down                  |
+| clipboard2                           | 3                     | 4                        | Paper hold-down                  |
+| CLIPBOARD2_WHEEL                     | 3                     | 4                        | Paper hold-down                  |
+| KP08_support                         | 2                     | 2                        | Vertical axis                    |
+| PAPER_GUIDE_left                     | 1                     | -                        | BrailleRAP paper guide           |
+| PAPER_GUIDE_right                    | 1                     | -                        | BrailleRAP paper guide           |
+| paper_guide_left_XL                  | -                     | 1                        | BrailleRAP XL paper guide        |
+| paper_guide_right_XL                 | -                     | 1                        | BrailleRAP XL paper guide        |
+| ENDSTOP_Y_support                    | 1                     | 1                        | Y limit switch                   |
+| ENDSTOP_Y_lever_weight               | 1                     | 1                        | Y limit switch                   |
+| LID_LOCK                             | 2                     | 2                        | Lid clips                        |
+| POWER_plate                          | 1                     | 1                        | Power supply mount               |
+| DOORLOCKER                           | 2                     | 2                        | Rear panel lock                  |
+| ELECTRO_MAGNET_guide_fitxxx          | 1                     | 1                        | Solenoid guide (select best fit) |
+
+
+
 | **Laser Cut Parts**        | FACE (5mm plywood)                   | 1                     | 1                        | Enclosure                        |
 |                            | BACK (5mm plywood)                   | 1                     | 1                        | Enclosure                        |
 |                            | BOTTOM (5mm plywood)                 | 1                     | 1                        | Enclosure                        |
@@ -117,14 +94,6 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 |                            | Upper paper support                  | 1                     | 1                        | Paper tray                       |
 |                            | Lower paper support                  | 1                     | 1                        | Paper tray                       |
 |                            | Wooden discs (from lid)              | 4                     | 4                        | Door stops                       |
-| **Miscellaneous**          
-| O-rings                              | 3                     | 4                        | Paper rollers                    |
-|                            | Cable ties 2.5 x 160                 | 6                     | 6                        | Bearing retention                |
-|                            | Cable ties                           | 4                     | 4                        | Belt attachment                  |
-|                            | Whetstone                            | 1                     | 1                        | Stylus preparation               |
-|                            | Wood glue                            | 1                     | 1                        | Assembly                         |
-|                            | Blue painter's tape                  | 1                     | 1                        | Assembly                         |
-|                            | Clamping pliers                      | 1                     | 1                        | Assembly                         |
 
 
 
@@ -207,37 +176,21 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 
 
 
+## Notes on Controller board
+
+This documentation explain how to use Arduino MEGA 2560 + RAMPS compatible board. As arduino Mega + Ramps is not recommended due to the overall thickness of the mount, equivalent board from MKS fit well and we provide a firmware for :
+- MKS GEN 1.4 Board (Mega2560) + 2 DRV8825 drivers  https://github.com/makerbase-mks
+- MKS GEN-L (Mega2560) +  2 DRV8825 drivers  https://github.com/makerbase-mks
+
+The firmware is based on Marlin Firmware and can be compiled and upload with Arduino software. The firmware is located in the **MarlinBraille** directory of the BrailleRAP project.
 
 
-
-
-Carte controleur
-----------------
-En fonction de vos souhaits vous pouvez utiliser au choix :
-
-- Une carte MKS GEN 1.4 (Mega2560) et 2 drivers DRV8825 https://github.com/makerbase-mks
-- Une carte MKS GEN-L (Mega2560) et 2 drivers DRV8825 https://github.com/makerbase-mks
+There is also some experiment with the 32 bits board from MKS.
 - Une carte MKS TinyBee (ESP32) et 2 drivers TMC2209 https://github.com/makerbase-mks
 
-D'autres configuration sont possibles, mais vous devrez effectuer la configuration du firmware vous même
+I won't recommend this board unless you are aware of building a Marlin2 firmware with VS-CODE and platform.io. Many dependencies are evolving often with some breaking change. Solving this kind of issue need good C/C++ skill.
 
 
-Electronique
-------------
-
-=== ===========================================================================================
-Qty Type
-=== ===========================================================================================
-2   Moteurs Nema 17 40 N/cm 40mm avec câble (17HS4401).        
-1   Electro-aimant *tau-826b* 12V 2A.
-1   MKS GEN 1.4 ou carte compatible Ramps 1.4 ou MKS GEN L 2.1 https://github.com/makerbase-mks.
-2   drivers DRV8825 avec radiateur.
-1   1N4004  diode de roue libre ou equivalent (12V 2A) (pour MKS GEN 1.4 uniquement).    
-2   Commutateurs fin de course cablés conformément à la documentation. (OMRON `SS-5GL <https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf>`_ ou compatible)
-1   Embase Alimentation jack 2.5mm. 
-1   Alimentation 12v 6A jack 2.5mm.
-
-=== ===========================================================================================
 
 
 
