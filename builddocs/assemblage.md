@@ -286,7 +286,7 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
   - 3 x ROLL_joint3
 - 1 x M3 tap
 - 3 x O-rings
-- 5 x M3-6 grub screws
+- 6 x M3-6 grub screws
 
 **Equipment for BrailleRAP XL:**
 
@@ -1013,17 +1013,29 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 ## 5.6 Paper Guides Assembly
 
-**Equipment:**
+
+**Equipment for BrailleRAP:**
 
 - 3D printed parts:
   - PAPER_GUIDE_left & right (BrailleRAP)
-  - **OR** paper_guide_left_XL & right_XL (BrailleRAP XL)
 - Laser cut parts: 
   - PAPER_support (5mm plywood)
 - 4 x M3-16 screws
 - 4 x M3-14 screws
 - 8 x wide M3 washers
 - 8 x M3 nyloc nuts
+
+**Equipment for BrailleRAP XL:**
+
+- 3D printed parts:
+  - paper_guide_left_XL & right_XL (BrailleRAP XL)
+- Laser cut parts: 
+  - PAPER_support (5mm plywood)
+- 4 x M3-18 screws
+- 4 x M3-16 screws
+- 8 x wide M3 washers
+- 8 x M3 nyloc nuts
+
 
 **Steps:**
 
@@ -1262,6 +1274,7 @@ BrailleRAP XL use parts paper_guide_left_XL and paper_guide_right_XL.
 - 3D printed parts: 2x LID_LOCK
 - 4 x M3-14 screws
 - 4 x M3 nyloc nuts
+- 4 x wide M3 washers
 
 **Steps:**
 
