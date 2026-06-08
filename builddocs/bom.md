@@ -189,7 +189,7 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | Jumpers                              | 6         | Driver configuration             |
 | Motor cables (4-pin to 6-pin)        | 2         | Motor connections                |
 | 18mm spacer                          | 1         | Solenoid / Braille stylus assembly                |
-
+| 1N4004 Free wheel diode              | 1         | For MKS 1.4 only                  |
 
 ## Miscellaneous
 
@@ -202,69 +202,13 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 ### BrailleRAP XL
 | Item                                 | Quantity  | **Ref** / Note                       |
 | ------------------------------------ | --------- | ------------------------------------ |
-| O-rings                              | 4         | Paper rollers                        |
+| O-rings                              | 4         | Paper rollers  ID 15.1 x OD 20.5 x 2.7     |
 | Cable ties 2.5 x 160                 | 10        | Bearing retention & Belt attachment  |
 
 
 
 
-=== =========================================
-Qty Type
-=== =========================================
-4   Rail de guidage linéaire ( diamètre 8mm ) **330 mm** length
-1   Rail de guidage linéaire ( diamètre 8mm ) **365 mm** length
-1   Rail de guidage linéaire ( diamètre 8mm ) **100 mm** length
 
-2   630 mm de courroie GT2
-
-3   Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur (15.1 x 20.5 x 2.7)
-3   Ressorts tendeurs de courroie GT2
-
-...
-=== =========================================
- 
-
-Pour BrailleRAP XL
-<<<<<<<<<<<<<<<<<<
-
-=== =========================================
-Qty Type
-=== =========================================
-4   Rail de guidage linéaire ( diamètre 8mm ) **470 mm** length
-1   Rail de guidage linéaire ( diamètre 8mm ) **505 mm** length
-1   Rail de guidage linéaire ( diamètre 8mm ) **100 mm** length
-
-2   960 mm de courroie GT2
-
-4   Joints torique 15.1 mm diamètre intérieur 20.5 mm de diamètre extérieur (15.1 x 20.5 x 2.7)
-4   Ressorts tendeurs de courroie GT2
-...
-=== =========================================
-
-
-Pièces communes BrailleRAP XL / BrailleRAP
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-=== =========================================
-Qty Type
-=== =========================================
-6   RJ4JP-01-08 palier linéaire Polymer  
-
-3   GT2 poulie 20 dents pour axe 8mm    
-2   GT2 poulie libre 20 dents axe 3mm (avec roulement à billes)
-1   GT2 poulie 20 dents pour axe 5mm
-
-2   KP08  pallier horizontal pour rail linéaire 8mm 
-2   KFL08 pallier vertical pour rail linéaire 8mm 
-
-1   Accouplement d'axe 5mm/8mm
-
-1   Courroie GT2 fermée 200 mm
-
-10	Colliers de serrage 2.5 x 160 mm
-
-...
-=== =========================================
 
 
 Carte controleur
