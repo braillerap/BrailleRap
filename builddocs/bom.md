@@ -197,20 +197,14 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | Item                                 | Quantity  | **Ref** / Note                       |
 | ------------------------------------ | --------- | ------------------------------------ |
 | O-rings                              | 3         | Paper rollers                        |
-| Cable ties 2.5 x 160                 | 10        | Bearing retention & Belt attachment              |
+| Cable ties 2.5 x 160                 | 10        | Bearing retention & Belt attachment  |
 
 ### BrailleRAP XL
 | Item                                 | Quantity  | **Ref** / Note                       |
 | ------------------------------------ | --------- | ------------------------------------ |
 | O-rings                              | 4         | Paper rollers                        |
-| Cable ties 2.5 x 160                 | 10        | Bearing retention & Belt attachment              |
+| Cable ties 2.5 x 160                 | 10        | Bearing retention & Belt attachment  |
 
-
-
-|                            | Whetstone                            | 1                     | 1                        | Stylus preparation               |
-|                            | Wood glue                            | 1                     | 1                        | Assembly                         |
-|                            | Blue painter's tape                  | 1                     | 1                        | Assembly                         |
-|                            | Clamping pliers                      | 1                     | 1                        | Assembly                         |
 
 
 
