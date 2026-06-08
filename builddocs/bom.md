@@ -94,7 +94,7 @@ The files for laser cutter are available here : https://github.com/braillerap/Br
 <div class="admonition tip">
   <div class="title">Note</div>
   <p>
-  Please note that the frame part are different for a BrailleRAP or a BrailleRAP XL
+  Please note that the frame parts are different for a BrailleRAP or a BrailleRAP XL
   </p>
 </div>
 
@@ -190,21 +190,19 @@ The files for laser cutter are available here : https://github.com/braillerap/Br
 
 
 ## Notes on Controller board
-
 This documentation explain how to use Arduino MEGA 2560 + RAMPS compatible board. As arduino Mega + Ramps is not recommended due to the overall thickness of the mount, equivalent board from MKS fit well and we provide a firmware for :
 - MKS GEN 1.4 Board (Mega2560) + 2 DRV8825 drivers  https://github.com/makerbase-mks
-- MKS GEN-L (Mega2560) +  2 DRV8825 drivers  https://github.com/makerbase-mks
+- MKS GEN-L 1.0 or 1.2 Board (Mega2560) +  2 DRV8825 drivers  https://github.com/makerbase-mks
 
 The firmware is based on Marlin Firmware and can be compiled and upload with Arduino software. The firmware is located in the **MarlinBraille** directory of the BrailleRAP project.
 
 
 There is also some experiment with the 32 bits board from MKS.
-- Une carte MKS TinyBee (ESP32) et 2 drivers TMC2209 https://github.com/makerbase-mks
+- MKS TinyBee Board (ESP32) + 2 TMC2209 drivers  https://github.com/makerbase-mks
 
-I won't recommend this board unless you are aware of building a Marlin2 firmware with VS-CODE and platform.io. Many dependencies are evolving often with some breaking change. Solving this kind of issue need good C/C++ skill.
+I won't recommend this board unless you are aware of building a Marlin2 firmware with VS-CODE and platform.io. Many dependencies are evolving often with some breaking change. Solving this kind of issues need good C/C++ skill.
 
 ## Notes on O-Ring
-
 The O-Ring need to stick hard on the 3d printed part so it need some **elasticity**.
 We have the best result with silicone O-Ring, Outer diameter 20mm, inner diameter 15mm, section 3mm.
 You can also use use metric standard nitril 15.1 x 20.5 x 2.7 with success. 
