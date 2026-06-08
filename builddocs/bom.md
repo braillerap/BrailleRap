@@ -150,7 +150,7 @@ The files for laser cutter are available here : https://github.com/braillerap/Br
 ### BrailleRAP XL
 | Item                                 | Quantity  | **Ref** / Note                       |
 | ------------------------------------ | --------- | ---------------------------------|
-| GT2 belts, ±960mm                    | 2         | **GT2 6mm width** XL bottom carriage           |
+| GT2 belts, ±960mm                    | 2         | **GT2 6mm width** XL Carriage belts           |
 | GT2 belt tensioning springs          | 4         | Paper hold-down                  |
 | GT2 belt, 200mm closed               | 1         | **GT2 6mm width closed** Y axis  |
 | GT2 pulleys, 20 teeth, 5mm bore      | 1         | Y motor                          |
@@ -203,7 +203,10 @@ There is also some experiment with the 32 bits board from MKS.
 
 I won't recommend this board unless you are aware of building a Marlin2 firmware with VS-CODE and platform.io. Many dependencies are evolving often with some breaking change. Solving this kind of issue need good C/C++ skill.
 
+## Notes on O-Ring
 
-
+The O-Ring need to stick hard on the 3d printed part so it need some **elasticity**.
+We have the best result with silicone O-Ring, Outer diameter 20mm, inner diameter 15mm, section 3mm.
+You can also use use metric standard nitril 15.1 x 20.5 x 2.7 with success. 
 
 
