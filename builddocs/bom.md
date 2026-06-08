@@ -45,8 +45,9 @@ The file for the laser cutter are available here : https://github.com/BrailleRap
 
 
 ## Printed parts
-----------------
-Toutes les pièces sont imprimées en ABS, 50% de remplissage, 3 périmètres extérieurs. Nous utilisons le filament eSun ABS Natural.
+All part are printed in ABS or PETG. 
+- For ABS use 50% filling 3 permiters
+- For PETG use 40% filling 6 perimeters
 
 The files for the 3d printer are available here : https://github.com/braillerap/BrailleRap/tree/master/printed_parts
  
@@ -84,18 +85,30 @@ The files for the 3d printer are available here : https://github.com/braillerap/
 | ELECTRO_MAGNET_guide_fitxxx          | 1                     | 1                        | Solenoid guide (select best fit) |
 
 
+## Laser Cut Parts
+For years we used 5mm plywood to build BrailleRAP frame, and it work well. Since a few years, we started to use 5mm PMMA. The aesthetic is better, and i assume PMMA is not sensible to moist or temperature.
 
-| **Laser Cut Parts**        | FACE (5mm plywood)                   | 1                     | 1                        | Enclosure                        |
-|                            | BACK (5mm plywood)                   | 1                     | 1                        | Enclosure                        |
-|                            | BOTTOM (5mm plywood)                 | 1                     | 1                        | Enclosure                        |
-|                            | LEFT_SIDE (5mm plywood)              | 1                     | 1                        | Enclosure                        |
-|                            | RIGHT_SIDE (5mm plywood)             | 1                     | 1                        | Enclosure                        |
-|                            | PAPER_support (5mm plywood)          | 1                     | 1                        | Paper tray                       |
-|                            | Upper paper support                  | 1                     | 1                        | Paper tray                       |
-|                            | Lower paper support                  | 1                     | 1                        | Paper tray                       |
-|                            | Wooden discs (from lid)              | 4                     | 4                        | Door stops                       |
+The files for laser cutter are available here : https://github.com/braillerap/BrailleRap/tree/master/lasercut
 
 
+<div class="admonition tip">
+  <div class="title">Note</div>
+  <p>
+  Please note that the frame part are different for a BrailleRAP or a BrailleRAP XL
+  </p>
+</div>
+
+| Item                                 | Quantity (BrailleRAP) | Quantity (BrailleRAP XL) | Notes                            |
+| ------------------------------------ | --------------------- | ------------------------ | ---------------------------------|
+| FACE (5mm)                           | 1                     | 1                        | Enclosure                        |
+| BACK (5mm)                           | 1                     | 1                        | Enclosure                        |
+| BOTTOM (5mm)                         | 1                     | 1                        | Enclosure                        |
+| LEFT_SIDE (5mm)                      | 1                     | 1                        | Enclosure                        |
+| RIGHT_SIDE (5mm)                     | 1                     | 1                        | Enclosure                        |
+| PAPER_support (5mm)                  | 1                     | 1                        | Paper tray                       |
+| Upper paper support                  | 1                     | 1                        | Paper tray                       |
+| Lower paper support                  | 1                     | 1                        | Paper tray                       |
+| Wooden discs (from lid)              | 4                     | 4                        | Door stops                       |
 
 
 ## Linear Components
