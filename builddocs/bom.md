@@ -194,7 +194,7 @@ This documentation explain how to use Arduino MEGA 2560 + RAMPS compatible board
 - MKS GEN 1.4 Board (Mega2560) + 2 DRV8825 drivers  https://github.com/makerbase-mks
 - MKS GEN-L 1.0 or 1.2 Board (Mega2560) +  2 DRV8825 drivers  https://github.com/makerbase-mks
 
-The firmware is based on Marlin Firmware and can be compiled and upload with Arduino software. The firmware is located in the **MarlinBraille** directory of the BrailleRAP project.
+The firmware is based on Marlin Firmware and can be compiled and uploaded with Arduino software. The firmware is located in the **MarlinBraille** directory of the BrailleRAP project.
 
 
 There is also some experiment with the 32 bits board from MKS.
