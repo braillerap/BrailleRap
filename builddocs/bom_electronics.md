@@ -1,4 +1,4 @@
-## Electronics
+## Bill of Material - Electronics
 
 ### BrailleRAP and BrailleRAP XL
 | Item                                 | Quantity  | **Ref** / Note                       |
@@ -13,7 +13,7 @@
 | 18mm spacer                          | 1         | Solenoid / Braille stylus assembly                |
 | 1N4004 Free wheel diode              | 1         | For MKS 1.4 only                  |
 
-## Miscellaneous
+## Bill of Material - Miscellaneous
 
 ### BrailleRAP
 | Item                                 | Quantity  | **Ref** / Note                       |

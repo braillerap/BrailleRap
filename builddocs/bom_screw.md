@@ -1,4 +1,4 @@
-## Screws
+## Bill of Material - Screws
 
 | Category                   | Item                                 | Quantity (BrailleRAP) | Quantity (BrailleRAP XL) | Notes                            |
 | -------------------------- | ------------------------------------ | --------------------- | ------------------------ | -------------------------------- |
