@@ -14,6 +14,8 @@ Welcome on BrailleRAP Documentation
    history
    licence
    bom
+   bom_screw
+   bom_electronics
    assemblage
    firmware_for_mks
    marlin
