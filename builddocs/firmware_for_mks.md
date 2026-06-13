@@ -15,12 +15,13 @@ It’s a good idea to upload the firmware on the controller before setting it up
 ## Uploading firmware  
 
 ### Setup Arduino environment 
-Plug the controller board with the USB cable on your laptop.   
+ Plug the controller board with the USB cable on your laptop.   
  Open the file MarlinBraille.ino in **MarlinBraille** directory with the arduino environment.  
    
    <img src="./IMG/firmware_open.jpg" alt="A screenshot of  the open file dialog box in Arduino environment" width="60%">
    <img src="./IMG/firmware_opened.jpg" alt="A screenshot of  the open file dialog box in Arduino environment" width="60%">
       
+
  Select  Arduino Mega 2560 in menu **Tools/Board**  
       <img src="./IMG/firmware_selectmega.jpg" alt="A screenshot of the board selection menu" width="60%">
 
@@ -28,17 +29,19 @@ Plug the controller board with the USB cable on your laptop.
       <img src="./IMG/firmware_port.jpg" alt="A screenshot of the communication port selection menu" width="60%">
       <img src="./IMG/firmware_portselected.jpg" alt="A screenshot of the communication port selected in menu" width="60%">
    
+
  You can check the connexion by using the menu Tools/ Get board info  
       <img src="./IMG/firmware_boardinfo.jpg" alt="A screenshot of the board selection menu" width="60%">
    
    
  Arduino environment should display a dialog box like this   
+
    
 ### Uploading firmware  
-
  You can now use the menu Sketch/upload  
-   <img src="./IMG/firmware_boardinfo.jpg" alt="A screenshot of the board selection menu" width="60%">
+   <img src="./IMG/firmware_upload.jpg" alt="A screenshot of the board selection menu" width="60%">
    
+
  The Arduino software will now take a few minutes to compile the firmware and upload it to the controller board  
    
    
