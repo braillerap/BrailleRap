@@ -1,4 +1,4 @@
-# Uploading firmware  (MKS 1.4 ou MKS GEN L 2.1)  
+# Uploading firmware  (MKS 1.4 or MKS GEN L 2.1)  
 
 This setup can be applied on all Arduino 2560 + RAMPS compatible board. ie :
 - Arduino Mega 2560 + RAMPS 1.3
@@ -35,7 +35,7 @@ You may choose to upload the firmware on the controller before setting it up in 
    
    
  Arduino environment should display a dialog box like this   
-
+      <img src="./IMG/firmware_boardinfobow.jpg" alt="A screenshot of the board info dialog box" width="60%">
    
 ### Uploading firmware  
  You can now use the menu Sketch/upload  
@@ -46,8 +46,8 @@ You may choose to upload the firmware on the controller before setting it up in 
    
    
  At the end check if there is no error message  
+   <img src="./IMG/firmware_upload_ok.jpg" alt="A screenshot Arduino environment at the end of firmware uploading" width="60%">
    
-   
- The board is now ready to use with your BrailleRAP  
+ The board is now ready to use with your BrailleRAP.  
    
  
