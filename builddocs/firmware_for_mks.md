@@ -9,7 +9,7 @@ This setup can be applied on all Arduino 2560 + RAMPS compatible board. ie :
 You can find the controller firmware source code in **MarlinBraille** directory of [github BrailleRAP project](https://github.com/braillerap/BrailleRap/tree/master/MarlinBraille)  
  
    
-It’s a good idea to upload the firmware on the controller before setting it up in the BrailleRAP. It will be easier to complete the wiring and first tests.  
+You may choose to upload the firmware on the controller before setting it up in the BrailleRAP. It will be easier to complete the wiring and first tests.  
    
 
 ## Uploading firmware  
