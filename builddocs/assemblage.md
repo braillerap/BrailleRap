@@ -9,10 +9,10 @@
 - 3mm drill bit.
 - Hex keys: 1.5mm, 2mm, 2.5mm, and 4mm.
 - Socket wrenches: 5.5mm and 8mm.
-- Wood glue or appropriate glue for choosen material.
+- Wood glue or appropriate glue for chosen material.
 - Painter's tape (the blue one is top).
 - Clamping pliers.
-- A Whetstone for Braille stylus manufactoring.
+- A Whetstone for Braille stylus manufacturing.
 - A multimeter for driver setup.
 
 
