@@ -15,11 +15,12 @@ Welcome on BrailleRAP Documentation
    licence
    bom
    assemblage
+   firmware_for_mks
    marlin
    firstembossingpage
     
 
-.. index:: history, licence,bom,assemblage,marlin,firstembossingpage
+.. index:: history, licence,bom,assemblage,marlin,firmware_for_mks,firstembossingpage
 
 Mise à jour: |today|
 
