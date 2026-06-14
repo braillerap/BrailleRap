@@ -8,11 +8,11 @@ GCODE is a common standard, you will find here some details about GCODE usage in
 ## Homing
 Before we can start moving the 2 carriages, we need to find a reference position. The reference position (0,0) need to be at the top left corner of the sheet.
 
-`G28 X` Homing X axis
+`G28 X` Homing X axis.
 `G28 Y` Homing Y axis. BrailleRAP will use the paper sensor to find the top edge of the sheet.
 
 
 ## Make a dot
 
-`M3 S1' Activate the solenoid
-`M3 S0' Deactivate the solenoid
+`M3 S1` Activate the solenoid.
+`M3 S0` Deactivate the solenoid.
