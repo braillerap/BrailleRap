@@ -11,8 +11,31 @@ Before we can start moving the 2 carriages, we need to find a reference position
 `G28 X` Homing X axis.\
 `G28 Y` Homing Y axis. BrailleRAP will use the paper sensor to find the top edge of the sheet.\
 
+## Get limit status
+`M119` Read the limit switches status
+
+`> M119\
+x_min: open\
+y_min: open\
+z_min: TRIGGERED\
+`
+
+## Move to
+`G1 Xxx.xx Yyy.yy` Where xx.xx is the X position in mm and yy.yy is the Y position in mm.
+
+
+## Set speed
+`G1 Fxxxxx` Where xxxxx is the speed in mm/mn
+
 
 ## Make a dot
 
 `M3 S1` Activate the solenoid.\
 `M3 S0` Deactivate the solenoid.\
+
+<div class="admonition warning">
+  <div class="title">Attention</div>
+  <p>
+  Note that you can't activate the solenoid while moving.
+  </p>
+</div>
