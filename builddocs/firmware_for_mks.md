@@ -1,4 +1,4 @@
-# Uploading firmware  (MKS 1.4 or MKS GEN L 2.1)  
+# 8 Uploading firmware  (MKS 1.4 or MKS GEN L 2.1)  
 
 This setup can be applied on all Arduino 2560 + RAMPS compatible board. ie :
 - Arduino Mega 2560 + RAMPS 1.3
@@ -12,9 +12,7 @@ You can find the controller firmware source code in **MarlinBraille** directory 
 You may choose to upload the firmware on the controller before setting it up in the BrailleRAP. It will be easier to complete the wiring and first tests.  
    
 
-## Uploading firmware  
-
-### Setup Arduino environment 
+## 8.1 Setup Arduino environment 
  Plug the controller board with the USB cable on your laptop.   
  Open the file MarlinBraille.ino in **MarlinBraille** directory with the arduino environment.  
    
@@ -37,7 +35,7 @@ You may choose to upload the firmware on the controller before setting it up in 
  Arduino environment should display a dialog box like this   
       <img src="./IMG/firmware_boardinfobox.jpg" alt="A screenshot of the board info dialog box" width="40%">
    
-### Uploading firmware  
+## 8.2 Uploading firmware  
  You can now use the menu Sketch/upload  
    <img src="./IMG/firmware_upload.jpg" alt="A screenshot of the board selection menu" width="60%">
    
