@@ -154,6 +154,9 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 
 <img src="./IMG/BrailleRAP-V5.56.jpg" alt="Braille stylus preparation" width="50%">
 
+Here is an example of a good Braille stylus
+<img src="./IMG/braille_stylus.jpg" alt="Braille stylus example" width="80%">
+
 ## 2.3 Axis Supports Preparation
 
 **Equipment:**
@@ -769,10 +772,10 @@ BrailleRAP now exists in 2 different models: **BrailleRAP** and **BrailleRAP XL*
 **Equipment:**
 
 - 3D printed parts: 2x KP08_support
-- 2x KP08 bearings
-- 4x M5-25 screws
-- 4x M5 washers
-- 4x M5 nyloc nuts
+- 2 x KP08 bearings
+- 4 x M5-25 screws
+- 4 x M5 washers
+- 4 x M5 nyloc nuts
 
 **Steps:**
 

@@ -10,10 +10,10 @@ def get_screw(input_text):
     
     
 
-    pattern = re.compile(r"(\d).x.([Mm]\d-[A-Za-z0-9]+).([A-Za-z]+).([A-Za-z]+)", re.IGNORECASE)
+    pattern = re.compile(r"(\d).x.([Mm]\d-[A-Za-z0-9]+).([A-Za-z ]+)\n", re.IGNORECASE)
     res = pattern.search(input_text)
     
-    print ("match",":", res, input_text)
+    
     if res:
         print (res.groups())
 
