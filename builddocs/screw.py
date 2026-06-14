@@ -4,16 +4,18 @@ import re
 EQUIPMENT_STRING = "**Equipment:**"
 BRAILLERAP_STRING = "Equipment for BrailleRAP:"
 BRAILLERAPXL_STRING = "Equipment for BrailleRAP XL:"
-SCREW_STRING = "screws"
+SCREW_STRING = "screw"
 
-def extract_screw(input_text):
+def get_screw(input_text):
     
-    print ("try to get screw:", input_text)
+    
 
-    pattern = re.compile(r"- \dx M[0-9]-[A-Za-z0-9]+ screws", re.IGNORECASE)
-    res = pattern.match(input_text)
+    pattern = re.compile(r"(\d).x.([Mm]\d-[A-Za-z0-9]+).([A-Za-z]+).([A-Za-z]+)", re.IGNORECASE)
+    res = pattern.search(input_text)
     
-    print (input_text, res)
+    print ("match",":", res, input_text)
+    if res:
+        print (res.groups())
 
     return res
 
@@ -36,8 +38,8 @@ def extract_screw (lines):
         if l.find (SCREW_STRING) != -1:
         # extract screw ref and quantity
             
-            s = extract_screw(l)
-            print (l, s)
+            s = get_screw(l)
+            
 
 def main ():
     
