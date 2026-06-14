@@ -14,7 +14,8 @@ Before we can start moving the 2 carriages, we need to find a reference position
 ## Get limit status
 `M119` Read the limit switches status
 
-```> M119
+```
+> M119
 x_min: open
 y_min: TRIGERRED
 z_min: open
