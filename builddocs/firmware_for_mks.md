@@ -35,7 +35,7 @@ You may choose to upload the firmware on the controller before setting it up in 
    
    
  Arduino environment should display a dialog box like this   
-      <img src="./IMG/firmware_boardinfobow.jpg" alt="A screenshot of the board info dialog box" width="60%">
+      <img src="./IMG/firmware_boardinfobox.jpg" alt="A screenshot of the board info dialog box" width="60%">
    
 ### Uploading firmware  
  You can now use the menu Sketch/upload  
