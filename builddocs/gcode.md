@@ -14,18 +14,18 @@ Before we can start moving the 2 carriages, we need to find a reference position
 ## Get limit status
 `M119` Read the limit switches status
 
-`> M119\
-x_min: open\
-y_min: open\
-z_min: TRIGGERED\
+`> M119
+x_min: open
+y_min: open
+z_min: TRIGGERED
 `
 
 ## Move to
-`G1 Xxx.xx Yyy.yy` Where xx.xx is the X position in mm and yy.yy is the Y position in mm.
+`G1 Xxx.xx Yyy.yy` Where **xx.xx** is the X position in **mm** and **yy.yy** is the Y position in **mm**.
 
 
 ## Set speed
-`G1 Fxxxxx` Where xxxxx is the speed in mm/mn
+`G1 Fxxxxx` Where **xxxxx** is the speed in **mm/mn**
 
 
 ## Make a dot
