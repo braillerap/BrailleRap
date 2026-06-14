@@ -9,7 +9,7 @@ Welcome on BrailleRAP Documentation
  
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    history
    licence
@@ -18,11 +18,11 @@ Welcome on BrailleRAP Documentation
    bom_electronics
    assemblage
    firmware_for_mks
-   marlin
    firstembossingpage
+   gcode
     
 
-.. index:: history, licence,bom,assemblage,marlin,firmware_for_mks,firstembossingpage
+.. index:: history, licence,bom,bom_screw, bom_electronics, assemblage,firmware_for_mks,firstembossingpage,gcode
 
 Mise à jour: |today|
 
